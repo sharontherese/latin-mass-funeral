@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: Label1
+pages:
+- config/_default/content/Home.md
