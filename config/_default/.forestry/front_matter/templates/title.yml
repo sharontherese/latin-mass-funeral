@@ -1,4 +1,13 @@
 ---
 label: Title
 hide_body: false
-fields: []
+fields:
+- name: name1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Label1
