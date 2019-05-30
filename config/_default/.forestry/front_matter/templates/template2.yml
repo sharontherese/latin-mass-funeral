@@ -25,3 +25,5 @@ fields:
   config:
     required: false
   label: text area
+pages:
+- config/_default/content/walkthrough.md
