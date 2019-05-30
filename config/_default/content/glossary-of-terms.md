@@ -43,6 +43,8 @@ Latin for _forbidden time_. In this context, it refers to the (usually penitenti
 
 A Mass offered for a special intention, such as a Mass for kings, bishops, martyrs, a new church, the sick, or marriages. The votive Mass for marriages is called _Missa pro sponso et sponsa_ (Mass for the groom and the bride). 
 
+Rituale Romanum
+
 Sources  
 Ritual of Marriage  
 [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm")
