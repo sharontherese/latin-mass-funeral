@@ -1,6 +1,6 @@
 +++
 draft = true
-text = ""
+text = "Texts of the Rite of Marriage and the Mass"
 title = "Texts"
 toggle = false
 
@@ -13,7 +13,7 @@ The Latin Mass wedding mass (one of many _votive Masses_) is called _Missa pro s
 
 # The Rite of Marriage
 
-(from Sancta Missa's Roman Missal, with a few edits)
+Note: Some of the marriage texts were not codified until the Council of Trent. Because of that, and of the Church's historical support for local customs, there may be a good deal of variation with the particular wording for the Rite of Marriage. The text for the Rite of Marriage below is directly from the _Rituale Romanum_, a \[definition\]. 
 
 ## Part 1: The Homily
 
