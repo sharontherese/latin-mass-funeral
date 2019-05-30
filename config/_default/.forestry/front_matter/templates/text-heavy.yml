@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: text
+pages:
+- config/_default/content/faqs.md
