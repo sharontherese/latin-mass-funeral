@@ -124,3 +124,5 @@ O God, who, by the power of thy might, didst create all things out of nothing: w
 May the God of Abraham, the God of Isaac, and the God of Jacob be with you: and may he fulfill his blessing in you; that you may see your children's children to the third and fourth generation: and afterwards enter into the possession of eternal life, through the assistance of our Lord Jesus Christ, who with the Father and the Holy Ghost, liveth, &c. 
 
 R. Amen. 
+
+From: [https://archive.org/details/a550137400unknuoft/page/n717](https://archive.org/details/a550137400unknuoft/page/n717 "https://archive.org/details/a550137400unknuoft/page/n717")
