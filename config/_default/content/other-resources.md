@@ -2,6 +2,7 @@
 draft = true
 text = ""
 title = "Other resources"
+toggle = false
 
 +++
 Our wedding program
@@ -55,3 +56,5 @@ _Taking Charge of your own fertility_
 [https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html")
 
 [https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html")
+
+[https://musicasacra.com/about-cmaa/faq/](https://musicasacra.com/about-cmaa/faq/ "https://musicasacra.com/about-cmaa/faq/")
