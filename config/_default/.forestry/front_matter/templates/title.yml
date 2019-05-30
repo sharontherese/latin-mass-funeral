@@ -10,6 +10,6 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Label1
+  label: Generic page
 pages:
 - config/_default/content/Home.md
