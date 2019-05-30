@@ -58,3 +58,5 @@ _Taking Charge of your own fertility_
 [https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html")
 
 [https://musicasacra.com/about-cmaa/faq/](https://musicasacra.com/about-cmaa/faq/ "https://musicasacra.com/about-cmaa/faq/")
+
+[https://www.giamusic.com/sacred_music/chant_what_is.cfm](https://www.giamusic.com/sacred_music/chant_what_is.cfm "https://www.giamusic.com/sacred_music/chant_what_is.cfm")
