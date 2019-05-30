@@ -17,11 +17,11 @@ The TLM wedding mass (one of many _votive Masses_) is called _Missa pro sponso e
 
 # The Rite of Marriage
 
-(from Sancta Missa's Roman Missal, with a few edits) 
+(from Sancta Missa's Roman Missal, with a few edits)
 
 ## Part 1: The Homily
 
-text
+After the priest(s) and the bride process in to the church, all are seated as the priest gives his homily.
 
 ## Part 2: The Exchange of Vows
 
