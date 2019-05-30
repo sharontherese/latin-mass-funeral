@@ -39,6 +39,8 @@ Quotations about love
 
 [http://www.spokenbride.com/blog/2017/5/31/wedding-mass-program](http://www.spokenbride.com/blog/2017/5/31/wedding-mass-program "http://www.spokenbride.com/blog/2017/5/31/wedding-mass-program")
 
+[https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/")
+
 # Traditional Catholicism
 
 [https://www.fisheaters.com/traditionalcatholicism.html](https://www.fisheaters.com/traditionalcatholicism.html "https://www.fisheaters.com/traditionalcatholicism.html")
@@ -57,7 +59,7 @@ _From Sacrament to Contract_, by John Witte Jr. \[Chapters 1-4\]
 
 [https://sermonry.com/](https://sermonry.com/ "https://sermonry.com/")
 
-Low Mass, Sung Mass, High Mass, Solemn Mass.   
+Low Mass, Sung Mass, High Mass, Solemn Mass.  
 [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf")
 
 Marriage Ceremonies during the forbidden time, American Ecclesiastical Review, Volume 22  
