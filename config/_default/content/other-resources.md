@@ -13,6 +13,12 @@ _Three to Get Married_, by Fulton Sheen
 
 [https://fatherjerabek.com/2019/05/23/the-marital-debt/](https://fatherjerabek.com/2019/05/23/the-marital-debt/ "https://fatherjerabek.com/2019/05/23/the-marital-debt/")
 
+\+ basic catechesis on definition of marriage
+
+\+ NFP; Allay 
+
+\+ diocesan wedding prep, pre-Cana
+
 # Mass Programs
 
 [https://drive.google.com/open?id=1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw](https://drive.google.com/open?id=1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw "https://drive.google.com/open?id=1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw")
