@@ -1,7 +1,8 @@
 +++
 draft = true
 text = ""
-title = "Glossary of terms"
+title = "Glossary"
+toggle = false
 
 +++
 Latin Mass
@@ -15,3 +16,5 @@ Gregorian chant
 Polyphony
 
 Tempus clausum
+
+Rite
