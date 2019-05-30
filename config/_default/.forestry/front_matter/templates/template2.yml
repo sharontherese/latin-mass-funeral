@@ -1,4 +1,22 @@
 ---
 label: Template2
 hide_body: false
-fields: []
+fields:
+- name: text_heavy
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text heavy
+- name: media1
+  type: file
+  config:
+    maxSize: 250
+  label: media1
+- name: gallery1
+  type: image_gallery
+  config: {}
+  label: gallery1
