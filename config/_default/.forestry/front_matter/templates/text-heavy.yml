@@ -16,6 +16,9 @@ fields:
     schema:
       format: markdown
   label: text
+- name: toggle
+  type: boolean
+  label: toggle
 pages:
 - config/_default/content/texts.md
 - config/_default/content/rubrics.md
