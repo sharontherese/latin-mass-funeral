@@ -24,4 +24,5 @@ pages:
 - config/_default/content/other-resources.md
 - config/_default/content/rubrics.md
 - config/_default/content/faqs.md
+- config/_default/content/commentaries.md
 - config/_default/content/glossary-of-terms.md
