@@ -21,7 +21,7 @@ _Three to Get Married_, by Fulton Sheen
 
 \+ basic catechesis on definition of marriage
 
-\+ NFP; Allay 
+\+ NFP; Allay
 
 \+ diocesan wedding prep, pre-Cana
 
@@ -33,23 +33,13 @@ _Three to Get Married_, by Fulton Sheen
 
 [http://www.spokenbride.com/blog/2017/5/31/wedding-mass-program](http://www.spokenbride.com/blog/2017/5/31/wedding-mass-program "http://www.spokenbride.com/blog/2017/5/31/wedding-mass-program")
 
-# Other
+# Traditional Catholicism
 
 [https://www.fisheaters.com/traditionalcatholicism.html](https://www.fisheaters.com/traditionalcatholicism.html "https://www.fisheaters.com/traditionalcatholicism.html")
 
 [https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html](https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html "https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html")
 
 [http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/](http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/ "http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/")
-
-[https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf")
-
-[https://archive.org/details/theparishpriesto00heusuoft/page/130](https://archive.org/details/theparishpriesto00heusuoft/page/130 "https://archive.org/details/theparishpriesto00heusuoft/page/130")
-
-[https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing](https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing "https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing")
-
-[https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false](https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false "https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false")
-
-[https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false](https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false "https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false")
 
 # Liturgy
 
@@ -68,3 +58,13 @@ _From Sacrament to Contract_, by John Witte Jr. \[Chapters 1-4\]
 [https://musicasacra.com/about-cmaa/faq/](https://musicasacra.com/about-cmaa/faq/ "https://musicasacra.com/about-cmaa/faq/")
 
 [https://www.giamusic.com/sacred_music/chant_what_is.cfm](https://www.giamusic.com/sacred_music/chant_what_is.cfm "https://www.giamusic.com/sacred_music/chant_what_is.cfm")
+
+[https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf")
+
+[https://archive.org/details/theparishpriesto00heusuoft/page/130](https://archive.org/details/theparishpriesto00heusuoft/page/130 "https://archive.org/details/theparishpriesto00heusuoft/page/130")
+
+[https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing](https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing "https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing")
+
+[https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false](https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false "https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false")
+
+[https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false](https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false "https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false")
