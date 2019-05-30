@@ -27,3 +27,4 @@ fields:
   label: text area
 pages:
 - config/_default/content/walkthrough.md
+- config/_default/content/customs.md
