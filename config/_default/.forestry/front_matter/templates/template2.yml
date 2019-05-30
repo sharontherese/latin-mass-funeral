@@ -20,3 +20,8 @@ fields:
   type: image_gallery
   config: {}
   label: gallery1
+- name: text_area
+  type: text
+  config:
+    required: false
+  label: text area
