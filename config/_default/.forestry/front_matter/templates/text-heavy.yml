@@ -18,3 +18,4 @@ fields:
   label: text
 pages:
 - config/_default/content/faqs.md
+- config/_default/content/texts.md
