@@ -2,6 +2,7 @@
 draft = true
 text = ""
 title = "FAQs"
+toggle = false
 
 +++
 **I want a TLM wedding! What do I do?**
@@ -10,11 +11,11 @@ Great! The most important thing you’ll need is a priest familiar with the TLM 
 
 **What’s different with a Latin Mass wedding?**
 
-The big things that are different are the language, and the order of events. The language is in Latin, the official language of the Catholic Church. 
+The big things that are different are the language, and the order of events. The language is in Latin, the official language of the Catholic Church.
 
 In most Christian ceremonies, the actual wedding - the nuptial service - happens in the middle of the mass. In the Latin Mass, the nuptial service happens at the beginning, and is followed by the mass, uninterrupted.
 
-**What can I customize with the wedding mass?**   
+**What can I customize with the wedding mass?**  
 Not much, really. The _propers_ (texts of the Mass, including the readings) are set, unlike a _Novus Ordo_ wedding. You can choose some of the music, to an extent, and how the music is sung (like _chant_ or _polyphony_). You may be able choose what kind of Latin Mass you’ll have, although this may depend entirely on the resources available to you and your church.
 
 Low Mass = nothing is sung; 1 priest  
@@ -23,9 +24,9 @@ Solemn High Mass = things are sung; 3 priests (priest, deacon, and subdeacon)
 
 So, the first question to ask yourself is
 
-1) what can I do, realistically? Then,  
-2) Do I want a mass without music or with music?  
-3) If I want a mass with music, do I want a high mass or a solemn high?
+1. what can I do, realistically? Then,
+2. Do I want a mass without music or with music?
+3. If I want a mass with music, do I want a high mass or a solemn high?
 
 A solemn high would require 3 priests, familiar with or open to learning the TLM wedding.
 
@@ -41,6 +42,12 @@ Check out the Music page for more information! Generally speaking, the best musi
 
 Realistically, though, this will depend on the resources available to you. Be in touch with your church’s music director to see what is feasible.
 
-**You’re using words that I don’t recognize.** 
+**You’re using words that I don’t recognize.**
 
 I made a Glossary page here.
+
+**How can I help my wedding guests understand what's happening?** 
+
+Check out the Other Resources page, which includes links to introductory content on the both Latin Masses and Latin Mass weddings. I have also linked to several examples of Latin Mass wedding programs, including my own that has a page explaining the what and why of a Latin Mass wedding. You are free to reuse my wedding program content! 
+
+Biretta Books offers a Latin-English booklet for Latin Mass weddings: [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/"). For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.
