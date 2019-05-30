@@ -19,11 +19,17 @@ The texts of the Mass that change based on the day or feast; namely, the Introit
 
 **Ordinaries**
 
-The texts of the Mass that do not change; namely, the Kyrie, the Gloria, the Credo, the Sanctus, the Benedictus, the Agnus Dei
+The texts of the Mass that do not change; namely, the Kyrie, the Gloria, the Credo, the Sanctus, the Benedictus, and the Agnus Dei.
 
-Gregorian chant
+**Gregorian chant**
 
-Polyphony
+Also called plain chant or plainchant. A type of music, that is sung in unison, and without accompaniment. The Church has always preached that chant is the ideal type of music for the Mass. 
+
+"Gregorian chant is the church’s own music, born in the church’s liturgy. Its texts are almost entirely scriptural, coming for the most part from the Psalter. For centuries it was sung as pure melody, in unison, and without accompaniment, and this is still the best way to sing chant if possible. It was composed entirely in Latin; and because its melodies are so closely tied to Latin accents and word meanings, it is best to sing it in Latin." ([GIA Music](https://www.giamusic.com/sacred_music/chant_what_is.cfm))
+
+**Polyphony**
+
+A type of music with multiple voice parts (the word literally translates to "many voices"). 
 
 **Tempus clausum**
 
