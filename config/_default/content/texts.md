@@ -1,7 +1,7 @@
 +++
 draft = true
 text = ""
-title = "TEXTS"
+title = "Texts"
 
 +++
 This page includes the texts for the Latin Mass wedding. I will include the texts on this page, as well as links to websites that have the texts formatted in other ways.
