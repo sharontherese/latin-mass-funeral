@@ -13,6 +13,12 @@ _Three to Get Married_, by Fulton Sheen
 
 [https://fatherjerabek.com/2019/05/23/the-marital-debt/](https://fatherjerabek.com/2019/05/23/the-marital-debt/ "https://fatherjerabek.com/2019/05/23/the-marital-debt/")
 
+[https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html")
+
+[https://www.fisheaters.com/domesticchurch.html](https://www.fisheaters.com/domesticchurch.html "https://www.fisheaters.com/domesticchurch.html")
+
+[https://www.fisheaters.com/home2.html](https://www.fisheaters.com/home2.html "https://www.fisheaters.com/home2.html")
+
 \+ basic catechesis on definition of marriage
 
 \+ NFP; Allay 
@@ -29,15 +35,7 @@ _Three to Get Married_, by Fulton Sheen
 
 # Other
 
-[https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html")
-
-[https://www.fisheaters.com/home2.html](https://www.fisheaters.com/home2.html "https://www.fisheaters.com/home2.html")
-
 [https://www.fisheaters.com/traditionalcatholicism.html](https://www.fisheaters.com/traditionalcatholicism.html "https://www.fisheaters.com/traditionalcatholicism.html")
-
-[https://www.fisheaters.com/domesticchurch.html](https://www.fisheaters.com/domesticchurch.html "https://www.fisheaters.com/domesticchurch.html")
-
-[https://sermonry.com/](https://sermonry.com/ "https://sermonry.com/")
 
 [https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html](https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html "https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html")
 
@@ -45,19 +43,25 @@ _Three to Get Married_, by Fulton Sheen
 
 [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf")
 
-[https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html](https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html "https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html")
-
-[http://www.latinliturgy.com/lmtexts.html](http://www.latinliturgy.com/lmtexts.html "http://www.latinliturgy.com/lmtexts.html")
-
 [https://archive.org/details/theparishpriesto00heusuoft/page/130](https://archive.org/details/theparishpriesto00heusuoft/page/130 "https://archive.org/details/theparishpriesto00heusuoft/page/130")
-
-_From Sacrament to Contract_, by John Witte Jr. \[Chapters 1-4\]
 
 [https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing](https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing "https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing")
 
 [https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false](https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false "https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false")
 
 [https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false](https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false "https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false")
+
+# Liturgy
+
+_From Sacrament to Contract_, by John Witte Jr. \[Chapters 1-4\]
+
+[https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html](https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html "https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html")
+
+[http://www.latinliturgy.com/lmtexts.html](https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html "https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html")
+
+[https://sermonry.com/](https://sermonry.com/ "https://sermonry.com/")
+
+# Music
 
 [https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html](https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html "https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html")
 
