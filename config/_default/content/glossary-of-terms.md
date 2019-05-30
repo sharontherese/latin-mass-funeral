@@ -39,6 +39,10 @@ Latin for _forbidden time_. In this context, it refers to the (usually penitenti
 
 "A Rite represents an ecclesiastical, or church, tradition about how the sacraments are to be celebrated." ([EWTN](https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm))
 
+**Votive Mass**
+
+A Mass offered for a special intention, such as a Mass for kings, bishops, martyrs, a new church, the sick, or marriages. The votive Mass for marriages is called _Missa pro sponso et sponsa_ (Mass for the groom and the bride). 
+
 Sources  
 Ritual of Marriage  
 [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm")
@@ -48,3 +52,6 @@ Music of the Mass
 
 EWTN: Catholic Rites and Churches  
 [https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm](https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm "https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm")
+
+Votive Mass  
+[http://www.newadvent.org/cathen/15508b.htm](http://www.newadvent.org/cathen/15508b.htm "http://www.newadvent.org/cathen/15508b.htm")
