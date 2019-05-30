@@ -9,7 +9,7 @@ This page includes the texts for the Latin Mass wedding. I will include the text
 
 Biretta Books offers a Latin-English booklet for Latin Mass weddings: [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/")
 
-The TLM wedding mass (one of many _votive Masses_) is called _Missa pro sponso et sponsa_, or the Mass for the groom and bride. It’s in two parts: 1) the Rite of Marriage, and 2) the Mass itself.
+The Latin Mass wedding mass (one of many _votive Masses_) is called _Missa pro sponso et sponsa_, or the Mass for the groom and bride. It’s in two parts: 1) the Rite of Marriage, and 2) the Mass itself.
 
 # The Rite of Marriage
 
