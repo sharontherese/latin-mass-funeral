@@ -14,7 +14,3 @@ The Second Vatican Council reformed both the Rite and the Mass, leading to what 
 A Latin Mass wedding, on the other hand, has the Rite of Marriage before the Mass begins.
 
 Learning about the Latin Mass can be difficult as it is; for those who are curious about a Latin Mass wedding, it can be downright overwhelming. 
-
-My husband and I were married with a latin mass wedding in September 2018. While we were both familiar with the latin mass, we found that we had a good deal to learn about a latin mass wedding. Much knowledge has been lost about nuptial services, liturgies, customs, and expectations.
-
-Any word in _italics_ can be found in the Glossary.
