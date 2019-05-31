@@ -13,7 +13,7 @@ The Latin Mass wedding mass (one of many _votive Masses_) is called _Missa pro s
 
 # The Rite of Marriage
 
-Note: Some of the marriage texts were not codified until the Council of Trent. Because of that, and of the Church's historical support for local customs, there may be a good deal of variation with the particular wording for the Rite of Marriage. The text for the Rite of Marriage below is directly from the _Rituale Romanum_, a \[definition\]. The _Rituale_ specifically says, "Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained." In the excerpt of the _Rituale_ below, note that the marriage vows do not include the word, "obey." This is not necessarily some subversive statement; it simply demonstrates that there can be a great deal of variety when implementing these texts and rubrics.
+Note: Some of the marriage texts were not codified until the Council of Trent. Because of that, and of the Church's historical support for local customs, there may be a good deal of variation with the particular wording for the Rite of Marriage. The text for the Rite of Marriage below is directly from the _Rituale Romanum_. The _Rituale_ specifically says, "Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained." In the excerpt of the _Rituale_ below, note that the marriage vows do not include the word, "obey." This is not necessarily some subversive statement; it simply demonstrates that there can be a great deal of variety when implementing these texts and rubrics.
 
 ## Part 1: The Homily
 
@@ -59,7 +59,7 @@ After this, if the nuptial blessing is to be given, the Mass pro Sponso et Spons
 
 Tobias 7:15; 8:19
 
-Deus Israel coniungat vos: et ipse sit vobiscum, qui misertus est duobus unicis: et nunc, Domine, fac eos plenius benedicere te. 
+Deus Israel coniungat vos: et ipse sit vobiscum, qui misertus est duobus unicis: et nunc, Domine, fac eos plenius benedicere te.
 
 May the God of Israel join you together: and may He be with you, who was merciful to two only children: and now, O Lord, make them bless Thee more fully.
 
@@ -113,16 +113,16 @@ Behold, thus shall every man be blessed that feareth the Lord; and mayest thou s
 
 Mercifully give ear, O Lord, to our prayers, and let thy grace accompany this thy institution, by which thou hast ordained the propagation of mankind, that this tie, which is made by thy authority, may be preserved by thy grace. Through Our Lord...
 
-R. Amen. 
+R. Amen.
 
-Let us pray.  
+Let us pray.
 
 O God, who, by the power of thy might, didst create all things out of nothing: who, at the first forming of the world, having made man to the likeness of God, didst, out of his flesh, make the woman, and give her to him for a help-mate: and by this didst inform us, that what in its beginning was one, ought never to be separated. O God, who by so excellent a mystery, hast consecrated this union of the two sexes, and hast been pleased to make it a type of the great sacrament of Christ and his Church, O God, by whom woman is joined to man, and that union, which was instituted in the beginning, is still accompanied with such a blessing, as alone, neither in punishment of original sin, nor by the sentence of the deluge, had been recalled; mercifully look down upon this thy handmaid, who, being now to be joined in wedlock, earnestly desires to be taken under thy protection: may love and peace constantly remain in her: may she marry in Christ faithful and chaste: may she ever imitate the holy women of former times: may she be pleasing to her husband, like Rachael: discreet, like Rebecca; may she, in her years and fidelity, be like Sarah: and may the first author of all evil, at no time, have any share in her actions. May she remain attached to the faith and the commandments, and, being joined to one man in wedlock, may she fly all unlawful addresses: may a regularity of life and conduct be her strength against the weakness of her sex: may she be modest and grave, bashful and venerable, and well instructed in heavenly doctrine. May she be fruitful in her offspring, approved and innocent; and may it be at length her happy lot to arrive at the rest of the blessed in the kingdom of God: may they both see their children's children to the third and fourth generation, and live to their wished-for old age. Through Our Lord...
 
- R. Amen. 
+R. Amen.
 
-May the God of Abraham, the God of Isaac, and the God of Jacob be with you: and may he fulfill his blessing in you; that you may see your children's children to the third and fourth generation: and afterwards enter into the possession of eternal life, through the assistance of our Lord Jesus Christ, who with the Father and the Holy Ghost, liveth, &c. 
+May the God of Abraham, the God of Isaac, and the God of Jacob be with you: and may he fulfill his blessing in you; that you may see your children's children to the third and fourth generation: and afterwards enter into the possession of eternal life, through the assistance of our Lord Jesus Christ, who with the Father and the Holy Ghost, liveth, &c.
 
-R. Amen. 
+R. Amen.
 
 From: [https://archive.org/details/a550137400unknuoft/page/n717](https://archive.org/details/a550137400unknuoft/page/n717 "https://archive.org/details/a550137400unknuoft/page/n717")
