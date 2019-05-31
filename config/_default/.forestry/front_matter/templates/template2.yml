@@ -28,3 +28,4 @@ fields:
 pages:
 - config/_default/content/walkthrough.md
 - config/_default/content/customs.md
+- config/_default/content/About.md
