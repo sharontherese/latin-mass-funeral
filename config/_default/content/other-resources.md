@@ -51,6 +51,8 @@ Quotations about love
 
 # Liturgy
 
+[https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/")
+
 _From Sacrament to Contract_, by John Witte Jr. \[Chapters 1-4\]
 
 [https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html](https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html "https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html")
@@ -80,3 +82,7 @@ Manuscripts
 [https://musicasacra.com/about-cmaa/faq/](https://musicasacra.com/about-cmaa/faq/ "https://musicasacra.com/about-cmaa/faq/")
 
 [https://www.giamusic.com/sacred_music/chant_what_is.cfm](https://www.giamusic.com/sacred_music/chant_what_is.cfm "https://www.giamusic.com/sacred_music/chant_what_is.cfm")
+
+[http://www.ccwatershed.org/blog/2013/jun/3/free-responsorial-psalm-marriage-nuptial-mass/](http://www.ccwatershed.org/blog/2013/jun/3/free-responsorial-psalm-marriage-nuptial-mass/ "http://www.ccwatershed.org/blog/2013/jun/3/free-responsorial-psalm-marriage-nuptial-mass/")
+
+[https://www.ccwatershed.org/blog/tags/nuptial-mass/](https://www.ccwatershed.org/blog/tags/nuptial-mass/ "https://www.ccwatershed.org/blog/tags/nuptial-mass/")
