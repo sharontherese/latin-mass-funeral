@@ -68,6 +68,11 @@ Marriage Ceremonies during the forbidden time, American Ecclesiastical Review, V
 Catholic Encyclopedia entry on Mass  
 [https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false](https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false "https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false")
 
+The Roman missal for the use of the laity [https://archive.org/details/a550137400unknuoft/page/n717](https://archive.org/details/a550137400unknuoft/page/n717 "https://archive.org/details/a550137400unknuoft/page/n717")
+
+Manuscripts  
+[http://cantusindex.org/feasts/2946](http://cantusindex.org/feasts/2946 "http://cantusindex.org/feasts/2946")
+
 # Music
 
 [https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html](https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html "https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html")
