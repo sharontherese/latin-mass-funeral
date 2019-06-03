@@ -1,19 +1,10 @@
 +++
 draft = true
 text = ""
-title = "Other resources"
+title = "The Mass"
 toggle = false
 
 +++
-
-# Traditional Catholicism
-
-[https://www.fisheaters.com/traditionalcatholicism.html](https://www.fisheaters.com/traditionalcatholicism.html "https://www.fisheaters.com/traditionalcatholicism.html")
-
-[https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html](https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html "https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html")
-
-[http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/](http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/ "http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/")
-
 # Liturgy
 
 [https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/")
