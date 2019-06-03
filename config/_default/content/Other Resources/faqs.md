@@ -50,10 +50,12 @@ I made a Glossary page here.
 
 Check out the Other Resources menu, which includes links to introductory content on the both Latin Masses and Latin Mass weddings. I have also linked to several examples of Latin Mass wedding programs, including my own that has a page explaining the what and why of a Latin Mass wedding. You are free to reuse my wedding program content!
 
-Biretta Books offers a Latin-English booklet for Latin Mass weddings: [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/"). For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.
+Biretta Books offers a Latin-English booklet for Latin Mass weddings: [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/") \[3\]. For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.
 
 ### Sources
 
 \[1\] Sullivan, Roseanne T. “Propers of the Mass vs. the Four Hymn Sandwich.” _Homiletic and Pastoral Review_, 2016, [https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html](https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html "https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html").
 
 \[2\] Regina Caeli Parish. _Low Mass, Sung Mass, High Mass, Solemn Mass_. 12 June 2013, [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
+
+\[3\] Biretta Books. _Latin-English Booklet Missal for Nuptial Mass: Biretta Books_. [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/"). Accessed 3 June 2019.
