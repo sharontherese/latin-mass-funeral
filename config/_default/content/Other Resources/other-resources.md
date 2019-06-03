@@ -75,6 +75,9 @@ The Roman missal for the use of the laity [https://archive.org/details/a55013740
 Manuscripts  
 [http://cantusindex.org/feasts/2946](http://cantusindex.org/feasts/2946 "http://cantusindex.org/feasts/2946")
 
+Missals  
+[http://missale.heliohost.org/](http://missale.heliohost.org/ "http://missale.heliohost.org/")
+
 # Music
 
 [https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html](https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html "https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html")
