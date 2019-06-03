@@ -15,3 +15,5 @@ toggle = false
 [https://www.ccwatershed.org/blog/tags/nuptial-mass/](https://www.ccwatershed.org/blog/tags/nuptial-mass/ "https://www.ccwatershed.org/blog/tags/nuptial-mass/")
 
 Sullivan, Roseanne T. “Propers of the Mass vs. the Four Hymn Sandwich.” _Homiletic and Pastoral Review_, 2016, [https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html](https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html "https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html").
+
+Regina Caeli Parish. _Low Mass, Sung Mass, High Mass, Solemn Mass_. 12 June 2013, [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").

@@ -17,9 +17,6 @@ _From Sacrament to Contract_, by John Witte Jr. \[Chapters 1-4\]
 
 [https://sermonry.com/](https://sermonry.com/ "https://sermonry.com/")
 
-Low Mass, Sung Mass, High Mass, Solemn Mass.  
-[https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf")
-
 Marriage Ceremonies during the forbidden time, American Ecclesiastical Review, Volume 22  
 [https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false](https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false "https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false")
 
@@ -33,6 +30,8 @@ Manuscripts
 
 Missals  
 [http://missale.heliohost.org/](http://missale.heliohost.org/ "http://missale.heliohost.org/")
+
+Regina Caeli Parish. _Low Mass, Sung Mass, High Mass, Solemn Mass_. 12 June 2013, [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
 
 # Music
 
