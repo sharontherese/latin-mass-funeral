@@ -1,7 +1,7 @@
 +++
 draft = true
 text = ""
-title = "Rubrics"
+title = "Rubrics for the Wedding Mass"
 toggle = false
 
 +++
