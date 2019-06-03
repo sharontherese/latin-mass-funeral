@@ -30,8 +30,6 @@ I include the text for the Rite of Marriage, as found in the 1962 _Rituale Roman
 
 # The Rite of Marriage
 
-(As found in the 1962 _Rituale Romanum_)
-
 ## Part 1: The Homily
 
 After the priest(s) and the bride process in to the church, all are seated as the priest gives his homily.
