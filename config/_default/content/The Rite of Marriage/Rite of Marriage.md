@@ -68,7 +68,7 @@ After this, if the nuptial blessing is to be given, the Mass pro Sponso et Spons
 
 \[1\] Catholic Encyclopedia. _Ritual of Marriage_. [http://www.newadvent.org/cathen/09703b.htm.](http://www.newadvent.org/cathen/09703b.htm. "http://www.newadvent.org/cathen/09703b.htm.") Accessed 3 June 2019.
 
-\[2\] Rituale Romanum. _Rite for Celebrating Marriage_. [https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html](https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html "https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html"). Accessed 3 June 2019.
+\[2\] Rituale Romanum. _Rite for Celebrating Marriage_. 1962, [https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html](https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html "https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html").
 
 \[3-4\] Searle, M., and K. W. Stevenson. _Documents of the Marriage Liturgy_. Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
 
