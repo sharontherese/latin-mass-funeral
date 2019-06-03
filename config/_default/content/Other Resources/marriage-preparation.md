@@ -5,8 +5,6 @@ title = "Marriage Preparation"
 toggle = false
 
 +++
-# Marriage Prep
-
 _Taking Charge of your own fertility_
 
 _Three to Get Married_, by Fulton Sheen
@@ -30,3 +28,9 @@ Quotations about love
 \+ NFP; Allay
 
 \+ diocesan wedding prep, pre-Cana
+
+Alice von Hildebrand, _By Love Refined: Letters to a Young Bride_
+
+Miriano Costanza, _Marry Him and Be Submissive_
+
+James Monti, _The Week of Salvation_
