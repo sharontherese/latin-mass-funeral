@@ -20,7 +20,6 @@ fields:
   type: boolean
   label: toggle
 pages:
-- config/_default/content/Other Resources/other-resources.md
 - config/_default/content/Other Resources/history.md
 - config/_default/content/Other Resources/rubrics-for-the-wedding-mass.md
 - config/_default/content/Other Resources/mass-programs.md
@@ -29,4 +28,6 @@ pages:
 - config/_default/content/Other Resources/faqs.md
 - config/_default/content/Other Resources/commentaries.md
 - config/_default/content/Home/home.md
+- config/_default/content/Other Resources/mass-music.md
 - config/_default/content/Other Resources/marriage-preparation.md
+- config/_default/content/Other Resources/other-resources.md
