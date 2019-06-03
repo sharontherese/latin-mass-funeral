@@ -22,6 +22,7 @@ fields:
 pages:
 - config/_default/content/Other Resources/other-resources.md
 - config/_default/content/Other Resources/customs.md
+- config/_default/content/Other Resources/faqs.md
 - config/_default/content/texts.md
 - config/_default/content/rubrics.md
 - config/_default/content/faqs.md
