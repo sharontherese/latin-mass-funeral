@@ -21,10 +21,10 @@ fields:
   label: toggle
 pages:
 - config/_default/content/Other Resources/other-resources.md
+- config/_default/content/Other Resources/glossary.md
 - config/_default/content/Other Resources/customs.md
 - config/_default/content/Other Resources/faqs.md
 - config/_default/content/texts.md
 - config/_default/content/rubrics.md
 - config/_default/content/commentaries.md
-- config/_default/content/glossary-of-terms.md
 - config/_default/content/the-rite-of-marriage.md
