@@ -7,6 +7,12 @@ toggle = false
 +++
 Foley, Daniel J. “Medieval Mary Garden.” _University of Dayton_, 1953, [https://udayton.edu/imri/mary/m/medieval-mary-garden.php](https://udayton.edu/imri/mary/m/medieval-mary-garden.php "https://udayton.edu/imri/mary/m/medieval-mary-garden.php").
 
+> Curiously enough, many of the plants which came to be associated with Our Lady during the Middle Ages and the early Renaissance had been known since before the dawn of Christianity and their attributes were associated with pagan deities. Thus plants formerly associated with and considered sacred to Juno, Venus and Diana of Greek mythology, Bertha and Freyia of Scandinavian traditions were bestowed upon the Madonna. If we ponder the studies of the great humanist scholars and accept the belief that the coming of Christ brought a new sense of values into the world, then it is easy to understand how Christianity flung its shadow over the entire vegetable kingdom. In their ardor to stamp out every vestige of heathen intelligence and thought, the early fathers soon interpreted the folklore and the apparent associations of heathen nature worship with the Christian tradition. In every corner of the Old World, the life and sufferings of Christ and the everyday happenings of Mary and Joseph and the saints dominated the thoughts and the beliefs of peasant and nobleman alike. The Age of Faith had made a deep imprint.
+>
+> The English writer Hepworth Dixon has caught the spirit of this simple faith in these lines: "Hearing that the best years of her youth and womanhood were spent, before she yet knew grief, on this sunny hill and side slope, her feet being for ever among the daisies, poppies and anemones, which grow everywhere about, we have made her the patroness of all our flowers. The Virgin is our rose of Sharon, our lily of the valley. The poetry no less than the piety of Europe has ascribed to her the whole bloom and coloring of the fields and hedges."
+>
+> However, after the turmoil and upheaval caused by the Reformation, many of the folk names of plants previously associated with the Holy Family were divested of their divine associations. The dawn of secularism, in a large measure, cast a heavy shadow on that feeling of devotion which had previously characterized the Christian world.
+
 Gattozzi, Bibiana. “Catholic Artistic Piety in a Motet.” _The Angelus Online_, [http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667](http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667 "http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667"). Accessed 3 June 2019.
 
 > _Vidi speciosam (Responsory for the Feast of the Assumption of the Virgin)_
@@ -54,5 +60,5 @@ Larum, Darcy. “Bells Of Ireland Plant Info.” _Gardening Know How’s Blog_, 
 
 Coats, A. M. _Garden Shrubs and Their Histories_. Dutton, 1965, [https://books.google.com/books?id=byLxAAAAMAAJ](https://books.google.com/books?id=byLxAAAAMAAJ "https://books.google.com/books?id=byLxAAAAMAAJ").
 
-[https://docs.google.com/document/d/1l9EOc6eV7aB0Iz7mDdJeyloECvge9zmNweItqAwjpC0/edit?usp=sharing](https://docs.google.com/document/d/1l9EOc6eV7aB0Iz7mDdJeyloECvge9zmNweItqAwjpC0/edit?usp=sharing "https://docs.google.com/document/d/1l9EOc6eV7aB0Iz7mDdJeyloECvge9zmNweItqAwjpC0/edit?usp=sharing")  
+  
 [https://docs.google.com/document/d/1QcMeRvW5RgP6EqAfUtbYeop9Rdk14OKk5RVgGvDgP2Y/edit?usp=sharing](https://docs.google.com/document/d/1QcMeRvW5RgP6EqAfUtbYeop9Rdk14OKk5RVgGvDgP2Y/edit?usp=sharing "https://docs.google.com/document/d/1QcMeRvW5RgP6EqAfUtbYeop9Rdk14OKk5RVgGvDgP2Y/edit?usp=sharing")
