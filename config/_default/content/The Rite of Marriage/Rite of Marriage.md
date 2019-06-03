@@ -30,11 +30,7 @@ I include the text for the Rite of Marriage, as found in the 1962 _Rituale Roman
 
 # The Rite of Marriage
 
-## Part 1: The Homily
-
-After the priest(s) and the bride process in to the church, all are seated as the priest gives his homily.
-
-## Part 2: The Exchange of Vows
+## Part 1: The Exchange of Vows
 
 The priest is vested in a surplice and white stole. If, however, the marriage ceremony is performed by the priest who is going to say the Nuptial Mass and this Mass follows immediately, the priest puts on all the vestments except the maniple, which should be placed on the altar, whence he takes it and puts it on after the marriage ceremony. To assist the priest there should be at least one acolyte, who wears a surplice and carries the book and a vessel with Holy Water. The priest interrogates the man and woman concerning their consent to marry.
 
@@ -56,7 +52,7 @@ Ego conjúngo vos in matrimónium. In nómine Patris, et Fílii, et Spíritus Sa
 
 Then he sprinkles them with holy water.
 
-## Part 3: Blessing and Exchange of Rings
+## Part 2: Blessing and Exchange of Rings
 
 Next the priest blesses the ring saying...
 
