@@ -10,7 +10,7 @@ The Rite of Marriage is, "The form for the celebration of the Sacrament of Matri
 
 This is the essential part of getting married in the Catholic Church - a Mass is not required.
 
-**The Rite of Marriage takes places before the Mass, and usually has three parts: 1) homily, 2) exchange of vows, and 3) blessing and exchange of rings.**
+**The Rite of Marriage takes places before the Mass, and has two parts: 1) exchange of vows, and 2) blessing and exchange of rings. Usually, the homily takes place at the very beginning, even before the exchange of vows.**
 
 There are a couple of important historical notes to make about the Catholic Rite of Marriage before I include the text and rubrics of the rite.
 
