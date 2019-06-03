@@ -12,8 +12,10 @@ What I have found on this topic is scattershot, varying in verifiability, and la
 
 \-wedding rings as tabernacle veil holders (America)
 
-\-wreath then wimple in Sigrid Undset's book
-
-\-wedding rings used for tabernacle veil
+\-wreath then wimple in Sigrid Undset's book (Norway)
 
 Friel, David. “Only the Lover Sings.” _Corpus Christi Watershed_, Oct. 2014, [http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/](http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/ "http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/").
+
+Foley, Daniel J. “Medieval Mary Garden.” _University of Dayton_, 1953, [https://udayton.edu/imri/mary/m/medieval-mary-garden.php](https://udayton.edu/imri/mary/m/medieval-mary-garden.php "https://udayton.edu/imri/mary/m/medieval-mary-garden.php").
+
+“Ruta Graveolens.” _Wikipedia_, 5 Jan. 2019. _Wikipedia_, [https://en.wikipedia.org/w/index.php?title=Ruta_graveolens&oldid=876969378](https://en.wikipedia.org/w/index.php?title=Ruta_graveolens&oldid=876969378 "https://en.wikipedia.org/w/index.php?title=Ruta_graveolens&oldid=876969378").
