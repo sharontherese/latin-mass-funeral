@@ -49,13 +49,18 @@ The book of texts, rubrics, and instructions for Catholic rituals and sacraments
 
 **Missale Romanum**
 
-The books of texts for the Catholic Mass. 
+The books of texts for the Catholic Mass.
 
 **Missa pro sponso et sponsa**
 
-The Mass for the Groom and Bride. One of many _votive Masses_. 
+The Mass for the Groom and Bride. One of many _votive Masses_.
 
-Sources  
+**Setting**
+
+How something is sung. For example, you can choose a _Gregorian chant_ setting of the Kyrie (like Missa de Angelis), or a _polyphonic_ setting (like the Mozart Mass in C Minor, with 4 voice parts).
+
+### Sources
+
 Ritual of Marriage  
 [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm")
 
