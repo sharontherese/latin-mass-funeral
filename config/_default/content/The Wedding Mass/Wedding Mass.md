@@ -14,7 +14,7 @@ An important historical note:
 
 (Note for those confused about the Latin book titles, as I was: the _Rituale_ has the texts for celebrating rituals, sacraments, and other ceremonies; the _Missale_ has the texts for celebrating the Mass.)
 
-The text below is from the _Missale Romanum_. 
+The text below is from the _Missale Romanum_. Due to different translations and edits over time, there may be slight variations in the Nuptial Blessing in different missals.
 
 # _Missa pro sponso et sponsa_
 
