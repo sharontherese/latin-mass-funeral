@@ -1,6 +1,6 @@
 +++
 draft = true
-text = "Commentaries on the readings of the Mass"
+text = ""
 title = "Commentaries"
 toggle = false
 
