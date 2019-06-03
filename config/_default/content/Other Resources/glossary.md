@@ -47,6 +47,10 @@ A Mass offered for a special intention, such as a Mass for kings, bishops, marty
 
 The book of texts, rubrics, and instructions for Catholic rituals and sacraments.
 
+**Missale Romanum**
+
+The books of texts for the Catholic Mass. 
+
 **Missa pro sponso et sponsa**
 
 The Mass for the Groom and Bride. One of many _votive Masses_. 
