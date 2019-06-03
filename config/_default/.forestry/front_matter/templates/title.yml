@@ -11,5 +11,3 @@ fields:
     schema:
       format: markdown
   label: Generic page
-pages:
-- config/_default/content/Home.md
