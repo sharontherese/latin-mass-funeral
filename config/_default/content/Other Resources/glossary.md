@@ -7,17 +7,17 @@ toggle = false
 +++
 **Latin Mass**
 
-Also called the Extraordinary Form, Mass of St. Gregory the Great, the Tridentine Mass or Rite, or the old Mass.
+Also called the Extraordinary Form, Mass of St. Gregory the Great, the Tridentine Mass/Rite, or the old Mass.
 
 **Novus Ordo**
 
 Also called the Ordinary Form, the new Mass.
 
-**Propers**
+**Proper**
 
 The texts of the Mass that change based on the day or feast; namely, the Introit, Gradual, Alleluia-Verse, Sequence, Tract, Offertory, and Communion.
 
-**Ordinaries**
+**Ordinary**
 
 The texts of the Mass that do not change; namely, the Kyrie, the Gloria, the Credo, the Sanctus, the Benedictus, and the Agnus Dei.
 
@@ -43,7 +43,13 @@ Latin for _forbidden time_. In this context, it refers to the (usually penitenti
 
 A Mass offered for a special intention, such as a Mass for kings, bishops, martyrs, a new church, the sick, or marriages. The votive Mass for marriages is called _Missa pro sponso et sponsa_ (Mass for the groom and the bride).
 
-Rituale Romanum
+**Rituale Romanum**
+
+The book of texts, rubrics, and instructions for Catholic rituals and sacraments.
+
+**Missa pro sponso et sponsa**
+
+The Mass for the Groom and Bride. One of many _votive Masses_. 
 
 Sources  
 Ritual of Marriage  
