@@ -68,7 +68,7 @@ Take and wear this ring as a sign of our marriage vows. In the name of the Fathe
 
 After this, if the nuptial blessing is to be given, the Mass pro Sponso et Sponsa is celebrated, according to the rubrics of the Roman Missal.
 
-# Sources
+### Sources
 
 \[1\] Catholic Encyclopedia, "[Ritual of Marriage](http://www.newadvent.org/cathen/09703b.htm)"  
 [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm")
