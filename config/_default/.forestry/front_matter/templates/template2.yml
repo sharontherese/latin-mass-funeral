@@ -26,7 +26,6 @@ fields:
     required: false
   label: text area
 pages:
-- config/_default/content/customs.md
 - config/_default/content/About.md
 - config/_default/content/History.md
 - config/_default/content/walkthrough.md
