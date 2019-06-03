@@ -6,9 +6,9 @@ text_area = ""
 text_heavy = "Wedding Mass"
 
 +++
-The Latin Mass wedding mass (one of many _votive Masses_) is called _Missa pro sponso et sponsa_, or the Mass for the Groom and Bride. It is preceded by the Rite of Marriage. 
+The Latin Mass wedding Mass (one of many _votive Masses_) is called _Missa pro sponso et sponsa_, or the Mass for the Groom and Bride. It is preceded by the Rite of Marriage.
 
-An important historical note: 
+An important historical note:
 
 > Matrimony has always been celebrated with greater leeway for adaptation than other Sacraments, largely on account of its pre-Christian history as a purely domestic and civil affair. For certain, Trent decreed that marriage is a Sacrament and that it must be celebrated in church, in the presence of a priest. But Trent also left room for local adaptation (“earnestly” so). The marriage formula contained in the _Missale Romanum_ of 1570 is so bare that the austerity, itself, almost implies that it was meant to be the bare minimum to which local customs would be added. Notably, the _Rituale Romanum_ was not published until 1614, nearly half a century after the _Missale Romanum_ of the same council had been promulgated. During those intervening years, all that was provided was a Mass formulary in the 1570 missal. Even after the publication of the _Rituale_, “one must doubt that it was ever intended to be used as it stood.” Evidence shows, in fact, that local customs continued to be used in the period before the _Rituale_ was published and even afterward, up until the late nineteenth century. \[1\]
 
@@ -90,8 +90,8 @@ May the God of Abraham, the God of Isaac, and the God of Jacob be with you: and 
 
 R. Amen. \[2\]
 
-### Sources 
+### Sources
 
-\[1\] [https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/")
+\[1\] Friel, David. “The Historic Adaptability of the Marriage Rite.” _Corpus Christi Watershed_, 2016, [http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/").
 
-\[2\] [https://archive.org/details/a550137400unknuoft/page/n717](https://archive.org/details/a550137400unknuoft/page/n717 "https://archive.org/details/a550137400unknuoft/page/n717")
+\[2\] Catholic Church. _The Roman Missal for the Use of the Laity: Containing the Masses Appointed to Be Said throughout the Year_. London : P. Keating, Brown, 1806. _Internet Archive_, [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
