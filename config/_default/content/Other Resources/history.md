@@ -16,9 +16,9 @@ Both the Rite of Marriage and the Wedding Mass have complex, inconsistent, and e
 * **1614**: Trent finally creates the _Rituale_, the book of rituals and sacraments (separate from the _Missal_, which is about the Mass). This _Rituale_ features a Rite of Marriage - quite sparse, again, intending for the skeletal ritual to be adorned with local customs. Perhaps because of a desire to obey Rome, or fear about Protestant individualism, or unclear teaching from the Vatican, what happened instead is that the Rite of Marriage was adopted whole and entire, in place of any and all local customs. \[4\]
 * **1970**: A new Missal, with a new form of the Catholic Mass, is promulgated universally by the Second Vatican Council.
 
-# Sources
+### Sources
 
-\[1\] “The Greek word _mysterion_ was translated into Latin by two terms: _mysterium_ and _sacramentum_. In later usage the term _sacramentum_ emphasizes the visible sign of the hidden reality of salvation which was indicated by the term _mysterium_. In this sense, Christ himself is the mystery of salvation: “For there is no other mystery of God, except Christ.” Catechism of the Catholic Church, #774 [http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm](http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm "http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm")
+\[1\] “The Greek word _mysterion_ was translated into Latin by two terms: _mysterium_ and _sacramentum_. In later usage the term _sacramentum_ emphasizes the visible sign of the hidden reality of salvation which was indicated by the term _mysterium_. In this sense, Christ himself is the mystery of salvation: “For there is no other mystery of God, except Christ.” - Catechism of the Catholic Church, #774 [http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm](http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm "http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm")
 
 \[2\] [https://catholic-resources.org/ChurchDocs/Sacraments.htm](https://catholic-resources.org/ChurchDocs/Sacraments.htm "https://catholic-resources.org/ChurchDocs/Sacraments.htm")
 
