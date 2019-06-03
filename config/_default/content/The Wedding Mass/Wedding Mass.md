@@ -6,13 +6,15 @@ text_area = ""
 text_heavy = "Wedding Mass"
 
 +++
-The Latin Mass wedding mass (one of many _votive Masses_) is called _Missa pro sponso et sponsa_, or the Mass for the Groom and Bride. It is preceded by the Rite of Marriage. The text below is from the _Missale Romanum_. 
+The Latin Mass wedding mass (one of many _votive Masses_) is called _Missa pro sponso et sponsa_, or the Mass for the Groom and Bride. It is preceded by the Rite of Marriage. 
 
 An important historical note: 
 
 > Matrimony has always been celebrated with greater leeway for adaptation than other Sacraments, largely on account of its pre-Christian history as a purely domestic and civil affair. For certain, Trent decreed that marriage is a Sacrament and that it must be celebrated in church, in the presence of a priest. But Trent also left room for local adaptation (“earnestly” so). The marriage formula contained in the _Missale Romanum_ of 1570 is so bare that the austerity, itself, almost implies that it was meant to be the bare minimum to which local customs would be added. Notably, the _Rituale Romanum_ was not published until 1614, nearly half a century after the _Missale Romanum_ of the same council had been promulgated. During those intervening years, all that was provided was a Mass formulary in the 1570 missal. Even after the publication of the _Rituale_, “one must doubt that it was ever intended to be used as it stood.” Evidence shows, in fact, that local customs continued to be used in the period before the _Rituale_ was published and even afterward, up until the late nineteenth century. \[1\]
 
 (Note for those confused about the Latin book titles, as I was: the _Rituale_ has the texts for celebrating rituals, sacraments, and other ceremonies; the _Missale_ has the texts for celebrating the Mass.)
+
+The text below is from the _Missale Romanum_. 
 
 # _Missa pro sponso et sponsa_
 
