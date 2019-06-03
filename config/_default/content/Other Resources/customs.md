@@ -46,17 +46,12 @@ Johnson, Ben. “Michaelmas, 29th September, and the Customs and Traditions Asso
 >
 > The act of giving a Michaelmas Daisy symbolises saying farewell, perhaps in the same way as Michaelmas Day is seen to say farewell to the productive year and welcome in the new cycle.
 
-  
 Larum, Darcy. “Bells Of Ireland Plant Info.” _Gardening Know How’s Blog_, [https://blog.gardeningknowhow.com/tbt/bells-ireland-plant-info/](https://blog.gardeningknowhow.com/tbt/bells-ireland-plant-info/ "https://blog.gardeningknowhow.com/tbt/bells-ireland-plant-info/"). Accessed 3 June 2019.
 
 > Bells of Ireland, or Molucella, has long been associated with Ireland, though, because they are considered a symbol of good luck and are mostly green. Even Linnaeus seemed confused about the origins of the plant when he named them Molucella, after the Moluccan Islands of Indonesia. \[...\] Perhaps the confusion is because Bells of Ireland have been widely cultivated all over Europe since the late 1500’s as an ornamental flower for fresh or dried floral arrangements. They were especially popularly grown in Belgium. Long before these plants were said to represent good luck in the Victorian language of flowers, they were used all over the world in wedding bouquets and arrangements to bless the couple with good fortune.
 
-  
 “Ruta Graveolens.” _Wikipedia_, 5 Jan. 2019. _Wikipedia_, [https://en.wikipedia.org/w/index.php?title=Ruta_graveolens&oldid=876969378](https://en.wikipedia.org/w/index.php?title=Ruta_graveolens&oldid=876969378 "https://en.wikipedia.org/w/index.php?title=Ruta_graveolens&oldid=876969378").
 
 > Rue is considered a national herb of Lithuania and it is the most frequently referred herb in Lithuanian folk songs, as an attribute of young girls, associated with virginity and maidenhood. It was common in traditional Lithuanian weddings for only virgins to wear a rue (ruta) at their wedding, a symbol to show their purity.
 
 Coats, A. M. _Garden Shrubs and Their Histories_. Dutton, 1965, [https://books.google.com/books?id=byLxAAAAMAAJ](https://books.google.com/books?id=byLxAAAAMAAJ "https://books.google.com/books?id=byLxAAAAMAAJ").
-
-  
-[https://docs.google.com/document/d/1QcMeRvW5RgP6EqAfUtbYeop9Rdk14OKk5RVgGvDgP2Y/edit?usp=sharing](https://docs.google.com/document/d/1QcMeRvW5RgP6EqAfUtbYeop9Rdk14OKk5RVgGvDgP2Y/edit?usp=sharing "https://docs.google.com/document/d/1QcMeRvW5RgP6EqAfUtbYeop9Rdk14OKk5RVgGvDgP2Y/edit?usp=sharing")
