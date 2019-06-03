@@ -15,3 +15,5 @@ What I have found on this topic is scattershot, varying in verifiability, and la
 \-wreath then wimple in Sigrid Undset's book
 
 \-wedding rings used for tabernacle veil
+
+Friel, David. “Only the Lover Sings.” _Corpus Christi Watershed_, Oct. 2014, [http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/](http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/ "http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/").
