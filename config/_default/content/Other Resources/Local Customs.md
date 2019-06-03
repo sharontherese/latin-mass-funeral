@@ -23,3 +23,17 @@ Foley, Daniel J. “Medieval Mary Garden.” _University of Dayton_, 1953, [http
 Monti, James. _The Week of Salvation: History and Traditions of Holy Week_. Our Sunday Visitor, 1993, [https://books.google.com/books?id=bmPGtAEACAAJ](https://books.google.com/books?id=bmPGtAEACAAJ "https://books.google.com/books?id=bmPGtAEACAAJ").
 
 “Holy Matrimony.” _Fish Eaters_, [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html"). Accessed 3 June 2019.
+
+[https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2&e=-------en-20--1-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2&e=-------en-20--1-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2&e=-------en-20--1-byDA-txt-txIN-%22wedding+tradition%22~10------")
+
+[https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22~10------")
+
+[https://thecatholicnewsarchive.org/?a=d&d=ncr19671108-01.2.65&srpos=42&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=ncr19671108-01.2.65&srpos=42&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=ncr19671108-01.2.65&srpos=42&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22~10------")
+
+[https://thecatholicnewsarchive.org/?a=d&d=cns19680105-01.1.28&srpos=43&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cns19680105-01.1.28&srpos=43&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cns19680105-01.1.28&srpos=43&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22~10------")
+
+[https://thecatholicnewsarchive.org/?a=d&d=ncr19690910-01.2.36&srpos=44&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=ncr19690910-01.2.36&srpos=44&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=ncr19690910-01.2.36&srpos=44&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22~10------")
+
+[https://thecatholicnewsarchive.org/?a=d&d=CTR19700626-01.2.86&srpos=45&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=CTR19700626-01.2.86&srpos=45&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=CTR19700626-01.2.86&srpos=45&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22~10------")
+
+[https://thecatholicnewsarchive.org/?a=d&d=CTR19710226-01.2.108.46&srpos=47&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=CTR19710226-01.2.108.46&srpos=47&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=CTR19710226-01.2.108.46&srpos=47&e=-------en-20--41-byDA-txt-txIN-%22wedding+tradition%22~10------")
