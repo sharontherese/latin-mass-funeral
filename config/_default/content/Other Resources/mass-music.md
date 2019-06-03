@@ -5,9 +5,6 @@ title = "Mass Music"
 toggle = false
 
 +++
-[https://musicasacra.com/about-cmaa/faq/](https://musicasacra.com/about-cmaa/faq/ "https://musicasacra.com/about-cmaa/faq/")
-
-[https://www.giamusic.com/sacred_music/chant_what_is.cfm](https://www.giamusic.com/sacred_music/chant_what_is.cfm "https://www.giamusic.com/sacred_music/chant_what_is.cfm")
 
 [http://www.ccwatershed.org/blog/2013/jun/3/free-responsorial-psalm-marriage-nuptial-mass/](http://www.ccwatershed.org/blog/2013/jun/3/free-responsorial-psalm-marriage-nuptial-mass/ "http://www.ccwatershed.org/blog/2013/jun/3/free-responsorial-psalm-marriage-nuptial-mass/")
 
@@ -23,3 +20,7 @@ Gregorian Chant has always been regarded as the supreme model for sacred music. 
 Sullivan, Roseanne T. “Propers of the Mass vs. the Four Hymn Sandwich.” _Homiletic and Pastoral Review_, 2016, [https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html](https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html "https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html").
 
 Regina Caeli Parish. _Low Mass, Sung Mass, High Mass, Solemn Mass_. 12 June 2013, [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
+
+“Twenty-Four Questions on Sacred Music.” _Church Music Association of America_, [https://musicasacra.com/about-cmaa/faq/](https://musicasacra.com/about-cmaa/faq/ "https://musicasacra.com/about-cmaa/faq/"). Accessed 3 June 2019.
+
+“What Is Gregorian Chant?” _GIA Publications_, [https://www.giamusic.com/sacred_music/chant_what_is.cfm](https://www.giamusic.com/sacred_music/chant_what_is.cfm "https://www.giamusic.com/sacred_music/chant_what_is.cfm"). Accessed 3 June 2019.
