@@ -72,3 +72,5 @@ EWTN: Catholic Rites and Churches
 
 Votive Mass  
 [http://www.newadvent.org/cathen/15508b.htm](http://www.newadvent.org/cathen/15508b.htm "http://www.newadvent.org/cathen/15508b.htm")
+
+Regina Caeli Parish. _Low Mass, Sung Mass, High Mass, Solemn Mass_. 12 June 2013, [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
