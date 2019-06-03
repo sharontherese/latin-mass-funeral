@@ -16,7 +16,7 @@ Deus Israel coniungat vos: et ipse sit vobiscum, qui misertus est duobus unicis:
 
 May the God of Israel join you together: and may He be with you, who was merciful to two only children: and now, O Lord, make them bless Thee more fully.
 
-## Haydock
+## Haydock \[2\]
 
 Ver. 15.  Hand.  This was the mode of confirming agreements, in Media.  Alex. Genial v. 3. --- The custom prevailed in marriages, (Lament. v. 6.  Isai. lxii. 8.) as it does still among Christians. --- It.  Gr. "her for a wife to Tobias, and said: Behold: take care of her according to the law of Moses, and go to thy father.  And he blessed them.  And he called Edna, his wife, and taking a book, wrote a note, (H. or contract.  C.) and sealed it, and they began to eat."  H. --- It was almost universally the custom to have such writings, particularly where polygamy prevailed.  The wives of lower condition were taken without formality.  C.
 
@@ -82,7 +82,7 @@ Ver. 4. In the beginning. It is remarked by S. Jerome, S. Chrys. and Theophylact
 
 Ver. 5. These words were pronounced by Adam. Gen. xi. 24. — And they two shall be in one flesh.\[2\] I translate thus with submission to better judges; yet the sense may be, by a kind of Hebraism, they shall be esteemed as one person. Wi.
 
-## Catena Aurea
+## Catena Aurea \[3\]
 
 CHRYSOSTOM. (Hom. lxii.) The Lord had before left Judæa because of their jealousy, but now He keeps Himself more to it, because His passion was near at hand. Yet does He not go up to Judæa itself, but into the borders of Judæa; whence it is said, And it came to pass when Jesus had ended all these sayings, he departed from Galilee.
 
@@ -181,3 +181,7 @@ Ver. 6.  Israel.  This is best secured by a well-regulated and numerous people. 
 ### Sources
 
 \[1\] _Sermonry_, [https://sermonry.com/](https://sermonry.com/ "https://sermonry.com/"). Accessed 3 June 2019.
+
+\[2\] Haydock, George L. _Haydock Catholic Bible Commentary_. Edward Dunigan and Brother: New York, 1859, [https://www.ecatholic2000.com/haydock/title.shtml](https://www.ecatholic2000.com/haydock/title.shtml "https://www.ecatholic2000.com/haydock/title.shtml").
+
+\[3\] Aquinas, Thomas. _Catena Aurea: Commentary on the Four Gospels_. J.H. Parker, 1841, [https://www.ecatholic2000.com/catena/untitled-111.shtml](https://www.ecatholic2000.com/catena/untitled-111.shtml "https://www.ecatholic2000.com/catena/untitled-111.shtml").
