@@ -6,7 +6,7 @@ text_area = ""
 text_heavy = "Rite of Marriage"
 
 +++
-The Rite of Marriage is, "The form for the celebration of the Sacrament of Matrimony, as it stands in the "Rituale Romanum"" \[1\]. 
+The Rite of Marriage is, "The form for the celebration of the Sacrament of Matrimony, as it stands in the "Rituale Romanum"" \[1\].
 
 This is the essential part of getting married in the Catholic Church - a Mass is not required.
 
@@ -22,7 +22,7 @@ To quote a wiser source than me:
 >
 > The marriage formula contained in the _Missale Romanum_ of 1570 is so bare that the austerity, itself, almost implies that it was meant to be the bare minimum to which local customs would be added. Notably, the _Rituale Romanum_ was not published until 1614, nearly half a century after the _Missale Romanum_ of the same council had been promulgated. During those intervening years, all that was provided was a Mass formulary in the 1570 missal. Even after the publication of the _Rituale_, “one must doubt that it was ever intended to be used as it stood.” Evidence shows, in fact, that local customs continued to be used in the period before the _Rituale_ was published and even afterward, up until the late nineteenth century. \[5\]
 
-(Note for those confused about the Latin book titles, as I was: the _Rituale_ has the texts for celebrating rituals, sacraments, and other ceremonies; the _Missale_ has the texts for celebrating the Mass.) 
+(Note for those confused about the Latin book titles, as I was: the _Rituale_ has the texts for celebrating rituals, sacraments, and other ceremonies; the _Missale_ has the texts for celebrating the Mass.)
 
 In the excerpt of the _Rituale_ below, note that the marriage vows do not include the word, "obey." This is not necessarily some subversive statement; it simply demonstrates that there can be a great deal of variety when implementing these texts and rubrics.
 
@@ -74,7 +74,8 @@ After this, if the nuptial blessing is to be given, the Mass pro Sponso et Spons
 
 # Sources
 
-\[1\] (Catholic Encyclopedia, "[Ritual of Marriage](http://www.newadvent.org/cathen/09703b.htm)").  [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm")
+\[1\] Catholic Encyclopedia, "[Ritual of Marriage](http://www.newadvent.org/cathen/09703b.htm)"  
+[http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm")
 
 \[2\] Rituale Romanum
 
