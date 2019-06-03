@@ -1,10 +1,13 @@
 +++
 draft = true
-text = ""
+text = "Commentaries on the Propers of the wedding Mass"
 title = "Commentaries"
 toggle = false
 
 +++
+Below are classic Biblical commentaries on the _propers_ of the wedding Mass.   
+For more commentaries, visit [https://sermonry.com/](https://sermonry.com/ "https://sermonry.com/"). 
+
 # Introit
 
 Tobias 7:15; 8:19
