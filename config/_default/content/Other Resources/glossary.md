@@ -41,7 +41,7 @@ Latin for _forbidden time_. In this context, it refers to the (usually penitenti
 
 **Votive Mass**
 
-A Mass offered for a special intention, such as a Mass for kings, bishops, martyrs, a new church, the sick, or marriages. The votive Mass for marriages is called _Missa pro sponso et sponsa_ (Mass for the groom and the bride).
+A Mass offered for a special intention, such as a Mass for kings, bishops, martyrs, a new church, the sick, or marriages. The votive Mass for marriages is called _Missa pro sponso et sponsa_ (Mass for the groom and the bride). \[4\]
 
 **Rituale Romanum**
 
@@ -61,15 +61,15 @@ How something is sung. For example, you can choose a _Gregorian chant_ setting o
 
 **Ritual of Marriage** 
 
-"The form for the celebration of Matrimony" \[6\].
+"The form for the celebration of Matrimony" \[5\].
 
 **Low, High, Sung, or Solemn Mass**
 
-Types of Latin Masses. Read more here. \[7\]
+Types of Latin Masses. Read more here. \[6\]
 
 **Music of the Mass**
 
-Texts of the Mass that can be sung. \[8\]
+Texts of the Mass that can be sung. \[7\]
 
 ### Sources
 
@@ -79,14 +79,10 @@ Texts of the Mass that can be sung. \[8\]
 
 \[3\] “Catholic Rites and Churches.” _EWTN_, 2007, [https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm](https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm "https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm").
 
-Music of the Mass  
-[http://www.newadvent.org/cathen/10001a.htm](http://www.newadvent.org/cathen/10001a.htm "http://www.newadvent.org/cathen/10001a.htm")
+\[4\] Fortescue, Adrian. “Votive Mass.” _The Catholic Encyclopedia_, vol. 15, New York: Robert Appleton Company, 1912, [http://www.newadvent.org/cathen/15508b.htm](http://www.newadvent.org/cathen/15508b.htm "http://www.newadvent.org/cathen/15508b.htm").
 
-Votive Mass  
-[http://www.newadvent.org/cathen/15508b.htm](http://www.newadvent.org/cathen/15508b.htm "http://www.newadvent.org/cathen/15508b.htm")
+\[5\] Thurston, Herbert. “Ritual of Marriage.” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm").
 
-\[6\] Thurston, Herbert. “Ritual of Marriage.” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm").
+\[6\] Regina Caeli Parish. _Low Mass, Sung Mass, High Mass, Solemn Mass_. 12 June 2013, [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
 
-\[7\] Regina Caeli Parish. _Low Mass, Sung Mass, High Mass, Solemn Mass_. 12 June 2013, [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
-
-\[8\] Henry, Hugh. “Music of the Mass.” _The Catholic Encyclopedia_, vol. 10, New York: Robert Appleton Company, 1911, [http://www.newadvent.org/cathen/10001a.htm](http://www.newadvent.org/cathen/10001a.htm "http://www.newadvent.org/cathen/10001a.htm").
+\[7\] Henry, Hugh. “Music of the Mass.” _The Catholic Encyclopedia_, vol. 10, New York: Robert Appleton Company, 1911, [http://www.newadvent.org/cathen/10001a.htm](http://www.newadvent.org/cathen/10001a.htm "http://www.newadvent.org/cathen/10001a.htm").
