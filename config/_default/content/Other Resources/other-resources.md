@@ -5,7 +5,6 @@ title = "The Mass"
 toggle = false
 
 +++
-[http://www.latinliturgy.com/lmtexts.html](http://www.latinliturgy.com/lmtexts.html "http://www.latinliturgy.com/lmtexts.html")
 
 Marriage Ceremonies during the forbidden time, American Ecclesiastical Review, Volume 22  
 [https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false](https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false "https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false")
@@ -24,3 +23,5 @@ _Sermonry_, 2019, [https://sermonry.com/](https://sermonry.com/ "https://sermonr
 Fortescue, Adrian. “Nuptial Mass.” _The Catholic Encyclopedia_, vol. 10, New York: Robert Appleton Company, 1911, [https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html](https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html "https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html").
 
 Latin Liturgy Association. “Texts for the Latin Mass (Both Forms).” _Latin Liturgy Association_, [http://www.latinliturgy.com/lmtexts.html](http://www.latinliturgy.com/lmtexts.html "http://www.latinliturgy.com/lmtexts.html"). Accessed 4 June 2019.
+
+Latin Liturgy Association. “How to Celebrate the Traditional Latin Mass.” _Latin Liturgy Association_, [http://www.latinliturgy.com/howtotlm.html](http://www.latinliturgy.com/howtotlm.html "http://www.latinliturgy.com/howtotlm.html"). Accessed 4 June 2019.
