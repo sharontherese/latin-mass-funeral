@@ -1,5 +1,4 @@
 +++
-draft = true
 gallery1 = []
 media1 = "/uploads/_MG_0505.JPG"
 text_area = ""
