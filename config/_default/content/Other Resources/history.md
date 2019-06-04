@@ -41,3 +41,5 @@ Both the Rite of Marriage and the Wedding Mass have complex, inconsistent, and e
 \[6\] Witte, J. _From Sacrament to Contract: Marriage, Religion, and Law in the Western Tradition_. Westminster John Knox Press, 2012, [https://books.google.com/books?id=pIL7Gihul0oC](https://books.google.com/books?id=pIL7Gihul0oC "https://books.google.com/books?id=pIL7Gihul0oC").
 
 \[7\] Coakley, Thomas F. 1880-1951. _The Nuptial Mass: Explanation of the Beautiful Rites and Ceremonies of a Catholic Wedding /_. Catholic Truth Society, 1939.
+
+\[8\] Stice, Fr. Randy. “An Introduction to the Sacrament of Matrimony and the Nuptial Blessing.” _Adoremus_, 16 Nov. 2015, [https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/](https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/ "https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/").
