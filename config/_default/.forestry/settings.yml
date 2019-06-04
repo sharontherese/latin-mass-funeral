@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Pages
   create: all
-  match: "**/*"
+  match: "**/*.md"
 upload_dir: config/_default/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
