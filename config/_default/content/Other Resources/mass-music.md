@@ -25,3 +25,5 @@ Pope Pius X. _Tra Le Sollecitudini (Instruction on Sacred Music)_. 1903, [https:
 > Gregorian Chant has always been regarded as the supreme model for sacred music. \[....\] The language proper to the Roman Church is Latin. Hence it is forbidden to sing anything whatever in the vernacular in solemn liturgical functions – much more to sing in the vernacular the variable or common parts of the Mass and Office.
 
 Henry, Hugh. “Music of the Mass.” _The Catholic Encyclopedia_, vol. 10, New York: Robert Appleton Company, 1911, [http://www.newadvent.org/cathen/10001a.htm](http://www.newadvent.org/cathen/10001a.htm "http://www.newadvent.org/cathen/10001a.htm").
+
+“Pro Sponso et Sponsa.” _Cantus Index_, [http://cantusindex.org/feasts/2946](http://cantusindex.org/feasts/2946 "http://cantusindex.org/feasts/2946"). Accessed 4 June 2019.
