@@ -45,6 +45,12 @@ Pamphlets from the International Catholic Truth Society
 
 Coakley, Thomas F. _How Catholics Get Married: The Nuptial Mass Explained_. International Catholic Truth Society, n.d., [https://chrcphila.pastperfectonline.com/library/332EFCD1-1CD6-4F79-9D9E-601132994800](https://chrcphila.pastperfectonline.com/library/332EFCD1-1CD6-4F79-9D9E-601132994800 "https://chrcphila.pastperfectonline.com/library/332EFCD1-1CD6-4F79-9D9E-601132994800").
 
+Semmler, Nerius. _For Bride and Groom: A Pre-Nuptial Instruction Based on the Encyclical Letter of Pope Pius XI, Casti Connubii, December 31, 1930_. Our Sunday Visitor, 1950, [https://www.lib.cua.edu/rarebook/node/4391](https://www.lib.cua.edu/rarebook/node/4391 "https://www.lib.cua.edu/rarebook/node/4391").
+
+Godfrey, Cardinal William. _The Holiness of Married Life_. International Catholic Truth Society, 1953, [https://lxoa.wordpress.com/2010/09/21/the-holiness-of-married-life/](https://lxoa.wordpress.com/2010/09/21/the-holiness-of-married-life/ "https://lxoa.wordpress.com/2010/09/21/the-holiness-of-married-life/").
+
+A Catholic Woman Doctor. _A Talk to Catholic Wives_. International Catholic Truth Society, 1953, [https://lxoa.wordpress.com/2010/08/24/a-talk-to-catholic-wives/](https://lxoa.wordpress.com/2010/08/24/a-talk-to-catholic-wives/ "https://lxoa.wordpress.com/2010/08/24/a-talk-to-catholic-wives/").
+
 \+ basic catechesis on definition of marriage
 
 \+ NFP
