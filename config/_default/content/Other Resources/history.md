@@ -18,7 +18,7 @@ Both the Rite of Marriage and the Wedding Mass have complex, inconsistent, and e
 
 \[1\] Catholic Church. “The Church in God’s Plan.” _Catechism of the Catholic Church_, 1993, #774, [http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm](http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm "http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm").
 
-> “The Greek word _mysterion_ was translated into Latin by two terms: _mysterium_ and _sacramentum_. In later usage the term _sacramentum_ emphasizes the visible sign of the hidden reality of salvation which was indicated by the term _mysterium_. In this sense, Christ himself is the mystery of salvation: “For there is no other mystery of God, except Christ.” 
+> “The Greek word _mysterion_ was translated into Latin by two terms: _mysterium_ and _sacramentum_. In later usage the term _sacramentum_ emphasizes the visible sign of the hidden reality of salvation which was indicated by the term _mysterium_. In this sense, Christ himself is the mystery of salvation: “For there is no other mystery of God, except Christ.”
 
 \[2\] Just, Felix. “The Seven Sacraments.” _Electronic New Testament Educational Resources_, [https://catholic-resources.org/ChurchDocs/Sacraments.htm](https://catholic-resources.org/ChurchDocs/Sacraments.htm "https://catholic-resources.org/ChurchDocs/Sacraments.htm"). Accessed 3 June 2019.
 
@@ -37,3 +37,5 @@ Both the Rite of Marriage and the Wedding Mass have complex, inconsistent, and e
 \[5\] Searle, M., and K. W. Stevenson. _Documents of the Marriage Liturgy_. Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
 
 > The ritual elements of the rite, alluded to in passing (199-230), seem to be a mixture of classical Roman marriage rites (the joining of hands, the nuptial veil) and specifically Christian forms (hymn-singing, prayers of blessing and consecration). Notably absent is any mention of exchange of rings or vows (which would have taken place earlier in the home) or of the celebration of the Eucharist.
+
+\[6\] Witte, J. _From Sacrament to Contract: Marriage, Religion, and Law in the Western Tradition_. Westminster John Knox Press, 2012, [https://books.google.com/books?id=pIL7Gihul0oC](https://books.google.com/books?id=pIL7Gihul0oC "https://books.google.com/books?id=pIL7Gihul0oC").
