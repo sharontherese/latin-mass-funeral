@@ -24,3 +24,5 @@ Latin Liturgy Association. “Texts for the Latin Mass (Both Forms).” _Latin L
 Latin Liturgy Association. “How to Celebrate the Traditional Latin Mass.” _Latin Liturgy Association_, [http://www.latinliturgy.com/howtotlm.html](http://www.latinliturgy.com/howtotlm.html "http://www.latinliturgy.com/howtotlm.html"). Accessed 4 June 2019.
 
 “Marriage Ceremonies during the Forbidden Time (Tempus Clausum).” _American Ecclesiastical Review_, vol. 22, 1900, [https://books.google.com/books?id=qdAoAAAAYAAJ](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
+
+Catholic Church. _The Roman Missal for the Use of the Laity : Containing the Masses Appointed to Be Said throughout the Year_. London: P. Keating, Brown, 1806. _Internet Archive_, [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
