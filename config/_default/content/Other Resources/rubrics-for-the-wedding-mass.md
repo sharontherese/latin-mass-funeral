@@ -18,3 +18,5 @@ This page is primarily for the priests celebrating Latin Mass weddings.
 \[2\] Motkya, Andrew R. “Weddings: Some Practical Advice - The Very Beginning, Part 1.” _Corpus Christi Watershed_, 27 Aug. 2014, [http://www.ccwatershed.org/blog/2014/aug/27/weddings-some-practical-advice-very-beginning/](http://www.ccwatershed.org/blog/2014/aug/27/weddings-some-practical-advice-very-beginning/ "http://www.ccwatershed.org/blog/2014/aug/27/weddings-some-practical-advice-very-beginning/").
 
 \[3\] Motkya, Andrew R. “Weddings: Some Practical Advice - The End of the Beginning, Part 2.” _Corpus Christi Watershed_, 2 Sept. 2014, [http://www.ccwatershed.org/blog/2014/sep/2/weddings-some-practical-advice-end-beginning-2/](http://www.ccwatershed.org/blog/2014/sep/2/weddings-some-practical-advice-end-beginning-2/ "http://www.ccwatershed.org/blog/2014/sep/2/weddings-some-practical-advice-end-beginning-2/").
+
+\[4\] James O’Kane. _Notes on the Rubrics of the Roman Ritual._ 1875. _Internet Archive_, [http://archive.org/details/notesonrubricsr00okagoog](http://archive.org/details/notesonrubricsr00okagoog "http://archive.org/details/notesonrubricsr00okagoog").
