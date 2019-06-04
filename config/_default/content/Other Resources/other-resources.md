@@ -22,3 +22,5 @@ _Tridentine Latin Rite Missal Project_, [http://missale.heliohost.org/](http://m
 _Sermonry_, 2019, [https://sermonry.com/](https://sermonry.com/ "https://sermonry.com/").
 
 Fortescue, Adrian. “Nuptial Mass.” _The Catholic Encyclopedia_, vol. 10, New York: Robert Appleton Company, 1911, [https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html](https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html "https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html").
+
+Latin Liturgy Association. “Texts for the Latin Mass (Both Forms).” _Latin Liturgy Association_, [http://www.latinliturgy.com/lmtexts.html](http://www.latinliturgy.com/lmtexts.html "http://www.latinliturgy.com/lmtexts.html"). Accessed 4 June 2019.
