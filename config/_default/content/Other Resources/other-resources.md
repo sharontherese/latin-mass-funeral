@@ -5,7 +5,6 @@ title = "The Mass"
 toggle = false
 
 +++
-[https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/")
 
 _From Sacrament to Contract_, by John Witte Jr. \[Chapters 1-4\]
 
