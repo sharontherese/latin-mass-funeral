@@ -57,6 +57,8 @@ Gits, SJ, A. _A Marriage Handbook_. International Catholic Truth Society, 1947, 
 
 Pope Pius XII. _The Pope Speaks to Mothers_. International Catholic Truth Society, 1956, [https://lxoa.wordpress.com/2010/09/16/the-pope-speaks-to-mothers/](https://lxoa.wordpress.com/2010/09/16/the-pope-speaks-to-mothers/ "https://lxoa.wordpress.com/2010/09/16/the-pope-speaks-to-mothers/").
 
+Jewell, Walter. _To Those Getting Married_. International Catholic Truth Society, 1946, [https://lxoa.wordpress.com/2010/09/14/to-those-getting-married/](https://lxoa.wordpress.com/2010/09/14/to-those-getting-married/ "https://lxoa.wordpress.com/2010/09/14/to-those-getting-married/").
+
 \+ basic catechesis on definition of marriage
 
 \+ NFP
