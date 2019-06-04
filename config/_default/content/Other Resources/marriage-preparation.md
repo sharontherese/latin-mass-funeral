@@ -51,6 +51,12 @@ Godfrey, Cardinal William. _The Holiness of Married Life_. International Catholi
 
 A Catholic Woman Doctor. _A Talk to Catholic Wives_. International Catholic Truth Society, 1953, [https://lxoa.wordpress.com/2010/08/24/a-talk-to-catholic-wives/](https://lxoa.wordpress.com/2010/08/24/a-talk-to-catholic-wives/ "https://lxoa.wordpress.com/2010/08/24/a-talk-to-catholic-wives/").
 
+McEvoy, SJ, Hubert. _Before You Wed_. International Catholic Truth Society, 1947, [https://lxoa.wordpress.com/2010/09/15/before-you-wed/](https://lxoa.wordpress.com/2010/09/15/before-you-wed/ "https://lxoa.wordpress.com/2010/09/15/before-you-wed/").
+
+Gits, SJ, A. _A Marriage Handbook_. International Catholic Truth Society, 1947, [https://lxoa.wordpress.com/2010/08/31/a-marriage-handbook/](https://lxoa.wordpress.com/2010/08/31/a-marriage-handbook/ "https://lxoa.wordpress.com/2010/08/31/a-marriage-handbook/").
+
+Pope Pius XII. _The Pope Speaks to Mothers_. International Catholic Truth Society, 1956, [https://lxoa.wordpress.com/2010/09/16/the-pope-speaks-to-mothers/](https://lxoa.wordpress.com/2010/09/16/the-pope-speaks-to-mothers/ "https://lxoa.wordpress.com/2010/09/16/the-pope-speaks-to-mothers/").
+
 \+ basic catechesis on definition of marriage
 
 \+ NFP
