@@ -24,6 +24,10 @@ Monti, James. _The Week of Salvation: History and Traditions of Holy Week_. Our 
 
 “Holy Matrimony.” _Fish Eaters_, [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html"). Accessed 3 June 2019.
 
+Catholic Research Resources Alliance. _Catholic Portal_. [https://www.catholicresearch.org/catholic-portal](https://www.catholicresearch.org/catholic-portal "https://www.catholicresearch.org/catholic-portal"). Accessed 3 June 2019.
+
+Catholic Research Resources Alliance. _Catholic News Archive_. [https://thecatholicnewsarchive.org/](https://thecatholicnewsarchive.org/ "https://thecatholicnewsarchive.org/"). Accessed 3 June 2019.
+
 [https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2&e=-------en-20--1-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2&e=-------en-20--1-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2&e=-------en-20--1-byDA-txt-txIN-%22wedding+tradition%22~10------")
 
 [https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22~10------")
