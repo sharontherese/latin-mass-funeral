@@ -25,9 +25,3 @@ fields:
   config:
     required: false
   label: text area
-pages:
-- config/_default/content/The Wedding Mass/Wedding Mass.md
-- config/_default/content/Home/About.md
-- config/_default/content/Other Resources/Walkthrough.md
-- config/_default/content/The Rite of Marriage/Rite of Marriage.md
-- config/_default/content/Other Resources/Local Customs.md
