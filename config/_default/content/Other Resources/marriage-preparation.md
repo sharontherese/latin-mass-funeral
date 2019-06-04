@@ -59,6 +59,8 @@ Pope Pius XII. _The Pope Speaks to Mothers_. International Catholic Truth Societ
 
 Jewell, Walter. _To Those Getting Married_. International Catholic Truth Society, 1946, [https://lxoa.wordpress.com/2010/09/14/to-those-getting-married/](https://lxoa.wordpress.com/2010/09/14/to-those-getting-married/ "https://lxoa.wordpress.com/2010/09/14/to-those-getting-married/").
 
+Jarrett, OP, Bede. _The Catholic Mother_. International Catholic Truth Society, 1958, [https://lxoa.wordpress.com/2010/09/15/the-catholic-mother/](https://lxoa.wordpress.com/2010/09/15/the-catholic-mother/ "https://lxoa.wordpress.com/2010/09/15/the-catholic-mother/").
+
 \+ basic catechesis on definition of marriage
 
 \+ NFP
