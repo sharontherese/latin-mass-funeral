@@ -94,6 +94,8 @@ R. Amen. \[2\]
 
 \[1\] Friel, David. “The Historic Adaptability of the Marriage Rite.” _Corpus Christi Watershed_, 2016, [http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/").
 
-\[2\] Catholic Church. _The Roman Missal for the Use of the Laity: Containing the Masses Appointed to Be Said throughout the Year_. London : P. Keating, Brown, 1806. _Internet Archive_, [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
+\[2\] Catholic Church. _The Roman Missal for the Use of the Laity: Containing the Masses Appointed to Be Said throughout the Year_. London: P. Keating, Brown, 1806. _Internet Archive_, [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
 
 \[3\] Latin Liturgy Association. “How to Celebrate the Traditional Latin Mass.” _Latin Liturgy Association_, [http://www.latinliturgy.com/howtotlm.html](http://www.latinliturgy.com/howtotlm.html "http://www.latinliturgy.com/howtotlm.html"). Accessed 4 June 2019.
+
+\[4\] Stice, Fr. Randy. “An Introduction to the Sacrament of Matrimony and the Nuptial Blessing.” _Adoremus_, 16 Nov. 2015, [https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/](https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/ "https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/").
