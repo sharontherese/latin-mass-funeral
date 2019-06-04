@@ -30,7 +30,7 @@ So, ask yourself:
 
 A solemn high would require 3 priests, familiar with or open to learning the TLM wedding.
 
-**Be aware of the liturgical season when choosing your Mass.** Traditionally penitential times, or “closed times” (_tempus clausum_) like Advent, Lent, and the Vigil of Pentecost, discourage weddings, especially sung Masses. Again, this will vary, as resources and general catechesis varies by diocese. Dispensations can be requested for particular dates. However, one should make an effort not to schedule such a festive occasion like a wedding in a penitential time like Lent.
+**Be aware of the liturgical season when choosing your Mass.** Traditionally penitential times, or “closed times” (_tempus clausum_) like Advent, Lent, and the Vigil of Pentecost, discourage weddings, especially sung Masses. Again, this will vary, as resources and general catechesis varies by diocese. Dispensations can be requested for particular dates. However, one should make an effort not to schedule such a festive occasion like a wedding in a penitential time like Lent. \[3\]
 
 You can, of course, customize non-liturgical elements of the day, like flowers. Read more about floral traditions on the Flowers page.
 
@@ -50,7 +50,7 @@ I made a Glossary page here.
 
 Check out the Other Resources menu, which includes links to introductory content on the both Latin Masses and Latin Mass weddings. I have also linked to several examples of Latin Mass wedding programs, including my own that has a page explaining the what and why of a Latin Mass wedding. You are free to reuse my wedding program content!
 
-Biretta Books offers a Latin-English booklet for Latin Mass weddings: [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/") \[3\]. For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.
+Biretta Books offers a Latin-English booklet for Latin Mass weddings: [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/") \[4\]. For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.
 
 ### Sources
 
@@ -58,4 +58,6 @@ Biretta Books offers a Latin-English booklet for Latin Mass weddings: [https://w
 
 \[2\] Regina Caeli Parish. _Low Mass, Sung Mass, High Mass, Solemn Mass_. 12 June 2013, [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
 
-\[3\] Biretta Books. _Latin-English Booklet Missal for Nuptial Mass: Biretta Books_. [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/"). Accessed 3 June 2019.
+\[3\] “Marriage Ceremonies during the Forbidden Time (Tempus Clausum).” _American Ecclesiastical Review_, vol. 22, 1900, [https://books.google.com/books?id=qdAoAAAAYAAJ](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
+
+\[4\] Biretta Books. _Latin-English Booklet Missal for Nuptial Mass: Biretta Books_. [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/"). Accessed 3 June 2019.
