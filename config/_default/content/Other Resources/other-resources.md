@@ -6,8 +6,6 @@ toggle = false
 
 +++
 
-_From Sacrament to Contract_, by John Witte Jr. \[Chapters 1-4\]
-
 [https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html](https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html "https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html")
 
 [http://www.latinliturgy.com/lmtexts.html](http://www.latinliturgy.com/lmtexts.html "http://www.latinliturgy.com/lmtexts.html")
