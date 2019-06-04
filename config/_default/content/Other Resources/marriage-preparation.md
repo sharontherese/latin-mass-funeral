@@ -41,6 +41,10 @@ Kabel, Sharon. “Quotations About Love.” _Google Docs_, [https://docs.google.
 
 > This is a collection of quotations about love and marriage that I pulled together for my own wedding. I printed these quotes (better formatted version) and hung them around the parish hall, our reception venue.
 
+Pamphlets from the International Catholic Truth Society
+
+Coakley, Thomas F. 1880-1951. _How Catholics Get Married: The Nuptial Mass Explained_. International Catholic Truth Society, n.d., [https://chrcphila.pastperfectonline.com/library/332EFCD1-1CD6-4F79-9D9E-601132994800](https://chrcphila.pastperfectonline.com/library/332EFCD1-1CD6-4F79-9D9E-601132994800 "https://chrcphila.pastperfectonline.com/library/332EFCD1-1CD6-4F79-9D9E-601132994800").
+
 \+ basic catechesis on definition of marriage
 
 \+ NFP
