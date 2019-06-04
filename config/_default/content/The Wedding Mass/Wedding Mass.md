@@ -6,7 +6,7 @@ text_area = ""
 text_heavy = "Wedding Mass"
 
 +++
-The Latin Mass wedding Mass (one of many _votive Masses_) is called _Missa pro sponso et sponsa_, or the Mass for the Groom and Bride. It is preceded by the Rite of Marriage.
+The Latin wedding Mass (one of many _votive Masses_) is called _Missa pro sponso et sponsa_, or the Mass for the Groom and Bride. It is preceded by the Rite of Marriage.
 
 An important historical note:
 
