@@ -5,22 +5,22 @@
 
 [[main]]
   name = "Home"
-  url = "Home page"
+  url = "Home page/"
   weight = 10
 
 [[main]]
   name = "Rite of Marriage"
-  url = "Rite of Marriage"
+  url = "Rite of Marriage/"
   weight = 20
 
 [[main]]
   name = "Wedding Mass"
-  url = "The Wedding Mass"
+  url = "The Wedding Mass/"
   weight = 30
 
 [[main]]
   name = "Library"
-  url = "Library"
+  url = "Library/"
   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
