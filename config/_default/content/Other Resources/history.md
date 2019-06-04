@@ -39,3 +39,5 @@ Both the Rite of Marriage and the Wedding Mass have complex, inconsistent, and e
 > The ritual elements of the rite, alluded to in passing (199-230), seem to be a mixture of classical Roman marriage rites (the joining of hands, the nuptial veil) and specifically Christian forms (hymn-singing, prayers of blessing and consecration). Notably absent is any mention of exchange of rings or vows (which would have taken place earlier in the home) or of the celebration of the Eucharist.
 
 \[6\] Witte, J. _From Sacrament to Contract: Marriage, Religion, and Law in the Western Tradition_. Westminster John Knox Press, 2012, [https://books.google.com/books?id=pIL7Gihul0oC](https://books.google.com/books?id=pIL7Gihul0oC "https://books.google.com/books?id=pIL7Gihul0oC").
+
+\[7\] Coakley, Thomas F. 1880-1951. _The Nuptial Mass: Explanation of the Beautiful Rites and Ceremonies of a Catholic Wedding /_. Catholic Truth Society, 1939.

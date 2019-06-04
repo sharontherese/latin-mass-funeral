@@ -20,3 +20,5 @@ toggle = false
 \[7\] “Marriage Ceremonies during the Forbidden Time (Tempus Clausum).” _American Ecclesiastical Review_, vol. 22, 1900, [https://books.google.com/books?id=qdAoAAAAYAAJ](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
 
 \[8\] Catholic Church. _The Roman Missal for the Use of the Laity : Containing the Masses Appointed to Be Said throughout the Year_. London: P. Keating, Brown, 1806. _Internet Archive_, [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
+
+\[9\] Coakley, Thomas F. 1880-1951. _The Nuptial Mass: Explanation of the Beautiful Rites and Ceremonies of a Catholic Wedding /_. Catholic Truth Society, 1939.
