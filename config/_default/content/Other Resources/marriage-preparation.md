@@ -61,6 +61,8 @@ Jewell, Walter. _To Those Getting Married_. International Catholic Truth Society
 
 Jarrett, OP, Bede. _The Catholic Mother_. International Catholic Truth Society, 1958, [https://lxoa.wordpress.com/2010/09/15/the-catholic-mother/](https://lxoa.wordpress.com/2010/09/15/the-catholic-mother/ "https://lxoa.wordpress.com/2010/09/15/the-catholic-mother/").
 
+Jewell, Walter. _Divorce_. International Catholic Truth Society, 1951, [https://lxoa.wordpress.com/2010/09/15/divorce/](https://lxoa.wordpress.com/2010/09/15/divorce/ "https://lxoa.wordpress.com/2010/09/15/divorce/").
+
 \+ basic catechesis on definition of marriage
 
 \+ NFP
