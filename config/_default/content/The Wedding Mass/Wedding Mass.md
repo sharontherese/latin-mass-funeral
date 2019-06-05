@@ -84,6 +84,10 @@ May the God of Abraham, the God of Isaac, and the God of Jacob be with you: and 
 
 R. Amen. \[2\]
 
+# After Mass
+
+It is common, but by no means required, for the couple to present flowers to Mary **after the final blessing**, i.e. after Mass. 
+
 ### Sources
 
 \[1\] Friel, David. “The Historic Adaptability of the Marriage Rite.” _Corpus Christi Watershed_, 2016, [http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/").
