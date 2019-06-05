@@ -5,17 +5,35 @@ title = "Flowers"
 toggle = false
 
 +++
-Foley, Daniel J. “Medieval Mary Garden.” _University of Dayton_, 1953, [https://udayton.edu/imri/mary/m/medieval-mary-garden.php](https://udayton.edu/imri/mary/m/medieval-mary-garden.php "https://udayton.edu/imri/mary/m/medieval-mary-garden.php").
+Flowers have beauty and rich histories, and many flowers have connections to Catholic tradition and practice. 
+
+The most obvious place to start is with Medieval Mary gardens, an old, recently rediscovered practice of creating gardens full of flowers with Marian symbolism or association - lilies, roses, marigolds, and many more. \[1\] \[2\]
+
+I selected my wedding flowers based on a combination of Marian devotions, our names, and our family backgrounds. Here's what I included in my program: 
+
+> The **cornflower** is one of Germany’s national symbols. They are associated with faithfulness and the Habsburg monarchy. The last ruling Habsburgs, Karl and Zita, are on their way to sainthood, and are two of the only (almost) saints to be venerated specifically for the vocation of marriage. **Rue** is the national herb of Lithuania, and commonly used by Lithuanian brides for hair wreaths. \[...\] During the Medieval Era, it became popular to dedicate a garden to Mary, and over time, numerous plants became associated with her. The flowers we have chosen stem from this tradition. **Roses** and **Sweet Williams** both have a Marian connection, and a connection to the bride’s and groom’s names (Rose of Sharon, and William). **Anemones** have an historical connection to both Mary and the Crusades. \[3\]
+
+For one of the most complete collections I have found on flowers associated with Mary, read Fr. Louis Gemminger's 1858 lectures, _Flowers of Mary_. \[4\]
+
+Below are a number of sources that I used to research flower histories. There are many more out there! 
+
+## Sources
+
+\[1\] Foley, Daniel J. “Medieval Mary Garden.” _University of Dayton_, 1953, [https://udayton.edu/imri/mary/m/medieval-mary-garden.php](https://udayton.edu/imri/mary/m/medieval-mary-garden.php "https://udayton.edu/imri/mary/m/medieval-mary-garden.php").
 
 > Curiously enough, many of the plants which came to be associated with Our Lady during the Middle Ages and the early Renaissance had been known since before the dawn of Christianity and their attributes were associated with pagan deities. Thus plants formerly associated with and considered sacred to Juno, Venus and Diana of Greek mythology, Bertha and Freyia of Scandinavian traditions were bestowed upon the Madonna. If we ponder the studies of the great humanist scholars and accept the belief that the coming of Christ brought a new sense of values into the world, then it is easy to understand how Christianity flung its shadow over the entire vegetable kingdom. In their ardor to stamp out every vestige of heathen intelligence and thought, the early fathers soon interpreted the folklore and the apparent associations of heathen nature worship with the Christian tradition. In every corner of the Old World, the life and sufferings of Christ and the everyday happenings of Mary and Joseph and the saints dominated the thoughts and the beliefs of peasant and nobleman alike. The Age of Faith had made a deep imprint.
 >
 > The English writer Hepworth Dixon has caught the spirit of this simple faith in these lines: "Hearing that the best years of her youth and womanhood were spent, before she yet knew grief, on this sunny hill and side slope, her feet being for ever among the daisies, poppies and anemones, which grow everywhere about, we have made her the patroness of all our flowers. The Virgin is our rose of Sharon, our lily of the valley. The poetry no less than the piety of Europe has ascribed to her the whole bloom and coloring of the fields and hedges." However, after the turmoil and upheaval caused by the Reformation, many of the folk names of plants previously associated with the Holy Family were divested of their divine associations. The dawn of secularism, in a large measure, cast a heavy shadow on that feeling of devotion which had previously characterized the Christian world.
 
-Gattozzi, Bibiana. “Catholic Artistic Piety in a Motet.” _The Angelus Online_, [http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667](http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667 "http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667"). Accessed 3 June 2019.
+\[2\] Gattozzi, Bibiana. “Catholic Artistic Piety in a Motet.” _The Angelus Online_, [http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667](http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667 "http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667"). Accessed 3 June 2019.
 
 > _Vidi speciosam (Responsory for the Feast of the Assumption of the Virgin)_
 >
 > I saw a beautiful woman ascending like a dove over the banks of the waters, whose inestimable fragrance was overwhelming in her garments. And like a spring day, rose blossoms and lilies of the valley surrounded her.
+
+\[3\] Kabel, Sharon. “Bolger-Kabel Wedding Program.” _Google Docs_, Sept. 2018, [https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook](https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook "https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook").
+
+\[4\] Gemminger, Louis. _Flowers of Mary_. 1858, [https://www.forgottenbooks.com/en/books/FlowersofMary_10789006](https://www.forgottenbooks.com/en/books/FlowersofMary_10789006 "https://www.forgottenbooks.com/en/books/FlowersofMary_10789006").
 
 Wells, D., and I. Patterson. _100 Flowers and How They Got Their Names_. Algonquin Books, 1997, [https://books.google.com/books?id=r05tI4YsidMC](https://books.google.com/books?id=r05tI4YsidMC "https://books.google.com/books?id=r05tI4YsidMC").
 
