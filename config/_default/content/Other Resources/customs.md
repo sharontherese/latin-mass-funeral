@@ -15,7 +15,7 @@ I selected my wedding flowers based on a combination of Marian devotions, our na
 
 For one of the most complete collections I have found on flowers associated with Mary, read Fr. Louis Gemminger's 1858 lectures, _Flowers of Mary_. \[4\]
 
-The Catholic Church prefers fresh flowers to artificial ones, but the relative enforcement of that preference will depend entirely on the church or parish. (I have been in weddings where fake flowers were allowed; I was not allowed to use fake flowers for my own, for example.) 
+The Catholic Church prefers fresh flowers to artificial ones, but the relative enforcement of that preference will depend entirely on the church or parish. (I have been in weddings where fake flowers were allowed; I was not allowed to use fake flowers for my own, for example.) \[5\]
 
 Below are a number of sources that I used to research flower histories. There are many more out there! 
 
@@ -36,6 +36,8 @@ Below are a number of sources that I used to research flower histories. There ar
 \[3\] Kabel, Sharon. “Bolger-Kabel Wedding Program.” _Google Docs_, Sept. 2018, [https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook](https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook "https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook").
 
 \[4\] Gemminger, Louis. _Flowers of Mary_. 1858, [https://www.forgottenbooks.com/en/books/FlowersofMary_10789006](https://www.forgottenbooks.com/en/books/FlowersofMary_10789006 "https://www.forgottenbooks.com/en/books/FlowersofMary_10789006").
+
+\[5\] Doyle, Kenneth. “Are Artificial Flowers Allowed on the Altar?” _Crux_, 21 Sept. 2015, [https://cruxnow.com/church/2015/09/21/can-artificial-flowers-be-on-the-altar-in-a-catholic-church/](https://cruxnow.com/church/2015/09/21/can-artificial-flowers-be-on-the-altar-in-a-catholic-church/ "https://cruxnow.com/church/2015/09/21/can-artificial-flowers-be-on-the-altar-in-a-catholic-church/").
 
 Wells, D., and I. Patterson. _100 Flowers and How They Got Their Names_. Algonquin Books, 1997, [https://books.google.com/books?id=r05tI4YsidMC](https://books.google.com/books?id=r05tI4YsidMC "https://books.google.com/books?id=r05tI4YsidMC").
 
