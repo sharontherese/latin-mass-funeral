@@ -10,7 +10,7 @@ The Rite of Marriage is, "The form for the celebration of the Sacrament of Matri
 
 This is the essential part of getting married in the Catholic Church - a Mass is not required.
 
-**The Rite of Marriage takes places before the Mass, and has two parts: 1) exchange of vows, and 2) blessing and exchange of rings.** Usually, the homily takes place at the very beginning, even before the exchange of vows.
+**The Rite of Marriage takes places before the Mass. The only sacramentally essential part of the Rite of Marriage is the exchange of consent.** Usually, the homily takes place at the very beginning, even before the exchange of vows. Both the bride and groom exchanging rings is a relatively recent practice; some old _Rituales_ will only mention the bride's ring. The exact words of consent may vary; the critical thing is that they are said.
 
 There are a couple of important historical notes to make about the Catholic Rite of Marriage before I include the text and rubrics of the rite.
 
