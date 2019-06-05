@@ -39,6 +39,8 @@ Below are a number of sources that I used to research flower histories. There ar
 
 \[5\] Doyle, Kenneth. “Are Artificial Flowers Allowed on the Altar?” _Crux_, 21 Sept. 2015, [https://cruxnow.com/church/2015/09/21/can-artificial-flowers-be-on-the-altar-in-a-catholic-church/](https://cruxnow.com/church/2015/09/21/can-artificial-flowers-be-on-the-altar-in-a-catholic-church/ "https://cruxnow.com/church/2015/09/21/can-artificial-flowers-be-on-the-altar-in-a-catholic-church/").
 
+> In the year 2000, the US Conference of Catholic Bishops published liturgical guidelines under the title “Built of Living Stones.” That document says in No. 129 that “the use of living flowers and plants, rather than artificial greens, serves as a reminder of the gift of life God has given to the human community.” But those words speak to a preference rather than a prohibition.
+
 Wells, D., and I. Patterson. _100 Flowers and How They Got Their Names_. Algonquin Books, 1997, [https://books.google.com/books?id=r05tI4YsidMC](https://books.google.com/books?id=r05tI4YsidMC "https://books.google.com/books?id=r05tI4YsidMC").
 
 > Anemones were also sacred flowers, possibly the “lilies of the field” mentioned in the New Testament. Some legends say that the red petals of these wild anemones came from the blood dripping down on them from Christ’s cross, and that they sprang up miraculously in Pisa’s Campo Santo cemetery after a Crusader ship had brought some earth for the graves back from the Holy Land.
