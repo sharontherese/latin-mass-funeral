@@ -15,6 +15,8 @@ I selected my wedding flowers based on a combination of Marian devotions, our na
 
 For one of the most complete collections I have found on flowers associated with Mary, read Fr. Louis Gemminger's 1858 lectures, _Flowers of Mary_. \[4\]
 
+The Catholic Church prefers fresh flowers to artificial ones, but the relative enforcement of that preference will depend entirely on the church or parish. (I have been in weddings where fake flowers were allowed; I was not allowed to use fake flowers for my own, for example.) 
+
 Below are a number of sources that I used to research flower histories. There are many more out there! 
 
 ## Sources
