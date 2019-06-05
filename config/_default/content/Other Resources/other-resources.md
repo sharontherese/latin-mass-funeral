@@ -22,3 +22,7 @@ toggle = false
 \[8\] Catholic Church. _The Roman Missal for the Use of the Laity : Containing the Masses Appointed to Be Said throughout the Year_. London: P. Keating, Brown, 1806. _Internet Archive_, [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
 
 \[9\] Coakley, Thomas F. 1880-1951. _The Nuptial Mass: Explanation of the Beautiful Rites and Ceremonies of a Catholic Wedding /_. Catholic Truth Society, 1939.
+
+\[10\] Gueranger, Prosper. _Explanation of the Prayers and Ceremonies of Holy Mass_. 1885, [https://sanctamissa.org/en/spirituality/explanation-of-the-prayers-and-ceremonies-gueranger.pdf](https://sanctamissa.org/en/spirituality/explanation-of-the-prayers-and-ceremonies-gueranger.pdf "https://sanctamissa.org/en/spirituality/explanation-of-the-prayers-and-ceremonies-gueranger.pdf").
+
+\[11\] Jackson, James W. _Nothing Superfluous_. Redbrush, 2016, [https://books.google.com/books?id=dBnZtAEACAAJ](https://books.google.com/books?id=dBnZtAEACAAJ "https://books.google.com/books?id=dBnZtAEACAAJ").
