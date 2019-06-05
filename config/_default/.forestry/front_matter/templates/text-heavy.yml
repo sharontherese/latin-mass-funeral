@@ -19,3 +19,5 @@ fields:
 - name: toggle
   type: boolean
   label: toggle
+pages:
+- config/_default/content/Other Resources/saints.md
