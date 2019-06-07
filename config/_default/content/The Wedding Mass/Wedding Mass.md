@@ -90,6 +90,12 @@ It is common, but by no means required, for the couple to present flowers to Mar
 
 “According to local custom, the bride may make a presentation of flowers to \[the\] Blessed Mother at the Marian altar/shrine while a Marian hymn is sung” \[2\].
 
+### Read more
+
+* Flowers
+* Music
+* The Mass
+
 ### Sources
 
 \[1\] Catholic Church. _The Roman Missal for the Use of the Laity: Containing the Masses Appointed to Be Said throughout the Year_. London: P. Keating, Brown, 1806. _Internet Archive_, [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
