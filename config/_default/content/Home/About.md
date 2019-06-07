@@ -15,6 +15,6 @@ I also have pages about flowers, programs, local customs, music, married saints,
 
 Any word in _italics_ can be found in the Glossary. I have an FAQ page to get you started.
 
-# Sources 
+### Sources
 
 \[1\] “Pre-1955 Holy Week Mass Propers | Traditional Holy Week Resources.” _Pre-1955 Hoyl Week_, [https://www.pre1955holyweek.com](https://www.pre1955holyweek.com "https://www.pre1955holyweek.com"). Accessed 7 June 2019.
