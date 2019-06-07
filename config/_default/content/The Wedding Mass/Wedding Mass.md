@@ -8,7 +8,7 @@ text_heavy = "Wedding Mass"
 +++
 The Latin wedding Mass (one of many _votive Masses_) is called _Missa pro sponso et sponsa_, or the Mass for the Groom and Bride. It is preceded by the _Rite of Marriage_.
 
-The text below is from an 1806 _Missale Romanum_. Due to different translations and edits over time, there may be slight variations in the Nuptial Blessing in different missals.
+The text below is from an 1806 _Missale Romanum_ \[1\]. Due to different translations and edits over time, there may be slight variations in the Nuptial Blessing in different missals.
 
 # _Missa pro sponso et sponsa_
 
@@ -82,22 +82,22 @@ R. Amen.
 
 May the God of Abraham, the God of Isaac, and the God of Jacob be with you: and may he fulfill his blessing in you; that you may see your children's children to the third and fourth generation: and afterwards enter into the possession of eternal life, through the assistance of our Lord Jesus Christ, who with the Father and the Holy Ghost, liveth, &c.
 
-R. Amen. \[2\]
+R. Amen.
 
 # After Mass
 
 It is common, but by no means required, for the couple to present flowers to Mary **after the final blessing**, i.e. after Mass.
 
-“According to local custom, the bride may make a presentation of flowers to \[the\] Blessed Mother at the Marian altar/shrine while a Marian hymn is sung.” \[3\]
+“According to local custom, the bride may make a presentation of flowers to \[the\] Blessed Mother at the Marian altar/shrine while a Marian hymn is sung” \[2\].
 
 ### Sources
 
-\[1\] Friel, David. “The Historic Adaptability of the Marriage Rite.” _Corpus Christi Watershed_, 2016, [http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/").
+\[1\] Catholic Church. _The Roman Missal for the Use of the Laity: Containing the Masses Appointed to Be Said throughout the Year_. London: P. Keating, Brown, 1806. _Internet Archive_, [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
 
-\[2\] Catholic Church. _The Roman Missal for the Use of the Laity: Containing the Masses Appointed to Be Said throughout the Year_. London: P. Keating, Brown, 1806. _Internet Archive_, [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
-
-\[3\] Biretta Books. _Latin-English Booklet Missal for Nuptial Mass: Biretta Books_. [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/"). Accessed 3 June 2019.
+\[2\] Biretta Books. _Latin-English Booklet Missal for Nuptial Mass: Biretta Books_. [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/"). Accessed 3 June 2019.
 
 \[0\] Latin Liturgy Association. “How to Celebrate the Traditional Latin Mass.” _Latin Liturgy Association_, [http://www.latinliturgy.com/howtotlm.html](http://www.latinliturgy.com/howtotlm.html "http://www.latinliturgy.com/howtotlm.html"). Accessed 4 June 2019.
 
 \[0\] Stice, Fr. Randy. “An Introduction to the Sacrament of Matrimony and the Nuptial Blessing.” _Adoremus_, 16 Nov. 2015, [https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/](https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/ "https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/").
+
+\[0\] Friel, David. “The Historic Adaptability of the Marriage Rite.” _Corpus Christi Watershed_, 2016, [http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/").
