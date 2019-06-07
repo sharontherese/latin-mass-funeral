@@ -8,21 +8,18 @@ text_heavy = "Rite of Marriage"
 +++
 The Rite of Marriage is, "the form for the celebration of the Sacrament of Matrimony, as it stands in the "_Rituale Romanum_"" \[1\].
 
-This is the essential part of getting married in the Catholic Church - a Mass is not required.
+This is the essential part of getting married in the Catholic Church; a Mass is not required.
 
-**The Rite of Marriage takes places before the Mass. The only sacramentally essential part of the Rite of Marriage is the exchange of consent.** Usually, the homily takes place at the very beginning, even before the exchange of vows. Both the bride and groom exchanging rings is a relatively recent practice; some old _Rituales_ will only mention the bride's ring. The exact words of consent may vary; the critical thing is that they are said.
+**For a Latin Mass wedding, the Rite of Marriage takes places before the Mass.   
+The only sacramentally essential part of the Rite of Marriage is the exchange of consent.** 
 
-There are a couple of important historical notes to make about the Catholic Rite of Marriage before I include the text and rubrics of the rite.
+Usually, the homily takes place at the very beginning, even before the exchange of vows. Both the bride and groom exchanging rings is a relatively recent practice; some old _Rituales_ will only mention the bride's ring. The exact words of consent may vary; the critical thing is that they are said.
 
-The _Rituale Romanum_ says, "Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained." \[2\] For as much as Catholicism prizes universal teachings and practices, she also prizes reverent local customs and traditions. Because of this, and because the marriage texts were not codified until fairly late, there is some variation when it comes to the specific words in the Rite of Marriage. \[3\] Given that the Rite of Marriage was likely celebrated at least partly in the vernacular, and that until Trent, public wedding Masses were extremely uncommon, variation is even less surprising \[4\].
-
-To quote a wiser source than me:
+The _Rituale Romanum_ says, "Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained" \[2\]. While Catholicism has universal teachings, she also prizes reverent local customs and traditions. Because of this, and because the marriage texts were not codified until fairly late in Church history, there is some variation when it comes to the specific words in the Rite of Marriage \[3\]. Given that the Rite of Marriage was likely celebrated at least partly in the vernacular, and that until Trent, public wedding Masses were extremely uncommon, variation is even less surprising \[4\].
 
 > Matrimony has always been celebrated with greater leeway for adaptation than other Sacraments, largely on account of its pre-Christian history as a purely domestic and civil affair. For certain, Trent decreed that marriage is a Sacrament and that it must be celebrated in church, in the presence of a priest. But Trent also left room for local adaptation (“earnestly” so). The marriage formula contained in the _Missale Romanum_ of 1570 is so bare that the austerity, itself, almost implies that it was meant to be the bare minimum to which local customs would be added. Notably, the _Rituale Romanum_ was not published until 1614, nearly half a century after the _Missale Romanum_ of the same council had been promulgated. During those intervening years, all that was provided was a Mass formulary in the 1570 missal. Even after the publication of the _Rituale_, “one must doubt that it was ever intended to be used as it stood.” Evidence shows, in fact, that local customs continued to be used in the period before the _Rituale_ was published and even afterward, up until the late nineteenth century. \[5\]
 
-Now that we have some context -
-
-I include the text for the Rite of Marriage, as found in the 1962 _Rituale Romanum._ This is to give you a starting point, an idea of what to expect. You will note that in this Rite of Marriage, the rubrics include the blessing and exchange of rings, and that the marriage vows do not include the word, "obey." This is not necessarily some subversive statement; it simply demonstrates that there can be a great deal of variety when implementing these texts and rubrics.
+Now that we have some context, below is the text for the Rite of Marriage, as found in the 1962 _Rituale Romanum._ This is to give you a starting point, an idea of what to expect. You will note that in this Rite of Marriage, only the bride receives a ring, and the marriage vows do not include the word, "obey." This is not necessarily some subversive statement; it simply demonstrates that there can be a great deal of variety in the words of consent to marriage.
 
 You can peruse plenty of _Rituales_ online from earlier years and find slight variations in the text (like a _Rituale_ from 1873 with English, Gallic, and German vows) \[6\]. What usually remains the same are that the Rite of Marriage took place before the Mass, and the 3 parts of the Rite: 1) homily, 2) exchange of vows, and 3) blessing and exchange of rings.
 
