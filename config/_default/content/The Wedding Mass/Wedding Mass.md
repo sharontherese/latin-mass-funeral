@@ -6,7 +6,7 @@ text_area = ""
 text_heavy = "Wedding Mass"
 
 +++
-The Latin wedding Mass (one of many _votive Masses_) is called _Missa pro sponso et sponsa_, or the Mass for the Groom and Bride. It is preceded by the Rite of Marriage.
+The Latin wedding Mass (one of many _votive Masses_) is called _Missa pro sponso et sponsa_, or the Mass for the Groom and Bride. It is preceded by the _Rite of Marriage_.
 
 The text below is from an 1806 _Missale Romanum_. Due to different translations and edits over time, there may be slight variations in the Nuptial Blessing in different missals.
 
@@ -86,9 +86,9 @@ R. Amen. \[2\]
 
 # After Mass
 
-It is common, but by no means required, for the couple to present flowers to Mary **after the final blessing**, i.e. after Mass. 
+It is common, but by no means required, for the couple to present flowers to Mary **after the final blessing**, i.e. after Mass.
 
-“According to local custom, the bride may make a presentation of flowers to \[the\] Blessed Mother at the Marian altar/shrine while a Marian hymn is sung.” \[3\] 
+“According to local custom, the bride may make a presentation of flowers to \[the\] Blessed Mother at the Marian altar/shrine while a Marian hymn is sung.” \[3\]
 
 ### Sources
 
