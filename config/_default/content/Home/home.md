@@ -12,7 +12,7 @@ The current form of the Catholic Mass (the _Novus Ordo_) has the Rite of Marriag
 
 Learning about the Latin Mass can be difficult as it is; learning about Latin Mass weddings can be downright overwhelming.
 
-This website provides information for those who would like a Latin Mass wedding, or are interested in learning about beautiful treasures of the Church.
+This website provides information for those who would like a Latin Mass wedding, or are interested in learning about beautiful treasures of the Church regarding marriage.
 
 ### Read more
 
