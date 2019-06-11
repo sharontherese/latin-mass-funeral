@@ -13,8 +13,8 @@ Usus Antiquior. “Propers for Certain Occasions.” _Usus Antiquior_, 9 Nov. 20
 
 > includes a PDF with an editable location
 
-“Wedding Mass Program.” _Spoken Bride_, 31 May 2017, [http://www.spokenbride.com/blog/2017/5/31/wedding-mass-program](http://www.spokenbride.com/blog/2017/5/31/wedding-mass-program "http://www.spokenbride.com/blog/2017/5/31/wedding-mass-program").
-
 Biretta Books. _Latin-English Booklet Missal for Nuptial Mass: Biretta Books_. [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/"). Accessed 3 June 2019.
 
 > Some of you may be familiar with the red Latin-English missals at Latin Masses. This missal is from the same people, and is almost exactly the same. It has the text for both the Rite of Marriage, and the Latin Mass wedding.
+
+“Wedding Mass Program.” _Spoken Bride_, 31 May 2017, [http://www.spokenbride.com/blog/2017/5/31/wedding-mass-program](http://www.spokenbride.com/blog/2017/5/31/wedding-mass-program "http://www.spokenbride.com/blog/2017/5/31/wedding-mass-program").
