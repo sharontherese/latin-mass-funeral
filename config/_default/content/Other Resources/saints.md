@@ -9,11 +9,11 @@ Married saints are already a tiny fraction of the Church's glittering array of s
 
 Perhaps because of the intensely intimate nature of marriage, and of many theologians' difficult relationship with holiness, marriage, and sex, the result is that we are left with too few models of holy married men and women. I will include some below, with the disclaimer that not all are saints (yet).
 
+Louis and Zelie Martin
+
 Karl and Zita Habsburg
 
 Ludwig Windthorst
-
-Louis and Zelie Martin
 
 Edmund the Confessor (patron of trouble marriages)
 
