@@ -1,7 +1,7 @@
 +++
 draft = true
 text = ""
-title = "The Mass"
+title = "The Latin Mass"
 toggle = false
 
 +++
