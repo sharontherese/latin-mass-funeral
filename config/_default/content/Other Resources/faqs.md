@@ -15,7 +15,8 @@ The big things that are different are the language, and the order of events. The
 
 In most modern Christian ceremonies, the actual wedding - the Rite of Marriage - happens in the middle of the mass. In the Latin Mass, the Rite of Marriage happens at the beginning, and is followed by the mass, uninterrupted.
 
-**What can I customize with the wedding Mass?**  
+**What can I customize with the wedding Mass?**
+
 Not much, really. The _propers_ for the wedding Mass (texts of the Mass that change each Sunday, like the readings) are set, unlike a _Novus Ordo_ wedding. If you want a sung Mass, you can choose some of the music, to an extent, and how the music is sung (like _chant_ or _polyphony_). You may be able choose what kind of Latin Mass you’ll have, although this may depend entirely on the resources available to you and your church.
 
 Low Mass = nothing is sung; 1 priest  
