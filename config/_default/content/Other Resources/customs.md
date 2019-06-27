@@ -5,19 +5,19 @@ title = "Flowers"
 toggle = false
 
 +++
-Flowers have beauty and rich histories, and many flowers have connections to Catholic tradition and practice. 
+Flowers have rich histories, and many flowers have connections to Catholic tradition and practice.
 
-The most obvious place to start is with Medieval Mary gardens, an old, recently rediscovered practice of creating gardens full of flowers with Marian symbolism or association - lilies, roses, marigolds, and many more. \[1\] \[2\]
+The most obvious place to start is with Medieval Mary gardens, an old, recently rediscovered practice of creating gardens full of flowers with Marian associations - lilies, roses, marigolds, and many more. \[1\] \[2\]
 
-I selected my wedding flowers based on a combination of Marian devotions, our names, and our family backgrounds. Here's what I included in my program: 
+For one of the most complete collections I have found on flowers associated with Mary, read Fr. Louis Gemminger's 1858 lectures, _Flowers of Mary_. \[3\]
 
-> The **cornflower** is one of Germany’s national symbols. They are associated with faithfulness and the Habsburg monarchy. The last ruling Habsburgs, Karl and Zita, are on their way to sainthood, and are two of the only (almost) saints to be venerated specifically for the vocation of marriage. **Rue** is the national herb of Lithuania, and commonly used by Lithuanian brides for hair wreaths. \[...\] During the Medieval Era, it became popular to dedicate a garden to Mary, and over time, numerous plants became associated with her. The flowers we have chosen stem from this tradition. **Roses** and **Sweet Williams** both have a Marian connection, and a connection to the bride’s and groom’s names (Rose of Sharon, and William). **Anemones** have an historical connection to both Mary and the Crusades. \[3\]
+The Catholic Church prefers fresh flowers to artificial ones, but the relative enforcement of that preference will depend entirely on the church or parish. (I have been in weddings where fake flowers were allowed; I was not allowed to use fake flowers for my own.) \[4\]
 
-For one of the most complete collections I have found on flowers associated with Mary, read Fr. Louis Gemminger's 1858 lectures, _Flowers of Mary_. \[4\]
+As an example: I selected my wedding flowers based on a combination of Marian devotions, our names, and our family backgrounds. Here's what I included in my program:
 
-The Catholic Church prefers fresh flowers to artificial ones, but the relative enforcement of that preference will depend entirely on the church or parish. (I have been in weddings where fake flowers were allowed; I was not allowed to use fake flowers for my own, for example.) \[5\]
+> The **cornflower** is one of Germany’s national symbols. They are associated with faithfulness and the Habsburg monarchy. The last ruling Habsburgs, Karl and Zita, are on their way to sainthood, and are two of the only (almost) saints to be venerated specifically for the vocation of marriage. **Rue** is the national herb of Lithuania, and commonly used by Lithuanian brides for hair wreaths. \[...\] During the Medieval Era, it became popular to dedicate a garden to Mary, and over time, numerous plants became associated with her. The flowers we have chosen stem from this tradition. **Roses** and **Sweet Williams** both have a Marian connection, and a connection to the bride’s and groom’s names (Rose of Sharon, and William). **Anemones** have an historical connection to both Mary and the Crusades. \[5\]
 
-Below are a number of sources that I used to research flower histories. There are many more out there! 
+Below are a number of sources that I used to research flower histories. There are many more out there!
 
 ## Sources
 
@@ -33,11 +33,11 @@ Below are a number of sources that I used to research flower histories. There ar
 >
 > I saw a beautiful woman ascending like a dove over the banks of the waters, whose inestimable fragrance was overwhelming in her garments. And like a spring day, rose blossoms and lilies of the valley surrounded her.
 
-\[3\] Kabel, Sharon. “Bolger-Kabel Wedding Program.” _Google Docs_, Sept. 2018, [https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook](https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook "https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook").
+\[3\] Gemminger, Louis. _Flowers of Mary_. 1858, [https://www.forgottenbooks.com/en/books/FlowersofMary_10789006](https://www.forgottenbooks.com/en/books/FlowersofMary_10789006 "https://www.forgottenbooks.com/en/books/FlowersofMary_10789006").
 
-\[4\] Gemminger, Louis. _Flowers of Mary_. 1858, [https://www.forgottenbooks.com/en/books/FlowersofMary_10789006](https://www.forgottenbooks.com/en/books/FlowersofMary_10789006 "https://www.forgottenbooks.com/en/books/FlowersofMary_10789006").
+\[4\] Doyle, Kenneth. “Are Artificial Flowers Allowed on the Altar?” _Crux_, 21 Sept. 2015, [https://cruxnow.com/church/2015/09/21/can-artificial-flowers-be-on-the-altar-in-a-catholic-church/](https://cruxnow.com/church/2015/09/21/can-artificial-flowers-be-on-the-altar-in-a-catholic-church/ "https://cruxnow.com/church/2015/09/21/can-artificial-flowers-be-on-the-altar-in-a-catholic-church/").
 
-\[5\] Doyle, Kenneth. “Are Artificial Flowers Allowed on the Altar?” _Crux_, 21 Sept. 2015, [https://cruxnow.com/church/2015/09/21/can-artificial-flowers-be-on-the-altar-in-a-catholic-church/](https://cruxnow.com/church/2015/09/21/can-artificial-flowers-be-on-the-altar-in-a-catholic-church/ "https://cruxnow.com/church/2015/09/21/can-artificial-flowers-be-on-the-altar-in-a-catholic-church/").
+\[5\] Kabel, Sharon. “Bolger-Kabel Wedding Program.” _Google Docs_, Sept. 2018, [https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook](https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook "https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook").
 
 > In the year 2000, the US Conference of Catholic Bishops published liturgical guidelines under the title “Built of Living Stones.” That document says in No. 129 that “the use of living flowers and plants, rather than artificial greens, serves as a reminder of the gift of life God has given to the human community.” But those words speak to a preference rather than a prohibition.
 
