@@ -19,6 +19,10 @@ In most modern Christian ceremonies, the actual wedding - the Rite of Marriage -
 
 Not much, really. The _propers_ for the wedding Mass (texts of the Mass that change each Sunday, like the readings) are set, unlike a _Novus Ordo_ wedding. If you want a sung Mass, you can choose some of the music, to an extent, and how the music is sung (like _chant_ or _polyphony_). You may be able choose what kind of Latin Mass you’ll have, although this may depend entirely on the resources available to you and your church.
 
+You can, of course, customize non-liturgical elements of the day, like flowers (although you may only be allowed to use fresh flowers). Read more about floral traditions on the Flowers page.
+
+You will not choose lectors, as the priest(s) will recite or chant the readings. You will likely not choose altar servers, as they will have to be familiar with the Latin Mass.
+
 **Aren't all Masses sung?**
 
 Low Mass = nothing is sung; 1 priest  
@@ -34,10 +38,6 @@ So, ask yourself:
 A solemn high would require 3 priests, familiar with or open to learning the TLM wedding.
 
 **Be aware of the liturgical season when choosing your Mass.** Traditionally penitential times, or “closed times” (_tempus clausum_) like Advent, Lent, and the Vigil of Pentecost, discourage weddings, especially sung Masses. Again, this will vary, as resources and general catechesis varies by diocese. Dispensations can be requested for particular dates. However, one should make an effort not to schedule such a festive occasion like a wedding in a penitential time like Lent. \[3\]
-
-You can, of course, customize non-liturgical elements of the day, like flowers. Read more about floral traditions on the Flowers page.
-
-You will not choose lectors, as the priest(s) will recite or chant the readings. You will likely not choose altar servers, as they will have to be familiar with the Latin Mass.
 
 **What kind of music can or should I have?**
 
