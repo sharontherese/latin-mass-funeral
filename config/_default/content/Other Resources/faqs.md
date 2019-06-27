@@ -17,7 +17,7 @@ In most modern Christian ceremonies, the actual wedding - the Rite of Marriage -
 
 **What can I customize with the wedding Mass?**
 
-Not much, really. The _propers_ for the wedding Mass (texts of the Mass that change each Sunday, like the readings) are set, unlike a _Novus Ordo_ wedding. If you are able to have and want a sung Mass, you can choose some of the music, to an extent, and possibly the music _settings_ (how something is sung). You may be able choose what kind of Latin Mass you’ll have, although this may depend entirely on the resources available to you and your church.
+Not much, really. The _propers_ for the wedding Mass (texts of the Mass that change each Sunday, like the readings) are set, unlike a _Novus Ordo_ wedding. You may be able choose what kind of Latin Mass you’ll have, although this may depend entirely on the resources available to you and your church. If you want (and are able to have) a sung Mass, you can choose some of the music, to an extent, and possibly the music _settings_ (how something is sung). 
 
 You can, of course, customize non-liturgical elements of the day, like flowers (although you may only be allowed to use fresh flowers). Read more about floral traditions on the Flowers page.
 
