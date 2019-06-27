@@ -19,6 +19,8 @@ In most modern Christian ceremonies, the actual wedding - the Rite of Marriage -
 
 Not much, really. The _propers_ for the wedding Mass (texts of the Mass that change each Sunday, like the readings) are set, unlike a _Novus Ordo_ wedding. If you want a sung Mass, you can choose some of the music, to an extent, and how the music is sung (like _chant_ or _polyphony_). You may be able choose what kind of Latin Mass you’ll have, although this may depend entirely on the resources available to you and your church.
 
+**Aren't all Masses sung?**
+
 Low Mass = nothing is sung; 1 priest  
 High Mass = sung; 1 priest  
 Solemn High Mass = sung; 3 priests (priest, deacon, and subdeacon) \[2\]
