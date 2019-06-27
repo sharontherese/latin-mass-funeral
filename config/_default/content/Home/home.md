@@ -16,6 +16,8 @@ Learning about the Latin Mass can be difficult as it is; learning about Latin Ma
 
 This website provides information for those who would like a Latin Mass wedding, or are interested in learning about beautiful treasures of the Church regarding marriage.
 
+Read the About page for more information about how this website is set up!
+
 ### Read more
 
 * Rite of Marriage
