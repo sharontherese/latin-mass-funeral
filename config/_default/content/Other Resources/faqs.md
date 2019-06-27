@@ -51,9 +51,9 @@ I made a Glossary page here.
 
 **How can I help my wedding guests understand what's happening?**
 
-Check out the Other Resources menu, which includes links to introductory content on the both Latin Masses and Latin Mass weddings. I have also linked to several examples of Latin Mass wedding programs, including my own that has a page explaining the what and why of a Latin Mass wedding. You are free to reuse my wedding program content!
+Check out the Other Resources menu, which includes links to introductory content on the  Latin Mass, and Latin Mass weddings, and more. I have also linked to several examples of Latin Mass wedding programs, including my own,that has a page explaining the what and why of a Latin Mass wedding. You are welcome to reuse my wedding program content!
 
-Biretta Books offers a Latin-English booklet for Latin Mass weddings: [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/") \[4\]. For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.
+Biretta Books offers a Latin-English booklet for Latin Mass weddings: [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/") \[4\]. (For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.)
 
 ### Sources
 
