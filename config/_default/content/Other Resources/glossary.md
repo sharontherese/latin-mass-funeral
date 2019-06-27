@@ -11,7 +11,7 @@ Also called the Extraordinary Form, Mass of St. Gregory the Great, the Tridentin
 
 **Novus Ordo**
 
-Also called the Ordinary Form, the new Mass.
+Also called the Ordinary Form, the new Mass, or the Mass of Pope St. Paul VI.
 
 **Proper**
 
@@ -25,11 +25,11 @@ The texts of the Mass that do not change; namely, the Kyrie, the Gloria, the Cre
 
 Also called plain chant or plainchant. A type of music, that is sung in unison, and without accompaniment. The Church has always preached that chant is the ideal type of music for the Mass.
 
-"Gregorian chant is the church’s own music, born in the church’s liturgy. Its texts are almost entirely scriptural, coming for the most part from the Psalter. For centuries it was sung as pure melody, in unison, and without accompaniment, and this is still the best way to sing chant if possible. It was composed entirely in Latin; and because its melodies are so closely tied to Latin accents and word meanings, it is best to sing it in Latin" \[1\]. 
+"Gregorian chant is the church’s own music, born in the church’s liturgy. Its texts are almost entirely scriptural, coming for the most part from the Psalter. For centuries it was sung as pure melody, in unison, and without accompaniment, and this is still the best way to sing chant if possible. It was composed entirely in Latin; and because its melodies are so closely tied to Latin accents and word meanings, it is best to sing it in Latin" \[1\].
 
 **Polyphony**
 
-A type of music with multiple voice parts (the word literally translates to "many voices"). read more here. 
+A type of music with multiple voice parts (the word literally translates to "many voices"). read more here.
 
 **Tempus clausum**
 
@@ -37,7 +37,7 @@ Latin for _forbidden time_. In this context, it refers to the (usually penitenti
 
 **Rite**
 
-"A Rite represents an ecclesiastical, or church, tradition about how the sacraments are to be celebrated" \[3\]. 
+"A Rite represents an ecclesiastical, or church, tradition about how the sacraments are to be celebrated" \[3\].
 
 **Votive Mass**
 
@@ -59,7 +59,7 @@ The Mass for the Groom and Bride. One of many _votive Masses_.
 
 How something is sung. For example, you can choose a _Gregorian chant_ setting of the Kyrie (like Missa de Angelis), or a _polyphonic_ setting (like the Mozart Mass in C Minor, with 4 voice parts).
 
-**Ritual of Marriage** 
+**Ritual of Marriage**
 
 "The form for the celebration of Matrimony" \[5\].
 
