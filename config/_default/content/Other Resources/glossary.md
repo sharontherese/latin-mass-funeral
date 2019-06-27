@@ -11,7 +11,7 @@ Also called the Extraordinary Form, Mass of St. Gregory the Great, the Tridentin
 
 **Novus Ordo**
 
-Also called the Ordinary Form, the new Mass, or the Mass of Pope St. Paul VI.
+Also called the Ordinary Form, the new Mass, or the Mass of Pope St. Paul VI. The Mass promulgated after the Second Vatican Council.
 
 **Proper**
 
