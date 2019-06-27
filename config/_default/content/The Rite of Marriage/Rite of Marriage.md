@@ -23,7 +23,7 @@ The _Rituale Romanum_ says, "Wherever other praiseworthy customs and ceremonies 
 
 Now that we have some context, below is the text for the Rite of Marriage, as found in the 1962 _Rituale Romanum._ This is to give you a starting point, an idea of what to expect. You will note that in this Rite of Marriage, only the bride receives a ring, and the marriage vows do not include the word, "obey." This is not necessarily some subversive statement; it simply demonstrates that there can be a great deal of variety in the words of consent to marriage.
 
-You can peruse plenty of _Rituales_ online from earlier years and find slight variations in the text (like a _Rituale_ from 1873 with English, Gallic, and German vows) \[6\]. What remains the same is that the Rite of Marriage takes place before the Mass, and that there is an exchange of vows..
+You can peruse plenty of _Rituales_ online from earlier years and find slight variations in the text (like a _Rituale_ from 1873 with English, Gallic, and German vows) \[6\]. **What remains constant in Latin Mass weddings is that the Rite of Marriage takes place before the Mass, and that there is an exchange of vows.**
 
 # The 1962 Rite of Marriage
 
