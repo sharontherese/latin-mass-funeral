@@ -5,7 +5,7 @@ title = "Flowers"
 toggle = false
 
 +++
-Flowers have rich histories, and many flowers have connections to Catholic tradition and practice.
+Flowers have rich histories, and many flowers have connections to Catholic tradition and practice. 
 
 The most obvious place to start is with Medieval Mary gardens, an old, recently rediscovered practice of creating gardens full of flowers with Marian associations - lilies, roses, marigolds, and many more. \[1\] \[2\]
 
