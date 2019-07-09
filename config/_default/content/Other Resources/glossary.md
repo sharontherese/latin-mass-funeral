@@ -11,11 +11,14 @@ Also called plain chant or plainchant. A type of music that is sung in unison, a
 
 "Gregorian chant is the church’s own music, born in the church’s liturgy. Its texts are almost entirely scriptural, coming for the most part from the Psalter. For centuries it was sung as pure melody, in unison, and without accompaniment, and this is still the best way to sing chant if possible. It was composed entirely in Latin; and because its melodies are so closely tied to Latin accents and word meanings, it is best to sing it in Latin." \[1\]
 
+**High Mass  
+**A _Latin Mass_ that is sung. A Solemn High Mass is sung, with the priest assisted by a deacon and subdeacon. \[6\]
+
 **Latin Mass  
 **Also called the Extraordinary Form, the TLM, Mass of St. Gregory the Great, the Tridentine Mass/Rite, or the old Mass.
 
-**Low, High, Sung, or Solemn Mass  
-**Types of Latin Masses. Read more here. \[6\]
+**Low Mass  
+**A _Latin Mass_ that is not sung. \[6\]
 
 **Missa pro sponso et sponsa  
 **The Mass for the Groom and Bride. One of many _votive Masses_.
