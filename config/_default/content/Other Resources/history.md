@@ -5,15 +5,15 @@ title = "History"
 toggle = false
 
 +++
-Both the Rite of Marriage and the Wedding Mass have complex, inconsistent, and even messy histories, which are worth exploring (for those who have the time).
+Both the Rite of Marriage and the Wedding Mass have complex and at times inconsistent histories, which are well worth exploring (for those who have the time).
 
-* **4th century**: In his _Vulgate_, St. Jerome translates the Greek _mysterion_ into the Latin _sacramentum_, thus affirming Marriage as one of the seven Sacraments of the Catholic Church \[1\] \[2\] \[3\]. Paulinus, bishop of Nola, provides us with the earliest documented instance of a Catholic wedding Mass in the West. Notable things are: no exchange of rings or vows (which scholars suggest likely took place earlier, in the home), and no celebration of the Eucharist. \[4\]
+* **4th century**: In his _Vulgate_, St. Jerome translates the Greek _mysterion_ into the Latin _sacramentum_, thus affirming Marriage as one of the seven Sacraments of the Catholic Church \[1\] \[2\] \[3\]. Paulinus, bishop of Nola, provides us with the earliest documented instance of a Catholic wedding Mass in the West. Notable things are: no exchange of rings or vows (which scholars suggest likely took place earlier, in the home), and no celebration of the Eucharist \[4\].
 * **High Middle Ages**: the Middle Ages produces the greatest flowering of artistic and musical beauty within the Mass, leading to (among other things) enormous local and regional differences in celebrations of the Mass, and Masses perhaps overburdened with artistic zeal. Throughout the time, marriages are mostly private affairs, not even requiring witnesses - consent of the two parties was valued above all else. Weddings usually did not take place in a Mass, or even in a church. This could reflect the Church's love of the local, despite her desire for universality.
 * **16th century**: The Protestant Reformation challenges Jerome's translation (preferring _mysterium_ to _sacramentum_), and the notion that marriage is a sacrament. Instead, marriage is redefined as a contract and therefore public affairs, important to the common good, and under the purview of state and/or religious authorities. Weddings now must take place within a church, and are primarily didactic experiences. Later this century, the Catholic Church calls the Council of Trent to clarify dogma, doctrine, and practices. The Church undergoes enormous pruning of the excesses of the High Middle Ages - arguably pruning that at times went too far. Thanks to widespread problems with secret marriages, and to growing confusion with Protestant teaching, Catholic marriages now were required to be witnessed by a priest.
 * **1570**: Trent promulgates several key documents - the Catechism, the Breviary, the Missal, and St. Thomas Aquinas' Summa. These documents dramatically simplified practices and Masses, winnowing down elaborate ceremonies to their essential - with the intention that local customs would be overlaid them. A wedding mass is included in the Missal, with readings taken from a wedding mass in a 12th century Roman Pontifical (a liturgical book for bishops). \[5\]
 * **1614**: Trent creates the _Rituale_, the book of rituals and sacraments (separate from the _Missale_, which is about the Mass). This _Rituale_ features a Rite of Marriage - quite sparse, again, intending for the skeletal ritual to be adorned with local customs. Perhaps because of a desire to obey Rome, or fear about Protestant individualism, or unclear teaching from the Vatican, what happened instead is that the Rite of Marriage was adopted whole and entire, in place of any and all local customs. \[6\]
 * **1917**: The new Code of Canon Law is promulgated, reaffirming Catholic canon law on (among other things) marriages between Catholics and non-Catholics. \[7\]
-* **1969**: A new Rite of Marriage is promulgated, with one major change being that the Rite takes place in the middle of Mass, rather than before it. The importance of the consent of both parties, the flexibility of the rite, and the preference for local traditions are all retained and emphasized. The _Missa pro sponso_ is not used; couples can now select from a variety of readings and propers. While the ancient Nuptial Blessing is retained, it is made optional, with new brand new blessings added to the list of options. \[8\] 
+* **1969**: A new Rite of Marriage is promulgated, with one major change being that the Rite takes place in the middle of Mass, rather than before it. The importance of the consent of both parties, the flexibility of the rite, and the preference for local traditions are all retained and emphasized. The _Missa pro sponso_ is not used; couples can now select from a variety of readings and propers. While the ancient Nuptial Blessing is retained, it is made optional, with new brand new blessings added to the list of options. \[8\]
 * **1970**: A new Missal, with a new form of the Catholic Mass, is promulgated universally by the Second Vatican Council.
 
 ### Sources
@@ -44,15 +44,15 @@ Both the Rite of Marriage and the Wedding Mass have complex, inconsistent, and e
 
 \[7\] Woywod, Stanislaus. _The New Canon Law: A Commentary and Summary of the New Code of Canon Law_. J.F. Wagner, 1918.
 
-> 903. The Church forbids most severely and in all countries marriage between a Catholic and a heretic, or schismatic. If there is danger of perversion for the Catholic party and the offspring, such marriage is also forbidden by the Divine law. (Canon 1060.) 
+> 1. The Church forbids most severely and in all countries marriage between a Catholic and a heretic, or schismatic. If there is danger of perversion for the Catholic party and the offspring, such marriage is also forbidden by the Divine law. (Canon 1060.)
 >
-> 904\. THe Church does not dispense from the impediment of mixed religion unless: 
+> 904\. THe Church does not dispense from the impediment of mixed religion unless:
 >
 > 1\. There are good and serious reasons;
 >
-> 2\. the non-Catholic party promises to remove all danger of perversion of the Catholic party, and both parties promise that all their children shall be baptized and brought up as Catholics; 
+> 2\. the non-Catholic party promises to remove all danger of perversion of the Catholic party, and both parties promise that all their children shall be baptized and brought up as Catholics;
 >
-> 3\. there is moral certainty that the promises will be kept. The promises are, as a rule, to be mad ein writing. (Canon 1061.) 
+> 3\. there is moral certainty that the promises will be kept. The promises are, as a rule, to be mad ein writing. (Canon 1061.)
 >
 > 905\. The Catholic party has the obligation to prudently work for the conversion of the non-Catholic. (Canon 1062.)
 
