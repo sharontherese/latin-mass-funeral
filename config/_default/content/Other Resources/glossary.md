@@ -11,7 +11,7 @@ Also called the Extraordinary Form, the TLM, Mass of St. Gregory the Great, the 
 
 **Novus Ordo**
 
-Also called the Ordinary Form, the new Mass, or the Mass of Pope St. Paul VI. The Mass promulgated after the Second Vatican Council.
+Also called the Ordinary Form, the new Mass, or the Mass of Pope St. Paul VI. The Mass promulgated by Pope Paul in 1969-70.
 
 **Proper**
 
@@ -19,7 +19,7 @@ The texts of the Mass that change based on the day or feast; namely, the Introit
 
 **Ordinary**
 
-The texts of the Mass that do not change; namely, the Kyrie, the Gloria,  Credo,  Sanctus,  Benedictus, and Agnus Dei.
+The texts of the Mass that do not change, that are the same at every Mass; namely, the Kyrie, Gloria, Credo, Sanctus, Benedictus, and Agnus Dei.
 
 **Gregorian chant**
 
