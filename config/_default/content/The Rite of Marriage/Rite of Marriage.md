@@ -10,13 +10,17 @@ The Rite of Marriage is, "the form for the celebration of the Sacrament of Matri
 
 This is the essential part of getting married in the Catholic Church; a Mass is not required.
 
-For a Latin Mass wedding, the Rite of Marriage takes places before the Mass.
+# Context
 
 **The only sacramentally essential part of the Rite of Marriage is the exchange of consent.**
 
-# Context
+For a Latin Mass wedding, the Rite of Marriage takes places before the Mass.
 
-Usually, the homily takes place at the very beginning, even before the exchange of vows. Both the bride and groom exchanging rings is a relatively recent practice; some old _Rituales_ will only mention the bride's ring. The exact words of consent may vary; the critical thing is that they are said.
+Usually, the homily takes place at the very beginning, even before the exchange of vows. 
+
+Both the bride and groom exchanging rings is a relatively recent practice; some old _Rituales_ will only mention the bride's ring. 
+
+The exact words of consent may vary; the critical thing is that they are said.
 
 The _Rituale Romanum_ says, "Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained" \[2\]. While Catholicism has universal teachings, she also prizes reverent local customs and traditions. Because of this, and because the marriage texts were not codified until fairly late in Church history, there is some variation when it comes to the specific words in the Rite of Marriage \[3\]. Given that the Rite of Marriage was likely celebrated at least partly in the vernacular, and that until Trent, public wedding Masses were extremely uncommon, variation is even less surprising \[4\].
 
