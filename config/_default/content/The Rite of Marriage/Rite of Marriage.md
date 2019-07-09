@@ -10,8 +10,9 @@ The Rite of Marriage is, "the form for the celebration of the Sacrament of Matri
 
 This is the essential part of getting married in the Catholic Church; a Mass is not required.
 
-**For a Latin Mass wedding, the Rite of Marriage takes places before the Mass.  
-The only sacramentally essential part of the Rite of Marriage is the exchange of consent.**
+For a Latin Mass wedding, the Rite of Marriage takes places before the Mass.
+
+**The only sacramentally essential part of the Rite of Marriage is the exchange of consent.**
 
 # Context
 
