@@ -6,15 +6,21 @@ text_area = ""
 text_heavy = "Local Customs"
 
 +++
-Local wedding customs are difficult to describe. For one, by their nature they’re usually passed on orally, not in writing. For another, an unfortunate consequence of the Council of Trent was a widespread loss of local customs in favor of uniformity with Rome.
+Local wedding customs are difficult to describe. For one, by their nature they are usually passed on orally, not in writing. For another, an unfortunate consequence of the Council of Trent was a widespread loss of local customs in favor of uniformity with Rome.
 
 What I have found on this topic is scattershot, varying in verifiability, and largely personal (i.e., I am half Lithuanian-American, so the customs I know the best are Lithuanian).
 
-\-wedding rings as tabernacle veil holders (America)
+# Custom: wedding rings as tabernacle veil holders
 
-\-wreath then wimple in Sigrid Undset's book (Norway)
+Region: America  
+Source: [Catholic News Service - Newsfeeds, 8 November 1950](https://thecatholicnewsarchive.org/?a=d&d=cns19501108-01.1.7)
 
-Friel, David. “Only the Lover Sings.” _Corpus Christi Watershed_, Oct. 2014, [http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/](http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/ "http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/").
+![image.png](https://mail.google.com/mail/u/0?ui=2&ik=42d2d9ac4f&attid=0.1&permmsgid=msg-a:r7931724424158463584&th=16a4fbb78762b2bd&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ9MJltTUoonf753fWpVmmo2XZajWhq_om0B8nXtbKLpKrgx1JSk6768Jf0wAr8xmifk70NOSMjrXqHOc0uqS2k95_5CgFZLpVkicRAkj7ZIicSr__3KvUjQoRM&disp=emb&realattid=ii_juvb5lp20)TABERNACLE CURTAIN RUNS ON GOLDEN WEDDING RINGS CHATA IONIER, La. (NC)--The new tabernacle curtain at Our Lady of Mount Carmel Church runs on golden wedding rings. The curtain and the wedding-ring idea were copied after the curtain in the chapel of the Blessed Sacrament in Westminster Cathedral, London, at the suggestion of the pastor, the Rev. Henry van Boxel. Wedding rings which in some families had been handed down from generation to generation and the wedding rings of widows were -riven for this Louisiana church. . The London chapel was furnished by donations of the Spanish people.
+
+# Custom: Medieval Mary gardens
+
+Region: The West  
+Source: Friel, David. “Only the Lover Sings.” _Corpus Christi Watershed_, Oct. 2014, [http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/](http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/ "http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/").
 
 Foley, Daniel J. “Medieval Mary Garden.” _University of Dayton_, 1953, [https://udayton.edu/imri/mary/m/medieval-mary-garden.php](https://udayton.edu/imri/mary/m/medieval-mary-garden.php "https://udayton.edu/imri/mary/m/medieval-mary-garden.php").
 
