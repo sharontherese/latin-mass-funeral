@@ -23,7 +23,7 @@ The texts of the Mass that do not change, that are the same at every Mass; namel
 
 **Gregorian chant**
 
-Also called plain chant or plainchant. A type of music that is sung in unison, and without accompaniment. The Church has always preached that chant is the ideal type of music for the Mass.
+Also called plain chant or plainchant. A type of music that is sung in unison, and without accompaniment. The Church has always preached that chant is the ideal type of music for the Mass. It is one of the greatest treasures of the Catholic Church.
 
 "Gregorian chant is the church’s own music, born in the church’s liturgy. Its texts are almost entirely scriptural, coming for the most part from the Psalter. For centuries it was sung as pure melody, in unison, and without accompaniment, and this is still the best way to sing chant if possible. It was composed entirely in Latin; and because its melodies are so closely tied to Latin accents and word meanings, it is best to sing it in Latin." \[1\]
 
