@@ -15,6 +15,8 @@ First and foremost: Contact your parish and your diocese to determine the requir
 
 Below are supplemental materials about Catholic marriage, and the domestic life. They range from academic tomes to early 20th century pamphlets to recent social media campaigns.
 
+# Sources
+
 Weschler, T. _Taking Charge of Your Fertility Revised Edition: The Definitive Guide to Natural Birth Control and Pregnancy Achievement_. HarperCollins, 2001, [https://books.google.com/books?id=aRiX7MLSp7cC](https://books.google.com/books?id=aRiX7MLSp7cC "https://books.google.com/books?id=aRiX7MLSp7cC").
 
 Sheen, F. J. _Three to Get Married_. Appleton-Century-Crofts, 1951, [https://www.ewtn.com/library/MARRIAGE/3GETMARR.TXT](https://www.ewtn.com/library/MARRIAGE/3GETMARR.TXT "https://www.ewtn.com/library/MARRIAGE/3GETMARR.TXT").
@@ -62,7 +64,3 @@ Jewell, Walter. _To Those Getting Married_. International Catholic Truth Society
 Jarrett, OP, Bede. _The Catholic Mother_. International Catholic Truth Society, 1958, [https://lxoa.wordpress.com/2010/09/15/the-catholic-mother/](https://lxoa.wordpress.com/2010/09/15/the-catholic-mother/ "https://lxoa.wordpress.com/2010/09/15/the-catholic-mother/").
 
 Jewell, Walter. _Divorce_. International Catholic Truth Society, 1951, [https://lxoa.wordpress.com/2010/09/15/divorce/](https://lxoa.wordpress.com/2010/09/15/divorce/ "https://lxoa.wordpress.com/2010/09/15/divorce/").
-
-\+ basic catechesis on definition of marriage
-
-\+ NFP
