@@ -7,7 +7,7 @@ toggle = false
 +++
 **Latin Mass**
 
-Also called the Extraordinary Form, Mass of St. Gregory the Great, the Tridentine Mass/Rite, or the old Mass.
+Also called the Extraordinary Form, the TLM, Mass of St. Gregory the Great, the Tridentine Mass/Rite, or the old Mass.
 
 **Novus Ordo**
 
@@ -29,7 +29,7 @@ Also called plain chant or plainchant. A type of music that is sung in unison, a
 
 **Polyphony**
 
-A type of music with multiple voice parts, such as soprano, alto, tenor, and bass (the word literally translates to "many voices"). 
+A type of music with multiple voice parts, such as soprano, alto, tenor, and bass (the word literally translates to "many voices").
 
 **Tempus clausum**
 
