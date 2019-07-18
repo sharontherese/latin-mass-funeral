@@ -7,7 +7,7 @@ toggle = false
 +++
 **I want a TLM wedding! What do I do?**
 
-Great! The most important thing you’ll need is a priest familiar with the TLM wedding, or willing to learn it. Immediately get in touch with said priest, and the church in which you intend to marry. Availability of priests who can say the TLM (and receptivity to saying it at all) will vary by diocese. Get in touch with the church music director as well. Start a conversation about music for your mass, as you will not (or at least, should not) be following the [“4 hymn sandwich.”](https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html) \[1\]
+Great! The most important thing you’ll need is a priest familiar with the TLM wedding, or willing to learn it. Immediately get in touch with said priest, and the church in which you intend to marry. Availability of priests who can say the TLM (and receptivity to saying it at all) will vary by diocese. Get in touch with the church music director as well. Start a conversation about music for your mass, as you will not (or at least, should not) be following the [“4 hymn sandwich”](https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html) \[1\].
 
 **What’s different with a Latin Mass wedding?**
 
@@ -17,7 +17,7 @@ In most modern Christian ceremonies, the actual wedding - the Rite of Marriage -
 
 **What can I customize with the wedding Mass?**
 
-Not much, really. The _propers_ for the wedding Mass (texts of the Mass that change each Sunday, like the readings) are set, unlike a _Novus Ordo_ wedding. You may be able choose what kind of Latin Mass you’ll have, although this may depend entirely on the resources available to you and your church. If you want (and are able to have) a sung Mass, you can choose some of the music, to an extent, and possibly the music _settings_ (how something is sung). 
+Not much, really. The _propers_ for the wedding Mass (texts of the Mass that change each Sunday, like the readings) are set, unlike a _Novus Ordo_ wedding. You may be able choose what kind of Latin Mass you’ll have, although this may depend entirely on the resources available to you and your church. If you want (and are able to have) a sung Mass, you can choose some of the music, to an extent, and possibly the music _settings_ (how something is sung).
 
 You can, of course, customize non-liturgical elements of the day, like flowers (although you may only be allowed to use fresh flowers). Read more about floral traditions on the Flowers page.
 
