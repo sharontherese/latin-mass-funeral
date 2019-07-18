@@ -6,7 +6,7 @@ toggle = false
 
 +++
 Below are classic Biblical commentaries on the _propers_ of the wedding Mass.  
-For more commentaries, visit [https://sermonry.com/](https://sermonry.com/ "https://sermonry.com/"). \[1\]
+For more commentaries, visit [https://sermonry.com/](https://sermonry.com/ "https://sermonry.com/") \[1\].
 
 # Introit
 
