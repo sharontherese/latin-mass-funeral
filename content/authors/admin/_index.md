@@ -37,7 +37,7 @@ education:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-
+---
 Welcome to LatinMassWedding.com!
 
 A Catholic wedding Mass has two parts: 1) the Rite of Marriage, and 2) the wedding Mass.
