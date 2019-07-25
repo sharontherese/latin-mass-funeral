@@ -1,9 +1,8 @@
 +++
 draft = true
-gallery1 = []
-media1 = ""
-text_area = ""
-text_heavy = "Walkthrough"
+text = ""
+title = "Walkthrough"
+toggle = false
 
 +++
 This page has a walkthrough of a latin mass wedding (with photos from our wedding).

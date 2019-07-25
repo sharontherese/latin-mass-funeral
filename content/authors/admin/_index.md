@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Latin Mass Wedding
+name: "Latin Mass Wedding"
 
 # Username (this should match the folder name)
 authors:
