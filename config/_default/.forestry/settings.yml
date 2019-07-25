@@ -5,31 +5,31 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: config/_default/content
+  path: content
   label: Pages
   create: all
   match: "*"
 - type: directory
-  path: config/_default/content/The Rite of Marriage
+  path: content/The Rite of Marriage
   label: The rite of marriage
   create: all
   match: "**/*"
 - type: directory
-  path: config/_default/content/Home
+  path: content/Home
   label: Home
   create: all
   match: "**/*"
 - type: directory
-  path: config/_default/content/The Wedding Mass
+  path: content/The Wedding Mass
   label: The wedding mass
   create: all
   match: "**/*"
 - type: directory
-  path: config/_default/content/Other Resources
+  path: content/Other Resources
   label: Other resources
   create: all
   match: "**/*"
-upload_dir: config/_default/static/uploads
+upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
