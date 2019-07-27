@@ -3,8 +3,7 @@ name: Latin Mass Wedding
 authors:
 - admin
 superuser: true
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: ''
 Read More:
 - Artificial Intelligence
 - Computational Linguistics
