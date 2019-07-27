@@ -5,7 +5,9 @@ title = "Rite of Marriage"
 toggle = false
 
 +++
-The Rite of Marriage is, "The form for the celebration of the Sacrament of Matrimony, as it stands in the "Rituale Romanum"". [^1]
+# About
+
+The Rite of Marriage is, "The form for the celebration of the Sacrament of Matrimony, as it stands in the "Rituale Romanum"". \[^1\]
 
 This is the essential part of getting married in the Catholic Church - a Mass is not required.
 
@@ -13,11 +15,11 @@ This is the essential part of getting married in the Catholic Church - a Mass is
 
 There are a couple of important historical notes to make about the Catholic Rite of Marriage before I include the text and rubrics of the rite.
 
-The _Rituale Romanum_ says, "Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained." [^2] For as much as Catholicism prizes universal teachings and practices, she also prizes reverent local customs and traditions. Because of this, and because the marriage texts were not codified until fairly late, there is some variation when it comes to the specific words in the Rite of Marriage. [^3] Given that the Rite of Marriage was likely celebrated at least partly in the vernacular, and that until Trent, public wedding Masses were extremely uncommon, variation is even less surprising [^4].
+The _Rituale Romanum_ says, "Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained." \[^2\] For as much as Catholicism prizes universal teachings and practices, she also prizes reverent local customs and traditions. Because of this, and because the marriage texts were not codified until fairly late, there is some variation when it comes to the specific words in the Rite of Marriage. \[^3\] Given that the Rite of Marriage was likely celebrated at least partly in the vernacular, and that until Trent, public wedding Masses were extremely uncommon, variation is even less surprising [^4](Ibid.).
 
 To quote a wiser source than me:
 
-> Matrimony has always been celebrated with greater leeway for adaptation than other Sacraments, largely on account of its pre-Christian history as a purely domestic and civil affair. For certain, Trent decreed that marriage is a Sacrament and that it must be celebrated in church, in the presence of a priest. But Trent also left room for local adaptation (“earnestly” so). The marriage formula contained in the _Missale Romanum_ of 1570 is so bare that the austerity, itself, almost implies that it was meant to be the bare minimum to which local customs would be added. Notably, the _Rituale Romanum_ was not published until 1614, nearly half a century after the _Missale Romanum_ of the same council had been promulgated. During those intervening years, all that was provided was a Mass formulary in the 1570 missal. Even after the publication of the _Rituale_, “one must doubt that it was ever intended to be used as it stood.” Evidence shows, in fact, that local customs continued to be used in the period before the _Rituale_ was published and even afterward, up until the late nineteenth century. [^5]
+> Matrimony has always been celebrated with greater leeway for adaptation than other Sacraments, largely on account of its pre-Christian history as a purely domestic and civil affair. For certain, Trent decreed that marriage is a Sacrament and that it must be celebrated in church, in the presence of a priest. But Trent also left room for local adaptation (“earnestly” so). The marriage formula contained in the _Missale Romanum_ of 1570 is so bare that the austerity, itself, almost implies that it was meant to be the bare minimum to which local customs would be added. Notably, the _Rituale Romanum_ was not published until 1614, nearly half a century after the _Missale Romanum_ of the same council had been promulgated. During those intervening years, all that was provided was a Mass formulary in the 1570 missal. Even after the publication of the _Rituale_, “one must doubt that it was ever intended to be used as it stood.” Evidence shows, in fact, that local customs continued to be used in the period before the _Rituale_ was published and even afterward, up until the late nineteenth century. \[^5\]
 
 (Note for those confused about the Latin book titles, as I was: the _Rituale_ has the texts for celebrating rituals, sacraments, and other ceremonies; the _Missale_ has the texts for celebrating the Mass.)
 
@@ -65,14 +67,12 @@ After this, if the nuptial blessing is to be given, the Mass pro Sponso et Spons
 
 ### Sources
 
-[^1]: Thurston, Herbert. “Ritual of Marriage.” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm").
+\[^1\]: Thurston, Herbert. “Ritual of Marriage.” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm").
 
-[^2]: Catholic Church. “Rite for Celebrating Marriage.” _Rituale Romanum_, 1962, [https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html](https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html "https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html").
+\[^2\]: Catholic Church. “Rite for Celebrating Marriage.” _Rituale Romanum_, 1962, [https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html](https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html "https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html").
 
-[^3]: Searle, M., and K. W. Stevenson. _Documents of the Marriage Liturgy_. Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
+\[^3\]: Searle, M., and K. W. Stevenson. _Documents of the Marriage Liturgy_. Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
 
-[^4]: Ibid.
+\[^5\]: Friel, David. “The Historic Adaptability of the Marriage Rite.” _Corpus Christi Watershed_, 2016, [http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/").
 
-[^5]: Friel, David. “The Historic Adaptability of the Marriage Rite.” _Corpus Christi Watershed_, 2016, [http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/").
-
-[^6]: Catholic Church. _Rituale romanum_. 1873. _Internet Archive_, [http://archive.org/details/ritualeromanum00cath_0](http://archive.org/details/ritualeromanum00cath_0 "http://archive.org/details/ritualeromanum00cath_0").
+\[^6\]: Catholic Church. _Rituale romanum_. 1873. _Internet Archive_, [http://archive.org/details/ritualeromanum00cath_0](http://archive.org/details/ritualeromanum00cath_0 "http://archive.org/details/ritualeromanum00cath_0").
