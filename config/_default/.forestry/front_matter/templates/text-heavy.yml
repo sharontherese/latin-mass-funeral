@@ -20,5 +20,4 @@ fields:
   type: boolean
   label: toggle
 pages:
-- content/about-1.md
 - content/about-2.md
