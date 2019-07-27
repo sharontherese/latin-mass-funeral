@@ -5,7 +5,7 @@ title = "Rite of Marriage"
 toggle = false
 
 +++
-The Rite of Marriage is, "The form for the celebration of the Sacrament of Matrimony, as it stands in the "Rituale Romanum"". \[^1\]
+The Rite of Marriage is, "The form for the celebration of the Sacrament of Matrimony, as it stands in the "Rituale Romanum"". \[1\]
 
 This is the essential part of getting married in the Catholic Church - a Mass is not required.
 
