@@ -1,5 +1,4 @@
 +++
-draft = true
 text = "Commentaries on the Propers of the wedding Mass"
 title = "Commentaries on the wedding Mass"
 toggle = false
