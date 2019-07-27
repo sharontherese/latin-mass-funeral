@@ -20,7 +20,7 @@ Not much, really. The _propers_ for the wedding Mass (texts of the Mass that cha
 
 Low Mass = nothing is sung; 1 priest  
 High Mass = sung; 1 priest  
-Solemn High Mass = sung; 3 priests (priest, deacon, and subdeacon) \[^2\]
+Solemn High Mass = sung; 3 priests (priest, deacon, and subdeacon) [^2]
 
 So, ask yourself:
 
