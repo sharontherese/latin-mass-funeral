@@ -29,7 +29,7 @@ Now that we have some context -
 
 I include the text for the Rite of Marriage, as found in the 1962 _Rituale Romanum._ This is to give you a starting point, an idea of what to expect. You can peruse plenty of _Rituales_ online from earlier years and find slight variations in the text (like a _Rituale_ from 1873 with English, Gallic, and German vows) \[6\]. What usually remains the same are that the Rite of Marriage took place before the Mass, and the 3 parts of the Rite: 1) homily, 2) exchange of vows, and 3) blessing and exchange of rings.
 
-# The Rite of Marriage
+# The Text of the Rite of Marriage
 
 ## Part 1: The Exchange of Vows
 
