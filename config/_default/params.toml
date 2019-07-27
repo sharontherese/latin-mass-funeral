@@ -47,9 +47,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "latinmasswedding@gmail.com"
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
