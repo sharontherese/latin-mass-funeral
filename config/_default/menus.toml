@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Resources"
-  url = "library"
+  url = "resources"
   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
