@@ -11,7 +11,7 @@ The Rite of Marriage is, "The form for the celebration of the Sacrament of Matri
 
 This is the essential part of getting married in the Catholic Church - a Mass is not required.
 
-**The only sacramentally essential element of the Rite of Marriage is the exchange of consent.**
+**The only sacramentally essential element of the Rite of Marriage is the exchange of consent.** 
 
 There are a couple of important historical notes to make about the Catholic Rite of Marriage before I include the text and rubrics of the rite.
 
