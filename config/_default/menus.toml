@@ -24,10 +24,34 @@
   weight = 40
   
 [[main]]
+  name = "Commentaries"
+  parent = "Resources"
+  url = "resources/commentaries-on-the-wedding-mass"
+  weight = 40  
+  
+[[main]]
+  name = "FAQs"
+  parent = "Resources"
+  url = "resources/faqs"
+  weight = 40
+  
+[[main]]
   name = "Flowers"
   parent = "Resources"
   url = "resources/flowers"
   weight = 40
+  
+[[main]]
+  name = "Glossary"
+  parent = "Resources"
+  url = "resources/glossary"
+  weight = 40  
+  
+[[main]]
+  name = "History"
+  parent = "Resources"
+  url = "resources/history"
+  weight = 40  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
