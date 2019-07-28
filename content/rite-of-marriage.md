@@ -7,15 +7,15 @@ toggle = false
 +++
 # About
 
-The Rite of Marriage is, "The form for the celebration of the Sacrament of Matrimony, as it stands in the 'Rituale Romanum'". [^1]
+The Rite of Marriage is, "The form for the celebration of the Sacrament of Matrimony, as it stands in the 'Rituale Romanum'". \[^1\]
 
 This is the essential part of getting married in the Catholic Church - a Mass is not required.
 
-**The Rite of Marriage takes places before the Mass, and has two parts: 1) exchange of vows, and 2) blessing and exchange of rings.** Usually, the homily takes place at the very beginning, even before the exchange of vows.
+**The only sacramentally essential element of the Rite of Marriage is the exchange of consent.**
 
 There are a couple of important historical notes to make about the Catholic Rite of Marriage before I include the text and rubrics of the rite.
 
-The _Rituale Romanum_ says, "Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained." [^2] For as much as Catholicism prizes universal teachings and practices, she also prizes reverent local customs and traditions. Because of this, and because the marriage texts were not codified until fairly late, there is some variation when it comes to the specific words in the Rite of Marriage. \[^3\] Given that the Rite of Marriage was likely celebrated at least partly in the vernacular, and that until Trent, public wedding Masses were extremely uncommon, variation is even less surprising \[^4\].
+The _Rituale Romanum_ says, "Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained." \[^2\] For as much as Catholicism prizes universal teachings and practices, she also prizes reverent local customs and traditions. Because of this, and because the marriage texts were not codified until fairly late, there is some variation when it comes to the specific words in the Rite of Marriage. \[^3\] Given that the Rite of Marriage was likely celebrated at least partly in the vernacular, and that until Trent, public wedding Masses were extremely uncommon, variation is even less surprising \[^4\].
 
 To quote a wiser source than me:
 
@@ -67,9 +67,9 @@ After this, if the nuptial blessing is to be given, the Mass pro Sponso et Spons
 
 ### Sources
 
-[^1]: Thurston, Herbert. “Ritual of Marriage.” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm").
+\[^1\]: Thurston, Herbert. “Ritual of Marriage.” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm").
 
-[^2]: Catholic Church. “Rite for Celebrating Marriage.” _Rituale Romanum_, 1962, [https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html](https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html "https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html").
+\[^2\]: Catholic Church. “Rite for Celebrating Marriage.” _Rituale Romanum_, 1962, [https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html](https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html "https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html").
 
 \[^3\]: Searle, M., and K. W. Stevenson. _Documents of the Marriage Liturgy_. Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
 
