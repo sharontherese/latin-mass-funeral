@@ -24,7 +24,7 @@
   weight = 40
   
 [[main]]
-  name = Flowers
+  name = "Flowers"
   parent = "Resources"
   url = "flowers"
   weight = 40
