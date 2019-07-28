@@ -1,4 +1,5 @@
 +++
+draft = true
 text = ""
 title = "Glossary"
 toggle = false
