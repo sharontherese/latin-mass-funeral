@@ -11,3 +11,5 @@ I'm a librarian and am unable to be relaxed about anything, so I accrued an abov
 The critical stuff is in 1) The Rite of Marriage and 2) The Wedding Mass.
 
 Any word in _italics_ can be found in the Glossary. I have an FAQ page to get you started.
+
+If you see anything in error, or any accidental heresy, please let me know. 
