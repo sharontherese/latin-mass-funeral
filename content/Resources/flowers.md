@@ -10,7 +10,7 @@ toggle = false
 
 Many flowers have rich traditions in Catholicism. Below is a handful of sources on some flowers and their historical and religious backgrounds.
 
-# Sources
+# Sources 
 
 Foley, Daniel J. “Medieval Mary Garden.” _University of Dayton_, 1953, [https://udayton.edu/imri/mary/m/medieval-mary-garden.php](https://udayton.edu/imri/mary/m/medieval-mary-garden.php "https://udayton.edu/imri/mary/m/medieval-mary-garden.php").
 
