@@ -17,3 +17,5 @@ Any word in _italics_ can be found in the [Glossary](https://www.latinmassweddin
 I have an [FAQ ](https://www.latinmasswedding.com/resources/faqs/)page to get you started.
 
 If you see anything in error, or any accidental heresy, please let me know.
+
+![](/uploads/_MG_0750-min.JPG)
