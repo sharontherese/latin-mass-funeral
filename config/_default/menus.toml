@@ -26,7 +26,7 @@
 [[main]]
   name = "Flowers"
   parent = "Resources"
-  url = "flowers"
+  url = "resources/flowers"
   weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
