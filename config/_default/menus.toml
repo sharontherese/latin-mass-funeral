@@ -60,6 +60,12 @@
   weight = 40  
   
 [[main]]
+  name = "The Mass"
+  parent = "Resources"
+  url = "resources/the-mass"
+  weight = 40  
+  
+[[main]]
   name = "Mass Music"
   parent = "Resources"
   url = "resources/mass-music"
@@ -70,6 +76,19 @@
   parent = "Resources"
   url = "resources/mass-programs"
   weight = 40  
+  
+[[main]]
+  name = "Rubrics"
+  parent = "Resources"
+  url = "resources/rubrics-for-the-wedding-mass"
+  weight = 40  
+  
+[[main]]
+  name = "A Walkthrough"
+  parent = "Resources"
+  url = "resources/walkthrough"
+  weight = 40  
+  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
