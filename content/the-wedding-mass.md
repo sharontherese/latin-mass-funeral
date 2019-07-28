@@ -1,11 +1,13 @@
 +++
-gallery1 = ["/uploads/_MG_0501.JPG", "/uploads/_MG_0559.JPG", "/uploads/_MG_0492.JPG", "/uploads/_MG_0518.JPG"]
+gallery1 = []
 media1 = ""
 text_area = ""
 text_heavy = "Wedding Mass"
 title = "Wedding Mass"
 
 +++
+# About
+
 The Latin Mass wedding Mass (one of many _votive Masses_) is called _Missa pro sponso et sponsa_, or the Mass for the Groom and Bride. It is preceded by the Rite of Marriage.
 
 An important historical note:
