@@ -10,6 +10,10 @@ As a librarian who is chronically unable to be relaxed about anything, much of m
 
 The critical stuff is in the [Rite of Marriage](https://www.latinmasswedding.com/rite-of-marriage/) and the [Wedding Mass](https://www.latinmasswedding.com/the-wedding-mass/).
 
-More information, from [rubrics ](https://www.latinmasswedding.com/resources/rubrics-for-the-wedding-mass/)to [roses](https://www.latinmasswedding.com/resources/flowers/), can be found under [Resources](https://www.latinmasswedding.com/resources/). Any word in [_italics_ ]()can be found in the [Glossary](https://www.latinmasswedding.com/resources/glossary/). I have an [FAQ ](https://www.latinmasswedding.com/resources/faqs/)page to get you started.
+More information, from [rubrics ](https://www.latinmasswedding.com/resources/rubrics-for-the-wedding-mass/)to [roses](https://www.latinmasswedding.com/resources/flowers/), can be found under [Resources](https://www.latinmasswedding.com/resources/). 
+
+Any word in [_italics_ ]()can be found in the [Glossary](https://www.latinmasswedding.com/resources/glossary/). 
+
+I have an [FAQ ](https://www.latinmasswedding.com/resources/faqs/)page to get you started.
 
 If you see anything in error, or any accidental heresy, please let me know.
