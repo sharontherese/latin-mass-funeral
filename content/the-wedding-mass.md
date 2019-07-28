@@ -12,7 +12,7 @@ title = "Wedding Mass"
 
 The Latin Mass wedding Mass (one of many _votive Masses_) is called _Missa pro sponso et sponsa_, or the Mass for the Groom and Bride. It is preceded by the Rite of Marriage.
 
-The text below is from the _Missale Romanum_. Due to different translations and edits over time, there may be slight variations in the Nuptial Blessing in different missals.
+The text below is from the 1962 _Missale Romanum_. \[1\] Due to different translations and edits over time, there may be slight variations in the Nuptial Blessing in different missals.
 
 # Text of the _Missa pro sponso et sponsa_
 
@@ -86,10 +86,8 @@ R. Amen.
 
 May the God of Abraham, the God of Isaac, and the God of Jacob be with you: and may he fulfill his blessing in you; that you may see your children's children to the third and fourth generation: and afterwards enter into the possession of eternal life, through the assistance of our Lord Jesus Christ, who with the Father and the Holy Ghost, liveth, &c.
 
-R. Amen. \[^2\]
+R. Amen. 
 
 ### Sources
 
-\[^1\]: Friel, David. “The Historic Adaptability of the Marriage Rite.” _Corpus Christi Watershed_, 2016, [http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/").
-
-\[^2\]: Catholic Church. _The Roman Missal for the Use of the Laity: Containing the Masses Appointed to Be Said throughout the Year_. London : P. Keating, Brown, 1806. _Internet Archive_, [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
+\[^1\]: Catholic Church. _The Roman Missal for the Use of the Laity: Containing the Masses Appointed to Be Said throughout the Year_. London : P. Keating, Brown, 1806. _Internet Archive_, [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
