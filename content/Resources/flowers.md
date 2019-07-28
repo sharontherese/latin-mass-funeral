@@ -4,6 +4,12 @@ title = "Flowers"
 toggle = false
 
 +++
+# About
+
+Many flowers have rich traditions in Catholicism. Below is a handful of sources on some flowers and their historical and religious backgrounds. 
+
+# Sources
+
 Foley, Daniel J. “Medieval Mary Garden.” _University of Dayton_, 1953, [https://udayton.edu/imri/mary/m/medieval-mary-garden.php](https://udayton.edu/imri/mary/m/medieval-mary-garden.php "https://udayton.edu/imri/mary/m/medieval-mary-garden.php").
 
 > Curiously enough, many of the plants which came to be associated with Our Lady during the Middle Ages and the early Renaissance had been known since before the dawn of Christianity and their attributes were associated with pagan deities. Thus plants formerly associated with and considered sacred to Juno, Venus and Diana of Greek mythology, Bertha and Freyia of Scandinavian traditions were bestowed upon the Madonna. If we ponder the studies of the great humanist scholars and accept the belief that the coming of Christ brought a new sense of values into the world, then it is easy to understand how Christianity flung its shadow over the entire vegetable kingdom. In their ardor to stamp out every vestige of heathen intelligence and thought, the early fathers soon interpreted the folklore and the apparent associations of heathen nature worship with the Christian tradition. In every corner of the Old World, the life and sufferings of Christ and the everyday happenings of Mary and Joseph and the saints dominated the thoughts and the beliefs of peasant and nobleman alike. The Age of Faith had made a deep imprint.
