@@ -26,7 +26,7 @@
 [[main]]
   name = "Commentaries"
   parent = "Resources"
-  url = "resources/commentaries-on-the-wedding-mass"
+  url = "resources/commentaries"
   weight = 40  
   
 [[main]]
@@ -51,6 +51,24 @@
   name = "History"
   parent = "Resources"
   url = "resources/history"
+  weight = 40  
+  
+[[main]]
+  name = "Marriage Preparation"
+  parent = "Resources"
+  url = "resources/marriage-preparation"
+  weight = 40  
+  
+[[main]]
+  name = "Mass Music"
+  parent = "Resources"
+  url = "resources/mass-music"
+  weight = 40  
+  
+[[main]]
+  name = "Mass Programs"
+  parent = "Resources"
+  url = "resources/mass-programs"
   weight = 40  
 
 # Link to a PDF of your resume/CV from the menu.
