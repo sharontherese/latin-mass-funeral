@@ -15,9 +15,9 @@ This is the essential part of getting married in the Catholic Church - a Mass is
 
 There are a couple of important historical notes to make about the Catholic Rite of Marriage before I include the text and rubrics of the rite.
 
-The _Rituale Romanum_ says, "Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained." \[^2\] For as much as Catholicism prizes universal teachings and practices, she also prizes reverent local customs and traditions. 
+The _Rituale Romanum_ says, "Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained." [^2] For as much as Catholicism prizes universal teachings and practices, she also prizes reverent local customs and traditions. 
 
-Because of this, and because the marriage texts were not codified until fairly late, there is some variation when it comes to the specific words in the Rite of Marriage. \[^3\] 
+Because of this, and because the marriage texts were not codified until fairly late, there is some variation when it comes to the specific words in the Rite of Marriage. [^3] 
 
 To quote a wiser source than me:
 
@@ -71,10 +71,10 @@ After this, if the nuptial blessing is to be given, the Mass pro Sponso et Spons
 
 [^1]:: Thurston, Herbert. “Ritual of Marriage.” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm").
 
-\[^2\]: Catholic Church. “Rite for Celebrating Marriage.” _Rituale Romanum_, 1962, [https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html](https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html "https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html").
+[^2]: Catholic Church. “Rite for Celebrating Marriage.” _Rituale Romanum_, 1962, [https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html](https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html "https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html").
 
-\[^3\]: Searle, M., and K. W. Stevenson. _Documents of the Marriage Liturgy_. Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
+[^3]: Searle, M., and K. W. Stevenson. _Documents of the Marriage Liturgy_. Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
 
-\[^4\]: Friel, David. “The Historic Adaptability of the Marriage Rite.” _Corpus Christi Watershed_, 2016, [http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/").
+[^4]: Friel, David. “The Historic Adaptability of the Marriage Rite.” _Corpus Christi Watershed_, 2016, [http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/").
 
-\[^5\]: Catholic Church. _Rituale romanum_. 1873. _Internet Archive_, [http://archive.org/details/ritualeromanum00cath_0](http://archive.org/details/ritualeromanum00cath_0 "http://archive.org/details/ritualeromanum00cath_0").
+[^5]: Catholic Church. _Rituale romanum_. 1873. _Internet Archive_, [http://archive.org/details/ritualeromanum00cath_0](http://archive.org/details/ritualeromanum00cath_0 "http://archive.org/details/ritualeromanum00cath_0").
