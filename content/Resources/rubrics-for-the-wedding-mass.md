@@ -4,6 +4,8 @@ title = "Rubrics for the Wedding Mass"
 toggle = false
 
 +++
+# About
+
 This page is primarily for the priests celebrating Latin Mass weddings.
 
 # Rubrics
