@@ -7,7 +7,7 @@ toggle = false
 +++
 # About
 
-The Rite of Marriage is, "The form for the celebration of the Sacrament of Matrimony, as it stands in the 'Rituale Romanum'". \[^1\]
+The Rite of Marriage is, "The form for the celebration of the Sacrament of Matrimony, as it stands in the 'Rituale Romanum'". [^1]
 
 This is the essential part of getting married in the Catholic Church - a Mass is not required.
 
@@ -69,7 +69,7 @@ After this, if the nuptial blessing is to be given, the Mass pro Sponso et Spons
 
 ### Sources
 
-\[^1\]: Thurston, Herbert. “Ritual of Marriage.” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm").
+[^1]:: Thurston, Herbert. “Ritual of Marriage.” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm").
 
 \[^2\]: Catholic Church. “Rite for Celebrating Marriage.” _Rituale Romanum_, 1962, [https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html](https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html "https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html").
 
