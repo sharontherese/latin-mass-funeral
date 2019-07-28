@@ -4,6 +4,8 @@ title = "Commentaries on the wedding Mass"
 toggle = false
 
 +++
+# About
+
 Below are classic Biblical commentaries on the _propers_ of the wedding Mass.  
 For more commentaries, visit [https://sermonry.com/](https://sermonry.com/ "https://sermonry.com/"). \[1\]
 
