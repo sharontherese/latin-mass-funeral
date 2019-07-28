@@ -4,9 +4,11 @@ title = "Flowers"
 toggle = false
 
 +++
+![](/uploads/_MG_0325-min.JPG)
+
 # About
 
-Many flowers have rich traditions in Catholicism. Below is a handful of sources on some flowers and their historical and religious backgrounds. 
+Many flowers have rich traditions in Catholicism. Below is a handful of sources on some flowers and their historical and religious backgrounds.
 
 # Sources
 
