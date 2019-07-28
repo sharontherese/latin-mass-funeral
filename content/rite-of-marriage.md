@@ -17,11 +17,11 @@ There are a couple of important historical notes to make about the Catholic Rite
 
 The _Rituale Romanum_ says, "Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained." \[^2\] For as much as Catholicism prizes universal teachings and practices, she also prizes reverent local customs and traditions. 
 
-Because of this, and because the marriage texts were not codified until fairly late, there is some variation when it comes to the specific words in the Rite of Marriage. \[^3\] Given that the Rite of Marriage was likely celebrated at least partly in the vernacular, and that until Trent, public wedding Masses were extremely uncommon, variation is even less surprising \[^4\].
+Because of this, and because the marriage texts were not codified until fairly late, there is some variation when it comes to the specific words in the Rite of Marriage. \[^3\] 
 
 To quote a wiser source than me:
 
-> Matrimony has always been celebrated with greater leeway for adaptation than other Sacraments, largely on account of its pre-Christian history as a purely domestic and civil affair. For certain, Trent decreed that marriage is a Sacrament and that it must be celebrated in church, in the presence of a priest. But Trent also left room for local adaptation (“earnestly” so). The marriage formula contained in the _Missale Romanum_ of 1570 is so bare that the austerity, itself, almost implies that it was meant to be the bare minimum to which local customs would be added. Notably, the _Rituale Romanum_ was not published until 1614, nearly half a century after the _Missale Romanum_ of the same council had been promulgated. During those intervening years, all that was provided was a Mass formulary in the 1570 missal. Even after the publication of the _Rituale_, “one must doubt that it was ever intended to be used as it stood.” Evidence shows, in fact, that local customs continued to be used in the period before the _Rituale_ was published and even afterward, up until the late nineteenth century. \[^5\]
+> Matrimony has always been celebrated with greater leeway for adaptation than other Sacraments, largely on account of its pre-Christian history as a purely domestic and civil affair. For certain, Trent decreed that marriage is a Sacrament and that it must be celebrated in church, in the presence of a priest. But Trent also left room for local adaptation (“earnestly” so). The marriage formula contained in the _Missale Romanum_ of 1570 is so bare that the austerity, itself, almost implies that it was meant to be the bare minimum to which local customs would be added. Notably, the _Rituale Romanum_ was not published until 1614, nearly half a century after the _Missale Romanum_ of the same council had been promulgated. During those intervening years, all that was provided was a Mass formulary in the 1570 missal. Even after the publication of the _Rituale_, “one must doubt that it was ever intended to be used as it stood.” Evidence shows, in fact, that local customs continued to be used in the period before the _Rituale_ was published and even afterward, up until the late nineteenth century. [^4]
 
 (Note for those confused about the Latin book titles, as I was: the _Rituale_ has the texts for celebrating rituals, sacraments, and other ceremonies; the _Missale_ has the texts for celebrating the Mass.)
 
@@ -29,7 +29,7 @@ In the excerpt of the _Rituale_ below, note that the marriage vows do not includ
 
 Now that we have some context -
 
-I include the text for the Rite of Marriage, as found in the 1962 _Rituale Romanum._ This is to give you a starting point, an idea of what to expect. You can peruse plenty of _Rituales_ online from earlier years and find slight variations in the text (like a _Rituale_ from 1873 with English, Gallic, and German vows) \[6\]. What usually remains the same are that the Rite of Marriage took place before the Mass, and the 3 parts of the Rite: 1) homily, 2) exchange of vows, and 3) blessing and exchange of rings.
+I include the text for the Rite of Marriage, as found in the 1962 _Rituale Romanum._ This is to give you a starting point, an idea of what to expect. You can peruse plenty of _Rituales_ online from earlier years and find slight variations in the text (like a _Rituale_ from 1873 with English, Gallic, and German vows) [^5]. What usually remains the same are that the Rite of Marriage took place before the Mass, and the 3 parts of the Rite: 1) homily, 2) exchange of vows, and 3) blessing and exchange of rings.
 
 # The Text of the Rite of Marriage
 
@@ -75,8 +75,6 @@ After this, if the nuptial blessing is to be given, the Mass pro Sponso et Spons
 
 \[^3\]: Searle, M., and K. W. Stevenson. _Documents of the Marriage Liturgy_. Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
 
-\[^\] Ibid.
+\[^4\]: Friel, David. “The Historic Adaptability of the Marriage Rite.” _Corpus Christi Watershed_, 2016, [http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/").
 
-\[^5\]: Friel, David. “The Historic Adaptability of the Marriage Rite.” _Corpus Christi Watershed_, 2016, [http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/").
-
-\[^6\]: Catholic Church. _Rituale romanum_. 1873. _Internet Archive_, [http://archive.org/details/ritualeromanum00cath_0](http://archive.org/details/ritualeromanum00cath_0 "http://archive.org/details/ritualeromanum00cath_0").
+\[^5\]: Catholic Church. _Rituale romanum_. 1873. _Internet Archive_, [http://archive.org/details/ritualeromanum00cath_0](http://archive.org/details/ritualeromanum00cath_0 "http://archive.org/details/ritualeromanum00cath_0").
