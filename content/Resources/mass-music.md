@@ -37,13 +37,7 @@ _Ave Verum Corpus_, Wolfgang Amadeus Mozart (polyphony)
 _O God Beyond All Praising_, Michael Perry (hymn)  
 _Organ Symphony No. 5, Toccata_, Charles-Marie Widor (organ)
 
-## Sources
-
-\[^1\]:“Gregorian Propers • St. René Goupil Gradual.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/goupil/](http://www.ccwatershed.org/goupil/ "http://www.ccwatershed.org/goupil/"). (Scroll down to "Nuptial Mass")
-
-\[^2\]:“St. Antoine Daniel Kyriale.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). (Scroll down to "Mass VIII")
-
-## On sacred music (chant and polyphony)
+## Settings (chant and polyphony)
 
 “Twenty-Four Questions on Sacred Music.” Church Music Association of America. Accessed June 3, 2019. [https://musicasacra.com/about-cmaa/faq/](https://musicasacra.com/about-cmaa/faq/ "https://musicasacra.com/about-cmaa/faq/").
 
@@ -51,7 +45,7 @@ _Organ Symphony No. 5, Toccata_, Charles-Marie Widor (organ)
 
 Gattozzi, Bibiana. “Catholic Artistic Piety in a Motet.” _The Angelus Online_ (blog). Accessed June 3, 2019. [http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667](http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667 "http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667").
 
-## On texts (_propers_, _ordinaries_, and hymns)
+## Texts (_propers_, _ordinaries_, and hymns)
 
 Gastoue, A. “The ‘Missa de Angelis.’” Translated by Albert Gingras. _The Caecilia_, December 1933, 375–78.
 
@@ -68,3 +62,9 @@ Ostrowski, Jeff. “Free Musical Scores For Catholic Weddings.” Corpus Christi
 Pope Pius X. “Tra Le Sollecitudini (Instruction on Sacred Music),” 1903. [https://adoremus.org/1903/11/22/tra-le-sollecitudini/](https://adoremus.org/1903/11/22/tra-le-sollecitudini/ "https://adoremus.org/1903/11/22/tra-le-sollecitudini/").
 
 > Gregorian Chant has always been regarded as the supreme model for sacred music. \[....\] The language proper to the Roman Church is Latin. Hence it is forbidden to sing anything whatever in the vernacular in solemn liturgical functions – much more to sing in the vernacular the variable or common parts of the Mass and Office.
+
+## Sources
+
+\[^1\]:“Gregorian Propers • St. René Goupil Gradual.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/goupil/](http://www.ccwatershed.org/goupil/ "http://www.ccwatershed.org/goupil/"). (Scroll down to "Nuptial Mass")
+
+\[^2\]:“St. Antoine Daniel Kyriale.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). (Scroll down to "Mass VIII")
