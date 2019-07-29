@@ -18,9 +18,11 @@ A Catholic wedding Mass has two parts:
 1. the Rite of Marriage
 2. the wedding Mass.
 
-The current form of the Catholic Mass (the _Novus Ordo_) has the _Rite of Marriage_ taking place in the middle of Mass, directly after the homily. The older form of the Catholic Mass (the _Latin Mass_) is substantially different from the _Novus Ordo_, and places the Rite of Marriage before the Mass begins.
+In my experience, the vast majority of Catholic wedding resources online presuppose that the couple will have a _Novus Ordo_ Mass (the current form of the Catholic Mass) - to say nothing of the fact that most wedding resources in general focus on the reception. 
 
-This website provides information for those who would like a Latin Mass wedding, or are interested in learning about beautiful nuptial treasures of the Church.
+There are numerous and significant differences between a _Novus Ordo_ wedding Mass, and a _Latin Mass_ wedding. _Novus Ordo_ wedding Masses have a high degree of liturgical customization and has the _Rite of Marriage_ taking place in the middle of Mass, directly after the homily. The _Latin Mass_ set, and places the Rite of Marriage before the Mass begins.
+
+This website provides information for those who would like a Latin Mass wedding, or are interested in learning about beautiful nuptial treasures of the Church. 
 
 Wedding photography provided by Africa Schaumann.  
 Unhelpful commentary provided by William Kabel.
