@@ -4,9 +4,6 @@ title = "History"
 toggle = false
 
 +++
-_13th century Carthusian diurnal  
-Notre Dame, Hesburgh Library, Cod. Lat. b 4, 348r_
-
 Both the Rite of Marriage and the Wedding Mass have complex histories, which are well worth exploring:
 
 * **4th century**: In his _Vulgate_, St. Jerome translates the Greek _mysterion_ into the Latin _sacramentum_, thus affirming Marriage as one of the seven Sacraments of the Catholic Church \[^1\] {^2\]. Paulinus, bishop of Nola, provides us with the earliest documented instance of a Catholic wedding Mass in the West. Notably, there is no exchange of rings or vows (which scholars suggest likely took place earlier, in the home), and no celebration of the Eucharist. \[^3\]
