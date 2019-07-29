@@ -84,7 +84,7 @@
   weight = 40  
   
 [[main]]
-  name = "A Walkthrough"
+  name = "Walkthrough"
   parent = "Resources"
   url = "resources/walkthrough"
   weight = 40  
