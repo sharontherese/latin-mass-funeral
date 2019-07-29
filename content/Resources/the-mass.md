@@ -6,7 +6,7 @@ toggle = false
 +++
 ## About
 
-These are a scattershot collection of resources on and about the _Latin Mass_. As a place to start, below is the text that I wrote to include in my wedding program. You are welcome to reuse it, if you show attribution: 
+These are a scattershot collection of resources on and about the _Latin Mass_. They range from missals to books to blog posts to pamphlets. As a place to start, below is the text that I wrote to include in my wedding program. You are welcome to reuse it, if you show attribution:
 
 > What you will see today is a wedding service, followed by an older form of the Catholic mass that was universally celebrated until the Second Vatican Council. The key differences are the language, the order of events, and the music.
 >
@@ -21,10 +21,6 @@ These are a scattershot collection of resources on and about the _Latin Mass_. A
 > What we have chosen are the musical settings for the mass parts, and several motets and organ pieces. The Catholic Church has a beautiful, ancient, and diverse patrimony of sacred music, and we have done our best to adorn our wedding mass with the most appropriate blend of Gregorian chant and polyphony.
 
 ## Sources
-
-“Marriage Ceremonies during the Forbidden Time (Tempus Clausum).” _American Ecclesiastical Review_ 22 (1900). [https://books.google.com/books?id=qdAoAAAAYAAJ](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
-
-“Sermonry.” Sermonry, 2019. [https://sermonry.com/](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
 
 “Traditional Catholicism 101: A Brief Primer.” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/traditionalcatholicism.html](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
 
