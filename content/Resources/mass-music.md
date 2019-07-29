@@ -6,9 +6,9 @@ toggle = false
 +++
 ## About
 
-The ideal music _setting_ for the Mass is _gregorian chant_, followed by _polyphony_. In a sung _Latin Mass_, what is sung are the _propers_ and _ordinaries_. Historically, hymns were discouraged in the Mass.
+The ideal music _setting_ for the Mass is _gregorian chant_, followed by _polyphony_. In a sung _Latin Mass_, what is sung are the _propers_ and _ordinaries_. Historically, hymns were discouraged in the Mass. Your Latin Mass wedding music will depend mostly on the musical resources available to your church.
 
-Here is how our wedding Mass music looked: 
+Here is how our wedding Mass music looked:
 
 **Prelude:**  
 _Veni Creator Spiritus_, Rabanus Maurus (gregorian chant)  
@@ -17,31 +17,31 @@ _Alma Redemptoris_, Giovanni Pierluigi da Palestrina (polyphony)
 **Procession:**  
 _Te Deum_, Marc-Antoine Charpentier (organ)
 
-**Propers:**   
-all gregorian chant [^1]
+**Propers:**  
+all gregorian chant \[^1\]
 
 **Ordinaries:**  
-Mass setting VIII, Missa de Angelis [^2]
+Mass setting VIII, Missa de Angelis \[^2\]
 
-**Offertory motet:**   
+**Offertory motet:**  
 Psalm 117 (gregorian chant)
 
-**Communion motet:**   
+**Communion motet:**  
 _Sicut Cervus_, Giovanni Pierluigi da Palestrina (polyphony)  
 _Te Deum_, Nicetas of Remesiana (gregorian chant)
 
-**Presentation of flowers to Mary:**   
+**Presentation of flowers to Mary:**  
 _Ave Verum Corpus_, Wolfgang Amadeus Mozart (polyphony)
 
-**Recessional:**   
+**Recessional:**  
 _O God Beyond All Praising_, Michael Perry (hymn)  
 _Organ Symphony No. 5, Toccata_, Charles-Marie Widor (organ)
 
 ## Sources
 
-[^1]:“Gregorian Propers • St. René Goupil Gradual.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/goupil/](http://www.ccwatershed.org/goupil/ "http://www.ccwatershed.org/goupil/"). (Scroll down to "Nuptial Mass")
+\[^1\]:“Gregorian Propers • St. René Goupil Gradual.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/goupil/](http://www.ccwatershed.org/goupil/ "http://www.ccwatershed.org/goupil/"). (Scroll down to "Nuptial Mass")
 
-[^2]:“St. Antoine Daniel Kyriale.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). (Scroll down to "Mass VIII")
+\[^2\]:“St. Antoine Daniel Kyriale.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). (Scroll down to "Mass VIII")
 
 ## On sacred music (chant and polyphony)
 
