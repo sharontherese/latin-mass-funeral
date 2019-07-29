@@ -20,4 +20,5 @@ fields:
   type: boolean
   label: toggle
 pages:
+- content/Resources/married-saints.md
 - content/about-2.md
