@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Noto Serif"
+name = "Lato"
 
 # Optional Google font URL
-google_fonts = "Noto+Serif"
+google_fonts = "Lato"
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Noto+Serif"
-nav_font = "Montserrat"
-mono_font = "Noto+Serif"
+body_font = "Lato"
+nav_font = "Lato"
+mono_font = "Lato"
 
 # Font size
 font_size = "20"
