@@ -6,7 +6,7 @@ toggle = false
 +++
 ![](/uploads/_MG_0501-min.JPG)
 
-## About
+# About
 
 These are a scattershot collection of resources on and about the _Latin Mass_. They range from missals to books to blog posts to pamphlets. As a place to start, below is the text that I wrote to include in my wedding program. You are welcome to reuse it, if you show attribution:
 
@@ -22,7 +22,7 @@ These are a scattershot collection of resources on and about the _Latin Mass_. T
 >
 > What we have chosen are the musical settings for the mass parts, and several motets and organ pieces. The Catholic Church has a beautiful, ancient, and diverse patrimony of sacred music, and we have done our best to adorn our wedding mass with the most appropriate blend of Gregorian chant and polyphony.
 
-## Introduction to the Latin Mass
+# Introduction to the Latin Mass
 
 “Introduction to the Traditional Latin (Tridentine) Mass.” In _St. Joseph’s Daily Missal_, 1959. [http://www.the-latinmass.com/id7.html](http://www.the-latinmass.com/id7.html "http://www.the-latinmass.com/id7.html").
 
@@ -32,7 +32,7 @@ These are a scattershot collection of resources on and about the _Latin Mass_. T
 
 “Tridentine Mass Introduction For Newcomers.” _EXSULTATE IUSTI IN DOMINO Mother of Divine Mercy Parish Tridentine Community Blog_ (blog), December 21, 2011. [https://stjosaphat.wordpress.com/tridentine-mass-introduction-for-newcomers/](https://stjosaphat.wordpress.com/tridentine-mass-introduction-for-newcomers/ "https://stjosaphat.wordpress.com/tridentine-mass-introduction-for-newcomers/").
 
-## More Latin Mass resources
+# More Latin Mass resources
 
 “Traditional Catholicism 101: A Brief Primer.” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/traditionalcatholicism.html](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
 
