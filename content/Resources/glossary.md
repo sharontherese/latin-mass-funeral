@@ -5,13 +5,13 @@ toggle = false
 
 +++
 **Latin Mass  
-**Also called the Extraordinary Form, Mass of St. Gregory the Great, the Tridentine Mass/Rite, or the old Mass.
+Also called the Extraordinary Form, Mass of St. Gregory the Great, the Tridentine Mass/Rite, or the old Mass.
 
 **Novus Ordo  
-**Also called the Ordinary Form, the new Mass.
+Also called the Ordinary Form, the new Mass.
 
 **Proper  
-**The texts of the Mass that change based on the day or feast; namely, the Introit, Gradual, Alleluia-Verse, Sequence, Tract, Offertory, and Communion.
+The texts of the Mass that change based on the day or feast; namely, the Introit, Gradual, Alleluia-Verse, Sequence, Tract, Offertory, and Communion.
 
 **Ordinary  
 **The texts of the Mass that do not change; namely, the Kyrie, the Gloria, the Credo, the Sanctus, the Benedictus, and the Agnus Dei.
