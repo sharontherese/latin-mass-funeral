@@ -20,7 +20,7 @@ Below are supplemental materials about Catholic marriage, and the domestic life.
 
 ## Catechesis & Classics
 
-Heuser, Herman J. (Herman Joseph). _The Parish Priest on Duty : A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission_. New York : Benziger Brothers, 1904. [http://archive.org/details/theparishpriesto00heusuoft](http://archive.org/details/theparishpriesto00heusuoft "http://archive.org/details/theparishpriesto00heusuoft").
+Heuser, Herman J. (Herman Joseph). _The Parish Priest on Duty: A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission_. New York: Benziger Brothers, 1904. [http://archive.org/details/theparishpriesto00heusuoft](http://archive.org/details/theparishpriesto00heusuoft "http://archive.org/details/theparishpriesto00heusuoft").
 
 Semmler, Nerius. _For Bride and Groom: A Pre-Nuptial Instruction Based on the Encyclical Letter of Pope Pius XI, Casti Connubii, December 31, 1930 /_. Our Sunday Visitor, 1950. [https://www.lib.cua.edu/rarebook/node/4391](https://www.lib.cua.edu/rarebook/node/4391 "https://www.lib.cua.edu/rarebook/node/4391").
 
@@ -33,6 +33,10 @@ Von Hildebrand, Alice. _By Love Refined: Letters to a Young Bride_. Sophia Insti
 “The Christian Home: A Guide to Happiness in the Home: Chapter I.” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/home2.html](https://www.fisheaters.com/home2.html "https://www.fisheaters.com/home2.html").
 
 “The Domestic Church: The Catholic Home.” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/domesticchurch.html](https://www.fisheaters.com/domesticchurch.html "https://www.fisheaters.com/domesticchurch.html").
+
+_Carrots for Michaelmas_ (blog). Accessed July 29, 2019. [https://www.carrotsformichaelmas.com/](https://www.carrotsformichaelmas.com/ "https://www.carrotsformichaelmas.com/").
+
+Ellis, Alice Thomas. _Home Life_. Royal National Institute of the Blind, 2004. [https://books.google.com/books?id=aKmNvgEACAAJ](https://books.google.com/books?id=aKmNvgEACAAJ "https://books.google.com/books?id=aKmNvgEACAAJ").
 
 ## Fertility, Health, & Intimacy
 
@@ -47,6 +51,12 @@ Miriano, Costanza. _Marry Her and Die for Her_. TAN Books, 2017. [https://books.
 ———. _Marry Him and Be Submissive_. ST BENEDICT, 2016. [https://books.google.com/books?id=mTUrvgAACAAJ](https://books.google.com/books?id=mTUrvgAACAAJ "https://books.google.com/books?id=mTUrvgAACAAJ").
 
 Weschler, T. _Taking Charge of Your Fertility Revised Edition: The Definitive Guide to Natural Birth Control and Pregnancy Achievement_. HarperCollins, 2001. [https://books.google.com/books?id=aRiX7MLSp7cC](https://books.google.com/books?id=aRiX7MLSp7cC "https://books.google.com/books?id=aRiX7MLSp7cC").
+
+## Philosophy
+
+Chesterton, Gilbert Keith. _What’s Wrong with the World_. Cassell, 1912. [http://www.gutenberg.org/ebooks/1717](http://www.gutenberg.org/ebooks/1717 "http://www.gutenberg.org/ebooks/1717").
+
+Pieper, Josef. _Happiness and Contemplation_. Regnery, 1966. [https://books.google.com/books?id=J25QngEACAAJ](https://books.google.com/books?id=J25QngEACAAJ "https://books.google.com/books?id=J25QngEACAAJ").
 
 ## Pamphlets from the International Catholic Truth Society
 
