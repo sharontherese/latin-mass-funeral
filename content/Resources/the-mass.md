@@ -1,40 +1,39 @@
 +++
-draft = true
 text = ""
 title = "The Mass"
 toggle = false
 
 +++
-# Liturgy
+## About
 
-[https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/](https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/ "https://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/")
+These are a scattershot collection of resources on and about the _Latin Mass_. 
 
-_From Sacrament to Contract_, by John Witte Jr. \[Chapters 1-4\]
+## Sources
 
-[https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html](https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html "https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html")
+“Marriage Ceremonies during the Forbidden Time (Tempus Clausum).” _American Ecclesiastical Review_ 22 (1900). [https://books.google.com/books?id=qdAoAAAAYAAJ](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
 
-[http://www.latinliturgy.com/lmtexts.html](http://www.latinliturgy.com/lmtexts.html "http://www.latinliturgy.com/lmtexts.html")
+“Sermonry.” Sermonry, 2019. [https://sermonry.com/](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
 
-[https://sermonry.com/](https://sermonry.com/ "https://sermonry.com/")
+“Traditional Catholicism 101: A Brief Primer.” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/traditionalcatholicism.html](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
 
-Marriage Ceremonies during the forbidden time, American Ecclesiastical Review, Volume 22  
-[https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false](https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false "https://books.google.com/books?id=qdAoAAAAYAAJ&pg=PA407&lpg=PA407&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=xS5C07dLhm&sig=ACfU3U2OoXpK_Crh5kjF_yDWNQZtnic0Lw&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwB3oECAgQAQ#v=onepage&q&f=false")
+“Tridentine Latin Rite Missal Project.” Tridentine Latin Rite Missal Project. Accessed April 12, 2018. [http://missale.heliohost.org/](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
 
-Catholic Encyclopedia entry on Mass  
-[https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false](https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false "https://books.google.com/books?id=zbdAAQAAIAAJ&pg=PA6&lpg=PA6&dq=rubrics+for+priest+%22missa+pro+sponso%22&source=bl&ots=nz-GfDCas-&sig=ACfU3U2HI_DfvAVu99LfqhufmwEG-aKlaA&hl=en&sa=X&ved=2ahUKEwiS49KR8LziAhXVo54KHfTdDRsQ6AEwCXoECAcQAQ#v=onepage&q&f=false")
+braniac. “How to Plan a Traditional Latin Mass Wedding.” _Our Everyday Life_ (blog). Accessed June 3, 2019. [https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html](https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html "https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html").
 
-The Roman missal for the use of the laity [https://archive.org/details/a550137400unknuoft/page/n717](https://archive.org/details/a550137400unknuoft/page/n717 "https://archive.org/details/a550137400unknuoft/page/n717")
+Carota, Father. “Traditional Catholic Wedding Ceremony Vs New Wedding Ceremony.” _Traditional Catholic Priest_ (blog), September 4, 2014. [http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/](http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/ "http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/").
 
-Manuscripts  
-[http://cantusindex.org/feasts/2946](http://cantusindex.org/feasts/2946 "http://cantusindex.org/feasts/2946")
+Catholic Church. _The Roman Missal for the Use of the Laity: Containing the Masses Appointed to Be Said throughout the Year_. London : P. Keating, Brown, 1806. [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
 
-Missals  
-[http://missale.heliohost.org/](http://missale.heliohost.org/ "http://missale.heliohost.org/")
+Coakley, Thomas F. 1880-1951. _The Nuptial Mass : Explanation of the Beautiful Rites and Ceremonies of a Catholic Wedding /_. Catholic Truth Society, 1939.
 
-Regina Caeli Parish. _Low Mass, Sung Mass, High Mass, Solemn Mass_. 12 June 2013, [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
+Fortescue, Adrian. “Nuptial Mass.” In _The Catholic Encyclopedia_. Vol. 10. New York: Robert Appleton Company, 1911. [https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html](https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html "https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html").
 
-“Traditional Catholicism 101: A Brief Primer.” _Fish Eaters_, [https://www.fisheaters.com/traditionalcatholicism.html](https://www.fisheaters.com/traditionalcatholicism.html "https://www.fisheaters.com/traditionalcatholicism.html"). Accessed 3 June 2019.
+Gueranger, Prosper. _Explanation of the Prayers and Ceremonies of Holy Mass_, 1885. [https://sanctamissa.org/en/spirituality/explanation-of-the-prayers-and-ceremonies-gueranger.pdf](https://sanctamissa.org/en/spirituality/explanation-of-the-prayers-and-ceremonies-gueranger.pdf "https://sanctamissa.org/en/spirituality/explanation-of-the-prayers-and-ceremonies-gueranger.pdf").
 
-braniac. “How to Plan a Traditional Latin Mass Wedding.” _Our Everyday Life_, [https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html](https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html "https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html"). Accessed 3 June 2019.
+Jackson, J.W. _Nothing Superfluous_. Redbrush, 2016. [https://books.google.com/books?id=dBnZtAEACAAJ](https://books.google.com/books?id=dBnZtAEACAAJ "https://books.google.com/books?id=dBnZtAEACAAJ").
 
-Carota, Father. “Traditional Catholic Wedding Ceremony Vs New Wedding Ceremony.” _Traditional Catholic Priest_, 4 Sept. 2014, [http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/](http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/ "http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/").
+Latin Liturgy Association. “How to Celebrate the Traditional Latin Mass.” Latin Liturgy Association. Accessed June 4, 2019. [http://www.latinliturgy.com/howtotlm.html](http://www.latinliturgy.com/howtotlm.html "http://www.latinliturgy.com/howtotlm.html").
+
+———. “Texts for the Latin Mass (Both Forms).” Latin Liturgy Association. Accessed June 4, 2019. [http://www.latinliturgy.com/lmtexts.html](http://www.latinliturgy.com/lmtexts.html "http://www.latinliturgy.com/lmtexts.html").
+
+Regina Caeli Parish. “Low Mass, Sung Mass, High Mass, Solemn Mass,” June 12, 2013. [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
