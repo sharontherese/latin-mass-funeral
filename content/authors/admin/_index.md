@@ -26,3 +26,7 @@ The site mirrors a Latin Mass wedding as closely as possible: the Rite of Marria
 
 Wedding photography provided by Africa Schaumann.  
 Unhelpful commentary provided by William Kabel.
+
+Do you have a resource to recommend? See something in error or a broken link? Spot some liturgical heresy? Contact me, or, for the less forgiving, contact your local inquisition tribunal. 
+
+\-Sharon
