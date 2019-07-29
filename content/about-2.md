@@ -16,4 +16,4 @@ I have an [FAQ ](https://www.latinmasswedding.com/resources/faqs/)page to get yo
 
 If you see anything in error, or any accidental heresy, please let me know.
 
-![](/uploads/_MG_0750-min.JPG)
+![](/uploads/_MG_0753-min.JPG)
