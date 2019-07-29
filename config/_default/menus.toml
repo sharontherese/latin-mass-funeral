@@ -60,7 +60,7 @@
   weight = 40  
   
 [[main]]
-  name = "The Latin Mass"
+  name = "Latin Mass"
   parent = "Resources"
   url = "resources/the-mass"
   weight = 40  
