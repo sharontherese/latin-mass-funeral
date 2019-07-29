@@ -23,12 +23,19 @@ all gregorian chant \[1\]
 **Ordinaries:**  
 Mass setting VIII, Missa de Angelis \[2\]
 
+**Offertory motet:**   
+Psalm 117 (gregorian chant)
+
 **Communion motet:**   
 _Sicut Cervus_, Giovanni Pierluigi da Palestrina (polyphony)  
 _Te Deum_, Nicetas of Remesiana (gregorian chant)
 
 **Presentation of flowers to Mary:**   
 _Ave Verum Corpus_, Wolfgang Amadeus Mozart (polyphony)
+
+**Recessional:**   
+_O God Beyond All Praising_, Michael Perry (hymn)  
+_Organ Symphony No. 5, Toccata_, Charles-Marie Widor (organ)
 
 ## Sources
 
