@@ -12,8 +12,7 @@ day_night = true
 font = "classic"
 
 #post-content {
-  font-size: 14px;
-}
+  font-size: 14px;}
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
