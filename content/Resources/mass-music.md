@@ -18,10 +18,10 @@ _Alma Redemptoris_, Giovanni Pierluigi da Palestrina (polyphony)
 _Te Deum_, Marc-Antoine Charpentier (organ)
 
 **Propers:**   
-all gregorian chant \[1\]
+all gregorian chant [^1]
 
 **Ordinaries:**  
-Mass setting VIII, Missa de Angelis \[2\]
+Mass setting VIII, Missa de Angelis [^2]
 
 **Offertory motet:**   
 Psalm 117 (gregorian chant)
@@ -39,9 +39,9 @@ _Organ Symphony No. 5, Toccata_, Charles-Marie Widor (organ)
 
 ## Sources
 
-\[1\] “Gregorian Propers • St. René Goupil Gradual.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/goupil/](http://www.ccwatershed.org/goupil/ "http://www.ccwatershed.org/goupil/"). (Scroll down to "Nuptial Mass")
+[^1]:“Gregorian Propers • St. René Goupil Gradual.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/goupil/](http://www.ccwatershed.org/goupil/ "http://www.ccwatershed.org/goupil/"). (Scroll down to "Nuptial Mass")
 
-\[2\] “St. Antoine Daniel Kyriale.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). (Scroll down to "Mass VIII")
+[^2]:“St. Antoine Daniel Kyriale.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). (Scroll down to "Mass VIII")
 
 ## On sacred music (chant and polyphony)
 
