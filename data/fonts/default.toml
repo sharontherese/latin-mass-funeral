@@ -1,1 +1,15 @@
+# Font style metadata
+name = "Default"
 
+# Optional Google font URL
+google_fonts = "Crimson+Pro"
+
+# Font families
+heading_font = "Montserrat"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "16"
+font_size_small = "16"
