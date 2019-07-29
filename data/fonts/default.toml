@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Crimson Pro"
+name = "Noto Serif"
 
 # Optional Google font URL
-google_fonts = "Crimson+Pro"
+google_fonts = "Noto+Serif"
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Crimson Pro"
-nav_font = "Crimson Pro"
-mono_font = "Crimson Pro"
+body_font = "Noto+Serif"
+nav_font = "Montserrat"
+mono_font = "Noto+Serif"
 
 # Font size
 font_size = "20"
