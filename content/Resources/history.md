@@ -4,7 +4,6 @@ title = "History"
 toggle = false
 
 +++
-![](https://lh4.googleusercontent.com/x6ObUkn4rtltHc9_epytUl97uQvVSH_LbT1JaEdbJPXmnQDJHvZOrIaC2T6TOx3CxD8L6ifymyQQtW--Kyo8qN2jdYjZEToqxgK6k7fBH1nJHBTZfJIMXkqnn3drRBP-oUN8aMKH =282x252)  
 _13th century Carthusian diurnal  
 Notre Dame, Hesburgh Library, Cod. Lat. b 4, 348r_
 
