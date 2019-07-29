@@ -6,9 +6,9 @@ google_fonts = "Crimson+Pro"
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+body_font = "Montserrat"
+nav_font = "Crimson Pro"
+mono_font = "Crimson Pro"
 
 # Font size
 font_size = "16"
