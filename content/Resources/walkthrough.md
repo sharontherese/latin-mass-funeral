@@ -8,7 +8,7 @@ toggle = false
 
 Below is a quick visual walkthrough of a Latin Mass wedding, with photos from our wedding. (For more photos of Latin Mass weddings, visit the [Latin Mass Society of Australia](https://www.facebook.com/lmsaus.org/)'s facebook page.)
 
-# The Rite of Marriage
+## Latin Mass wedding walkthrough
 
 ![](/uploads/IMG_0400-min.JPG)The priest(s) and altar servers may already be on the altar when the bride processes in, or the bride may process in behind the priest(s) and altar servers.
 
