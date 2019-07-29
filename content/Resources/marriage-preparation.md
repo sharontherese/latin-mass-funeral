@@ -6,7 +6,7 @@ toggle = false
 +++
 ![Image may contain: 1 person](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/24852463_10155818354479976_5392363803206664041_n.jpg?_nc_cat=103&_nc_oc=AQkcICCbglMTQqyOEK0duxfx1VRjOGaxL2J0YeObYntwhHaUlw9DlG2rNonG6UmFFbFvu22k3K2lymnfND0YszFN&_nc_ht=scontent-lga3-1.xx&oh=3f0529f1f76da40e9c8876bbcd76cbaa&oe=5DA3EC1F)
 
-## About
+# About
 
 First and foremost: Contact your parish and your diocese to determine the required marriage preparation procedures (sometimes called Pre-Cana). Typically, Catholic dioceses and parishes require some or all of the following:
 
@@ -18,7 +18,7 @@ First and foremost: Contact your parish and your diocese to determine the requir
 
 Below are supplemental materials about Catholic marriage, and the domestic life. This list is not comprehensive, and in no particular thematic order. They range from academic tomes to early 20th century pamphlets to recent social media campaigns.
 
-## Catechesis & Classics
+# Catechesis & Classics
 
 “Holy Matrimony.” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html").
 
@@ -30,7 +30,7 @@ Sheen, F.J. _Three to Get Married_. Catholic Insight Series. Appleton-Century-Cr
 
 Von Hildebrand, Alice. _By Love Refined: Letters to a Young Bride_. Sophia Institute Press, 1997. [https://books.google.com/books?id=KaCQAQAAQBAJ](https://www.lib.cua.edu/rarebook/node/4391 "https://www.lib.cua.edu/rarebook/node/4391").
 
-## The Domestic Realm
+# The Domestic Realm
 
 “The Christian Home: A Guide to Happiness in the Home: Chapter I.” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/home2.html](https://www.fisheaters.com/home2.html "https://www.fisheaters.com/home2.html").
 
@@ -40,7 +40,7 @@ _Carrots for Michaelmas_ (blog). Accessed July 29, 2019. [https://www.carrotsfor
 
 Ellis, Alice Thomas. _Home Life_. Royal National Institute of the Blind, 2004. [https://books.google.com/books?id=aKmNvgEACAAJ](https://books.google.com/books?id=aKmNvgEACAAJ "https://books.google.com/books?id=aKmNvgEACAAJ").
 
-## Fertility, Health, & Intimacy
+# Fertility, Health, & Intimacy
 
 “Allay Women and Family Resources.” Accessed June 3, 2019. [https://www.facebook.com/allayresources/](https://www.facebook.com/allayresources/ "https://www.facebook.com/allayresources/").
 
@@ -52,13 +52,13 @@ Miriano, Costanza. _Marry Her and Die for Her_. TAN Books, 2017. [https://books.
 
 Weschler, T. _Taking Charge of Your Fertility Revised Edition: The Definitive Guide to Natural Birth Control and Pregnancy Achievement_. HarperCollins, 2001. [https://books.google.com/books?id=aRiX7MLSp7cC](https://books.google.com/books?id=aRiX7MLSp7cC "https://books.google.com/books?id=aRiX7MLSp7cC").
 
-## Philosophy
+# Philosophy
 
 Chesterton, Gilbert Keith. _What’s Wrong with the World_. Cassell, 1912. [http://www.gutenberg.org/ebooks/1717](http://www.gutenberg.org/ebooks/1717 "http://www.gutenberg.org/ebooks/1717").
 
 Pieper, Josef. _Happiness and Contemplation_. Regnery, 1966. [https://books.google.com/books?id=J25QngEACAAJ](https://books.google.com/books?id=J25QngEACAAJ "https://books.google.com/books?id=J25QngEACAAJ").
 
-## Pamphlets from the International Catholic Truth Society
+# Pamphlets from the International Catholic Truth Society
 
 A Catholic Woman Doctor. “A Talk to Catholic Wives.” International Catholic Truth Society, 1953. [https://lxoa.wordpress.com/2010/08/24/a-talk-to-catholic-wives/](https://lxoa.wordpress.com/2010/08/24/a-talk-to-catholic-wives/ "https://lxoa.wordpress.com/2010/08/24/a-talk-to-catholic-wives/").
 
