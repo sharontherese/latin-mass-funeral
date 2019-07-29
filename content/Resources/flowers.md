@@ -63,3 +63,9 @@ Larum, Darcy. “Bells Of Ireland Plant Info.” _Gardening Know How’s Blog_, 
 > Rue is considered a national herb of Lithuania and it is the most frequently referred herb in Lithuanian folk songs, as an attribute of young girls, associated with virginity and maidenhood. It was common in traditional Lithuanian weddings for only virgins to wear a rue (ruta) at their wedding, a symbol to show their purity.
 
 Coats, A. M. _Garden Shrubs and Their Histories_. Dutton, 1965, [https://books.google.com/books?id=byLxAAAAMAAJ](https://books.google.com/books?id=byLxAAAAMAAJ "https://books.google.com/books?id=byLxAAAAMAAJ").
+
+![](/uploads/_MG_0325-min.JPG)
+
+My bridal bouquet (description from my wedding program): 
+
+> The **cornflower** is one of Germany’s national symbols. They are associated with faithfulness and the Habsburg monarchy. The last ruling Habsburgs, Karl and Zita, are on their way to sainthood, and are two of the only (almost) saints to be venerated specifically for the vocation of marriage. **Rue** is the national herb of Lithuania, and commonly used by Lithuanian brides for hair wreaths. \[...\] During the Medieval Era, it became popular to dedicate a garden to Mary, and over time, numerous plants became associated with her. The flowers we have chosen stem from this tradition. **Roses** and **Sweet Williams** both have a Marian connection, and a connection to the bride’s and groom’s names (Rose of Sharon, and William). **Anemones** have an historical connection to both Mary and the Crusades.
