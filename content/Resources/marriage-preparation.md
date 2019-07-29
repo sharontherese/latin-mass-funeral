@@ -65,9 +65,3 @@ Jewell, Walter. “To Those Getting Married.” International Catholic Truth Soc
 McEvoy, SJ, Hubert. “Before You Wed.” International Catholic Truth Society, 1947. [https://lxoa.wordpress.com/2010/09/15/before-you-wed/](https://lxoa.wordpress.com/2010/09/14/to-those-getting-married/ "https://lxoa.wordpress.com/2010/09/14/to-those-getting-married/").
 
 Pope Pius XII. “The Pope Speaks to Mothers.” International Catholic Truth Society, 1956. [https://lxoa.wordpress.com/2010/09/16/the-pope-speaks-to-mothers/](https://lxoa.wordpress.com/2010/09/16/the-pope-speaks-to-mothers/ "https://lxoa.wordpress.com/2010/09/16/the-pope-speaks-to-mothers/").
-
-## Other
-
-Kabel, Sharon. “Quotations About Love.” _Google Docs_, [https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing&usp=embed_facebook](https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing&usp=embed_facebook "https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing&usp=embed_facebook"). Accessed 3 June 2019.
-
-> This is a collection of quotations about love and marriage that I pulled together for my own wedding. I printed these quotes (better formatted version) and hung them around the parish hall, our reception venue.
