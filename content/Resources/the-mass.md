@@ -4,6 +4,8 @@ title = "The Mass"
 toggle = false
 
 +++
+![](/uploads/_MG_0501-min.JPG)
+
 ## About
 
 These are a scattershot collection of resources on and about the _Latin Mass_. They range from missals to books to blog posts to pamphlets. As a place to start, below is the text that I wrote to include in my wedding program. You are welcome to reuse it, if you show attribution:
