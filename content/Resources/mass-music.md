@@ -4,12 +4,39 @@ title = "Mass Music"
 toggle = false
 
 +++
-![](/uploads/pasted image 0-1.png)
+## About
 
-_13th century Carthusian diurnal  
-Notre Dame, Hesburgh Library, Cod. Lat. b 4, 348r_
+The ideal music _setting_ for the Mass is _gregorian chant_, followed by _polyphony_. In a sung _Latin Mass_, what is sung are the _propers_ and _ordinaries_. Historically, hymns were discouraged in the Mass.
 
-## On sacred music (chant and polyphony) 
+Here is how our wedding Mass music looked: 
+
+**Prelude:**  
+_Veni Creator Spiritus_, Rabanus Maurus (gregorian chant)  
+_Alma Redemptoris_, Giovanni Pierluigi da Palestrina (polyphony)
+
+**Procession:**  
+_Te Deum_, Marc-Antoine Charpentier (organ)
+
+**Propers:**   
+all gregorian chant \[1\]
+
+**Ordinaries:**  
+Mass setting VIII, Missa de Angelis \[2\]
+
+**Communion motet:**   
+_Sicut Cervus_, Giovanni Pierluigi da Palestrina (polyphony)  
+_Te Deum_, Nicetas of Remesiana (gregorian chant)
+
+**Presentation of flowers to Mary:**   
+_Ave Verum Corpus_, Wolfgang Amadeus Mozart (polyphony)
+
+## Sources
+
+\[1\] “Gregorian Propers • St. René Goupil Gradual.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/goupil/](http://www.ccwatershed.org/goupil/ "http://www.ccwatershed.org/goupil/"). (Scroll down to "Nuptial Mass")
+
+\[2\] “St. Antoine Daniel Kyriale.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). (Scroll down to "Mass VIII")
+
+## On sacred music (chant and polyphony)
 
 “Twenty-Four Questions on Sacred Music.” Church Music Association of America. Accessed June 3, 2019. [https://musicasacra.com/about-cmaa/faq/](https://musicasacra.com/about-cmaa/faq/ "https://musicasacra.com/about-cmaa/faq/").
 
@@ -17,13 +44,13 @@ Notre Dame, Hesburgh Library, Cod. Lat. b 4, 348r_
 
 Gattozzi, Bibiana. “Catholic Artistic Piety in a Motet.” _The Angelus Online_ (blog). Accessed June 3, 2019. [http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667](http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667 "http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667").
 
-## On texts (_propers_, _ordinaries_, and hymns) 
+## On texts (_propers_, _ordinaries_, and hymns)
 
 Gastoue, A. “The ‘Missa de Angelis.’” Translated by Albert Gingras. _The Caecilia_, December 1933, 375–78.
 
 Sullivan, Roseanne T. “Propers of the Mass vs. the Four Hymn Sandwich.” _Homiletic and Pastoral Review_, 2016. [https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html](https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html "https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html").
 
-## General 
+## General
 
 Henry, Hugh. “Music of the Mass.” In _The Catholic Encyclopedia_. Vol. 10. New York: Robert Appleton Company, 1911. [http://www.newadvent.org/cathen/10001a.htm](http://www.newadvent.org/cathen/10001a.htm "http://www.newadvent.org/cathen/10001a.htm").
 
