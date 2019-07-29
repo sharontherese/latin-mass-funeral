@@ -22,6 +22,8 @@ These are a scattershot collection of resources on and about the _Latin Mass_. T
 
 ## Sources
 
+“Introduction to the Traditional Latin (Tridentine) Mass.” In _St. Joseph’s Daily Missal_, 1959. [http://www.the-latinmass.com/id7.html](http://www.the-latinmass.com/id7.html "http://www.the-latinmass.com/id7.html").
+
 “Traditional Catholicism 101: A Brief Primer.” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/traditionalcatholicism.html](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
 
 “Tridentine Latin Rite Missal Project.” Tridentine Latin Rite Missal Project. Accessed April 12, 2018. [http://missale.heliohost.org/](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
@@ -29,10 +31,6 @@ These are a scattershot collection of resources on and about the _Latin Mass_. T
 braniac. “How to Plan a Traditional Latin Mass Wedding.” _Our Everyday Life_ (blog). Accessed June 3, 2019. [https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html](https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html "https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html").
 
 Carota, Father. “Traditional Catholic Wedding Ceremony Vs New Wedding Ceremony.” _Traditional Catholic Priest_ (blog), September 4, 2014. [http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/](http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/ "http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/").
-
-Catholic Church. _The Roman Missal for the Use of the Laity: Containing the Masses Appointed to Be Said throughout the Year_. London : P. Keating, Brown, 1806. [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
-
-Coakley, Thomas F. 1880-1951. _The Nuptial Mass : Explanation of the Beautiful Rites and Ceremonies of a Catholic Wedding /_. Catholic Truth Society, 1939.
 
 Fortescue, Adrian. “Nuptial Mass.” In _The Catholic Encyclopedia_. Vol. 10. New York: Robert Appleton Company, 1911. [https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html](https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html "https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html").
 
