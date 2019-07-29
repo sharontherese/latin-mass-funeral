@@ -22,5 +22,5 @@ The current form of the Catholic Mass (the _Novus Ordo_) has the _Rite of Marria
 
 This website provides information for those who would like a Latin Mass wedding, or are interested in learning about beautiful nuptial treasures of the Church.
 
-Wedding photography provided by African Schaumann.  
+Wedding photography provided by Africa Schaumann.  
 Unhelpful commentary provided by William Kabel.
