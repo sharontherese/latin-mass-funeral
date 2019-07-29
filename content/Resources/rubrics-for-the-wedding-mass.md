@@ -8,7 +8,7 @@ toggle = false
 
 # About
 
-This page is primarily for the priests celebrating Latin Mass weddings.
+This page is primarily for the priests celebrating Latin Mass weddings. More information can be found at Corpus Christi Watershed. [^2] [^3]
 
 # Rubrics
 
@@ -18,8 +18,6 @@ This page is primarily for the priests celebrating Latin Mass weddings.
 
 [^1]: Catholic Church. “Rite for Celebrating Marriage.” _Rituale Romanum_, 1962, [https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html](https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html "https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html").
 
-### Read More
+[^2]: Motkya, Andrew R. “Weddings: Some Practical Advice - The Very Beginning, Part 1.” _Corpus Christi Watershed_, 27 Aug. 2014, [http://www.ccwatershed.org/blog/2014/aug/27/weddings-some-practical-advice-very-beginning/](http://www.ccwatershed.org/blog/2014/aug/27/weddings-some-practical-advice-very-beginning/ "http://www.ccwatershed.org/blog/2014/aug/27/weddings-some-practical-advice-very-beginning/").
 
-Motkya, Andrew R. “Weddings: Some Practical Advice - The Very Beginning, Part 1.” _Corpus Christi Watershed_, 27 Aug. 2014, [http://www.ccwatershed.org/blog/2014/aug/27/weddings-some-practical-advice-very-beginning/](http://www.ccwatershed.org/blog/2014/aug/27/weddings-some-practical-advice-very-beginning/ "http://www.ccwatershed.org/blog/2014/aug/27/weddings-some-practical-advice-very-beginning/").
-
-Motkya, Andrew R. “Weddings: Some Practical Advice - The End of the Beginning, Part 2.” _Corpus Christi Watershed_, 2 Sept. 2014, [http://www.ccwatershed.org/blog/2014/sep/2/weddings-some-practical-advice-end-beginning-2/](http://www.ccwatershed.org/blog/2014/sep/2/weddings-some-practical-advice-end-beginning-2/ "http://www.ccwatershed.org/blog/2014/sep/2/weddings-some-practical-advice-end-beginning-2/").
+[^3]: Motkya, Andrew R. “Weddings: Some Practical Advice - The End of the Beginning, Part 2.” _Corpus Christi Watershed_, 2 Sept. 2014, [http://www.ccwatershed.org/blog/2014/sep/2/weddings-some-practical-advice-end-beginning-2/](http://www.ccwatershed.org/blog/2014/sep/2/weddings-some-practical-advice-end-beginning-2/ "http://www.ccwatershed.org/blog/2014/sep/2/weddings-some-practical-advice-end-beginning-2/").
