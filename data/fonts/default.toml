@@ -6,7 +6,7 @@ google_fonts = "Crimson+Pro"
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Montserrat"
+body_font = "Crimson Pro"
 nav_font = "Crimson Pro"
 mono_font = "Crimson Pro"
 
