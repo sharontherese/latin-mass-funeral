@@ -1,5 +1,4 @@
 +++
-draft = true
 text = ""
 title = "Mass Music"
 toggle = false
