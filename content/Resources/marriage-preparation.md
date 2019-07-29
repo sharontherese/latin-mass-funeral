@@ -4,6 +4,8 @@ title = "Marriage Preparation"
 toggle = false
 
 +++
+![Image may contain: 1 person](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/24852463_10155818354479976_5392363803206664041_n.jpg?_nc_cat=103&_nc_oc=AQkcICCbglMTQqyOEK0duxfx1VRjOGaxL2J0YeObYntwhHaUlw9DlG2rNonG6UmFFbFvu22k3K2lymnfND0YszFN&_nc_ht=scontent-lga3-1.xx&oh=3f0529f1f76da40e9c8876bbcd76cbaa&oe=5DA3EC1F)
+
 ## About
 
 First and foremost: Contact your parish and your diocese to determine the required marriage preparation procedures (sometimes called Pre-Cana). Typically, Catholic dioceses and parishes require some or all of the following:
