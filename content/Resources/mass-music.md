@@ -4,6 +4,11 @@ title = "Mass Music"
 toggle = false
 
 +++
+![](/uploads/pasted image 0-1.png)
+
+_13th century Carthusian diurnal  
+Notre Dame, Hesburgh Library, Cod. Lat. b 4, 348r_
+
 Gastoue, A. “The ‘Missa de Angelis.’” Translated by Albert Gingras. _The Caecilia_, December 1933, 375–78.
 
 Gattozzi, Bibiana. “Catholic Artistic Piety in a Motet.” _The Angelus Online_ (blog). Accessed June 3, 2019. [http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667](http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667 "http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667").
