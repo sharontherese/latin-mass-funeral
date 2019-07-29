@@ -20,6 +20,8 @@ Below are supplemental materials about Catholic marriage, and the domestic life.
 
 ## Catechesis & Classics
 
+“Holy Matrimony.” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html").
+
 Heuser, Herman J. (Herman Joseph). _The Parish Priest on Duty: A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission_. New York: Benziger Brothers, 1904. [http://archive.org/details/theparishpriesto00heusuoft](http://archive.org/details/theparishpriesto00heusuoft "http://archive.org/details/theparishpriesto00heusuoft").
 
 Semmler, Nerius. _For Bride and Groom: A Pre-Nuptial Instruction Based on the Encyclical Letter of Pope Pius XI, Casti Connubii, December 31, 1930 /_. Our Sunday Visitor, 1950. [https://www.lib.cua.edu/rarebook/node/4391](https://www.lib.cua.edu/rarebook/node/4391 "https://www.lib.cua.edu/rarebook/node/4391").
@@ -41,8 +43,6 @@ Ellis, Alice Thomas. _Home Life_. Royal National Institute of the Blind, 2004. [
 ## Fertility, Health, & Intimacy
 
 “Allay Women and Family Resources.” Accessed June 3, 2019. [https://www.facebook.com/allayresources/](https://www.facebook.com/allayresources/ "https://www.facebook.com/allayresources/").
-
-“Holy Matrimony.” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html").
 
 Jerabek, Father. “The Marital Debt.” _Dilexi Decorem Domus Domini_ (blog), May 23, 2019. [https://fatherjerabek.com/2019/05/23/the-marital-debt/](https://fatherjerabek.com/2019/05/23/the-marital-debt/ "https://fatherjerabek.com/2019/05/23/the-marital-debt/").
 
