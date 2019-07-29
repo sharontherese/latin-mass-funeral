@@ -35,5 +35,3 @@ After the Our Father, the nuptial blessing takes place. A video of our nuptial b
 ![](/uploads/_MG_0559-min.JPG)
 
 After the final blessing of the priest and before the final procession, the couple may present flowers to Mary. 
-
-Kabel, Sharon. “Latin Mass Wedding: A Walkthrough.” _Google Docs_, May 2019, [https://docs.google.com/presentation/d/1sRmViG66DW3NqM_Wrg4ah5HOAwfBYTtWHb_YZxlOxOA/edit?usp=sharing&usp=embed_facebook](https://docs.google.com/presentation/d/1sRmViG66DW3NqM_Wrg4ah5HOAwfBYTtWHb_YZxlOxOA/edit?usp=sharing&usp=embed_facebook "https://docs.google.com/presentation/d/1sRmViG66DW3NqM_Wrg4ah5HOAwfBYTtWHb_YZxlOxOA/edit?usp=sharing&usp=embed_facebook").
