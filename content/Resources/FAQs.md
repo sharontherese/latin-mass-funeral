@@ -27,18 +27,18 @@ You will not choose lectors, as the priest(s) will recite or chant the readings.
 
 You can, of course, customize non-liturgical elements of the day, like flowers. Read more about floral traditions on the [Flowers](https://www.latinmasswedding.com/resources/flowers/) page.
 
-**What kind of music can or should I have?  
-**Visit the [Mass Music](https://www.latinmasswedding.com/resources/mass-music) page for more information! Generally speaking, the best music setting for the mass is _Gregorian chant_, and the best texts are the _propers_ (because they are directly from Scripture). Strictly speaking, hymns are private meditations and belong to the Divine Office or other private prayer time. Hymns are usually allowed for the procession in, and procession out, but otherwise they should not be used in the Mass. What you can choose are the _settings_ for the mass texts; for example, you can have the ordinaries (Kyrie, Gloria, etc.) sung to Gregorian chant, or to a psalm tone, or to a polyphonic (multi-voice - soprano, alto, etc.) setting.
+\**What kind of music can or should I have?  
+\**Visit the [Mass Music](https://www.latinmasswedding.com/resources/mass-music) page for more information! Generally speaking, the best music setting for the mass is _Gregorian chant_, and the best texts are the _propers_ (because they are directly from Scripture). Strictly speaking, hymns are private meditations and belong to the Divine Office or other private prayer time. Hymns are usually allowed for the procession in, and procession out, but otherwise they should not be used in the Mass. What you can choose are the _settings_ for the mass texts; for example, you can have the ordinaries (Kyrie, Gloria, etc.) sung to Gregorian chant, or to a psalm tone, or to a polyphonic (multi-voice - soprano, alto, etc.) setting.
 
 Realistically, though, this will depend on the resources available to you. Be in touch with your church’s music director to see what is feasible and encouraged.
 
-**You’re using words that I don’t recognize.  
-**Visit the [Glossary](https://www.latinmasswedding.com/resources/glossary/) page!
+\**You’re using words that I don’t recognize.  
+\**Visit the [Glossary](https://www.latinmasswedding.com/resources/glossary/) page!
 
-**How can I help my wedding guests understand what's happening?  
-**Explore the pages under the Resources menu. There is introductory information on the [Latin Mass](https://www.latinmasswedding.com/resources/the-mass), things to include in your [wedding program](https://www.latinmasswedding.com/resources/mass-programs) (including my own), and more. You are free to reuse my wedding program content or template!
+\**How can I help my wedding guests understand what's happening?  
+\**Explore the pages under the Resources menu. There is introductory information on the [Latin Mass](https://www.latinmasswedding.com/resources/the-mass), things to include in your [wedding program](https://www.latinmasswedding.com/resources/mass-programs) (including my own), and more. You are free to reuse my wedding program content or template!
 
-Biretta Books offers a Latin-English booklet for Latin Mass weddings: [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/") \[^3\]. For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.
+Biretta Books offers a Latin-English booklet for Latin Mass weddings \[^3\]. For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.
 
 ### Sources
 
