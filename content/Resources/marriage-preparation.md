@@ -1,10 +1,11 @@
 +++
-draft = true
 text = ""
 title = "Marriage Preparation"
 toggle = false
 
 +++
+## About
+
 First and foremost: Contact your parish and your diocese to determine the required marriage preparation procedures (sometimes called Pre-Cana). Typically, Catholic dioceses and parishes require some or all of the following:
 
 * 6 months' notice before your wedding
@@ -13,7 +14,7 @@ First and foremost: Contact your parish and your diocese to determine the requir
 * FOCCUS Survey
 * a workshop on Natural Family Planning
 
-Below are supplemental materials about Catholic marriage, and the domestic life. They range from academic tomes to early 20th century pamphlets to recent social media campaigns.
+Below are supplemental materials about Catholic marriage, and the domestic life. This list is not comprehensive, and in no particular thematic order. They range from academic tomes to early 20th century pamphlets to recent social media campaigns.
 
 ## Sources
 
