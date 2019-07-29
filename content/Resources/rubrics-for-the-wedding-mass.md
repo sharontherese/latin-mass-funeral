@@ -1,10 +1,11 @@
 +++
-draft = true
 text = ""
 title = "Rubrics for the Wedding Mass"
 toggle = false
 
 +++
+![](/uploads/_MG_0518-min.JPG)
+
 # About
 
 This page is primarily for the priests celebrating Latin Mass weddings.
