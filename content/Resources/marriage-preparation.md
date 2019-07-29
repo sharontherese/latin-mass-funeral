@@ -13,7 +13,9 @@ First and foremost: Contact your parish and your diocese to determine the requir
 * FOCCUS Survey
 * a workshop on Natural Family Planning
 
-Below are supplemental materials about Catholic marriage, and the domestic life. They range from academic tomes to early 20th century pamphlets to recent social media campaigns. 
+Below are supplemental materials about Catholic marriage, and the domestic life. They range from academic tomes to early 20th century pamphlets to recent social media campaigns.
+
+## Sources
 
 Weschler, T. _Taking Charge of Your Fertility Revised Edition: The Definitive Guide to Natural Birth Control and Pregnancy Achievement_. HarperCollins, 2001, [https://books.google.com/books?id=aRiX7MLSp7cC](https://books.google.com/books?id=aRiX7MLSp7cC "https://books.google.com/books?id=aRiX7MLSp7cC").
 
@@ -40,7 +42,3 @@ _Allay Women and Family Resources_. [https://www.facebook.com/allayresources/](h
 Kabel, Sharon. “Quotations About Love.” _Google Docs_, [https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing&usp=embed_facebook](https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing&usp=embed_facebook "https://docs.google.com/document/d/1vDVyU0-sWlzrrS2xlayY55t7AXQ3VwMmyuBpSdKQYVw/edit?usp=sharing&usp=embed_facebook"). Accessed 3 June 2019.
 
 > This is a collection of quotations about love and marriage that I pulled together for my own wedding. I printed these quotes (better formatted version) and hung them around the parish hall, our reception venue.
-
-\+ basic catechesis on definition of marriage
-
-\+ NFP
