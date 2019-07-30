@@ -35,19 +35,23 @@ The priest is vested in a surplice and white stole. If, however, the marriage ce
 
 First the priest asks the groom:
 
-N., do you take N. here present, for your lawful wife according to the rite of our holy mother, the Church?
+> N., do you take N. here present, for your lawful wife according to the rite of our holy mother, the Church?
 
-The bridegroom responds: I do.
+The bridegroom responds: 
+
+> I do.
 
 2\. Then he asks the bride:
 
-N., do you take N., here present, for your lawful husband according to the rite of our holy mother, the Church?
+> N., do you take N., here present, for your lawful husband according to the rite of our holy mother, the Church?
 
-She replies: I do. \[...\]
+She replies: 
+
+> I do. \[...\]
 
 After he has received the consent of the parties, the priest tells them to join their right hands. and says:
 
-Ego conjúngo vos in matrimónium. In nómine Patris, et Fílii, et Spíritus Sancti. Amen. Vel aliis utatur verbis juxta receptum uniuscujusque loci ritum.
+> Ego conjúngo vos in matrimónium. In nómine Patris, et Fílii, et Spíritus Sancti. Amen. Vel aliis utatur verbis juxta receptum uniuscujusque loci ritum.
 
 Then he sprinkles them with holy water.
 
@@ -55,11 +59,11 @@ Then he sprinkles them with holy water.
 
 Next the priest blesses the ring saying...
 
-Bless O Lord, this ring, which we are blessing in Thy name, so that she who wears it, keeping faith with her husband in unbroken loyalty, may ever remain at peace with Thee, obedient to Thy will, and may live with him always in mutual love. Through Christ our Lord. R. Amen.
+> Bless O Lord, this ring, which we are blessing in Thy name, so that she who wears it, keeping faith with her husband in unbroken loyalty, may ever remain at peace with Thee, obedient to Thy will, and may live with him always in mutual love. Through Christ our Lord. R. Amen.
 
 The priest then sprinkles the ring with holy water. The husband, taking the ring from the priest's hand, places it upon the ring finger of his wife's left hand, saying:
 
-Take and wear this ring as a sign of our marriage vows. In the name of the Father, and of the Son, X and of the Holy Ghost. Amen. \[...\]
+> Take and wear this ring as a sign of our marriage vows. In the name of the Father, and of the Son, X and of the Holy Ghost. Amen. \[...\]
 
 After this, if the nuptial blessing is to be given, the Mass pro Sponso et Sponsa is celebrated, according to the rubrics of the Roman Missal.
 
