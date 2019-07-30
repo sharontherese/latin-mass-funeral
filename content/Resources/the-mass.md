@@ -4,7 +4,7 @@ title = "The Latin Mass"
 toggle = false
 
 +++
-![](/uploads/_MG_0501-min.JPG)
+![](/uploads/_MG_0518-min.JPG)
 
 # About
 
