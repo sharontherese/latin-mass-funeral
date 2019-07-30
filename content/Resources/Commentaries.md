@@ -13,6 +13,7 @@ For more commentaries, visit Sermonry \[^1\].
 
 # Introit
 
+<html>
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox">
   <label for="collapsible" class="lbl-toggle">More Info</label>
@@ -101,3 +102,4 @@ input[type='checkbox'] {
   padding: .5rem 1rem;
 }
 </style>
+</html>
