@@ -4,7 +4,7 @@ title = "About"
 toggle = false
 
 +++
-My husband and I were married with a Latin Mass wedding in September 2018. While we were both familiar with the Latin Mass, we found that we had a good deal to learn about a Latin Mass wedding. Much knowledge has been lost about nuptial services, liturgies, customs, and expectations.
+My husband, William, and I were married in a Latin Mass wedding on September 22, 2018. While we were both familiar with the Latin Mass, we found that we had a good deal to learn about a Latin Mass wedding. Much knowledge has been lost about nuptial services, liturgies, customs, and expectations.
 
 As a librarian who is chronically unable to be relaxed about anything, much of my wedding planning involved accruing piles of research on Catholic wedding masses. This website is everything I found about Latin Mass weddings, plus a lot of extra (but related) content on traditional aspects of Catholicism.
 
