@@ -22,6 +22,9 @@ May the God of Israel join you together: and may He be with you, who was mercifu
 <link rel="stylesheet" href="/static/css/style.css">
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox">
+  input[type='checkbox'] {
+  display: none;
+}
   <label for="collapsible" class="lbl-toggle">Haydock</label>
   <div class="collapsible-content">
     <div class="content-inner">
