@@ -44,7 +44,7 @@ input[type='checkbox'] {
 
   font-weight: bold;
   font-family: lato;
-  font-size: 0.8rem;
+  font-size: 0.5rem;
   text-transform: uppercase;
   text-align: left;
 
@@ -140,7 +140,7 @@ input[type='checkbox'] {
 
   font-weight: bold;
   font-family: lato;
-  font-size: 0.8rem;
+  font-size: 0.5rem;
   text-transform: uppercase;
   text-align: left;
 
