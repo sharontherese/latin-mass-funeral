@@ -43,13 +43,13 @@ input[type='checkbox'] {
 
   font-weight: bold;
   font-family: lato;
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   text-transform: uppercase;
   text-align: left;
 
   padding: 1rem;
 
-  color: #A77B0E;
+  color: #FFFFFF;
   background: #3F51B5;
 
   cursor: pointer;
@@ -59,7 +59,7 @@ input[type='checkbox'] {
 }
 
 .lbl-toggle:hover {
-  color: #7C5A0B;
+  color: #000000;
 }
 
 .lbl-toggle::before {
@@ -139,13 +139,13 @@ input[type='checkbox'] {
 
   font-weight: bold;
   font-family: lato;
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   text-transform: uppercase;
   text-align: left;
 
   padding: 1rem;
 
-  color: #A77B0E;
+  color: #FFFFFF;
   background: #3F51B5;
 
   cursor: pointer;
@@ -155,7 +155,7 @@ input[type='checkbox'] {
 }
 
 .lbl-toggle:hover {
-  color: #7C5A0B;
+  color: #000000;
 }
 
 .lbl-toggle::before {
