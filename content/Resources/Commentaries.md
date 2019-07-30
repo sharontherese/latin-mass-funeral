@@ -25,12 +25,7 @@ May the God of Israel join you together: and may He be with you, who was mercifu
   <label for="collapsible" class="lbl-toggle">Haydock</label>
   <div class="collapsible-content">
     <div class="content-inner">
-      <p>
-        QUnit is by calling one of the object that are embedded in JavaScript, and faster JavaScript program could also used with
-        its elegant, well documented, and functional programming using JS, HTML pages Modernizr is a popular browsers without
-        plug-ins. Test-Driven Development.
-      </p>
-      .wrap-collabsible {
+.wrap-collabsible {
   margin-bottom: 1.2rem 0;
 }
 
@@ -101,8 +96,10 @@ input[type='checkbox'] {
   border-bottom-left-radius: 7px;
   border-bottom-right-radius: 7px;
   padding: .5rem 1rem;
-}
-    </div>
-  </div>
-</div>
+}      
+<p>
+QUnit is by calling one of the object that are embedded in JavaScript, and faster JavaScript program could also used with
+its elegant, well documented, and functional programming using JS, HTML pages Modernizr is a popular browsers without
+plug-ins. Test-Driven Development.
+</p>
 </html>
