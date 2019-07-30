@@ -19,7 +19,7 @@ Deus Israel coniungat vos: et ipse sit vobiscum, qui misertus est duobus unicis:
 
 May the God of Israel join you together: and may He be with you, who was merciful to two only children: and now, O Lord, make them bless Thee more fully.
 
-## [%expand "Haydock" %] [^2]
+## Haydock [^2]
 {{%expand "Haydock" %}}
 Ver. 15.  Hand.  This was the mode of confirming agreements, in Media.  Alex. Genial v. 3. --- The custom prevailed in marriages, (Lament. v. 6.  Isai. lxii. 8.) as it does still among Christians. --- It.  Gr. "her for a wife to Tobias, and said: Behold: take care of her according to the law of Moses, and go to thy father.  And he blessed them.  And he called Edna, his wife, and taking a book, wrote a note, (H. or contract.  C.) and sealed it, and they began to eat."  H. --- It was almost universally the custom to have such writings, particularly where polygamy prevailed.  The wives of lower condition were taken without formality.  C.
 
