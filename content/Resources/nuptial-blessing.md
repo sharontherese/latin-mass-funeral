@@ -33,3 +33,5 @@ R. Amen.
 Stice, Fr. Randy. “**An Introduction to the Sacrament of Matrimony and the Nuptial Blessing.**” _Adoremus_ (blog), November 16, 2015. [https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/](https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/ "https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/").
 
 “**Nuptial Blessing.**” Catholic Culture. Accessed July 30, 2019. [http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770](http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770 "http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770").
+
+Stevenson, Kenneth. "**The Origins of the Nuptial Blessing.**" _Heythrop Journal_ 21. (1980): 412-416.
