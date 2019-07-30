@@ -219,7 +219,7 @@ Ephesians 5:22-33
 
 Fratres: Mulíeres viris suis súbditæ sint, sicut Dómino: quóniam vir caput est mulíeris: sicut Christus caput est Ecclésiæ: Ipse, salvátor córporis ejus. Sed sicut Ecclésia subjécta est Christo, ita et mulíeres viris suis in ómnibus. Viri, dilígite uxóres vestras, sicut et Christus diléxit Ecclésiam, et seípsum trádidit pro ea, ut illam sanctificáret, mundans lavácro aquæ in verbo vitæ, ut exhibéret ipse sibi gloriósam Ecclésiam, non habéntem máculam, aut rugam, aut áliquid hujúsmodi, sed ut sit sancta et immaculáta. Ita et viri debent dilígere uxóres suas, ut corpora sua. Qui suam uxórem díligit, seípsum díligit. Nemo enim unquam carnem suam ódio hábuit: sed nutrit, et fovet eam, sicut et Christus Ecclésiam: quia membra sumus córporis ejus, de carne ejus, et de óssibus ejus. Propter hoc relínquet homo patrem et matrem suam, et adhærébit uxóri suæ: et erunt duo in carne una. Sacraméntum hoc magnum est, ego autem dico in Christo, et in Ecclésia. Verúmtamen et vos sínguli, unusquísque uxórem suam, sicut seípsum díligat: uxor autem tímeat virum suum. 
         
-Wives, be subject to your husbands, as to the Lord.  For the husband is the head of the wife as Christ is the head of the church, his body, and is himself its Savior. As the church is subject to Christ, so let wives also be subject in everything to their husbands. Husbands, love your wives, as Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word,  that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish.  Even so husbands should love their wives as their own bodies. He who loves his wife loves himself. For no man ever hates his own flesh, but nourishes and cherishes it, as Christ does the church, because we are members of his body. “For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh.” This mystery is a profound one, and I am saying that it refers to Christ and the church; however, let each one of you love his wife as himself, and let the wife see that she respects her husband..
+Wives, be subject to your husbands, as to the Lord.  For the husband is the head of the wife as Christ is the head of the church, his body, and is himself its Savior. As the church is subject to Christ, so let wives also be subject in everything to their husbands. Husbands, love your wives, as Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word,  that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish.  Even so husbands should love their wives as their own bodies. He who loves his wife loves himself. For no man ever hates his own flesh, but nourishes and cherishes it, as Christ does the church, because we are members of his body. “For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh.” This mystery is a profound one, and I am saying that it refers to Christ and the church; however, let each one of you love his wife as himself, and let the wife see that she respects her husband.
       </p>
     </div>
   </div>
@@ -406,6 +406,199 @@ input[type='checkbox'] {
 </style>
 
 </html>
+
+
+# Gradual
+
+<html>
+<div class="wrap-collabsible">
+  <input id="collapsible5" class="toggle" type="checkbox">
+  <label for="collapsible5" class="lbl-toggle">Text of the Gradual</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+Psalms 127:3
+        
+Uxor tua sicut vitis abundans in lateribus domus tuae. V. Filii tui sicut novellae olivarum in circuitu mensae tuae. Alleluia, alleluia.
+
+Thy wife shall be as a fruitful vine on the sides of thy house. V. Thy children as olive plants round about thy table. Alleluia, alleluia.
+      </p>
+    </div>
+  </div>
+</div>
+    
+<style>    
+  .wrap-collabsible {
+  margin-bottom: 1.2rem 0;
+}
+
+input[type='checkbox'] {
+  display: none;
+}
+
+.lbl-toggle {
+  display: block;
+
+  font-weight: bold;
+  font-family: lato;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  text-align: left;
+
+  padding: 1rem;
+
+  color: #FFFFFF;
+  background: #3F51B5;
+
+  cursor: pointer;
+
+  border-radius: 7px;
+  transition: all 0.25s ease-out;
+}
+
+.lbl-toggle:hover {
+  color: #000000;
+}
+
+.lbl-toggle::before {
+  content: ' ';
+  display: inline-block;
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+
+  transition: transform .2s ease-out;
+}
+
+.toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px);
+}
+
+.collapsible-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
+}
+
+.toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 500px;
+}
+
+.toggle:checked + .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.collapsible-content .content-inner {
+  background: rgba(250, 224, 66, .2);
+  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
+}
+
+</style>
+
+</html>
+
+
+
+
+<html>
+<div class="wrap-collabsible">
+  <input id="collapsible4" class="toggle" type="checkbox">
+  <label for="collapsible4" class="lbl-toggle">Haydock Commentary</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+Ver. 3. Sides. Against which vines were planted. C. — The married people who fear God, shall commonly have a numerous posterity; or their souls shall produce many good works in the Church, which springs from our Saviour’s side. Children denote such good works. W. — Plants. Ps. cxliii. 12. Hom. Odys. vi. 163.
+      </p>
+    </div>
+  </div>
+</div>
+    
+<style>    
+  .wrap-collabsible {
+  margin-bottom: 1.2rem 0;
+}
+
+input[type='checkbox'] {
+  display: none;
+}
+
+.lbl-toggle {
+  display: block;
+
+  font-weight: bold;
+  font-family: lato;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  text-align: left;
+
+  padding: 1rem;
+
+  color: #FFFFFF;
+  background: #3F51B5;
+
+  cursor: pointer;
+
+  border-radius: 7px;
+  transition: all 0.25s ease-out;
+}
+
+.lbl-toggle:hover {
+  color: #000000;
+}
+
+.lbl-toggle::before {
+  content: ' ';
+  display: inline-block;
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+
+  transition: transform .2s ease-out;
+}
+
+.toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px);
+}
+
+.collapsible-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
+}
+
+.toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 500px;
+}
+
+.toggle:checked + .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.collapsible-content .content-inner {
+  background: rgba(250, 224, 66, .2);
+  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
+}
+
+</style>
+
+</html>
+
 
 
 
