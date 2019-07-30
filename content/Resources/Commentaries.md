@@ -14,6 +14,7 @@ For more commentaries, visit Sermonry \[^1\].
 # Introit
 
 <html>
+  <style>
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox">
   <label for="collapsible" class="lbl-toggle">More Info</label>
@@ -27,8 +28,7 @@ For more commentaries, visit Sermonry \[^1\].
     </div>
   </div>
 </div>
-
-<style>
+    
   .wrap-collabsible {
   margin-bottom: 1.2rem 0;
 }
