@@ -283,7 +283,7 @@ input[type='checkbox'] {
 }
 
 .toggle:checked + .lbl-toggle + .collapsible-content {
-  max-height: 700px;
+  max-height: 800px;
 }
 
 .toggle:checked + .lbl-toggle {
@@ -387,7 +387,7 @@ input[type='checkbox'] {
 }
 
 .toggle:checked + .lbl-toggle + .collapsible-content {
-  max-height: 700px;
+  max-height: 800px;
 }
 
 .toggle:checked + .lbl-toggle {
