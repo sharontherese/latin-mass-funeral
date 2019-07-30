@@ -102,7 +102,9 @@ input[type='checkbox'] {
   border-bottom-right-radius: 7px;
   padding: .5rem 1rem;
 }
+</style>
 
+<style>
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox">
   <label for="collapsible" class="lbl-toggle">Haydock Commentary</label>
