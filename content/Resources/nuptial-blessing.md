@@ -34,4 +34,6 @@ Stice, Fr. Randy. “**An Introduction to the Sacrament of Matrimony and the Nup
 
 “**Nuptial Blessing.**” Catholic Culture. Accessed July 30, 2019. [http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770](http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770 "http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770").
 
-Stevenson, Kenneth. "**The Origins of the Nuptial Blessing.**" _Heythrop Journal_ 21. (1980): 412-416.
+Stevenson, Kenneth W. "**The Origins of the Nuptial Blessing.**" _Heythrop Journal_ 21. (1980): 412-416.
+
+Stevenson, Kenneth W. **_The Nuptial Blessing: A Study of Christian Marriage Rites_**: London. (1982). 
