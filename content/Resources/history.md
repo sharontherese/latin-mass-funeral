@@ -20,19 +20,19 @@ Both the Rite of Marriage and the Wedding Mass have complex histories, which are
 
 # Sources
 
-\[^1\]: Catholic Church. “The Church in God’s Plan.” _Catechism of the Catholic Church_, 1993, #774, [http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm](http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm "http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm").
+\[^1\]: Catholic Church. “**The Church in God’s Plan**.” _Catechism of the Catholic Church_, 1993, #774, [http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm](http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm "http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm").
 
 > “The Greek word _mysterion_ was translated into Latin by two terms: _mysterium_ and _sacramentum_. In later usage the term _sacramentum_ emphasizes the visible sign of the hidden reality of salvation which was indicated by the term _mysterium_. In this sense, Christ himself is the mystery of salvation: “For there is no other mystery of God, except Christ.”
 
-\[^2\]: Just, Felix. “The Seven Sacraments.” _Electronic New Testament Educational Resources_, [https://catholic-resources.org/ChurchDocs/Sacraments.htm](https://catholic-resources.org/ChurchDocs/Sacraments.htm "https://catholic-resources.org/ChurchDocs/Sacraments.htm"). Accessed 3 June 2019.
+\[^2\]: Just, Felix. “**The Seven Sacraments.**” _Electronic New Testament Educational Resources_, [https://catholic-resources.org/ChurchDocs/Sacraments.htm](https://catholic-resources.org/ChurchDocs/Sacraments.htm "https://catholic-resources.org/ChurchDocs/Sacraments.htm"). Accessed 3 June 2019.
 
-\[^3\]: Searle, M., and K. W. Stevenson. _Documents of the Marriage Liturgy_. Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
+\[^3\]: Searle, M., and K. W. Stevenson. **_Documents of the Marriage Liturgy_.** Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
 
 > The ritual elements of the rite, alluded to in passing (199-230), seem to be a mixture of classical Roman marriage rites (the joining of hands, the nuptial veil) and specifically Christian forms (hymn-singing, prayers of blessing and consecration). Notably absent is any mention of exchange of rings or vows (which would have taken place earlier in the home) or of the celebration of the Eucharist.
 
-\[^4\]: Daniel-Rops, Henri. _The Catholic Reformation._ J.M. Dent, 1968, [http://www.worldcat.org/oclc/271254888](http://www.worldcat.org/oclc/271254888.  "http://www.worldcat.org/oclc/271254888").
+\[^4\]: Daniel-Rops, Henri. **_The Catholic Reformation._** J.M. Dent, 1968, [http://www.worldcat.org/oclc/271254888](http://www.worldcat.org/oclc/271254888.  "http://www.worldcat.org/oclc/271254888").
 
-\[^5\]: Searle, M., and K. W. Stevenson. _Documents of the Marriage Liturgy_. Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
+\[^5\]: Searle, M., and K. W. Stevenson. **_Documents of the Marriage Liturgy_.** Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
 
 > In December 1563, the Council of Trent, already in process for nearly twenty years, decided that it could not itself undertake the task of reforming the liturgical books of the Western churches in communion with Rome, so it handed the task over to the pope. Five years later, the revised Roman Breviary appeared and, in 1570, the Missal. However, the Missal only contained the texts used in the celebration of the Mass. For the revised marriage rite, Catholics had to wait until the new Ritual was published in 1614.
 >
