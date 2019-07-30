@@ -104,23 +104,3 @@ input[type='checkbox'] {
 }
 </style>
 </html>
-
-# Gradual
-Haydock
-
-# Alleluia
-Haydock
-
-# Epistle
-Haydock 
-Catena Aurea
-
-# Gospel
-Haydock 
-Catena Aurea
-
-# Offertory
-Haydock 
-
-# Communion
-Haydock 
