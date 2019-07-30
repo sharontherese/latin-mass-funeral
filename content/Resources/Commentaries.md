@@ -102,7 +102,6 @@ input[type='checkbox'] {
   border-bottom-right-radius: 7px;
   padding: .5rem 1rem;
 }
-</style>
 
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox">
@@ -118,7 +117,6 @@ Ver. 19.  Make.  Gr. "Shew them mercy, Lord.  Perfect their life in health, with
   </div>
 </div>
 
-<style>
   .wrap-collabsible {
   margin-bottom: 1.2rem 0;
 }
