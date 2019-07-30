@@ -24,12 +24,6 @@
   weight = 40
   
 [[main]]
-  name = "Commentaries"
-  parent = "Resources"
-  url = "resources/commentaries"
-  weight = 40  
-  
-[[main]]
   name = "FAQs"
   parent = "Resources"
   url = "resources/faqs"
