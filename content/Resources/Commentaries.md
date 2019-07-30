@@ -15,8 +15,8 @@ For more commentaries, visit Sermonry \[^1\].
 
 <html>
 <div class="wrap-collabsible">
-  <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">Text of the Introit</label>
+  <input id="collapsible1" class="toggle" type="checkbox">
+  <label for="collapsible1" class="lbl-toggle">Text of the Introit</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
@@ -112,8 +112,8 @@ input[type='checkbox'] {
 
 <html>
 <div class="wrap-collabsible">
-  <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">Haydock Commentary</label>
+  <input id="collapsible2" class="toggle" type="checkbox">
+  <label for="collapsible2" class="lbl-toggle">Haydock Commentary</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
