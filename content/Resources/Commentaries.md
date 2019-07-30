@@ -19,6 +19,7 @@ Deus Israel coniungat vos: et ipse sit vobiscum, qui misertus est duobus unicis:
 
 May the God of Israel join you together: and may He be with you, who was merciful to two only children: and now, O Lord, make them bless Thee more fully.
 
+<html>
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox">
   <label for="collapsible" class="lbl-toggle">Haydock</label>
@@ -105,6 +106,7 @@ Ver. 19.  Make.  Gr. "Shew them mercy, Lord.  Perfect their life in health, with
     </div>
   </div>
 </div>
+</html>
 
 # Epistle
 
