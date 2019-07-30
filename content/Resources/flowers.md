@@ -19,11 +19,15 @@ Foley, Daniel J. “Medieval Mary Garden.” _University of Dayton_, 1953, [http
 >
 > The English writer Hepworth Dixon has caught the spirit of this simple faith in these lines: "Hearing that the best years of her youth and womanhood were spent, before she yet knew grief, on this sunny hill and side slope, her feet being for ever among the daisies, poppies and anemones, which grow everywhere about, we have made her the patroness of all our flowers. The Virgin is our rose of Sharon, our lily of the valley. The poetry no less than the piety of Europe has ascribed to her the whole bloom and coloring of the fields and hedges." However, after the turmoil and upheaval caused by the Reformation, many of the folk names of plants previously associated with the Holy Family were divested of their divine associations. The dawn of secularism, in a large measure, cast a heavy shadow on that feeling of devotion which had previously characterized the Christian world.
 
-"Mary Gardens: Flowers for Our Lady." _Fish Eaters_. Accessed 29 July 2019. [https://www.fisheaters.com/marygardens.html](https://www.fisheaters.com/marygardens.html "https://www.fisheaters.com/marygardens.html")
+Foley, Daniel J. “**Medieval Mary Garden**.” _University of Dayton_, 1953, [https://udayton.edu/imri/mary/m/medieval-mary-garden.php](https://udayton.edu/imri/mary/m/medieval-mary-garden.php "https://udayton.edu/imri/mary/m/medieval-mary-garden.php").
 
-Gattozzi, Bibiana. “Catholic Artistic Piety in a Motet.” _The Angelus Online_, [http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667](http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667 "http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667"). Accessed 3 June 2019.
+> A plant is something most people rarely, if ever, think about, but, like animals, and seen with the eyes of faith, even the lowliest plant invites wonder. Looked at thoughtfully, plants are transformed into objects of meditation, symbols and signs of our ultimate end. From their complexity and beauty, to their gratitude-inspiring usefulness as food and medicine, they orient us toward the transcendent if we're mindful enough.
+
+"**Mary Gardens: Flowers for Our Lady.**" _Fish Eaters_. Accessed 29 July 2019. [https://www.fisheaters.com/marygardens.html](https://www.fisheaters.com/marygardens.html "https://www.fisheaters.com/marygardens.html")
 
 > _Vidi speciosam (Responsory for the Feast of the Assumption of the Virgin)._ I saw a beautiful woman ascending like a dove over the banks of the waters, whose inestimable fragrance was overwhelming in her garments. And like a spring day, rose blossoms and lilies of the valley surrounded her.
+
+Gattozzi, Bibiana. “**Catholic Artistic Piety in a Motet**.” _The Angelus Online_, [http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667](http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667 "http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667"). Accessed 3 June 2019.
 
 Wells, D., and I. Patterson. _100 Flowers and How They Got Their Names_. Algonquin Books, 1997, [https://books.google.com/books?id=r05tI4YsidMC](https://books.google.com/books?id=r05tI4YsidMC "https://books.google.com/books?id=r05tI4YsidMC").
 
@@ -66,6 +70,6 @@ Coats, A. M. _Garden Shrubs and Their Histories_. Dutton, 1965, [https://books.g
 
 ![](/uploads/_MG_0325-min.JPG)
 
-My bridal bouquet (description from my wedding program): 
+My bridal bouquet (description from my wedding program):
 
 > The **cornflower** is one of Germany’s national symbols. They are associated with faithfulness and the Habsburg monarchy. The last ruling Habsburgs, Karl and Zita, are on their way to sainthood, and are two of the only (almost) saints to be venerated specifically for the vocation of marriage. **Rue** is the national herb of Lithuania, and commonly used by Lithuanian brides for hair wreaths. \[...\] During the Medieval Era, it became popular to dedicate a garden to Mary, and over time, numerous plants became associated with her. The flowers we have chosen stem from this tradition. **Roses** and **Sweet Williams** both have a Marian connection, and a connection to the bride’s and groom’s names (Rose of Sharon, and William). **Anemones** have an historical connection to both Mary and the Crusades.
