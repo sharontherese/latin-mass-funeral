@@ -19,6 +19,7 @@ Deus Israel coniungat vos: et ipse sit vobiscum, qui misertus est duobus unicis:
 
 May the God of Israel join you together: and may He be with you, who was merciful to two only children: and now, O Lord, make them bless Thee more fully.
 
+<html>
 <h1>Commentaries</h1>
 <section class="accordion">
   <input type="checkbox" name="collapse" id="handle1" checked="unchecked">
@@ -152,6 +153,7 @@ h1 {
     
   </div>
 </section>
+</html>
 
 # Epistle
 
