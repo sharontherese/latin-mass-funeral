@@ -78,6 +78,12 @@
   weight = 40  
   
 [[main]]
+  name = "Nuptial Blessing"
+  parent = "Resources"
+  url = "resources/nuptial-blessing"
+  weight = 40    
+  
+[[main]]
   name = "Rubrics"
   parent = "Resources"
   url = "resources/rubrics-for-the-wedding-mass"
