@@ -19,26 +19,16 @@ Deus Israel coniungat vos: et ipse sit vobiscum, qui misertus est duobus unicis:
 
 May the God of Israel join you together: and may He be with you, who was merciful to two only children: and now, O Lord, make them bless Thee more fully.
 
-<html>
-<h1>Commentaries</h1>
-<section class="accordion">
-  <input type="checkbox" name="collapse" id="handle1" checked="none">
-  <h2 class="handle">
-    <label for="handle1">Haydock</label>
-  </h2>
-  <div class="content">
-    <p><strong>Overall Impression:</strong> A pale, bitter, highly attenuated and well carbonated Trappist ale, showing a fruity-spicy Trappist yeast character, a spicy-floral hop profile, and a soft, supportive grainy-sweet malt palate.</p>
-    <p><strong>History:</strong> While Trappist breweries have a tradition of brewing a lower-strength beer as a monk’s daily ration, the bitter, pale beer this style describes is a relatively modern invention reflecting current tastes. Westvleteren first brewed theirs in 1999, but replaced older lower-gravity products.</p>
+<div class="wrap-collabsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle">Haydock</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        QUnit is by calling one of the object that are embedded in JavaScript, and faster JavaScript program could also used with
+        its elegant, well documented, and functional programming using JS, HTML pages Modernizr is a popular browsers without
+        plug-ins. Test-Driven Development.
+      </p>
+    </div>
   </div>
-</section>
-<section class="accordion">
-  <input type="checkbox" name="collapse2" id="handle2">
-  <h2 class="handle">
-    <label for="handle2">Catena Aurea</label>
-  </h2>
-  <div class="content">
-    <p><strong>Overall Impression:</strong> A deep reddish-copper, moderately strong, malty, complex Trappist ale with rich malty flavors, dark or dried fruit esters, and light alcohol blended together in a malty presentation that still finishes fairly dry.</p>
-    <p><strong>History:</strong> Originated at monasteries in the Middle Ages, and was revived in the mid-1800s after the Napoleonic era.</p>
-  </div>
-</section>
-</html>
+</div>
