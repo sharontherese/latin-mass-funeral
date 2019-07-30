@@ -27,7 +27,7 @@ In the excerpt of the _Rituale_ below, note that the marriage vows do not includ
 
 Below is the text for the Rite of Marriage, as found in the 1962 _Rituale Romanum._ This is to give you a starting point, an idea of what to expect. You can peruse plenty of _Rituales_ online from earlier years and find slight variations in the text (like a _Rituale_ from 1873 with English, Gallic, and German vows) \[^5\]. What remains the same is that there is an exchange of consent (and that is happens before Mass begins).
 
-# The Text of the Rite of Marriage
+# The 1962 Text of the Rite of Marriage
 
 ## Part 1: The Exchange of Vows
 
