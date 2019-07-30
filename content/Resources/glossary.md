@@ -62,16 +62,16 @@ A Mass offered for a special intention, such as a Mass for kings, bishops, marty
 
 # Sources
 
-\[^1\]: “What Is Gregorian Chant?” _GIA Publications_, [https://www.giamusic.com/sacred_music/chant_what_is.cfm](https://www.giamusic.com/sacred_music/chant_what_is.cfm "https://www.giamusic.com/sacred_music/chant_what_is.cfm"). Accessed 3 June 2019.
+\[^1\]: “**What Is Gregorian Chant?**” _GIA Publications_, [https://www.giamusic.com/sacred_music/chant_what_is.cfm](https://www.giamusic.com/sacred_music/chant_what_is.cfm "https://www.giamusic.com/sacred_music/chant_what_is.cfm"). Accessed 3 June 2019.
 
-\[^2\]: Friel, David. “Steering Wedding Dates Away from Advent & Lent.” _Corpus Christi Watershed_, 9 Mar. 2014, [http://www.ccwatershed.org/blog/2014/mar/9/steering-wedding-dates-away-advent-lent/](http://www.ccwatershed.org/blog/2014/mar/9/steering-wedding-dates-away-advent-lent/ "http://www.ccwatershed.org/blog/2014/mar/9/steering-wedding-dates-away-advent-lent/").
+\[^2\]: Friel, David. “**Steering Wedding Dates Away from Advent & Lent**.” _Corpus Christi Watershed_, 9 Mar. 2014, [http://www.ccwatershed.org/blog/2014/mar/9/steering-wedding-dates-away-advent-lent/](http://www.ccwatershed.org/blog/2014/mar/9/steering-wedding-dates-away-advent-lent/ "http://www.ccwatershed.org/blog/2014/mar/9/steering-wedding-dates-away-advent-lent/").
 
-\[^3\]:“Catholic Rites and Churches.” _EWTN_, 2007, [https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm](https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm "https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm").
+\[^3\]:“**Catholic Rites and Churches.**” _EWTN_, 2007, [https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm](https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm "https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm").
 
-\[^4\]: Fortescue, Adrian. “Votive Mass.” _The Catholic Encyclopedia_, vol. 15, New York: Robert Appleton Company, 1912, [http://www.newadvent.org/cathen/15508b.htm](http://www.newadvent.org/cathen/15508b.htm "http://www.newadvent.org/cathen/15508b.htm").
+\[^4\]: Fortescue, Adrian. “**Votive Mass.**” _The Catholic Encyclopedia_, vol. 15, New York: Robert Appleton Company, 1912, [http://www.newadvent.org/cathen/15508b.htm](http://www.newadvent.org/cathen/15508b.htm "http://www.newadvent.org/cathen/15508b.htm").
 
-\[^5\]: Thurston, Herbert. “Ritual of Marriage.” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm").
+\[^5\]: Thurston, Herbert. “**Ritual of Marriage.**” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm").
 
-\[^6\]: Regina Caeli Parish. _Low Mass, Sung Mass, High Mass, Solemn Mass_. 12 June 2013, [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
+\[^6\]: Regina Caeli Parish. **_Low Mass, Sung Mass, High Mass, Solemn Mass_.** 12 June 2013, [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
 
-\[^7\]: Henry, Hugh. “Music of the Mass.” _The Catholic Encyclopedia_, vol. 10, New York: Robert Appleton Company, 1911, [http://www.newadvent.org/cathen/10001a.htm](http://www.newadvent.org/cathen/10001a.htm "http://www.newadvent.org/cathen/10001a.htm").
+\[^7\]: Henry, Hugh. “**Music of the Mass.**” _The Catholic Encyclopedia_, vol. 10, New York: Robert Appleton Company, 1911, [http://www.newadvent.org/cathen/10001a.htm](http://www.newadvent.org/cathen/10001a.htm "http://www.newadvent.org/cathen/10001a.htm").
