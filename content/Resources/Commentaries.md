@@ -19,62 +19,29 @@ Deus Israel coniungat vos: et ipse sit vobiscum, qui misertus est duobus unicis:
 
 May the God of Israel join you together: and may He be with you, who was merciful to two only children: and now, O Lord, make them bless Thee more fully.
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.collapsible {
-  background-color: #200;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
+{{ $_hugo_config := `{ "version": 1 }` }}
+<div class="expand">
+    <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+        <i style="font-size:x-small;" class="fas fa-chevron-right"></i>
+        <span>
+        {{$expandMessage := T "Expand-title"}}
+    	{{ if .IsNamedParams }}
+    	{{.Get "default" | default $expandMessage}}
+    	{{else}}
+    	{{.Get 0 | default $expandMessage}} 
+## Haydock [^2]
 
-.active, .collapsible:hover {
-  background-color: #555;
-}
-
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-}
-<body>
-<button class="collapsible">Haydock</button>
-<div class="content">
-<p>
 Ver. 15.  Hand.  This was the mode of confirming agreements, in Media.  Alex. Genial v. 3. --- The custom prevailed in marriages, (Lament. v. 6.  Isai. lxii. 8.) as it does still among Christians. --- It.  Gr. "her for a wife to Tobias, and said: Behold: take care of her according to the law of Moses, and go to thy father.  And he blessed them.  And he called Edna, his wife, and taking a book, wrote a note, (H. or contract.  C.) and sealed it, and they began to eat."  H. --- It was almost universally the custom to have such writings, particularly where polygamy prevailed.  The wives of lower condition were taken without formality.  C.
 
-Ver. 19.  Make.  Gr. "Shew them mercy, Lord.  Perfect their life in health, with gladness and mercy.  But he ordered his domestics to fill up the grave, and he made them a marriage feast for fourteen days.  And," v. 23.  The ancient Vulg. seems rather more conformable to the present. "Raguel ordered his wife to make several loaves, and going himself to the flock, he brought two cows and four rams, and ordered them to prepare a feast.  He called Tobias, and swore to him, saying, Thou shalt not depart hence these 14 days, but remain here eating and drinking with me, and shalt fill with joy me and my daughter, who has been greatly afflicted.  Receive half of my goods, and thou shalt return safe and sound to thy father; and after my death, and that of my wife, thou shalt have the other half."  H. --- Gr. and Heb. mention nothing of the beasts slaughtered, or of Raguel's testament.  C. </p>
+Ver. 19.  Make.  Gr. "Shew them mercy, Lord.  Perfect their life in health, with gladness and mercy.  But he ordered his domestics to fill up the grave, and he made them a marriage feast for fourteen days.  And," v. 23.  The ancient Vulg. seems rather more conformable to the present. "Raguel ordered his wife to make several loaves, and going himself to the flock, he brought two cows and four rams, and ordered them to prepare a feast.  He called Tobias, and swore to him, saying, Thou shalt not depart hence these 14 days, but remain here eating and drinking with me, and shalt fill with joy me and my daughter, who has been greatly afflicted.  Receive half of my goods, and thou shalt return safe and sound to thy father; and after my death, and that of my wife, thou shalt have the other half."  H. --- Gr. and Heb. mention nothing of the beasts slaughtered, or of Raguel's testament.  C. 
+
+{{end}}
+    	</span>
+    </div>
+    <div class="expand-content" style="display: none;">
+        {{.Inner | safeHTML}}
+    </div>
 </div>
-
-<script type="text/javascript">
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
-
-</style>
-</head>
-</body>
-</html>
 
 # Epistle
 
