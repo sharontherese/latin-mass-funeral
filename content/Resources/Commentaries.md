@@ -16,14 +16,13 @@ For more commentaries, visit Sermonry \[^1\].
 <html>
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox">
-  <label for="collapsible" class="lbl-toggle">Text of the Introit</label>
+  <label for="collapsible" class="lbl-toggle">More Info</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
-Tobias 7:15; 8:19
-        
-Deus Israel coniungat vos: et ipse sit vobiscum, qui misertus est duobus unicis: et nunc, Domine, fac eos plenius benedicere te. 
-May the God of Israel join you together: and may He be with you, who was merciful to two only children: and now, O Lord, make them bless Thee more fully.  
+        QUnit is by calling one of the object that are embedded in JavaScript, and faster JavaScript program could also used with
+        its elegant, well documented, and functional programming using JS, HTML pages Modernizr is a popular browsers without
+        plug-ins. Test-Driven Development.
       </p>
     </div>
   </div>
@@ -45,7 +44,7 @@ input[type='checkbox'] {
   font-family: monospace;
   font-size: 1.2rem;
   text-transform: uppercase;
-  text-align: left;
+  text-align: center;
 
   padding: 1rem;
 
