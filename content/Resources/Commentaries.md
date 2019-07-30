@@ -28,7 +28,7 @@ For more commentaries, visit Sermonry \[^1\].
   </div>
 </div>
 
-#div class= "More Info"
+#"More Info"
 .wrap-collabsible {
   margin-bottom: 1.2rem 0;
 }
