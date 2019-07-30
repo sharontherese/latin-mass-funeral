@@ -21,7 +21,7 @@ May the God of Israel join you together: and may He be with you, who was mercifu
 
 {{ $_hugo_config := `{ "version": 1 }` }}
 <div class="expand">
-    <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+    <div class="Haydock" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
         <i style="font-size:x-small;" class="fas fa-chevron-right"></i>
         <span>
         {{$expandMessage := T "Expand-title"}}
@@ -29,7 +29,6 @@ May the God of Israel join you together: and may He be with you, who was mercifu
     	{{.Get "default" | default $expandMessage}}
     	{{else}}
     	{{.Get 0 | default $expandMessage}} 
-## Haydock [^2]
 
 Ver. 15.  Hand.  This was the mode of confirming agreements, in Media.  Alex. Genial v. 3. --- The custom prevailed in marriages, (Lament. v. 6.  Isai. lxii. 8.) as it does still among Christians. --- It.  Gr. "her for a wife to Tobias, and said: Behold: take care of her according to the law of Moses, and go to thy father.  And he blessed them.  And he called Edna, his wife, and taking a book, wrote a note, (H. or contract.  C.) and sealed it, and they began to eat."  H. --- It was almost universally the custom to have such writings, particularly where polygamy prevailed.  The wives of lower condition were taken without formality.  C.
 
