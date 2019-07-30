@@ -23,7 +23,7 @@ May the God of Israel join you together: and may He be with you, who was mercifu
 Ver. 15.  Hand.  This was the mode of confirming agreements, in Media.  Alex. Genial v. 3. --- The custom prevailed in marriages, (Lament. v. 6.  Isai. lxii. 8.) as it does still among Christians. --- It.  Gr. "her for a wife to Tobias, and said: Behold: take care of her according to the law of Moses, and go to thy father.  And he blessed them.  And he called Edna, his wife, and taking a book, wrote a note, (H. or contract.  C.) and sealed it, and they began to eat."  H. --- It was almost universally the custom to have such writings, particularly where polygamy prevailed.  The wives of lower condition were taken without formality.  C.
 
 Ver. 19.  Make.  Gr. "Shew them mercy, Lord.  Perfect their life in health, with gladness and mercy.  But he ordered his domestics to fill up the grave, and he made them a marriage feast for fourteen days.  And," v. 23.  The ancient Vulg. seems rather more conformable to the present. "Raguel ordered his wife to make several loaves, and going himself to the flock, he brought two cows and four rams, and ordered them to prepare a feast.  He called Tobias, and swore to him, saying, Thou shalt not depart hence these 14 days, but remain here eating and drinking with me, and shalt fill with joy me and my daughter, who has been greatly afflicted.  Receive half of my goods, and thou shalt return safe and sound to thy father; and after my death, and that of my wife, thou shalt have the other half."  H. --- Gr. and Heb. mention nothing of the beasts slaughtered, or of Raguel's testament.  C.
-{{% /expand%}}
+{{% /expand%}} 
 
 
 # Epistle
