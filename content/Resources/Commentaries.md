@@ -21,7 +21,7 @@ May the God of Israel join you together: and may He be with you, who was mercifu
 
 <h1>Commentaries</h1>
 <section class="accordion">
-  <input type="checkbox" name="collapse" id="handle1" checked="checked">
+  <input type="checkbox" name="collapse" id="handle1" checked="unchecked">
   <h2 class="handle">
     <label for="handle1">Haydock</label>
   </h2>
