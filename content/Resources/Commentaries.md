@@ -891,3 +891,100 @@ input[type='checkbox'] {
 </style>
 
 </html>
+
+
+<html>
+<div class="wrap-collabsible">
+  <input id="collapsible10" class="toggle" type="checkbox">
+  <label for="collapsible10" class="lbl-toggle">Haydock Commentary</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+Ver. 3. Is it lawful? Here again the Pharisees, ever anxious to ensnare Jesus in his words, come to him and ask him, is it lawful for a man to put away his wife for every cause? Thinking now they had to a certainty succeeded, they argue thus with themselves: shall he say that it is not lawful, we will accuse him of blasphemy, contradicting the Scriptures. For, it is written, Deut. iv. 1. If a man take a wife, and she find not favour in his eyes, for some uncleanness, he shall write a bill of divorce. And Malachy, ii. 16. When thou shalt hate her, put her away. — On the other hand, if he shall say it is lawful, we will accuse him of favouring the passions. But Jesus Christ, the wisdom of the eternal Father, silences them with the authority of that Scripture they attempted to bring against him. What God has joined together, let no man put asunder; intimating, that the connexion between husband and wife is so strict, that by it they become as one flesh, and can no more be separated than one member from another. Dion. Carth. — To put away his wife for every cause,[1] or upon every occasion. They did not doubt it, if the cause was considerable. Wi.
+        
+Ver. 4. In the beginning. It is remarked by S. Jerome, S. Chrys. and Theophylactus, that the Almighty does not say of any of the animals which he created, as he does of man and woman, that he joined one male to one female; from which it appears, according to the reasoning of S. Augustine, that monogamy, as well as the indissolubility of marriage, was instituted from the beginning by the Almighty. T.
+
+Ver. 5. These words were pronounced by Adam. Gen. xi. 24. — And they two shall be in one flesh.[2] I translate thus with submission to better judges; yet the sense may be, by a kind of Hebraism, they shall be esteemed as one person. Wi.
+      </p>
+    </div>
+  </div>
+</div>
+    
+<style>    
+  .wrap-collabsible {
+  margin-bottom: 1.2rem 0;
+}
+
+input[type='checkbox'] {
+  display: none;
+}
+
+.lbl-toggle {
+  display: block;
+
+  font-weight: bold;
+  font-family: lato;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  text-align: left;
+
+  padding: 1rem;
+
+  color: #FFFFFF;
+  background: #3F51B5;
+
+  cursor: pointer;
+
+  border-radius: 7px;
+  transition: all 0.25s ease-out;
+}
+
+.lbl-toggle:hover {
+  color: #000000;
+}
+
+.lbl-toggle::before {
+  content: ' ';
+  display: inline-block;
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+
+  transition: transform .2s ease-out;
+}
+
+.toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px);
+}
+
+.collapsible-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
+}
+
+.toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 1500px;
+}
+
+.toggle:checked + .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.collapsible-content .content-inner {
+  background: rgba(250, 224, 66, .2);
+  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
+}
+
+</style>
+
+</html>
+
