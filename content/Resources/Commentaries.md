@@ -19,3 +19,11 @@ Haydock
 <div class="panel"> 
 Ver. 6. Israel. This is best secured by a well-regulated and numerous people. Bert. — The good works, performed on earth, will be rewarded in heaven. W. — We shall rejoice in the spiritual children, whom we shall have begotten. M.
 </div>
+
+var accordions = document.querySelectorAll("button.accordion"); 
+for (var i = 0; i < accordions.length; i++) { 
+accordions[i].onclick = function(){ 
+this.classList.toggle("active"); 
+this.nextElementSibling.classList.toggle("show"); 
+} 
+}
