@@ -510,8 +510,8 @@ input[type='checkbox'] {
 
 <html>
 <div class="wrap-collabsible">
-  <input id="collapsible4" class="toggle" type="checkbox">
-  <label for="collapsible4" class="lbl-toggle">Haydock Commentary</label>
+  <input id="collapsible6" class="toggle" type="checkbox">
+  <label for="collapsible6" class="lbl-toggle">Haydock Commentary</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
@@ -601,4 +601,194 @@ input[type='checkbox'] {
 
 
 
+# Alleluia
 
+<html>
+<div class="wrap-collabsible">
+  <input id="collapsible7" class="toggle" type="checkbox">
+  <label for="collapsible7" class="lbl-toggle">Text of the Alleluia</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+Psalms 19:3; 133:3
+        
+Alleluia, alleluia. V. Mittat vobis Dominus auxilium de sancto: et de Sion tueatur vos. Alleluia. V. Benedicat vobis Dominus ex Sion: qui fecit coelum et terram. Alleluia.
+
+Alleluia, alleluia. V. (Ps. 19. 3) May the Lord send you help from the sanctuary, and defend you out of Sion. Alleluia. V. (Ps. 133. 3). May the Lord out of Sion bless you: who hath made heaven and earth. Alleluia.
+      </p>
+    </div>
+  </div>
+</div>
+    
+<style>    
+  .wrap-collabsible {
+  margin-bottom: 1.2rem 0;
+}
+
+input[type='checkbox'] {
+  display: none;
+}
+
+.lbl-toggle {
+  display: block;
+
+  font-weight: bold;
+  font-family: lato;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  text-align: left;
+
+  padding: 1rem;
+
+  color: #FFFFFF;
+  background: #3F51B5;
+
+  cursor: pointer;
+
+  border-radius: 7px;
+  transition: all 0.25s ease-out;
+}
+
+.lbl-toggle:hover {
+  color: #000000;
+}
+
+.lbl-toggle::before {
+  content: ' ';
+  display: inline-block;
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+
+  transition: transform .2s ease-out;
+}
+
+.toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px);
+}
+
+.collapsible-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
+}
+
+.toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 600px;
+}
+
+.toggle:checked + .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.collapsible-content .content-inner {
+  background: rgba(250, 224, 66, .2);
+  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
+}
+
+</style>
+
+</html>
+
+
+
+
+<html>
+<div class="wrap-collabsible">
+  <input id="collapsible8" class="toggle" type="checkbox">
+  <label for="collapsible8" class="lbl-toggle">Haydock Commentary</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+Ver. 3. Sion, where God was supposed to reside, in the tabernacle; though he was also in heaven, v. 7. C.
+Ver. 3. Thee. “A Levite on guard answers the cantor,” (Houbig.) or the priests say this to the people, when they were departing home. Num. vi. 23. C. — Earth. All things were made to praise God. W.
+      </p>
+    </div>
+  </div>
+</div>
+    
+<style>    
+  .wrap-collabsible {
+  margin-bottom: 1.2rem 0;
+}
+
+input[type='checkbox'] {
+  display: none;
+}
+
+.lbl-toggle {
+  display: block;
+
+  font-weight: bold;
+  font-family: lato;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  text-align: left;
+
+  padding: 1rem;
+
+  color: #FFFFFF;
+  background: #3F51B5;
+
+  cursor: pointer;
+
+  border-radius: 7px;
+  transition: all 0.25s ease-out;
+}
+
+.lbl-toggle:hover {
+  color: #000000;
+}
+
+.lbl-toggle::before {
+  content: ' ';
+  display: inline-block;
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+
+  transition: transform .2s ease-out;
+}
+
+.toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px);
+}
+
+.collapsible-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
+}
+
+.toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 500px;
+}
+
+.toggle:checked + .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.collapsible-content .content-inner {
+  background: rgba(250, 224, 66, .2);
+  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
+}
+
+</style>
+
+</html>
