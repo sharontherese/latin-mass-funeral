@@ -42,7 +42,7 @@ input[type='checkbox'] {
   display: block;
 
   font-weight: bold;
-  font-family: monospace;
+  font-family: lato;
   font-size: 1.2rem;
   text-transform: uppercase;
   text-align: left;
@@ -50,7 +50,7 @@ input[type='checkbox'] {
   padding: 1rem;
 
   color: #A77B0E;
-  background: #142889;
+  background: #3F51B5;
 
   cursor: pointer;
 
@@ -138,7 +138,7 @@ input[type='checkbox'] {
   display: block;
 
   font-weight: bold;
-  font-family: monospace;
+  font-family: lato;
   font-size: 1.2rem;
   text-transform: uppercase;
   text-align: left;
@@ -146,7 +146,7 @@ input[type='checkbox'] {
   padding: 1rem;
 
   color: #A77B0E;
-  background: #142889;
+  background: #3F51B5;
 
   cursor: pointer;
 
