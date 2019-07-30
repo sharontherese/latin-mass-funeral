@@ -49,7 +49,7 @@ input[type='checkbox'] {
   padding: 1rem;
 
   color: #A77B0E;
-  background: #FAE042;
+  background: #142889;
 
   cursor: pointer;
 
