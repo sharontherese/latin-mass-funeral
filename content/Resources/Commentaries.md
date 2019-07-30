@@ -9,8 +9,8 @@ toggle = false
 # About
 
 Below are classic Biblical commentaries on the _propers_ of the wedding Mass.  
-The two commentaries I pull from are Haydock and St. Thomas Aquinas' Catena Aurea. 
-For more commentaries, visit Sermonry.
+The two commentaries I pull from are Haydock [^1] and St. Thomas Aquinas' Catena Aurea [^2]. 
+For more commentaries, visit Sermonry [^3].
 
 # Introit
 
@@ -1536,3 +1536,12 @@ input[type='checkbox'] {
 </style>
 
 </html>
+
+
+# Sources
+
+[^1]: Haydock, George L. Haydock Catholic Bible Commentary. Edward Dunigan and Brother: New York, 1859, https://www.ecatholic2000.com/haydock/title.shtml.
+
+[^2]: Aquinas, Thomas. Catena Aurea: Commentary on the Four Gospels. J.H. Parker, 1841, https://www.ecatholic2000.com/catena/untitled-111.shtml.
+
+[^3]: Sermonry, https://sermonry.com/. Accessed 3 June 2019.
