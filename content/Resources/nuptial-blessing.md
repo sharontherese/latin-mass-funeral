@@ -13,4 +13,6 @@ The nuptial blessing takes place shortly after the Our Father. It is an ancient 
 
 # Sources
 
-Stice, Fr. Randy. “An Introduction to the Sacrament of Matrimony and the Nuptial Blessing.” _Adoremus_ (blog), November 16, 2015. [https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/](https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/ "https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/").
+Stice, Fr. Randy. “**An Introduction to the Sacrament of Matrimony and the Nuptial Blessing.**” _Adoremus_ (blog), November 16, 2015. [https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/](https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/ "https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/").
+
+“**Nuptial Blessing.**” Catholic Culture. Accessed July 30, 2019. [http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770](http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770 "http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770").
