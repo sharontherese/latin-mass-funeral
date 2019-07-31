@@ -4,7 +4,7 @@ title = "Mass Music"
 toggle = false
 
 +++
-![](/uploads/kyrie.gif)
+![](/uploads/introit.png)
 
 # About
 
