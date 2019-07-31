@@ -4,6 +4,10 @@ title = "History"
 toggle = false
 
 +++
+![](/uploads/Giotto_-_Scrovegni_-_-24-_-_Marriage_at_Cana.jpg)
+
+Marriage at Cana, Giotto (c. 14th century)
+
 # About
 
 Both the Rite of Marriage and the Wedding Mass have complex histories, which are well worth exploring. Below is an extremely brief list of highlights in the history of weddings within the Catholic Church.
