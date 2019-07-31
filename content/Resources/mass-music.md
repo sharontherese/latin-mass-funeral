@@ -55,6 +55,8 @@ Sullivan, Roseanne T. “**Propers of the Mass vs. the Four Hymn Sandwich.**” 
 
 # General
 
+“**Sacred Music**.” Institute of Christ the King Sovereign Priest. Accessed July 31, 2019. [http://www.institute-christ-king.org/resources/sacred-music#votive](http://www.institute-christ-king.org/resources/sacred-music#votive "http://www.institute-christ-king.org/resources/sacred-music#votive"). \[Scroll down to "Votive Masses\]
+
 Henry, Hugh. “**Music of the Mass.**” In _The Catholic Encyclopedia_. Vol. 10. New York: Robert Appleton Company, 1911. [http://www.newadvent.org/cathen/10001a.htm](http://www.newadvent.org/cathen/10001a.htm "http://www.newadvent.org/cathen/10001a.htm").
 
 Regina Caeli Parish. **_Low Mass, Sung Mass, High Mass, Solemn Mass_**_._ June 12, 2013. [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
