@@ -4,7 +4,8 @@ title = "Rubrics for the Wedding Mass"
 toggle = false
 
 +++
-![](/uploads/_MG_0518-min.JPG)
+
+![](/uploads/08740016-min.JPG)
 
 # About
 
