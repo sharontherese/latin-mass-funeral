@@ -35,7 +35,7 @@ May the God of Israel join you together: and may He be with you, who was mercifu
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
@@ -128,7 +128,7 @@ Ver. 19.  Make.  Gr. "Shew them mercy, Lord.  Perfect their life in health, with
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
@@ -225,7 +225,7 @@ Wives, be subject to your husbands, as to the Lord.  For the husband is the head
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
@@ -326,7 +326,7 @@ Ver. 32. This … sacrament, (or mystery) … in Christ, and in the Church. This
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
@@ -423,7 +423,7 @@ Thy wife shall be as a fruitful vine on the sides of thy house. V. Thy children 
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
@@ -514,7 +514,7 @@ Ver. 3. Sides. Against which vines were planted. C. — The married people who f
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
@@ -611,7 +611,7 @@ Alleluia, alleluia. V. (Ps. 19. 3) May the Lord send you help from the sanctuary
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
@@ -703,7 +703,7 @@ Ver. 3. Thee. “A Levite on guard answers the cantor,” (Houbig.) or the pries
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
@@ -800,7 +800,7 @@ At that time: The Pharisees came to Jesus, tempting Him and saying; It is lawful
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
@@ -895,7 +895,7 @@ Ver. 5. These words were pronounced by Adam. Gen. xi. 24. — And they two shall
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
@@ -1054,7 +1054,7 @@ PSEUDO-CHRYSOSTOM. Therefore said He well, Moses suffered, not commanded. For wh
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
@@ -1151,7 +1151,7 @@ In Thee, O Lord, have I hoped: I said, Thou art my God; my times are in Thy hand
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
@@ -1242,7 +1242,7 @@ Ver. 16. Lots. Sept. Rom. klhroi, as the same word, hittothai is rendered Judg. 
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
@@ -1339,7 +1339,7 @@ Behold, thus shall every man be blessed that feareth the Lord; and mayest thou s
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
@@ -1430,7 +1430,7 @@ Ver. 6. Israel. This is best secured by a well-regulated and numerous people. Be
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='checkbox'\] {
+input[type='checkbox'] {
 display: none;
 }
 
