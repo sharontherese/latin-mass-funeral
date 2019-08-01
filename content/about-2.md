@@ -18,4 +18,8 @@ Any word in _italics_ can be found in the [Glossary](https://www.latinmassweddin
 
 I have an [FAQ ](https://www.latinmasswedding.com/resources/faqs/)page to get you started.
 
+If you would like help with certain elements of Latin Mass wedding planning (that a lay person can provide), such as making a program, performing research, please [contact me](https://www.latinmasswedding.com/#contact) for a quote. 
+
+Lastly, I have a [personal site](http://awildsostenuto.wordpress.com) full of fun and exciting research and Catholic content.
+
 ![](/uploads/_MG_0753-min.JPG)
