@@ -32,6 +32,8 @@ Von Hildebrand, Alice. **_By Love Refined: Letters to a Young Bride_**. Sophia I
 
 “Holy Matrimony.” **_Fish Eaters _**(blog). Accessed June 3, 2019. [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html").
 
+Klauder, Alexander Laurence Alphonsus. **_Catholic Practice at Church and at Home. The Parishioner’s Little Rule Book, a Guide for Catholics in the External Practice of Their Holy Religion_**, pp. 114-133. Boston, Mass., Angel guardian press, 1898. [http://archive.org/details/catholicpractice01klau](http://archive.org/details/catholicpractice01klau "http://archive.org/details/catholicpractice01klau").
+
 Heuser, Herman J. (Herman Joseph). **_The Parish Priest on Duty: A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission_**. New York: Benziger Brothers, 1904. [http://archive.org/details/theparishpriesto00heusuoft](http://archive.org/details/theparishpriesto00heusuoft "http://archive.org/details/theparishpriesto00heusuoft").
 
 Semmler, Nerius. **_For Bride and Groom: A Pre-Nuptial Instruction Based on the Encyclical Letter of Pope Pius XI, Casti Connubii_**_, December 31, 1930 /_. Our Sunday Visitor, 1950. [https://www.lib.cua.edu/rarebook/node/4391](https://www.lib.cua.edu/rarebook/node/4391 "https://www.lib.cua.edu/rarebook/node/4391").
