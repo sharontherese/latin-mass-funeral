@@ -20,10 +20,10 @@ _Alma Redemptoris_, Giovanni Pierluigi da Palestrina (polyphony)
 _Te Deum_, Marc-Antoine Charpentier (organ)
 
 **Propers:**  
-all gregorian chant 
+all gregorian chant
 
 **Ordinaries:**  
-Mass setting VIII, Missa de Angelis 
+Mass setting VIII, Missa de Angelis
 
 **Offertory motet:**  
 Psalm 117 (gregorian chant)
@@ -53,7 +53,7 @@ Gattozzi, Bibiana. “**Catholic Artistic Piety in a Motet.**” _The Angelus On
 
 “St. Antoine Daniel Kyriale.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). (Scroll down to "Mass VIII")
 
-Gastoue, A. “**The ‘Missa de Angelis.’**” Translated by Albert Gingras. _The Caecilia_, December 1933, 375–78.
+Gastoue, A. “**The ‘Missa de Angelis.’**” Translated by Albert Gingras. _The Caecilia_, December 1933, 375–78. [https://media.musicasacra.com/publications/caecilia/caecilia_v60n12_1933_12.pdf](https://media.musicasacra.com/publications/caecilia/caecilia_v60n12_1933_12.pdf "https://media.musicasacra.com/publications/caecilia/caecilia_v60n12_1933_12.pdf")
 
 Sullivan, Roseanne T. “**Propers of the Mass vs. the Four Hymn Sandwich.**” _Homiletic and Pastoral Review_, 2016. [https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html](https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html "https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html").
 
