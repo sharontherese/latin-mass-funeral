@@ -10,7 +10,7 @@ toggle = false
 
 The nuptial blessing takes place shortly after the Our Father. It is an ancient blessing, with a rich history. A video of our nuptial blessing can be [found here](https://www.youtube.com/watch?time_continue=1&v=f8CJjs2s6qg).
 
-The blessing is for both the bride and the groom, but primarily for the bride. It is also only given in a first marriage. 
+The blessing is for both the bride and the groom, but primarily for the bride. It is also only given in a first marriage.
 
 # Text of the Nuptial Blessing
 
@@ -30,10 +30,12 @@ R. Amen.
 
 # Sources
 
-Stice, Fr. Randy. “**An Introduction to the Sacrament of Matrimony and the Nuptial Blessing.**” _Adoremus_ (blog), November 16, 2015. [https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/](https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/ "https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/").
-
 “**Nuptial Blessing.**” Catholic Culture. Accessed July 30, 2019. [http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770](http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770 "http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770").
+
+“**Nuptial Rites Follow Customs of Society.**” _Clarion Herald_, April 30, 1964. [https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22~10------").
 
 Stevenson, Kenneth W. "**The Origins of the Nuptial Blessing.**" _Heythrop Journal_ 21. (1980): 412-416.
 
-Stevenson, Kenneth W. **_The Nuptial Blessing: A Study of Christian Marriage Rites_**: London. (1982). 
+Stevenson, Kenneth W. **_The Nuptial Blessing: A Study of Christian Marriage Rites_**: London. (1982).
+
+Stice, Fr. Randy. “**An Introduction to the Sacrament of Matrimony and the Nuptial Blessing.**” _Adoremus_ (blog), November 16, 2015. [https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/](https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/ "https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/").
