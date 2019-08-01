@@ -30,6 +30,8 @@ Sheen, F.J. **_Three to Get Married_**. Catholic Insight Series. Appleton-Centur
 
 Von Hildebrand, Alice. **_By Love Refined: Letters to a Young Bride_**. Sophia Institute Press, 1997. [https://books.google.com/books?id=KaCQAQAAQBAJ](https://www.lib.cua.edu/rarebook/node/4391 "https://www.lib.cua.edu/rarebook/node/4391").
 
+Vuarin, M. _Familiar Instructions on the Holiness and Dignity of the Sacrament of Matrimony: Addressed to Parents and Christian Youth_. Philadelphia : H. & C. McGrath, 1851. [http://archive.org/details/FamiliarInstructionsOnTheHoliness](http://archive.org/details/FamiliarInstructionsOnTheHoliness "http://archive.org/details/FamiliarInstructionsOnTheHoliness").
+
 # The Domestic Realm
 
 “**The Christian Home: A Guide to Happiness in the Home: Chapter I.**” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/home2.html](https://www.fisheaters.com/home2.html "https://www.fisheaters.com/home2.html").
