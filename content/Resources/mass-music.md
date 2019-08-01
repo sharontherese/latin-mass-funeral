@@ -67,6 +67,6 @@ Pope Pius X. “**Tra Le Sollecitudini (Instruction on Sacred Music),**” 1903.
 
 # Sources
 
-\[^1\]:“Gregorian Propers • St. René Goupil Gradual.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/goupil/](http://www.ccwatershed.org/goupil/ "http://www.ccwatershed.org/goupil/"). (Scroll down to "Nuptial Mass")
+\[^1\]: “Gregorian Propers.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/goupil/](http://www.ccwatershed.org/goupil/ "http://www.ccwatershed.org/goupil/"). (Scroll down to "Nuptial Mass")
 
-\[^2\]:“St. Antoine Daniel Kyriale.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). (Scroll down to "Mass VIII")
+\[^2\]: “St. Antoine Daniel Kyriale.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). (Scroll down to "Mass VIII")
