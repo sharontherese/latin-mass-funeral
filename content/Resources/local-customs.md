@@ -5,17 +5,18 @@ title = "Local Customs"
 toggle = false
 
 +++
-![](/uploads/08750015-min.jpg)
+![](/uploads/08740007-min.JPG)  
+Featured: bridal veil; bridal crown; hair pins shaped like rue leaves, a bridal custom from Lithuania
 
 # About
 
-Local wedding customs are difficult to describe. For one, by their nature they’re usually passed on orally, not in writing. For another, an unfortunate consequence of the Council of Trent was a widespread loss of local customs in favor of uniformity with Rome. Combined with a dramatic rise in homogenous global customs, local/traditional wedding customs can be hard to come by. 
+Local wedding customs are difficult to describe. For one, by their nature they’re usually passed on orally, not in writing. For another, an unfortunate consequence of the Council of Trent was a widespread loss of local customs in favor of uniformity with Rome. Combined with a dramatic rise in homogenous global customs, local/traditional wedding customs can be hard to come by.
 
 What I have found on this topic is scattershot, varying in verifiability, and largely personal (i.e., I am half Lithuanian-American, and half Irish-American, so the customs I know the best are from Lithuania and Ireland).
 
-I have arranged the customs thematically. 
+I have arranged the customs thematically.
 
-If you are interested in researching more about local customs, try historical archives and online newspaper collections. 
+If you are interested in researching more about local customs, try historical archives and online newspaper collections.
 
 # Crowns/wreaths/veils
 
@@ -25,7 +26,7 @@ Brides wearing crowns or wreaths is a widespread wedding custom. A few examples:
 
 # Flowers
 
-For more information, visit the Flowers page; 
+For more information, visit the Flowers page;
 
 Foley, Daniel J. “Medieval Mary Garden.” _University of Dayton_, 1953, [https://udayton.edu/imri/mary/m/medieval-mary-garden.php](https://udayton.edu/imri/mary/m/medieval-mary-garden.php "https://udayton.edu/imri/mary/m/medieval-mary-garden.php").
 
@@ -41,4 +42,4 @@ Friel, David. “Only the Lover Sings.” _Corpus Christi Watershed_, Oct. 2014,
 
 Monti, James. _The Week of Salvation: History and Traditions of Holy Week_. Our Sunday Visitor, 1993, [https://books.google.com/books?id=bmPGtAEACAAJ](https://books.google.com/books?id=bmPGtAEACAAJ "https://books.google.com/books?id=bmPGtAEACAAJ").
 
-“Holy Matrimony.” _Fish Eaters_, [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html"). Accessed 3 
+“Holy Matrimony.” _Fish Eaters_, [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html"). Accessed 3
