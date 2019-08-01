@@ -17,15 +17,19 @@ I have arranged the customs thematically, and will add examples of each custom a
 
 If you are interested in researching more about local customs, try historical archives and online newspaper collections.
 
-# Crowns/wreaths/veils
+# Crowns/wreaths
 
-> Norway: "The youth’s head is bare; the bride wears her marriage crown as proudly as any queen." 
+> Norway: "The youth’s head is bare; the bride wears her marriage crown as proudly as any queen."
 
 “Philadelphia Letter.” _The Catholic Telegraph_, July 6, 1876. [https://thecatholicnewsarchive.org/?a=d&d=TCT18760706-01.1.1&srpos=7&e=-------en-20--1-byDA-txt-txIN-%22bride+crown%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=TCT18760706-01.1.1&srpos=7&e=-------en-20--1-byDA-txt-txIN-%22bride+crown%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=TCT18760706-01.1.1&srpos=7&e=-------en-20--1-byDA-txt-txIN-%22bride+crown%22~10------").
 
+# Veils
+
+Veiling could refer to two things: the veil word by the bride, or the pall, or cloth, raised over the couple's hands or heads.
+
 # Rings
 
-> America: "The new tabernacle curtain at Our Lady of Mount Carmel Church runs on golden wedding rings. The curtain and the wedding-ring idea were copied after the curtain in the chapel of the Blessed Sacrament in Westminster Cathedral, London, at the suggestion of the pastor, the Rev. Henry van Boxel. Wedding rings which in some families had been handed down from generation to generation and the wedding rings of widows were given for this Louisiana church." 
+> America: "The new tabernacle curtain at Our Lady of Mount Carmel Church runs on golden wedding rings. The curtain and the wedding-ring idea were copied after the curtain in the chapel of the Blessed Sacrament in Westminster Cathedral, London, at the suggestion of the pastor, the Rev. Henry van Boxel. Wedding rings which in some families had been handed down from generation to generation and the wedding rings of widows were given for this Louisiana church."
 
 “Tabernacle Curtain Runs on Golden Wedding Rings.” _Catholic News Service_, November 8, 1950. [https://thecatholicnewsarchive.org/?a=d&d=cns19501108-01.1.7](https://thecatholicnewsarchive.org/?a=d&d=cns19501108-01.1.7 "https://thecatholicnewsarchive.org/?a=d&d=cns19501108-01.1.7").
 
@@ -55,7 +59,7 @@ Monti, James. _The Week of Salvation: History and Traditions of Holy Week_. Our 
 
 > Scroll to the bottom of the page to see a list of some wedding customs.
 
-“Holy Matrimony.” _Fish Eaters_, [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html"). Accessed 3 June, 2019. 
+“Holy Matrimony.” _Fish Eaters_, [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html"). Accessed 3 June, 2019.
 
 <br>
 
