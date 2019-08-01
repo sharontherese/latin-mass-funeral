@@ -82,6 +82,10 @@ Ecce sic benedicetur omnis homo, qui timet Dominum: et videas filios filiorum tu
 
 Behold, thus shall every man be blessed that feareth the Lord; and mayest thou see thy children's children; peace upon Israel.
 
+## Postcommunion 
+
+Let us pray: We beseech Thee, Almighty God, to accompany the institutions of Thy providence with Thy gracious favor ; that thou mayest preserve those with lasting peace whom Thou unitest in lawful union. Through Jesus Christ, Thy Son our Lord, who liveth and reigneth with Thee in the unity of the Holy Ghost, God world without end. Amen.
+
 ## Nuptial Blessing
 
 Mercifully give ear, O Lord, to our prayers, and let thy grace accompany this thy institution, by which thou hast ordained the propagation of mankind, that this tie, which is made by thy authority, may be preserved by thy grace. Through Our Lord...
