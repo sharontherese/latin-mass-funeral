@@ -45,13 +45,19 @@ For more information, visit the [Flowers ](https://www.latinmasswedding.com/reso
 
 Friel, David. “Only the Lover Sings.” _Corpus Christi Watershed_, Oct. 2014, [http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/](http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/ "http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/").
 
+<br>
+
 > Europe: While the focus of this book is Holy Week, Monti has quite a few references to local wedding customs from across Western Europe.
 
 Monti, James. _The Week of Salvation: History and Traditions of Holy Week_. Our Sunday Visitor, 1993, [https://books.google.com/books?id=bmPGtAEACAAJ](https://books.google.com/books?id=bmPGtAEACAAJ "https://books.google.com/books?id=bmPGtAEACAAJ").
 
+<br>
+
 > Scroll to the bottom of the page to see a list of some wedding customs.
 
 “Holy Matrimony.” _Fish Eaters_, [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html"). Accessed 3 June, 2019. 
+
+<br>
 
 > At one lime the marriage custom of York, Eng., required that the bride throw herself at the feel of her husband if he gave her land as part of the dowry. And many dioceses in France had the couple lie prone before the altar with a pall held over them during the nuptial blessing. These rites may seem peculiar, but modern day marriage customs had their origins centuries ago in practices equally strange to us.
 
