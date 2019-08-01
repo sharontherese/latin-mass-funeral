@@ -28,6 +28,10 @@ Deus Israel coniungat vos: et ipse sit vobiscum, qui misertus est duobus unicis:
 
 May the God of Israel join you together: and may He be with you, who was merciful to two only children: and now, O Lord, make them bless Thee more fully.
 
+## Collect
+
+Let us pray: Graciously hear us, O Almighty and merciful God; that what is administered by our service may be more effectually fulfilled by Thy blessing. Through Jesus Christ, Thy Son our Lord, who liveth and reigneth with Thee in the unity of the Holy Ghost, God world without end. Amen.
+
 ## Epistle
 
 Ephesians 5:22-33
