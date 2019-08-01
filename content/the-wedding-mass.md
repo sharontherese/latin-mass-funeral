@@ -70,6 +70,10 @@ In te speravi, Domine: dixi: Tu es Deus meus: in manibus tuis tempora mea.
 
 In Thee, O Lord, have I hoped: I said, Thou art my God; my times are in Thy hands.
 
+## Secret
+
+Receive, we beseech Thee, O Lord, the offering made for the sacred law of matrimony; and be Thou the disposer of the work of which Thou art the author. Through Jesus Christ, Thy Son our Lord, who liveth and reigneth with Thee in the unity of the Holy Ghost, God world without end. Amen.
+
 ## Communion
 
 Psalms 127:4, 6
