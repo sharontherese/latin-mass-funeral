@@ -20,9 +20,7 @@ If you are interested in researching more about local customs, try historical ar
 
 # Crowns/wreaths/veils
 
-Brides wearing crowns or wreaths is a widespread wedding custom. A few examples:
-
-\-wreath then wimple in Sigrid Undset's book (Norway)
+Norway: "The youth’s head is bare; the bride wears her marriage crown as proudly as any queen." “Philadelphia Letter.” _The Catholic Telegraph_, July 6, 1876. [https://thecatholicnewsarchive.org/?a=d&d=TCT18760706-01.1.1&srpos=7&e=-------en-20--1-byDA-txt-txIN-%22bride+crown%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=TCT18760706-01.1.1&srpos=7&e=-------en-20--1-byDA-txt-txIN-%22bride+crown%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=TCT18760706-01.1.1&srpos=7&e=-------en-20--1-byDA-txt-txIN-%22bride+crown%22~10------").
 
 # Flowers
 
