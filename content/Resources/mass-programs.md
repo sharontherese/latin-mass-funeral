@@ -4,7 +4,7 @@ title = "Mass Programs"
 toggle = false
 
 +++
-> This is my wedding program. You are welcome to reuse any of the content within - just [contact me](https://www.latinmasswedding.com/)!
+> This is my wedding program. You are welcome to reuse any of the content within - just [contact me](https://www.latinmasswedding.com/#contact)! 
 
 Kabel, Sharon. “**Bolger-Kabel Wedding Program.**” _Google Docs_, Sept. 2018, [https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook](https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook "https://docs.google.com/document/d/1_heSScOvXUF-Ek25JJEKCuJOQSnPkLjzkanCuF7p6dw/edit?usp=drive_open&ouid=0&usp=embed_facebook").
 
