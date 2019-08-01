@@ -29,6 +29,8 @@ If you are interested in researching more about local customs, try historical ar
 
 “Tabernacle Curtain Runs on Golden Wedding Rings.” _Catholic News Service_, November 8, 1950. [https://thecatholicnewsarchive.org/?a=d&d=cns19501108-01.1.7](https://thecatholicnewsarchive.org/?a=d&d=cns19501108-01.1.7 "https://thecatholicnewsarchive.org/?a=d&d=cns19501108-01.1.7").
 
+<br>
+
 > "In Christian tradition the wedding ring was not highly ornamented; the important thing was rather that it be of pure, unalloyed metal, symbolizing true marriage, the Rev. Dr. Edgar Schmiedeler, 0.S.B.. Director of the Family Life Bureau of the National Catholic Welfare Conference, declared on the Faith in Our Time program."
 
 “Elaborate Wedding Rings Are Not in Christian Tradition, Speaker Says.” _Catholic News Service_, April 25, 1949. [https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2&e=-------en-20--1-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2&e=-------en-20--1-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2&e=-------en-20--1-byDA-txt-txIN-%22wedding+tradition%22~10------").
