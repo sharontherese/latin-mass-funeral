@@ -20,10 +20,10 @@ _Alma Redemptoris_, Giovanni Pierluigi da Palestrina (polyphony)
 _Te Deum_, Marc-Antoine Charpentier (organ)
 
 **Propers:**  
-all gregorian chant \[^1\]
+all gregorian chant 
 
 **Ordinaries:**  
-Mass setting VIII, Missa de Angelis \[^2\]
+Mass setting VIII, Missa de Angelis 
 
 **Offertory motet:**  
 Psalm 117 (gregorian chant)
@@ -49,6 +49,10 @@ Gattozzi, Bibiana. “**Catholic Artistic Piety in a Motet.**” _The Angelus On
 
 # Texts (_propers_, _ordinaries_, and hymns)
 
+“Gregorian Propers.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/goupil/](http://www.ccwatershed.org/goupil/ "http://www.ccwatershed.org/goupil/"). (Scroll down to "Nuptial Mass")
+
+“St. Antoine Daniel Kyriale.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). (Scroll down to "Mass VIII")
+
 Gastoue, A. “**The ‘Missa de Angelis.’**” Translated by Albert Gingras. _The Caecilia_, December 1933, 375–78.
 
 Sullivan, Roseanne T. “**Propers of the Mass vs. the Four Hymn Sandwich.**” _Homiletic and Pastoral Review_, 2016. [https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html](https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html "https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html").
@@ -64,9 +68,3 @@ Regina Caeli Parish. **_Low Mass, Sung Mass, High Mass, Solemn Mass_**_._ June 1
 Ostrowski, Jeff. “**Free Musical Scores For Catholic Weddings.**” Corpus Christi Watershed, June 3, 2013. [http://www.ccwatershed.org/blog/2013/jun/3/free-responsorial-psalm-marriage-nuptial-mass/](http://www.ccwatershed.org/blog/2013/jun/3/free-responsorial-psalm-marriage-nuptial-mass/ "http://www.ccwatershed.org/blog/2013/jun/3/free-responsorial-psalm-marriage-nuptial-mass/").
 
 Pope Pius X. “**Tra Le Sollecitudini (Instruction on Sacred Music),**” 1903. [https://adoremus.org/1903/11/22/tra-le-sollecitudini/](https://adoremus.org/1903/11/22/tra-le-sollecitudini/ "https://adoremus.org/1903/11/22/tra-le-sollecitudini/").
-
-# Sources
-
-\[^1\]: “Gregorian Propers.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/goupil/](http://www.ccwatershed.org/goupil/ "http://www.ccwatershed.org/goupil/"). (Scroll down to "Nuptial Mass")
-
-\[^2\]: “St. Antoine Daniel Kyriale.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). (Scroll down to "Mass VIII")
