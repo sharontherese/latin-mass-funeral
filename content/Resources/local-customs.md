@@ -24,7 +24,7 @@ Norway: "The youth’s head is bare; the bride wears her marriage crown as proud
 
 # Flowers
 
-For more information, visit the Flowers page;
+For more information, visit the [Flowers ](https://www.latinmasswedding.com/resources/flowers/)page;
 
 Foley, Daniel J. “Medieval Mary Garden.” _University of Dayton_, 1953, [https://udayton.edu/imri/mary/m/medieval-mary-garden.php](https://udayton.edu/imri/mary/m/medieval-mary-garden.php "https://udayton.edu/imri/mary/m/medieval-mary-garden.php").
 
