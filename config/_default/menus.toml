@@ -66,6 +66,12 @@
   weight = 40  
   
 [[main]]
+  name = "Local Customs"
+  parent = "Resources"
+  url = "resources/local-customs"
+  weight = 40    
+  
+[[main]]
   name = "Mass Music"
   parent = "Resources"
   url = "resources/mass-music"
