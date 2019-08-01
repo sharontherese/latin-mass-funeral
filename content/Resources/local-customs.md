@@ -24,15 +24,15 @@ If you are interested in researching more about local customs, try historical ar
 
 “Philadelphia Letter.” _The Catholic Telegraph_, July 6, 1876. [https://thecatholicnewsarchive.org/?a=d&d=TCT18760706-01.1.1&srpos=7&e=-------en-20--1-byDA-txt-txIN-%22bride+crown%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=TCT18760706-01.1.1&srpos=7&e=-------en-20--1-byDA-txt-txIN-%22bride+crown%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=TCT18760706-01.1.1&srpos=7&e=-------en-20--1-byDA-txt-txIN-%22bride+crown%22~10------").
 
-# Flowers
-
-For more information, visit the [Flowers ](https://www.latinmasswedding.com/resources/flowers/)page;
-
 # Rings
 
 > America: "The new tabernacle curtain at Our Lady of Mount Carmel Church runs on golden wedding rings. The curtain and the wedding-ring idea were copied after the curtain in the chapel of the Blessed Sacrament in Westminster Cathedral, London, at the suggestion of the pastor, the Rev. Henry van Boxel. Wedding rings which in some families had been handed down from generation to generation and the wedding rings of widows were given for this Louisiana church." 
 
 “Tabernacle Curtain Runs on Golden Wedding Rings.” _Catholic News Service_, November 8, 1950. [https://thecatholicnewsarchive.org/?a=d&d=cns19501108-01.1.7](https://thecatholicnewsarchive.org/?a=d&d=cns19501108-01.1.7 "https://thecatholicnewsarchive.org/?a=d&d=cns19501108-01.1.7").
+
+# Flowers
+
+For more information, visit the [Flowers ](https://www.latinmasswedding.com/resources/flowers/)page;
 
 Friel, David. “Only the Lover Sings.” _Corpus Christi Watershed_, Oct. 2014, [http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/](http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/ "http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/").
 
