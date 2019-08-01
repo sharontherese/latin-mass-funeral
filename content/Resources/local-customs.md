@@ -40,4 +40,6 @@ Friel, David. “Only the Lover Sings.” _Corpus Christi Watershed_, Oct. 2014,
 
 Monti, James. _The Week of Salvation: History and Traditions of Holy Week_. Our Sunday Visitor, 1993, [https://books.google.com/books?id=bmPGtAEACAAJ](https://books.google.com/books?id=bmPGtAEACAAJ "https://books.google.com/books?id=bmPGtAEACAAJ").
 
-“Holy Matrimony.” _Fish Eaters_, [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html"). Accessed 3
+“Holy Matrimony.” _Fish Eaters_, [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html"). Accessed 3 June, 2019. 
+
+“Kissing, Dowries, Ancient Customs.” _Clarion Herald_, May 9, 1963. [https://thecatholicnewsarchive.org/?a=d&d=cher19630509-01.1.8&srpos=33&e=-------en-20--21-byDA-txt-txIN-%22bride+crown%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cher19630509-01.1.8&srpos=33&e=-------en-20--21-byDA-txt-txIN-%22bride+crown%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cher19630509-01.1.8&srpos=33&e=-------en-20--21-byDA-txt-txIN-%22bride+crown%22~10------").
