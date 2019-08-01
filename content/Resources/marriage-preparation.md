@@ -22,6 +22,8 @@ Below are supplemental materials about Catholic marriage, and the domestic life.
 
 Leo XIII, Pope. “**Arcanum Divinae**,” February 10, 1880. [http://w2.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html](http://w2.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html "http://w2.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html").
 
+Pius XI, Pope. “**Divini Illius Magistri**,” December 31, 1929. [http://w2.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html](http://w2.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html "http://w2.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html").
+
 Sheen, F.J. **_Three to Get Married_**. Catholic Insight Series. Appleton-Century-Crofts, 1951. [https://www.ewtn.com/library/MARRIAGE/3GETMARR.TXT](https://www.ewtn.com/library/MARRIAGE/3GETMARR.TXT "https://www.ewtn.com/library/MARRIAGE/3GETMARR.TXT").
 
 Von Hildebrand, Alice. **_By Love Refined: Letters to a Young Bride_**. Sophia Institute Press, 1997. [https://books.google.com/books?id=KaCQAQAAQBAJ](https://books.google.com/books?id=KaCQAQAAQBAJ "https://books.google.com/books?id=KaCQAQAAQBAJ").
