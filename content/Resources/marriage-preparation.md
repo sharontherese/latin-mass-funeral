@@ -18,7 +18,13 @@ First and foremost: Contact your parish and your diocese to determine the requir
 
 Below are supplemental materials about Catholic marriage, and the domestic life. This list is not comprehensive, and in no particular thematic order. They range from academic tomes to early 20th century pamphlets to recent social media campaigns.
 
-# Catechesis & Classics
+# Classics
+
+Sheen, F.J. **_Three to Get Married_**. Catholic Insight Series. Appleton-Century-Crofts, 1951. [https://www.ewtn.com/library/MARRIAGE/3GETMARR.TXT](https://www.ewtn.com/library/MARRIAGE/3GETMARR.TXT "https://www.ewtn.com/library/MARRIAGE/3GETMARR.TXT").
+
+Von Hildebrand, Alice. **_By Love Refined: Letters to a Young Bride_**. Sophia Institute Press, 1997. [https://books.google.com/books?id=KaCQAQAAQBAJ](https://books.google.com/books?id=KaCQAQAAQBAJ "https://books.google.com/books?id=KaCQAQAAQBAJ").
+
+# Catechesis
 
 “Holy Matrimony.” **_Fish Eaters _**(blog). Accessed June 3, 2019. [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html").
 
@@ -26,13 +32,11 @@ Heuser, Herman J. (Herman Joseph). **_The Parish Priest on Duty: A Practical Man
 
 Semmler, Nerius. **_For Bride and Groom: A Pre-Nuptial Instruction Based on the Encyclical Letter of Pope Pius XI, Casti Connubii_**_, December 31, 1930 /_. Our Sunday Visitor, 1950. [https://www.lib.cua.edu/rarebook/node/4391](https://www.lib.cua.edu/rarebook/node/4391 "https://www.lib.cua.edu/rarebook/node/4391").
 
-Sheen, F.J. **_Three to Get Married_**. Catholic Insight Series. Appleton-Century-Crofts, 1951. [https://www.ewtn.com/library/MARRIAGE/3GETMARR.TXT](https://www.lib.cua.edu/rarebook/node/4391 "https://www.lib.cua.edu/rarebook/node/4391").
-
 Solaro della Margherita, Giulia, and Charles Constantine Pise. **_The Catholic Bride; or Moral Letters Addressed to Julia, Daughter of Count Solaro Della Margarita, on the Occasion of Her Marriage with Count E. Demorri Di Castelmagno_**_. by C. C. Pise_. Baltimore, 1868. [http://archive.org/details/TheCatholicBride](http://archive.org/details/TheCatholicBride "http://archive.org/details/TheCatholicBride").
 
-Von Hildebrand, Alice. **_By Love Refined: Letters to a Young Bride_**. Sophia Institute Press, 1997. [https://books.google.com/books?id=KaCQAQAAQBAJ](https://www.lib.cua.edu/rarebook/node/4391 "https://www.lib.cua.edu/rarebook/node/4391").
-
 Vuarin, M. **_Familiar Instructions on the Holiness and Dignity of the Sacrament of Matrimony: Addressed to Parents and Christian Youth_**. Philadelphia : H. & C. McGrath, 1851. [http://archive.org/details/FamiliarInstructionsOnTheHoliness](http://archive.org/details/FamiliarInstructionsOnTheHoliness "http://archive.org/details/FamiliarInstructionsOnTheHoliness").
+
+Walter Jewell. **_Tell Her You’re a Catholic_**, 1949. [http://archive.org/details/TellHerYoureACatholic](http://archive.org/details/TellHerYoureACatholic "http://archive.org/details/TellHerYoureACatholic").
 
 # The Domestic Realm
 
