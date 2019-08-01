@@ -5,6 +5,8 @@ title = "Local Customs"
 toggle = false
 
 +++
+![](/uploads/08750015-min.jpg)
+
 # About
 
 Local wedding customs are difficult to describe. For one, by their nature they’re usually passed on orally, not in writing. For another, an unfortunate consequence of the Council of Trent was a widespread loss of local customs in favor of uniformity with Rome. Combined with a dramatic rise in homogenous global customs, local/traditional wedding customs can be hard to come by. 
