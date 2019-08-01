@@ -35,7 +35,7 @@ May the God of Israel join you together: and may He be with you, who was mercifu
 margin-bottom: 1.2rem 0;
 }
 
-input\[type='toggle'\] {
+input\[type="checkbox"\] {
 display: none;
 }
 
