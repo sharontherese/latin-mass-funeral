@@ -34,6 +34,8 @@ R. Amen.
 
 “**Nuptial Rites Follow Customs of Society.**” _Clarion Herald_, April 30, 1964. [https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22~10------").
 
+Klauder, Alexander Laurence Alphonsus. **_Catholic Practice at Church and at Home. The Parishioner’s Little Rule Book, a Guide for Catholics in the External Practice of Their Holy Religion_**, pp. 114-133. Boston, Mass., Angel guardian press, 1898. [http://archive.org/details/catholicpractice01klau](http://archive.org/details/catholicpractice01klau "http://archive.org/details/catholicpractice01klau").
+
 Stevenson, Kenneth W. "**The Origins of the Nuptial Blessing.**" _Heythrop Journal_ 21. (1980): 412-416.
 
 Stevenson, Kenneth W. **_The Nuptial Blessing: A Study of Christian Marriage Rites_**: London. (1982).
