@@ -74,18 +74,6 @@ In Thee, O Lord, have I hoped: I said, Thou art my God; my times are in Thy hand
 
 Receive, we beseech Thee, O Lord, the offering made for the sacred law of matrimony; and be Thou the disposer of the work of which Thou art the author. Through Jesus Christ, Thy Son our Lord, who liveth and reigneth with Thee in the unity of the Holy Ghost, God world without end. Amen.
 
-## Communion
-
-Psalms 127:4, 6
-
-Ecce sic benedicetur omnis homo, qui timet Dominum: et videas filios filiorum tuorum: pax super Israel.
-
-Behold, thus shall every man be blessed that feareth the Lord; and mayest thou see thy children's children; peace upon Israel.
-
-## Postcommunion 
-
-Let us pray: We beseech Thee, Almighty God, to accompany the institutions of Thy providence with Thy gracious favor ; that thou mayest preserve those with lasting peace whom Thou unitest in lawful union. Through Jesus Christ, Thy Son our Lord, who liveth and reigneth with Thee in the unity of the Holy Ghost, God world without end. Amen.
-
 ## Nuptial Blessing
 
 Mercifully give ear, O Lord, to our prayers, and let thy grace accompany this thy institution, by which thou hast ordained the propagation of mankind, that this tie, which is made by thy authority, may be preserved by thy grace. Through Our Lord...
@@ -101,6 +89,18 @@ R. Amen.
 May the God of Abraham, the God of Isaac, and the God of Jacob be with you: and may he fulfill his blessing in you; that you may see your children's children to the third and fourth generation: and afterwards enter into the possession of eternal life, through the assistance of our Lord Jesus Christ, who with the Father and the Holy Ghost, liveth, &c.
 
 R. Amen.
+
+## Communion
+
+Psalms 127:4, 6
+
+Ecce sic benedicetur omnis homo, qui timet Dominum: et videas filios filiorum tuorum: pax super Israel.
+
+Behold, thus shall every man be blessed that feareth the Lord; and mayest thou see thy children's children; peace upon Israel.
+
+## Postcommunion 
+
+Let us pray: We beseech Thee, Almighty God, to accompany the institutions of Thy providence with Thy gracious favor ; that thou mayest preserve those with lasting peace whom Thou unitest in lawful union. Through Jesus Christ, Thy Son our Lord, who liveth and reigneth with Thee in the unity of the Holy Ghost, God world without end. Amen.
 
 # Sources
 
