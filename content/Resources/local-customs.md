@@ -14,7 +14,7 @@ Local wedding customs are difficult to describe. For one, by their nature theyâ€
 
 What I have found on this topic is scattershot, varying in verifiability, and largely personal (i.e., I am half Lithuanian-American, and half Irish-American, so the customs I know the best are from Lithuania and Ireland).
 
-I have arranged the customs thematically.
+I have arranged the customs thematically, and will add examples of each custom as I find them in newspapers, literature, and stories.
 
 If you are interested in researching more about local customs, try historical archives and online newspaper collections.
 
