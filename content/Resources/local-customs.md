@@ -25,7 +25,7 @@ If you are interested in researching more about local customs, try historical ar
 
 # Veils
 
-Veiling could refer to two things: the veil word by the bride, or the pall, or cloth, raised over the couple's hands or heads.
+Veiling could refer to two things: the veil worn by the bride, or the pall, or cloth, raised over the couple's hands or heads.
 
 # Rings
 
