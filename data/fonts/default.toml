@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Amaranth|Orbitron:700"
+name = "Amaranth:400,700i"
 
 # Optional Google font URL
-google_fonts = "Amaranth|Orbitron:700"
+google_fonts = "Amaranth:400,700i"
 
 # Font families
-heading_font = "Amaranth"
-body_font = "Orbitron"
-nav_font = "Orbitron"
-mono_font = "Orbitron"
+heading_font = "Amaranth:700i"
+body_font = "Amaranth"
+nav_font = "Amaranth"
+mono_font = "Amaranth"
 
 # Font size
 font_size = "20"
