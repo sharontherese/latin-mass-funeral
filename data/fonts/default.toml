@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Oswald"
+name = "Roboto Slab"
 
 # Optional Google font URL
-google_fonts = "Raleway:800"
+google_fonts = "Roboto+Slab:700"
 
 # Font families
-heading_font = "Raleway"
-body_font = "Raleway"
-nav_font = "Raleway"
-mono_font = "Raleway"
+heading_font = "Roboto+Slab"
+body_font = "Roboto+Slab"
+nav_font = "Roboto+Slab"
+mono_font = "Roboto+Slab"
 
 # Font size
 font_size = "20"
