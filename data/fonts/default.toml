@@ -12,5 +12,5 @@ mono_font = "Montserrat"
 
 # Font size
 font_size = "22"
-font_size_small = "18"
+font_size_small = "14"
 
