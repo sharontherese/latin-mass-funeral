@@ -136,7 +136,7 @@ display: none;
 display: block;
 
 font-weight: bold;
-font-family: lato;
+font-family: montserrat;
 font-size: 0.5rem;
 text-transform: uppercase;
 text-align: left;
@@ -144,7 +144,7 @@ text-align: left;
 padding: 1rem;
 
 color: #FFFFFF;
-background: #3F51B5;
+background: #ffffe6;
 
 cursor: pointer;
 
