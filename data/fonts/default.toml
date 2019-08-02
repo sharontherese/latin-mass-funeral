@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Viga"
+name = "Montserrat"
 
 # Optional Google font URL
-google_fonts = "Viga"
+google_fonts = "Montserrat"
 
 # Font families
-heading_font = "Viga"
-body_font = "Viga"
-nav_font = "Viga"
-mono_font = "Viga"
+heading_font = "Montserrat"
+body_font = "Montserrat"
+nav_font = "Montserrat"
+mono_font = "Montserrat"
 
 # Font size
 font_size = "20"
