@@ -6,10 +6,18 @@ google_fonts = "Lora"
 
 # Font families
 heading_font = "Lora"
-body_font = "Lora"
-nav_font = "Lora"
-mono_font = "Lora"
 
 # Font size
 font_size = "20"
 font_size_small = "16"
+
+# Font style metadata
+name = "Raleway"
+
+# Optional Google font URL
+google_fonts = "Raleway"
+
+# Font families
+body_font = "Raleway"
+nav_font = "Raleway"
+mono_font = "Raleway"
