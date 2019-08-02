@@ -21,5 +21,6 @@ fields:
   label: toggle
 pages:
 - content/about-2.md
+- content/About/Services.md
 - content/Resources/nuptial-blessing.md
 - content/Resources/married-saints.md

@@ -4,6 +4,8 @@ title = "About"
 toggle = false
 
 +++
+# About Me
+
 My husband, William, and I were married in a Latin Mass wedding on September 22, 2018. While we were both familiar with the Latin Mass, we found that we had a good deal to learn about a Latin Mass wedding. Much knowledge has been lost about nuptial services, liturgies, customs, and expectations.
 
 As a librarian who is chronically unable to be relaxed about anything, much of my wedding planning involved accruing piles of research on Catholic wedding masses. This website is everything I found about Latin Mass weddings, plus a lot of extra (but related) content on traditional aspects of Catholicism.
@@ -18,8 +20,14 @@ Any word in _italics_ can be found in the [Glossary](https://www.latinmassweddin
 
 I have an [FAQ ](https://www.latinmasswedding.com/resources/faqs/)page to get you started.
 
-If you would like help with certain elements of Latin Mass wedding planning (that a lay person can provide), such as making a program, performing research, please [contact me](https://www.latinmasswedding.com/#contact) for a quote. 
+I also have a [personal site](http://awildsostenuto.wordpress.com) full of fun and exciting research and Catholic content.
 
-Lastly, I have a [personal site](http://awildsostenuto.wordpress.com) full of fun and exciting research and Catholic content.
+# Services
+
+If you would like help with certain elements of Latin Mass wedding planning, please [contact me](https://www.latinmasswedding.com/#contact) for a quote. Examples include: 
+
+* Research: such as discovery and history of regional or ethnic Catholic wedding customs
+* Reference/Consultations: such as customized planning help based on your diocese and resources
+* Mass programs: creation of 2+page wedding programs based on your needs
 
 ![](/uploads/_MG_0753-min.JPG)
