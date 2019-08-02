@@ -6,9 +6,9 @@ google_fonts = "Amaranth|Orbitron:700"
 
 # Font families
 heading_font = "Amaranth"
-body_font = "Orbitron:700"
-nav_font = "Orbitron:700"
-mono_font = "Orbitron:700"
+body_font = "Orbitron"
+nav_font = "Orbitron"
+mono_font = "Orbitron"
 
 # Font size
 font_size = "20"
