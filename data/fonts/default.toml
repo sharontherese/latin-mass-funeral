@@ -5,7 +5,7 @@ name = "Heebo:700"
 google_fonts = "Heebo:700"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "Merriweather"
 body_font = "Heebo:700"
 nav_font = "Heebo:700"
 mono_font = "Heebo:700"
