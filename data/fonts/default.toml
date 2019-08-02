@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Lato"
+name = "Lora"
 
 # Optional Google font URL
-google_fonts = "Lato:700"
+google_fonts = "Lora"
 
 # Font families
-heading_font = "Lato:700"
-body_font = "Lato:700"
-nav_font = "Lato:700"
-mono_font = "Lato:700"
+heading_font = "Lora"
+body_font = "Lora"
+nav_font = "Lora"
+mono_font = "Lora"
 
 # Font size
 font_size = "20"
