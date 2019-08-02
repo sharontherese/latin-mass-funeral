@@ -2,13 +2,13 @@
 name = "Oswald"
 
 # Optional Google font URL
-google_fonts = "Oswald:700"
+google_fonts = "Raleway:800"
 
 # Font families
-heading_font = "Oswald"
-body_font = "Oswald"
-nav_font = "Oswald"
-mono_font = "Oswald"
+heading_font = "Raleway"
+body_font = "Raleway"
+nav_font = "Raleway"
+mono_font = "Raleway"
 
 # Font size
 font_size = "20"
