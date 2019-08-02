@@ -43,12 +43,12 @@ display: none;
 display: block;
 
 font-weight: bold;
-font-family: lato;
+font-family: Montserrat;
 font-size: 0.5rem;
 text-transform: uppercase;
 text-align: left;
 
-padding: 1rem;
+padding: 0.5rem;
 
 color: #FFFFFF;
 background: #3F51B5;
