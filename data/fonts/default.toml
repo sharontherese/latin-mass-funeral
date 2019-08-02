@@ -2,13 +2,13 @@
 name = "Merriweather"
 
 # Optional Google font URL
-google_fonts = ""
+google_fonts = "Merriweather:400,700"
 
 # Font families
-heading_font = "Merriweather"
-body_font = "Bitter"
-nav_font = "Bitter"
-mono_font = "Bitter"
+heading_font = "Merriweather:400"
+body_font = "Merriweather:700"
+nav_font = "Merriweather:700"
+mono_font = "Merriweather:700"
 
 # Font size
 font_size = "20"
