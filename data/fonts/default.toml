@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Heebo"
+name = "Raleway"
 
 # Optional Google font URL
-google_fonts = "Heebo"
+google_fonts = "Raleway"
 
 # Font families
-heading_font = "Heebo"
-body_font = "Heebo"
-nav_font = "Heebo"
-mono_font = "Heebo"
+heading_font = "Raleway:900"
+body_font = "Raleway:700"
+nav_font = "Raleway:700"
+mono_font = "Raleway:700"
 
 # Font size
 font_size = "20"
