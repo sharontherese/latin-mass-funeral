@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Lora"
+name = "Amaranth|Orbitron:700"
 
 # Optional Google font URL
-google_fonts = "Lora"
+google_fonts = "Amaranth|Orbitron:700"
 
 # Font families
-heading_font = "Lora"
-body_font = "Lora"
-nav_font = "Lora"
-mono_font = "Lora"
+heading_font = "Amaranth"
+body_font = "Orbitron:700"
+nav_font = "Orbitron:700"
+mono_font = "Orbitron:700"
 
 # Font size
 font_size = "20"
