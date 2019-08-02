@@ -43,7 +43,7 @@ display: none;
 display: block;
 
 font-weight: bold;
-font-family: Montserrat;
+font-family: montserrat;
 font-size: 0.5rem;
 text-transform: uppercase;
 text-align: left;
@@ -144,7 +144,7 @@ text-align: left;
 padding: 1rem;
 
 color: #FFFFFF;
-background: #ffffe6;
+background: #FFFFE6;
 
 cursor: pointer;
 
