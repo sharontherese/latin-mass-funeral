@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Amaranth:400,700i"
+name = "Viga"
 
 # Optional Google font URL
-google_fonts = "Amaranth:400,700i"
+google_fonts = "Viga"
 
 # Font families
-heading_font = "Amaranth:700i"
-body_font = "Amaranth"
-nav_font = "Amaranth"
-mono_font = "Amaranth"
+heading_font = "Viga"
+body_font = "Viga"
+nav_font = "Viga"
+mono_font = "Viga"
 
 # Font size
 font_size = "20"
