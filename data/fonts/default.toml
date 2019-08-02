@@ -2,10 +2,10 @@
 name = "Lato"
 
 # Optional Google font URL
-google_fonts = "Lato:900"
+google_fonts = "Lato"
 
 # Font families
-heading_font = "Lato:900"
+heading_font = "Lato"
 body_font = "Lato"
 nav_font = "Lato"
 mono_font = "Lato"
