@@ -137,13 +137,13 @@ display: block;
 
 font-weight: bold;
 font-family: montserrat;
-font-size: 0.5rem;
+font-size: 0.6rem;
 text-transform: uppercase;
 text-align: left;
 
 padding: 1rem;
 
-color: #FFFFFF;
+color: #FFFFE6;
 background: #FFFFE6;
 
 cursor: pointer;
