@@ -1,18 +1,15 @@
 # Font style metadata
-name = "Lato"
+name = "Heebo:700"
 
 # Optional Google font URL
-google_fonts = "Lato"
+google_fonts = "Heebo:700"
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Lato"
-nav_font = "Lato"
-mono_font = "Lato"
+body_font = "Heebo:700"
+nav_font = "Heebo:700"
+mono_font = "Heebo:700"
 
 # Font size
 font_size = "20"
 font_size_small = "16"
-
-# Font color
-font_color = "#000000"
