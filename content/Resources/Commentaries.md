@@ -55,7 +55,7 @@ background: #3F51B5;
 
 cursor: pointer;
 
-border-radius: 7px;
+border-radius: 5px;
 transition: all 0.25s ease-out;
 }
 
