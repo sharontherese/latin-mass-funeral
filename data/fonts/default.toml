@@ -1,23 +1,16 @@
 # Font style metadata
-name = "Lora"
+name = "Oswald"
 
 # Optional Google font URL
-google_fonts = "Lora"
+google_fonts = "Oswald:700"
 
 # Font families
-heading_font = "Lora"
+heading_font = "Oswald"
+body_font = "Oswald"
+nav_font = "Oswald"
+mono_font = "Oswald"
 
 # Font size
 font_size = "20"
 font_size_small = "16"
 
-# Font style metadata
-name = "Raleway"
-
-# Optional Google font URL
-google_fonts = "Raleway"
-
-# Font families
-body_font = "Raleway"
-nav_font = "Raleway"
-mono_font = "Raleway"
