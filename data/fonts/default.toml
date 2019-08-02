@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Roboto Slab"
+name = "Merriweather|Noto+Sans"
 
 # Optional Google font URL
-google_fonts = "Roboto+Slab"
+google_fonts = "Merriweather|Noto+Sans"
 
 # Font families
-heading_font = "Roboto+Slab"
-body_font = "Roboto+Slab
-nav_font = "Roboto+Slab"
-mono_font = "Roboto+Slab"
+heading_font = "Merriweather"
+body_font = "Noto+Sans"
+nav_font = "Noto+Sans"
+mono_font = "Noto+Sans"
 
 # Font size
 font_size = "20"
