@@ -12,32 +12,32 @@ The ideal music _setting_ for the Mass is _gregorian chant_, followed by _polyph
 
 Here is how our wedding Mass music looked:
 
-**Prelude:**  
-_Veni Creator Spiritus_, Rabanus Maurus (gregorian chant)  
-_Alma Redemptoris_, Giovanni Pierluigi da Palestrina (polyphony)
-
-**Procession:**  
-_Te Deum_, Marc-Antoine Charpentier (organ)
-
-**Propers:**  
-all gregorian chant
-
-**Ordinaries:**  
-Mass setting VIII, Missa de Angelis
-
-**Offertory motet:**  
-Psalm 117 (gregorian chant)
-
-**Communion motet:**  
-_Sicut Cervus_, Giovanni Pierluigi da Palestrina (polyphony)  
-_Te Deum_, Nicetas of Remesiana (gregorian chant)
-
-**Presentation of flowers to Mary:**  
-_Ave Verum Corpus_, Wolfgang Amadeus Mozart (polyphony)
-
-**Recessional:**  
-_O God Beyond All Praising_, Michael Perry (hymn)  
-_Organ Symphony No. 5, Toccata_, Charles-Marie Widor (organ)
+> **Prelude:**  
+> _Veni Creator Spiritus_, Rabanus Maurus (gregorian chant)  
+> _Alma Redemptoris_, Giovanni Pierluigi da Palestrina (polyphony)
+>
+> **Procession:**  
+> _Te Deum_, Marc-Antoine Charpentier (organ)
+>
+> **Propers:**  
+> all gregorian chant
+>
+> **Ordinaries:**  
+> Mass setting VIII, Missa de Angelis
+>
+> **Offertory motet:**  
+> Psalm 117 (gregorian chant)
+>
+> **Communion motet:**  
+> _Sicut Cervus_, Giovanni Pierluigi da Palestrina (polyphony)  
+> _Te Deum_, Nicetas of Remesiana (gregorian chant)
+>
+> **Presentation of flowers to Mary:**  
+> _Ave Verum Corpus_, Wolfgang Amadeus Mozart (polyphony)
+>
+> **Recessional:**  
+> _O God Beyond All Praising_, Michael Perry (hymn)  
+> _Organ Symphony No. 5, Toccata_, Charles-Marie Widor (organ)
 
 # Settings (chant and polyphony)
 
