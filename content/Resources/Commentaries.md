@@ -200,6 +200,7 @@ padding: .5rem 1rem;
 </style>
 
 <br>
+<br>
 
 </html>
 
@@ -401,6 +402,9 @@ padding: .5rem 1rem;
 
 </html>
 
+<br>
+<br>
+
 # Gradual
 
 <html>
@@ -588,6 +592,9 @@ padding: .5rem 1rem;
 </style>
 
 </html>
+
+<br>
+<br>
 
 # Alleluia
 
@@ -777,6 +784,9 @@ padding: .5rem 1rem;
 </style>
 
 </html>
+
+<br>
+<br>
 
 # Gospel
 
@@ -1129,6 +1139,9 @@ padding: .5rem 1rem;
 
 </html>
 
+<br>
+<br>
+
 # Offertory
 
 <html>
@@ -1317,6 +1330,9 @@ padding: .5rem 1rem;
 
 </html>
 
+<br>
+<br>
+
 # Communion
 
 <html>
@@ -1504,6 +1520,9 @@ padding: .5rem 1rem;
 </style>
 
 </html>
+
+<br>
+<br>
 
 # Sources
 
