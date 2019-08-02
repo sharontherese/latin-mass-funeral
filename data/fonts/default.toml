@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Merriweather|Noto+Sans"
+name = "Merriweather|Lato"
 
 # Optional Google font URL
-google_fonts = "Merriweather|Noto+Sans"
+google_fonts = "Merriweather|Lato"
 
 # Font families
-heading_font = "Merriweather"
-body_font = "Noto+Sans"
-nav_font = "Noto+Sans"
-mono_font = "Noto+Sans"
+heading_font = "Lato"
+body_font = "Merriweather"
+nav_font = "Merriweather"
+mono_font = "Merriweather"
 
 # Font size
 font_size = "20"
