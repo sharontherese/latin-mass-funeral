@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Heebo:700"
+name = "Heebo"
 
 # Optional Google font URL
-google_fonts = "Heebo:700"
+google_fonts = ""
 
 # Font families
 heading_font = "Merriweather"
-body_font = "Heebo:700"
-nav_font = "Heebo:700"
-mono_font = "Heebo:700"
+body_font = "Heebo"
+nav_font = "Heebo"
+mono_font = "Heebo"
 
 # Font size
 font_size = "20"
