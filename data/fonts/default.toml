@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Merriweather|Lato"
+name = "Lato:900"
 
 # Optional Google font URL
-google_fonts = "Merriweather|Lato"
+google_fonts = "Lato:900"
 
 # Font families
-heading_font = "Lato"
-body_font = "Merriweather"
-nav_font = "Merriweather"
-mono_font = "Merriweather"
+heading_font = "Lato:900"
+body_font = "Lato"
+nav_font = "Lato"
+mono_font = "Lato"
 
 # Font size
 font_size = "20"
