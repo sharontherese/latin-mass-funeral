@@ -2,13 +2,13 @@
 name = "Lato"
 
 # Optional Google font URL
-google_fonts = "Lato"
+google_fonts = "Lato:700"
 
 # Font families
-heading_font = "Lato"
-body_font = "Lato"
-nav_font = "Lato"
-mono_font = "Lato"
+heading_font = "Lato:700"
+body_font = "Lato:700"
+nav_font = "Lato:700"
+mono_font = "Lato:700"
 
 # Font size
 font_size = "20"
