@@ -1,14 +1,14 @@
 # Font style metadata
-name = "Raleway"
+name = "Lora"
 
 # Optional Google font URL
-google_fonts = "Raleway"
+google_fonts = "Lora"
 
 # Font families
-heading_font = "Raleway:900"
-body_font = "Raleway:700"
-nav_font = "Raleway:700"
-mono_font = "Raleway:700"
+heading_font = "Lora"
+body_font = "Lora"
+nav_font = "Lora"
+mono_font = "Lora"
 
 # Font size
 font_size = "20"
