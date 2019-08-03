@@ -28,7 +28,7 @@ Wedding photography provided by Africa Schaumann.
 Unhelpful commentary provided by William Kabel.
 
 Do you have a resource to recommend?   
-See something in error or a broken link?   
+See an error or a broken link?   
 Spot some liturgical heresy?   
 Contact your local inquisition tribunal, or, for the more forgiving, contact me using the form below.
 
