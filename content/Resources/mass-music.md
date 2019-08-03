@@ -49,9 +49,9 @@ Gattozzi, Bibiana. “**Catholic Artistic Piety in a Motet.**” _The Angelus On
 
 # Texts (_propers_, _ordinaries_, and hymns)
 
-“Gregorian Propers.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/goupil/](http://www.ccwatershed.org/goupil/ "http://www.ccwatershed.org/goupil/"). (Scroll down to "Nuptial Mass")
+“**Gregorian Propers**.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/goupil/](http://www.ccwatershed.org/goupil/ "http://www.ccwatershed.org/goupil/"). (Scroll down to "Nuptial Mass")
 
-“St. Antoine Daniel Kyriale.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). (Scroll down to "Mass VIII")
+“**St. Antoine Daniel Kyriale**.” Corpus Christi Watershed. Accessed July 29, 2019. [http://www.ccwatershed.org/kyriale/](http://www.ccwatershed.org/kyriale/ "http://www.ccwatershed.org/kyriale/"). (Scroll down to "Mass VIII")
 
 Gastoue, A. “**The ‘Missa de Angelis.’**” Translated by Albert Gingras. _The Caecilia_, December 1933, 375–78. [https://media.musicasacra.com/publications/caecilia/caecilia_v60n12_1933_12.pdf](https://media.musicasacra.com/publications/caecilia/caecilia_v60n12_1933_12.pdf "https://media.musicasacra.com/publications/caecilia/caecilia_v60n12_1933_12.pdf")
 
