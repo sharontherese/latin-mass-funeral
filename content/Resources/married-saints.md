@@ -17,17 +17,17 @@ Married saints in the Church are far from numerous, and even fewer are venerated
 
 Bogle, J., and J. Bogle. **A Heart for Europe: The Lives of Emperor Charles and Empress Zita of Austria-Hungary**. Gracewing Books. Fowler Wright, 1990. https://books.google.com/books?id=L59n8YY3gy8C.
 <br>
-
+<br>
 ## Sts. Louis and Zelie Martin
 
 “**Saints Louis and Zelie Martin**.” Society of the Little Flower - US. Accessed August 3, 2019. https://www.littleflower.org/therese/life-story/her-parents/.
 <br>
-
+<br>
 ## St. Thomas More
 
 Huddleston, Gilbert. “**St. Thomas More**.” In Catholic Encylopedia. Vol. 14. New York: Robert Appleton Company, 1912. http://www.newadvent.org/cathen/14689c.htm.
 <br>
-
+<br>
 # Married Catholic holy men and women
 
 ## Ludwig Windthorst
@@ -36,22 +36,22 @@ Anderson, M.L. **Windthorst: A Political Biography**. Clarendon Press, 1981. htt
 
 Neill, T.P. **They Lived the Faith: Great Lay Leaders of Modern Times**. Literary Licensing, LLC, 2012. https://books.google.com/books?id=etpXLwEACAAJ.
 <br>
-
+<br>
 ## G. K. and Frances Chesterton
 
 Brown, N.C., and D. Ahlquist. **The Woman Who Was Chesterton**. ACS Books. ACS Books, 2015. https://books.google.com/books?id=V7I2CwAAQBAJ.
 <br>
-
+<br>
 ## Alice Thomas Ellis
 
 Ellis, Alice Thomas. **Home Life**. Royal National Institute of the Blind, 2004. https://books.google.com/books?id=aKmNvgEACAAJ.
 <br>
-
+<br>
 ## Dietrich and Alice von Hildebrand
 
 Hildebrand, D. von, A. von Hildebrand, and P. Kreeft. **The Art of Living**. Hildebrand Project, 2017. https://books.google.com/books?id=4OFptAEACAAJ.
 <br>
-
+<br>
 # Assorted 
 
 O’Malley, V.J. **Saintly Companions: A Cross-Reference of Sainted Relationships**. Alba House, 1995. https://books.google.com/books?id=X8V5JbPl248C.
