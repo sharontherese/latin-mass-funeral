@@ -32,7 +32,7 @@ Texts of the Mass that can be sung. [^3]
 # Novus Ordo  
 Also called the Ordinary Form, the new Mass.
 
-# Ordinary**  
+# Ordinary  
 The texts of the Mass that do not change; namely, the Kyrie, the Gloria, the Credo, the Sanctus, the Benedictus, and the Agnus Dei.
 
 # Polyphony
