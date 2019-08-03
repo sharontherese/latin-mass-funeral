@@ -12,9 +12,11 @@ Check out Catholic websites like [New Liturgical Movement](http://www.newliturgi
 
 # What’s different with a Latin Mass wedding?
 
-The big things that are different are the language, and the order of events. The language is in Latin, the official language of the Catholic Church.
+Lots! The big things that are different are the language, and the order of events. The language is in Latin, the official language of the Catholic Church.
 
 In Catholic weddings in the _Novus Ordo_ Mass, the actual wedding - the _Rite of Marriage_ - happens in the middle of the mass. In the _Latin Mass_, the Rite of Marriage happens at the beginning, and is followed by the mass, uninterrupted.
+
+For more information on details about what makes the Latin Mass distinct, visit the [Latin Mass] (https://www.latinmasswedding.com/resources/the-mass/) page.
 
 # What can I customize with the wedding Mass?
 Not much, really. The _propers_ for the wedding Mass (texts of the Mass that change each Sunday, like the readings) are set and cannot be personalized. If you want a sung Mass, you can choose some of the music, to an extent, and how the music is sung (like _chant_ or _polyphony_). This will depend entirely on the resources available to you and your church.
@@ -29,12 +31,12 @@ You will not choose lectors, as the priest(s) will recite or chant the readings.
 
 You can, of course, customize non-liturgical elements of the day, like flowers. Read more about floral traditions on the [Flowers](https://www.latinmasswedding.com/resources/flowers/) page.
 
-# What kind of music can or should I have?  
+# What about music?  
 Visit the [Mass Music](https://www.latinmasswedding.com/resources/mass-music) page for more information! Generally speaking, the best music setting for the mass is _Gregorian chant_, and the best texts are the _propers_ (because they are directly from Scripture). Strictly speaking, hymns are private meditations and belong to the Divine Office or other private prayer time. Hymns are usually allowed for the procession in, and procession out, but otherwise they should not be used in the Mass. What you can choose are the _settings_ for the mass texts; for example, you can have the ordinaries (Kyrie, Gloria, etc.) sung to Gregorian chant, or to a psalm tone, or to a polyphonic (multi-voice - soprano, alto, etc.) setting.
 
 Realistically, though, this will depend on the resources available to you. Be in touch with your church’s music director to see what is feasible and encouraged.
 
-# You’re using words that I don’t recognize.  
+# You’re using words that I don’t know.  
 Visit the [Glossary](https://www.latinmasswedding.com/resources/glossary/) page!
 
 # How can I help my wedding guests understand what's happening?  
