@@ -29,7 +29,7 @@ The couple is now married! Now, [the wedding Mass](https://www.latinmasswedding.
 The _Gloria_ and _Credo_ are omitted from the nuptial mass. Because the homily was presented at the beginning of the rite of marriage, it is not included after the Gospel. Instead, the mass should continue directly to the Offertory.
 
 ![](/uploads/_MG_0505-min.JPG)  
-After the Our Father, the nuptial blessing takes place. A video of our nuptial blessing can be [found here](https://www.youtube.com/watch?time_continue=1&v=f8CJjs2s6qg).
+After the Our Father, the [nuptial blessing] (https://www.latinmasswedding.com/resources/nuptial-blessing/) takes place. A video of our nuptial blessing can be [found here](https://www.youtube.com/watch?time_continue=1&v=f8CJjs2s6qg).
 
 ![](/uploads/_MG_0559-min.JPG)
 
