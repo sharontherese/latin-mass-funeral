@@ -14,8 +14,6 @@ The Latin Mass wedding Mass (one of many _votive Masses_) is called _Missa pro s
 
 The text below is from the 1962 _Missale Romanum_. [^1] Due to different translations and edits over time, there may be slight variations in the Nuptial Blessing in different missals.
 
-# Text of the
-
 # _Missa pro sponso et sponsa_
 
 # (Mass for the Groom and Bride)
