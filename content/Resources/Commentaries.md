@@ -1,6 +1,6 @@
 +++
 text = "Commentaries on the Propers of the wedding Mass"
-title = "Biblical Commentaries"
+title = "Commentaries"
 toggle = false
 
 +++
