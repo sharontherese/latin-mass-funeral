@@ -16,7 +16,7 @@ First and foremost: Contact your parish and your diocese to determine the requir
 * FOCCUS Survey
 * a workshop on Natural Family Planning
 
-Below are supplemental materials about Catholic marriage, and the domestic life. This list is not comprehensive, and in no particular thematic order. They range from academic tomes to early 20th century pamphlets to recent social media campaigns.
+Below are supplemental materials about Catholic marriage, and the domestic life. This list is not comprehensive, and ranges from academic tomes to early 20th century pamphlets to recent social media campaigns.
 
 # Classics
 
