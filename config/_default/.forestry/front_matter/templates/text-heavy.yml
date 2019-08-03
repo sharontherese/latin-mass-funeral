@@ -20,6 +20,6 @@ fields:
   type: boolean
   label: toggle
 pages:
+- content/Resources/married-saints.md
 - content/about-2.md
 - content/Resources/nuptial-blessing.md
-- content/Resources/married-saints.md
