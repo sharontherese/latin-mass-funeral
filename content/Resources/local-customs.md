@@ -25,7 +25,9 @@ If you are interested in researching more about local customs, try historical ar
 
 # Veils
 
-Veiling could refer to two things: the veil worn by the bride, or the pall, or cloth, raised over the couple's hands or heads.
+(Veiling could refer to two things: the veil worn by the bride, or the pall, or cloth, raised over the couple's hands or heads.)
+
+DiPippo, Gregory. “**The Velatio Nuptialis: An Ancient (and Forgotten) Part of the Latin Marriage Rite**.” _New Liturgical Movement_ (blog), February 8, 2019. [http://www.newliturgicalmovement.org/2019/02/the-velatio-nuptialis-ancient-and.html](http://www.newliturgicalmovement.org/2019/02/the-velatio-nuptialis-ancient-and.html "http://www.newliturgicalmovement.org/2019/02/the-velatio-nuptialis-ancient-and.html").
 
 # Rings
 
