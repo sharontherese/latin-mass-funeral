@@ -45,4 +45,9 @@ Ellis, Alice Thomas. **Home Life**. Royal National Institute of the Blind, 2004.
 
 Hildebrand, D. von, A. von Hildebrand, and P. Kreeft. **The Art of Living**. Hildebrand Project, 2017. https://books.google.com/books?id=4OFptAEACAAJ.
 
+# Assorted 
+
+O’Malley, V.J. **Saintly Companions: A Cross-Reference of Sainted Relationships**. Alba House, 1995. https://books.google.com/books?id=X8V5JbPl248C.
+
+Neill, T.P. **They Lived the Faith: Great Lay Leaders of Modern Times**. Literary Licensing, LLC, 2012. https://books.google.com/books?id=etpXLwEACAAJ.
 
