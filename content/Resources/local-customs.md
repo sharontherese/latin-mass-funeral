@@ -5,7 +5,7 @@ toggle = false
 
 +++
 ![](/uploads/08740007-min.JPG)  
-Featured: bridal veil; bridal crown; hair pins shaped like rue leaves, a bridal custom from Lithuania
+From our wedding: bridal veil; bridal crown; hair pins shaped like rue leaves, a bridal custom from Lithuania
 
 # About
 
@@ -16,6 +16,8 @@ What I have found on this topic is scattershot, varying in verifiability, and la
 I have arranged the customs thematically, and will add examples of each custom as I find them in newspapers, literature, and stories.
 
 If you are interested in researching more about local customs, try historical archives and online newspaper collections.
+
+If you know of a Catholic wedding custom, [let me know] (https://www.latinmasswedding.com/#contact)!
 
 # Crowns/wreaths
 
