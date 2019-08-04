@@ -10,6 +10,18 @@ Read More:
 - Information Retrieval
 email: ''
 
+<html prefix="og: http://ogp.me/ns#">
+<head>
+<title>Latin Mass Wedding</title>
+<meta property="og:title" content="Latin Mass Wedding" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.latinmasswedding.com/" />
+<meta property="og:image" content="https://www.latinmasswedding.com/authors/admin/avatar_hu50d26869aedeada3345c8738ea728c61_19528989_250x250_fill_lanczos_center_2.png" />
+...
+</head>
+...
+</html>
+
 ---
 Welcome!
 
