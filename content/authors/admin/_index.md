@@ -18,7 +18,7 @@ email: ''
 <meta property="og:title" content="Latin Mass Wedding" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://www.latinmasswedding.com/" />
-<meta property="og:image" content="https://www.latinmasswedding.com/img/sharing.JPG" />
+<meta property="og:image" content="https://www.latinmasswedding.com/img/sharing2.JPG" />
 </head>
 </html>
 
