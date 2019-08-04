@@ -10,6 +10,8 @@ Read More:
 - Information Retrieval
 email: ''
 
+---
+
 <html prefix="og: http://ogp.me/ns#">
 <head>
 <title>Latin Mass Wedding</title>
@@ -17,12 +19,9 @@ email: ''
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://www.latinmasswedding.com/" />
 <meta property="og:image" content="https://www.latinmasswedding.com/img/sharing" />
-...
 </head>
-...
 </html>
 
----
 Welcome!
 
 A Catholic wedding Mass has two parts:
