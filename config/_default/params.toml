@@ -18,7 +18,7 @@ font_color = "#000000"
 description = "Learn about Latin Mass weddings!"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "sharing.png"
+sharing_image = "sharing.JPG"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
