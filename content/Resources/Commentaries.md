@@ -10,7 +10,7 @@ toggle = false
 
 Below are classic Biblical commentaries on the _propers_ of the wedding Mass.  
 The two commentaries I pull from are Haydock [^1] and St. Thomas Aquinas' Catena Aurea [^2].
-For more commentaries, visit Sermonry [^3] annd Psallam Domino [^4].
+For more commentaries, visit Sermonry [^3] and Psallam Domino [^4].
 
 # Introit
 
