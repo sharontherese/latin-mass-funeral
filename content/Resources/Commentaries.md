@@ -10,7 +10,7 @@ toggle = false
 
 Below are classic Biblical commentaries on the _propers_ of the wedding Mass.  
 The two commentaries I pull from are Haydock [^1] and St. Thomas Aquinas' Catena Aurea [^2].
-For more commentaries, visit Sermonry [^3].
+For more commentaries, visit Sermonry [^3] annd Psallam Domino [^4].
 
 # Introit
 
@@ -1531,3 +1531,6 @@ padding: .5rem 1rem;
 [^2]: Aquinas, Thomas. **Catena Aurea: Commentary on the Four Gospels**. J.H. Parker, 1841, https://www.ecatholic2000.com/catena/untitled-111.shtml.
 
 [^3]: **Sermonry**, https://sermonry.com/. Accessed 3 June 2019.
+
+[^4]: **“Psallam Domino: Masterpost: Links to Notes by Psalm Number.”** Psallam Domino (blog), January 16, 2018. https://psallamdomino.blogspot.com/2018/01/masterpost-links-to-notes-by-psalm.html.
+
