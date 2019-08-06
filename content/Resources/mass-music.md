@@ -51,6 +51,13 @@ The _propers_ are the Introit, Gradual, Tract, Alleluia, Offertory, and Communio
 
 ## Polyphonic settings 
 
+Polyphonic settings of the nuptial propers are one of the most difficult types of wedding music to find. The only concrete information on such settings I have found is in the Musica Sacra forums. 
+
+“**Needed: SATB Polyphony for Wedding, One Voice per Part**.” MusicaSacra Church Music Forum (blog). Accessed August 6, 2019. https://forum.musicasacra.com/forum/discussion/comment/44797#Comment_44797.
+
+“**Polyphonic Nuptial Propers**.” MusicaSacra Church Music Forum (blog). Accessed August 6, 2019. https://forum.musicasacra.com/forum/discussion/12421/polyphonic-nuptial-propers/p1.
+<br>
+<br>
 # Ordinaries
 
 The _ordinaries_ are the Kyrie, Sanctus, and Agnus Dei (the Gloria and Credo are not included in the wedding Mass). 
@@ -61,7 +68,32 @@ The _ordinaries_ are the Kyrie, Sanctus, and Agnus Dei (the Gloria and Credo are
 
 ## Polyphonic settings
 
+Unlike the paucity of polyphonic propers, there is an abundance of options for settings for the ordinaries. Below are some of the more famous settings, renowned for beauty and/or simplicity. 
+
+Rusca, Francesco Spagnoli. “Missa Brevis.” IMSLP Petrucci Music Library. Accessed August 6, 2019. https://imslp.org/wiki/Missa_Brevis_(Rusca%2C_Francesco_Spagnoli). 11 pages. G major. Baroque.
+
+Haller, Michael. “Messe Secunda, Op. 5, No. 2.” IMSLP Petrucci Music Library. Accessed August 6, 2019. https://imslp.org/wiki/Mass_No.2%2C_Op.5_(Haller%2C_Michael). 17 pages. A Major. Romantic.
+
+Victoria, Tomas Luis de. “Missa Dominicalis.” ChoralWiki. Accessed August 6, 2019. http://www2.cpdl.org/wiki/index.php/Missa_Dominicalis_(Tom%C3%A1s_Luis_de_Victoria).
+
+Dalitz, Christoph. “Missa Tribus Vocibus.” ChoralWiki. Accessed August 6, 2019. http://www1.cpdl.org/wiki/index.php/Missa_tribus_vocibus_(Christoph_Dalitz). 12 pages.
+<br>
+<br>
 # Hymns and motets
+
+## Gregorian settings
+
+Ave maris stella
+Regina Caeli - Gregorian Chant (during the season of Easter)
+Salve Regina - Gregorian Chant (during the season of Ordinary Time)
+Alma Redemptoris Mater - Gregorian Chant (Advent through February 1)
+Ave, Regina Caelorum - Gregorian Chant (February 2 through Good Friday)
+
+## Polyphonic settings
+
+Ave verum Corpus, Mozart
+Ave Maria, Franz Schubert
+
 
 
 
