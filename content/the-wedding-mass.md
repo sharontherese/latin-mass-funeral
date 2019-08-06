@@ -14,7 +14,7 @@ The Latin Mass wedding Mass (one of many _votive Masses_) is called _Missa pro s
 
 The text below is from the 1962 _Missale Romanum_. [^1] Due to different translations and edits over time, there may be slight variations in the Nuptial Blessing in different missals.
 
-**Rubric note: "Rubricarum instructum replaced the former classifications of Doubles, Semidoubles, and Simples with I, II, and III class feasts and commemorations" [^2] The wedding Mass is a third class votive Mass, and its readings are therefore superceded if the wedding day is on a first or second class feast. So if, for example, you have a Latin Mass wedding on August 15, Feast of the Assumption of Our Lady (a first class feast), your Mass would have the readings from the Assumption, not the wedding Mass below.** 
+**Rubric note:** "Rubricarum instructum replaced the former classifications of Doubles, Semidoubles, and Simples with I, II, and III class feasts and commemorations" [^2]. The wedding Mass is a second class votive Mass [^3] [^4] [^5], and its readings are therefore superceded if the wedding day is on a first class feast. So if, for example, you have a Latin Mass wedding on August 15, Feast of the Assumption of Our Lady (a first class feast), your Mass would have the readings from the Assumption, not the wedding Mass below.
 
 # _Missa pro sponso et sponsa_
 
@@ -107,4 +107,10 @@ Let us pray: We beseech Thee, Almighty God, to accompany the institutions of Thy
 [^1]: Catholic Church. **_The Roman Missal for the Use of the Laity_**: P. Keating, Brown, 1806. _Internet Archive_, [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
 
 [^2]: “General Roman Calendar of 1960.” In Wikipedia, July 1, 2019. https://en.wikipedia.org/w/index.php?title=General_Roman_Calendar_of_1960&oldid=904268709.
+
+[^3]: Catholic Church. **Saint Andrew Daily Missal**. Bruges: Biblica, 1962. http://www.worldcat.org/oclc/25614082.
+
+[^4]: Catholic Church, Gaspar Lefebvre, and Abbaye de Saint-André-lez-Bruges. **Saint Andrew Daily Missal**. Bruges (Belgium); Saint Paul (Minn.): Abbey of St. André; E.M. Lohmann Co., 1943. http://www.worldcat.org/oclc/8032622.
+
+[^5]: **Handbook for the New Rubrics**. (Book, 1961) [WorldCat.Org]. Accessed August 5, 2019. https://www.worldcat.org/title/handbook-for-the-new-rubrics/oclc/877569369&referer=brief_results.
 
