@@ -84,19 +84,22 @@ Dalitz, Christoph. “Missa Tribus Vocibus.” ChoralWiki. Accessed August 6, 20
 ## Gregorian settings
 
 Ave maris stella
-Regina Caeli - Gregorian Chant (during the season of Easter)
-Salve Regina - Gregorian Chant (during the season of Ordinary Time)
-Alma Redemptoris Mater - Gregorian Chant (Advent through February 1)
-Ave, Regina Caelorum - Gregorian Chant (February 2 through Good Friday)
+
+Regina Caeli (during the season of Easter)
+
+Salve Regina (during the season of Ordinary Time)
+
+Alma Redemptoris Mater (Advent through February 1)
+
+Ave, Regina Caelorum (February 2 through Good Friday)
 
 ## Polyphonic settings
 
 Ave verum Corpus, Mozart
+
 Ave Maria, Franz Schubert
-
-
-
-
+<br>
+<br>
 # Sources about Sacred Music 
 
 Pope Pius X. “**Tra Le Sollecitudini (Instruction on Sacred Music),**” 1903. [https://adoremus.org/1903/11/22/tra-le-sollecitudini/](https://adoremus.org/1903/11/22/tra-le-sollecitudini/ "https://adoremus.org/1903/11/22/tra-le-sollecitudini/").
