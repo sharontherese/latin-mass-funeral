@@ -87,8 +87,16 @@ At that time, Jesus said to His disciples: “Abide in me and I in you. As the b
 
 May God bless your bodies and your souls. May he shed His blessing on you as He blessed Abraham, Isaac, and Jacob. May the hand of the Lord be upon you. May He send His holy angel to guard you all the days of your life. Amen. Go in peace.
 
+# History
+
+Below is a non-comprehensive selection of resources of the rite of betrothal throughout the Church's history. 
+
+1941: Engaged couples in Montreal revive the betrothal ceremony. \[3\]
+
 # Sources
 
 \[1\] Smet, Alöis de. _Betrothment and Marriage; a Canonical and Theological Treatise with Notices on History and Civil Law_. St. Louis : B. Herder, 1912. [http://archive.org/details/betrothmentmarri01smetiala](http://archive.org/details/betrothmentmarri01smetiala "http://archive.org/details/betrothmentmarri01smetiala").
 
 \[2\] “Solemn Rite of Betrothal.” Laudate Dominum, n.d. [http://laudatedominum.net/files/bet.pdf](http://laudatedominum.net/files/bet.pdf "http://laudatedominum.net/files/bet.pdf").
+
+\[3\] “Old Catholic Ceremony of Betrothal Revived at Montreal Oratory.” _Catholic News Service_, February 3, 1941. [https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2&e=-------en-20--1--txt-txIN-%22rite+betrothal%22\~8------](https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2&e=-------en-20--1--txt-txIN-%22rite+betrothal%22\~8------ "https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2&e=-------en-20--1--txt-txIN-%22rite+betrothal%22~8------").
