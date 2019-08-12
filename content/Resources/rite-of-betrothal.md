@@ -11,6 +11,8 @@ Betrothal, or betrothment, is more solemn than an engagement, although the two m
 
 > Betrothment serves as a barrier against ill-omened haste; it renders the position of the engaged parties more secure; and it affords a better opportunity for bringing to light any impediments or incompatibility of disposition that may exist. It was in use among the Jews, the Romans, the Germans, and the Christians of the primitive Church. On the other hand in many modern codes, as in the Code Napoleon, and many others, betrothment is not recognised, and is without any binding force, though, in certain cases, it may afford ground for an action for damages. \[1\]
 
+Laudate Dominum's website provide a free PDF version of Betrothal \[2\]. 
+
 Similar to the Rite of Marriage, the specifics of the Rite of Betrothal have not always been legislated consistently, uniformly, and universally. Again similar to the Rite of Marriage, the Rite of Betrothal is an ancient and beautiful practice. 
 
 The general structure is this: Betrothal takes places in a church, with a priest. Psalm 126 is chanted, followed by an allocution from the priest, a pledge between the couple, a reading from Tobias, a reading from the Gospel of John, and a final blessing.
@@ -88,3 +90,5 @@ May God bless your bodies and your souls. May he shed His blessing on you as He 
 # Sources
 
 \[1\] Smet, Alöis de. _Betrothment and Marriage; a Canonical and Theological Treatise with Notices on History and Civil Law_. St. Louis : B. Herder, 1912. [http://archive.org/details/betrothmentmarri01smetiala](http://archive.org/details/betrothmentmarri01smetiala "http://archive.org/details/betrothmentmarri01smetiala").
+
+\[2\] “Solemn Rite of Betrothal.” Laudate Dominum, n.d. [http://laudatedominum.net/files/bet.pdf](http://laudatedominum.net/files/bet.pdf "http://laudatedominum.net/files/bet.pdf").
