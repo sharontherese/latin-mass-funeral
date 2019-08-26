@@ -47,7 +47,6 @@ Walter Jewell. **_Tell Her You’re a Catholic_**, 1949. [http://archive.org/det
 > Page 41 is missing, with the crucial heading, "It is not the correct thing to...". Page 45 is also missing. There is good practical advice in here, but with a heavy caveat that the author had some strong materialistic opinions, like the reception and the engagement ring should be as expensive as possible.
 Bugg, Lelia Hardin. **_The Correct Thing For Catholics_**. New York, Cincinnati Benziger Bros., 1892. http://archive.org/details/TheCorrectThingForCatholics.
 
-
 # The Domestic Realm
 
 “**The Christian Home: A Guide to Happiness in the Home: Chapter I.**” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/home2.html](https://www.fisheaters.com/home2.html "https://www.fisheaters.com/home2.html").
@@ -75,6 +74,8 @@ Weschler, T. **_Taking Charge of Your Fertility Revised Edition: The Definitive 
 Chesterton, Gilbert Keith. **_What’s Wrong with the World_**. Cassell, 1912. [http://www.gutenberg.org/ebooks/1717](http://www.gutenberg.org/ebooks/1717 "http://www.gutenberg.org/ebooks/1717").
 
 Pieper, Josef. **_Happiness and Contemplation_**. Regnery, 1966. [https://books.google.com/books?id=J25QngEACAAJ](https://books.google.com/books?id=J25QngEACAAJ "https://books.google.com/books?id=J25QngEACAAJ").
+
+Louise Cowan, “Marriage As a Creative Work,” Newsletter of the Thomas More College of Liberal Arts 21 (November 2003), http://parousians-lsu.blogspot.com/2006/11/marriage-as-creative-work-by-louise.html.
 
 # Pamphlets from the International Catholic Truth Society
 
