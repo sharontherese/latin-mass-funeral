@@ -10,11 +10,11 @@ Manuscript: [Leaves of the Code of Justinian , containing the beginnings of Book
 
 # About
 
-Betrothal, or betrothment, is more solemn than an engagement, although the two may be seen as synonymous. Betrothal is, "a mutual promise of future marriage, or a contract by which a man and a woman engage themselves to marry." \[^1\]
+Betrothal, or betrothment, is more solemn than an engagement, although the two may be seen as synonymous. Betrothal is, "a mutual promise of future marriage, or a contract by which a man and a woman engage themselves to marry." [^1]
 
-> Betrothment serves as a barrier against ill-omened haste; it renders the position of the engaged parties more secure; and it affords a better opportunity for bringing to light any impediments or incompatibility of disposition that may exist. It was in use among the Jews, the Romans, the Germans, and the Christians of the primitive Church. On the other hand in many modern codes, as in the Code Napoleon, and many others, betrothment is not recognised, and is without any binding force, though, in certain cases, it may afford ground for an action for damages. \[^1\]
+> Betrothment serves as a barrier against ill-omened haste; it renders the position of the engaged parties more secure; and it affords a better opportunity for bringing to light any impediments or incompatibility of disposition that may exist. It was in use among the Jews, the Romans, the Germans, and the Christians of the primitive Church. On the other hand in many modern codes, as in the Code Napoleon, and many others, betrothment is not recognised, and is without any binding force, though, in certain cases, it may afford ground for an action for damages. [^1]
 
-Laudate Dominum's website provide a free PDF version of Betrothal \[^2\].
+Laudate Dominum's website provide a free PDF version of Betrothal [^2].
 
 Similar to the Rite of Marriage, the specifics of the Rite of Betrothal have not always been legislated consistently, uniformly, and universally. Again similar to the Rite of Marriage, the Rite of Betrothal is an ancient and beautiful practice.
 
@@ -94,20 +94,20 @@ Lastly, the priest extends his hands over the heads of the couple and prays:
 
 Below is are a few articles about the rite of betrothal.
 
-1941: Engaged couples in Montreal revive the betrothal ceremony. \[^3\]
+1941: Engaged couples in Montreal revive the betrothal ceremony. [^3]
 
-1971: "Canon lawyer advocates return of betrothal." \[^4\]
+1971: "Canon lawyer advocates return of betrothal." [^4]
 
-2019: "New Liturgical Movement: Problems with Weddings and How We Might Remedy Them." \[^5\]
+2019: "New Liturgical Movement: Problems with Weddings and How We Might Remedy Them." [^5]
 
 # Sources
 
-\[^1\]: Smet, Alöis de. _Betrothment and Marriage; a Canonical and Theological Treatise with Notices on History and Civil Law_. St. Louis : B. Herder, 1912. [http://archive.org/details/betrothmentmarri01smetiala](http://archive.org/details/betrothmentmarri01smetiala "http://archive.org/details/betrothmentmarri01smetiala").
+[^1]: Smet, Alöis de. _Betrothment and Marriage; a Canonical and Theological Treatise with Notices on History and Civil Law_. St. Louis : B. Herder, 1912. [http://archive.org/details/betrothmentmarri01smetiala](http://archive.org/details/betrothmentmarri01smetiala "http://archive.org/details/betrothmentmarri01smetiala").
 
-\[^2\]: “Solemn Rite of Betrothal.” Laudate Dominum, n.d. [http://laudatedominum.net/files/bet.pdf](http://laudatedominum.net/files/bet.pdf "http://laudatedominum.net/files/bet.pdf").
+[^2]: “Solemn Rite of Betrothal.” Laudate Dominum, n.d. [http://laudatedominum.net/files/bet.pdf](http://laudatedominum.net/files/bet.pdf "http://laudatedominum.net/files/bet.pdf").
 
-\[^3\]: “Old Catholic Ceremony of Betrothal Revived at Montreal Oratory.” _Catholic News Service_, February 3, 1941. [https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2&e=-------en-20--1--txt-txIN-%22rite+betrothal%22\~8------](https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2&e=-------en-20--1--txt-txIN-%22rite+betrothal%22\~8------ "https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2&e=-------en-20--1--txt-txIN-%22rite+betrothal%22~8------").
+[^3]: “Old Catholic Ceremony of Betrothal Revived at Montreal Oratory.” _Catholic News Service_, February 3, 1941. [https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2&e=-------en-20--1--txt-txIN-%22rite+betrothal%22\~8------](https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2&e=-------en-20--1--txt-txIN-%22rite+betrothal%22\~8------ "https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2&e=-------en-20--1--txt-txIN-%22rite+betrothal%22~8------").
 
-\[^4\]: “Canon Lawyer Advocates Return of Betrothal,” _Catholic Transcript_, December 30, 1977, [https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47&srpos=1&e=-------en-20--1--txt-txIN-betrothal------](https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47&srpos=1&e=-------en-20--1--txt-txIN-betrothal------ "https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47&srpos=1&e=-------en-20--1--txt-txIN-betrothal------").
+[^4]: “Canon Lawyer Advocates Return of Betrothal,” _Catholic Transcript_, December 30, 1977, [https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47&srpos=1&e=-------en-20--1--txt-txIN-betrothal------](https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47&srpos=1&e=-------en-20--1--txt-txIN-betrothal------ "https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47&srpos=1&e=-------en-20--1--txt-txIN-betrothal------").
 
-\[^5\]: Peter Kwasniewski, “New Liturgical Movement: Problems with Weddings and How We Might Remedy Them,” New Liturgical Movement (blog), April 29, 2019, http://www.newliturgicalmovement.org/2019/04/problems-with-weddings-and-how-we-might.html#.XVHX6G9Ki70.
+[^5]: Peter Kwasniewski, “New Liturgical Movement: Problems with Weddings and How We Might Remedy Them,” New Liturgical Movement (blog), April 29, 2019, http://www.newliturgicalmovement.org/2019/04/problems-with-weddings-and-how-we-might.html#.XVHX6G9Ki70.
