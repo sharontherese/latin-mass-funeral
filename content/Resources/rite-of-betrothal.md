@@ -24,53 +24,53 @@ The general structure is this: Betrothal takes places in a church, with a priest
 
 ## Psalm 126
 
-Priest: Unless the house be of the Lord’s building, in vain do the builders labor.
-
-All: Unless the Lord be the guard of the city, in vain does the guard keep sentry.
-
-P: It is futile that you rise before daybreak, to be astir in the midst of darkness,
-
-All: You that eat the bread of hard labor, for He deals bountifully to His beloved while they are sleeping.
-
-P: Behold, offspring come from God’s giving, a fruitful womb is the reward of His blessing.
-
-All: Like arrows in the hand of the warrior are children begotten of a youthful father.
-
-P: Happy the man who has filled with them his quiver; they shall uphold him in contending at the gate with his rival.
-
-All: Glory be to the Father, and to the Son, and to the Holy Spirit,
-
-P: As it was in the beginning, is now, and ever shall be, world without end, Amen.
+> Priest: Unless the house be of the Lord’s building, in vain do the builders labor.
+>
+> All: Unless the Lord be the guard of the city, in vain does the guard keep sentry.
+>
+> P: It is futile that you rise before daybreak, to be astir in the midst of darkness,
+>
+> All: You that eat the bread of hard labor, for He deals bountifully to His beloved while they are sleeping.
+>
+> P: Behold, offspring come from God’s giving, a fruitful womb is the reward of His blessing.
+>
+> All: Like arrows in the hand of the warrior are children begotten of a youthful father.
+>
+> P: Happy the man who has filled with them his quiver; they shall uphold him in contending at the gate with his rival.
+>
+> All: Glory be to the Father, and to the Son, and to the Holy Spirit,
+>
+> P: As it was in the beginning, is now, and ever shall be, world without end, Amen.
 
 ## Allocution and Pledge
 
-Beloved of Christ: It is in God’s designs that you are called to the holy vocation of matrimony. For this reason you present yourselves today before Christ and the Church, before His sacred minister and the people of God, to ratify in a formal manner your engagement. You are here to ask the blessing of God and of the Church on your proposal, and to ask the good prayers of the faithful here present. You realize that what has begun by the inspiration of your heavenly Father requires equally His grace to be brought to a happy conclusion. We trust that you have given serious and prayerful deliberation to your promise that you will one day be married. In the time that intervenes until your wedding day, may you prepare for the sacrament of matrimony by persevering in a virtuous life. Then, when the holy day arrives on which you will give yourselves irrevocably to each other, you will have laid a solid religious foundation for the many years you will spend together. These years will be filled with joy and peace as long as you wear the sweet yoke of Jesus Christ; if you remain faithful to Him, your love on earth will be perfected in the eternal wedding feast of heaven. May the union you purpose to consummate one day in Christian marriage be truly a sacramental image of the perfect union of Christ with His beloved bride, the Church.
+> Beloved of Christ: It is in God’s designs that you are called to the holy vocation of matrimony. For this reason you present yourselves today before Christ and the Church, before His sacred minister and the people of God, to ratify in a formal manner your engagement. You are here to ask the blessing of God and of the Church on your proposal, and to ask the good prayers of the faithful here present. You realize that what has begun by the inspiration of your heavenly Father requires equally His grace to be brought to a happy conclusion. We trust that you have given serious and prayerful deliberation to your promise that you will one day be married. In the time that intervenes until your wedding day, may you prepare for the sacrament of matrimony by persevering in a virtuous life. Then, when the holy day arrives on which you will give yourselves irrevocably to each other, you will have laid a solid religious foundation for the many years you will spend together. These years will be filled with joy and peace as long as you wear the sweet yoke of Jesus Christ; if you remain faithful to Him, your love on earth will be perfected in the eternal wedding feast of heaven. May the union you purpose to consummate one day in Christian marriage be truly a sacramental image of the perfect union of Christ with His beloved bride, the Church.
+>
+> Priest_:_ Join your right hands and plight your troth.
+>
+> Man_:_ In the name of our Lord, I, \[name\], promise that I will one day take you, \[name\], for my wife, according to the ordinances of God and holy Church. I will love you as I love myself, and will sacrifice my life for you as Christ offered His life for His bride, the Church. I will keep faith with you and be loyal to you all the days of my life, and so aid you and comfort you in all your necessities. These things and all that a man ought to do for his espoused, I promise to do for you, and to keep the promise by the faith that is in me.
+>
+> Woman_:_ In the name of our Lord, I, \[name\], promise that I will one day take you, \[name\], for my husband, according to the ordinances of God and holy Church. I will love you as I love myself, and will revere and honor you as my lord, even as the Church loves Christ her bridegroom. I will keep faith with you and be loyal to you all the days of my life, and so aid you and comfort you in all your necessities. These things and all that a woman ought to do for her espoused, I promise to do for you, and to keep the promise by the faith that is in me.
 
-_Priest:_ Join your right hands and plight your troth.
+Then the priest takes the two ends of his stole and in the form of a cross places them over the clasped hands of the couple. Holding the stole in place with his left hand, he says:
 
-_Man:_ In the name of our Lord, I, \[name\], promise that I will one day take you, \[name\], for my wife, according to the ordinances of God and holy Church. I will love you as I love myself, and will sacrifice my life for you as Christ offered His life for His bride, the Church. I will keep faith with you and be loyal to you all the days of my life, and so aid you and comfort you in all your necessities. These things and all that a man ought to do for his espoused, I promise to do for you, and to keep the promise by the faith that is in me.
+> I bear witness to your solemn proposal and I declare you engaged; in the name of the Father, and of the Son, and of the Holy Spirit.
 
-_Woman:_ In the name of our Lord, I, \[name\], promise that I will one day take you, \[name\], for my husband, according to the ordinances of God and holy Church. I will love you as I love myself, and will revere and honor you as my lord, even as the Church loves Christ her bridegroom. I will keep faith with you and be loyal to you all the days of my life, and so aid you and comfort you in all your necessities. These things and all that a woman ought to do for her espoused, I promise to do for you, and to keep the promise by the faith that is in me.
+As he pronounces the last words he sprinkles them with holy water in the form of a cross.
 
-(Then the priest takes the two ends of his stole and in the form of a cross places them over the clasped hands of the couple. Holding the stole in place with his left hand, he says:)
-
-I bear witness to your solemn proposal and I declare you engaged; in the name of the Father, and of the Son, and of the Holy Spirit.
-
-(As he pronounces the last words he sprinkles them with holy water in the form of a cross.)
-
-_All:_ Amen.
-
-_Priest:_ Our help is in the name of the Lord.
-
-_All:_ Who made heaven and earth.
-
-_P:_ The Lord be with you.
-
-_All:_ And also with thy spirit.
-
-_Priest:_ Let us pray. Lord, reach out Thy right hand to Thy faithful servants, that they may seek Thee wholeheartedly and receive from Thee all the good things they desire. Almighty everlasting God, look kindly on Thy servants who have come to Thy holy sanctuary with glad hearts to make known their promise; grant they they, whose only trust is in Thee, may be filled with Thy grace, may live together in the bond of charity on this earth, and may finally attain the joys of everlasting life, through Christ our Lord.
-
-_All:_ Amen.
+> All: Amen.
+>
+> Priest: Our help is in the name of the Lord.
+>
+> All: Who made heaven and earth.
+>
+> P: The Lord be with you.
+>
+> All: And also with thy spirit.
+>
+> Priest: Let us pray. Lord, reach out Thy right hand to Thy faithful servants, that they may seek Thee wholeheartedly and receive from Thee all the good things they desire. Almighty everlasting God, look kindly on Thy servants who have come to Thy holy sanctuary with glad hearts to make known their promise; grant they they, whose only trust is in Thee, may be filled with Thy grace, may live together in the bond of charity on this earth, and may finally attain the joys of everlasting life, through Christ our Lord.
+>
+> _All:_ Amen.
 
 ## Reading from Tobias
 
@@ -86,13 +86,13 @@ At that time, Jesus said to His disciples: “Abide in me and I in you. As the b
 
 ## Final blessing
 
-(Lastly, the priest extends his hands over the heads of the couple and prays:)
+Lastly, the priest extends his hands over the heads of the couple and prays:
 
-May God bless your bodies and your souls. May he shed His blessing on you as He blessed Abraham, Isaac, and Jacob. May the hand of the Lord be upon you. May He send His holy angel to guard you all the days of your life. Amen. Go in peace.
+> May God bless your bodies and your souls. May he shed His blessing on you as He blessed Abraham, Isaac, and Jacob. May the hand of the Lord be upon you. May He send His holy angel to guard you all the days of your life. Amen. Go in peace.
 
 # History
 
-Below is a non-comprehensive selection of resources of the rite of betrothal throughout the Church's history.
+Below is are a few articles about the rite of betrothal.
 
 1941: Engaged couples in Montreal revive the betrothal ceremony. \[^3\]
 
