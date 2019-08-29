@@ -25,4 +25,4 @@ Biretta Books. **_Latin-English Booklet Missal for Nuptial Mass_**_: Biretta Boo
 
 # Favors
 
-“Shower of Roses Shoppe: Wedding Essentials,” accessed August 28, 2019, https://www.zazzle.com/store/showerofroses/products?cg=196522978919845565.
+“Shower of Roses Shoppe: Wedding Essentials,” accessed August 28, 2019, https://tinyurl.com/trad-catholic-wedding.
