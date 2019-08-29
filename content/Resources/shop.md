@@ -4,6 +4,8 @@ title = "Shop"
 toggle = false
 
 +++
+![](/uploads/08750015-min.jpg)
+
 # About
 
 This page contains links to any purchaseable product mentioned on this website.
