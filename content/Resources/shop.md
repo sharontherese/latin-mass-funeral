@@ -7,7 +7,9 @@ toggle = false
 +++
 # About
 
-This page contains links to any purchaseable product mentioned on this website. 
+This page contains links to any purchaseable product mentioned on this website.
+
+# Resources
 
 “Shower of Roses Shoppe: Wedding Essentials,” accessed August 28, 2019, [https://www.zazzle.com/store/showerofroses/products?cg=196522978919845565](https://www.zazzle.com/store/showerofroses/products?cg=196522978919845565 "https://www.zazzle.com/store/showerofroses/products?cg=196522978919845565").
 
