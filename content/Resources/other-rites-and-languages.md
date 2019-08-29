@@ -1,10 +1,13 @@
 +++
-draft = true
 text = ""
 title = "Other Rites and Languages"
 toggle = false
 
 +++
+![](/uploads/_DSC0373.JPG)
+
+[Nuptial blessing, according to the use of the Philippine Islands](http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html)
+
 # About 
 
 This page is a growing collection of two types of resources: 1) nuptial information on rites other than the Roman Rite, and 2) nuptial information in non-English language. 
