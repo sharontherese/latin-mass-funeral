@@ -12,11 +12,11 @@ Manuscript: [Miniature of the betrothal of Louis the Pious, his marriage, and hi
 
 Betrothal, or betrothment, is more solemn than an engagement, although the two may be seen as synonymous. Betrothal is, "a mutual promise of future marriage, or a contract by which a man and a woman engage themselves to marry." [^1]
 
-> Betrothment serves as a barrier against ill-omened haste; it renders the position of the engaged parties more secure; and it affords a better opportunity for bringing to light any impediments or incompatibility of disposition that may exist. It was in use among the Jews, the Romans, the Germans, and the Christians of the primitive Church. On the other hand in many modern codes, as in the Code Napoleon, and many others, betrothment is not recognised, and is without any binding force, though, in certain cases, it may afford ground for an action for damages. [^1]
+> Betrothment serves as a barrier against ill-omened haste; it renders the position of the engaged parties more secure; and it affords a better opportunity for bringing to light any impediments or incompatibility of disposition that may exist. It was in use among the Jews, the Romans, the Germans, and the Christians of the primitive Church. [^1]
 
 Laudate Dominum's website provide a free PDF version of Betrothal [^2].
 
-Similar to the Rite of Marriage, the specifics of the Rite of Betrothal have not always been legislated consistently, uniformly, and universally. Again similar to the Rite of Marriage, the Rite of Betrothal is an ancient and beautiful practice.
+Similar to the Rite of Marriage, the specifics of the Rite of Betrothal have not always been legislated consistently, uniformly, and universally. Again similar to the Rite of Marriage, the Rite of Betrothal is an ancient and beautiful practice, which is still available to the faithful for their use today.
 
 The general structure is this: Betrothal takes places in a church, with a priest. Psalm 126 is chanted, followed by an allocution from the priest, a pledge between the couple, a reading from Tobias, a reading from the Gospel of John, and a final blessing.
 
@@ -90,24 +90,26 @@ Lastly, the priest extends his hands over the heads of the couple and prays:
 
 > May God bless your bodies and your souls. May he shed His blessing on you as He blessed Abraham, Isaac, and Jacob. May the hand of the Lord be upon you. May He send His holy angel to guard you all the days of your life. Amen. Go in peace.
 
-# History
+# Resources
 
-Below is are a few articles about the rite of betrothal.
+## Articles 
 
-1941: Engaged couples in Montreal revive the betrothal ceremony. [^3]
+Press, Angelus. “Rite Of Betrothal.” Angelus Press. Accessed August 8, 2019. https://angeluspress.org/products/rite-of-betrothal.
 
-1971: "Canon lawyer advocates return of betrothal." [^4]
+“Consider a Betrothal Ceremony: What It Is, Why It’s Significant + How to Plan One.” Spoken Bride. Accessed August 29, 2019. https://www.spokenbride.com/blog/2016/11/17/betrothal-ceremony.
 
-2019: "New Liturgical Movement: Problems with Weddings and How We Might Remedy Them." [^5]
+“Engagements: In Church.” Catholic Culture. Accessed August 29, 2019. http://www.catholicculture.org/culture/library/view.cfm?recnum=2978.
+
+“What Is The Catholic Rite Of Betrothal.” Traditional Catholic Femininity. Accessed August 29, 2019. https://tradcatfem.com/2017/08/03/what-is-the-catholic-rite-of-betrothal/.
+
+“Canon Lawyer Advocates Return of Betrothal.” Catholic Transcript, December 30, 1977. https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47&srpos=1&e=-------en-20--1--txt-txIN-betrothal------.
+
+“Old Catholic Ceremony of Betrothal Revived at Montreal Oratory.” Catholic News Service, February 3, 1941. https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2&e=-------en-20--1--txt-txIN-%22rite+betrothal%22~8------.
+
+Kwasniewski, Peter. “New Liturgical Movement: Problems with Weddings and How We Might Remedy Them.” New Liturgical Movement (blog), April 29, 2019. http://www.newliturgicalmovement.org/2019/04/problems-with-weddings-and-how-we-might.html#.XVHX6G9Ki70.
 
 # Sources
 
 [^1]: Smet, Alöis de. _Betrothment and Marriage; a Canonical and Theological Treatise with Notices on History and Civil Law_. St. Louis : B. Herder, 1912. [http://archive.org/details/betrothmentmarri01smetiala](http://archive.org/details/betrothmentmarri01smetiala "http://archive.org/details/betrothmentmarri01smetiala").
 
 [^2]: “Solemn Rite of Betrothal.” Laudate Dominum, n.d. [http://laudatedominum.net/files/bet.pdf](http://laudatedominum.net/files/bet.pdf "http://laudatedominum.net/files/bet.pdf").
-
-[^3]: “Old Catholic Ceremony of Betrothal Revived at Montreal Oratory.” _Catholic News Service_, February 3, 1941. [https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2&e=-------en-20--1--txt-txIN-%22rite+betrothal%22\~8------](https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2&e=-------en-20--1--txt-txIN-%22rite+betrothal%22\~8------ "https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2&e=-------en-20--1--txt-txIN-%22rite+betrothal%22~8------").
-
-[^4]: “Canon Lawyer Advocates Return of Betrothal,” _Catholic Transcript_, December 30, 1977, [https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47&srpos=1&e=-------en-20--1--txt-txIN-betrothal------](https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47&srpos=1&e=-------en-20--1--txt-txIN-betrothal------ "https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47&srpos=1&e=-------en-20--1--txt-txIN-betrothal------").
-
-[^5]: Peter Kwasniewski, “New Liturgical Movement: Problems with Weddings and How We Might Remedy Them,” New Liturgical Movement (blog), April 29, 2019, http://www.newliturgicalmovement.org/2019/04/problems-with-weddings-and-how-we-might.html#.XVHX6G9Ki70.
