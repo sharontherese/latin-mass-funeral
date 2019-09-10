@@ -32,7 +32,7 @@ R. Amen.
 
 # Sources
 
-[1^]: Friel, David. “**Chant Notation—Nuptial Blessing (EF).**” Corpus Christi Watershed, September 8, 2019. http://www.ccwatershed.org/blog/2019/sep/8/chant-notation-nuptial-blessing-extraordinary-form/.
+[^1]: Friel, David. “**Chant Notation—Nuptial Blessing (EF).**” Corpus Christi Watershed, September 8, 2019. http://www.ccwatershed.org/blog/2019/sep/8/chant-notation-nuptial-blessing-extraordinary-form/.
 
 
 [2]: “**Nuptial Blessing.**” Catholic Culture. Accessed July 30, 2019. [http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770](http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770 "http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770").
