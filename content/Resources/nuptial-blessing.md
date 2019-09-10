@@ -30,19 +30,22 @@ May the God of Abraham, the God of Isaac, and the God of Jacob be with you: and 
 
 R. Amen.
 
+# Read More
+
+“**Nuptial Blessing.**” Catholic Culture. Accessed July 30, 2019. [http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770](http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770 "http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770").
+
+“**Nuptial Rites Follow Customs of Society.**” _Clarion Herald_, April 30, 1964. [https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22~10------").
+
+Klauder, Alexander Laurence Alphonsus. **_Catholic Practice at Church and at Home. The Parishioner’s Little Rule Book, a Guide for Catholics in the External Practice of Their Holy Religion_**, pp. 114-133. Boston, Mass., Angel guardian press, 1898. [http://archive.org/details/catholicpractice01klau](http://archive.org/details/catholicpractice01klau "http://archive.org/details/catholicpractice01klau").
+
+Stevenson, Kenneth W. "**The Origins of the Nuptial Blessing.**" _Heythrop Journal_ 21. (1980): 412-416.
+
+Stevenson, Kenneth W. **_The Nuptial Blessing: A Study of Christian Marriage Rites_**: London. (1982).
+
+Stice, Fr. Randy. “**An Introduction to the Sacrament of Matrimony and the Nuptial Blessing.**” _Adoremus_ (blog), November 16, 2015. [https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/](https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/ "https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/").
+
 # Sources
 
 [^1]: Friel, David. “**Chant Notation—Nuptial Blessing (EF).**” Corpus Christi Watershed, September 8, 2019. http://www.ccwatershed.org/blog/2019/sep/8/chant-notation-nuptial-blessing-extraordinary-form/.
 
 
-[2]: “**Nuptial Blessing.**” Catholic Culture. Accessed July 30, 2019. [http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770](http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770 "http://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=770").
-
-[3]: “**Nuptial Rites Follow Customs of Society.**” _Clarion Herald_, April 30, 1964. [https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22~10------").
-
-[4]: Klauder, Alexander Laurence Alphonsus. **_Catholic Practice at Church and at Home. The Parishioner’s Little Rule Book, a Guide for Catholics in the External Practice of Their Holy Religion_**, pp. 114-133. Boston, Mass., Angel guardian press, 1898. [http://archive.org/details/catholicpractice01klau](http://archive.org/details/catholicpractice01klau "http://archive.org/details/catholicpractice01klau").
-
-[5]: Stevenson, Kenneth W. "**The Origins of the Nuptial Blessing.**" _Heythrop Journal_ 21. (1980): 412-416.
-
-[6]: Stevenson, Kenneth W. **_The Nuptial Blessing: A Study of Christian Marriage Rites_**: London. (1982).
-
-[7]: Stice, Fr. Randy. “**An Introduction to the Sacrament of Matrimony and the Nuptial Blessing.**” _Adoremus_ (blog), November 16, 2015. [https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/](https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/ "https://adoremus.org/2015/11/15/introduction-sacrament-matrimony-nuptial-blessing/").
