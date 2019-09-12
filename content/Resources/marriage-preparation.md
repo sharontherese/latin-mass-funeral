@@ -36,6 +36,9 @@ Klauder, Alexander Laurence Alphonsus. **_Catholic Practice at Church and at Hom
 
 Heuser, Herman J. (Herman Joseph). **_The Parish Priest on Duty: A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission_**. New York: Benziger Brothers, 1904. [http://archive.org/details/theparishpriesto00heusuoft](http://archive.org/details/theparishpriesto00heusuoft "http://archive.org/details/theparishpriesto00heusuoft").
 
+Kelly, George Anthony. **_The Catholic Marriage Manual_**. Random House, 1958. https://books.google.com/books/about/The_Catholic_Marriage_Manual.html?id=M8siAQAAMAAJ.
+
+
 Semmler, Nerius. **_For Bride and Groom: A Pre-Nuptial Instruction Based on the Encyclical Letter of Pope Pius XI, Casti Connubii_**_, December 31, 1930 /_. Our Sunday Visitor, 1950. [https://www.lib.cua.edu/rarebook/node/4391](https://www.lib.cua.edu/rarebook/node/4391 "https://www.lib.cua.edu/rarebook/node/4391").
 
 Solaro della Margherita, Giulia, and Charles Constantine Pise. **_The Catholic Bride; or Moral Letters Addressed to Julia, Daughter of Count Solaro Della Margarita, on the Occasion of Her Marriage with Count E. Demorri Di Castelmagno_**_. by C. C. Pise_. Baltimore, 1868. [http://archive.org/details/TheCatholicBride](http://archive.org/details/TheCatholicBride "http://archive.org/details/TheCatholicBride").
