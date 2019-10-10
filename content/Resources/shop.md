@@ -25,3 +25,8 @@ Angelus Press, “Rite Of Betrothal”
 
 Angelus Press, “Marriage Mass Booklet”   
 [https://angeluspress.org/products/marriage-mass-booklet](https://angeluspress.org/products/marriage-mass-booklet "https://angeluspress.org/products/marriage-mass-booklet")
+
+# Activities 
+
+PelicanPrinteryHouse, "Nuptial Mass Wedding Reception Coloring Pages."
+https://www.etsy.com/listing/738597527/nuptial-mass-wedding-reception-coloring
