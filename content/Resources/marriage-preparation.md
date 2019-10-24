@@ -61,6 +61,8 @@ Bugg, Lelia Hardin. **_The Correct Thing For Catholics_**. New York, Cincinnati 
 
 Ellis, Alice Thomas. **_Home Life_.** Royal National Institute of the Blind, 2004. [https://books.google.com/books?id=aKmNvgEACAAJ](https://books.google.com/books?id=aKmNvgEACAAJ "https://books.google.com/books?id=aKmNvgEACAAJ").
 
+Trapp, Maria Augusta von. **Around the Year with the Von Trapp Family**. Sophia Institute Press, 2018. https://books.google.com/books?id=LoF1DwAAQBAJ.
+
 # Fertility, Health, & Intimacy
 
 “**Allay Women and Family Resources.**” Accessed June 3, 2019. [https://www.facebook.com/allayresources/](https://www.facebook.com/allayresources/ "https://www.facebook.com/allayresources/").
