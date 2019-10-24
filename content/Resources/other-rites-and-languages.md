@@ -10,7 +10,7 @@ toggle = false
 
 # About 
 
-This page is a growing collection of two types of resources: 1) nuptial information on rites other than the Roman Rite, and 2) nuptial information in non-English language. 
+This page is a growing collection of two types of resources: 1) nuptial information on rites other than the Roman Rite, and 2) nuptial information in non-English languages. 
 
 The content is organized in two ways: by rite, and by country of origin. 
 
@@ -20,24 +20,40 @@ Please feel free to contact me to add a resource to this page!
 
 ## Mozarabic
 
-San Pedro, Maricar Cinco. “Marrying in Ancient, Sacred Catholic Rites.” Philippine Daily Inquirer, October 17, 2013. https://www.pressreader.com/philippines/philippine-daily-inquirer-1109/20131017/281672547673113.
+San Pedro, Maricar Cinco. “**Marrying in Ancient, Sacred Catholic Rites**.” Philippine Daily Inquirer, October 17, 2013. https://www.pressreader.com/philippines/philippine-daily-inquirer-1109/20131017/281672547673113.
 
-Siniculus, “The Sacrament of Matrimony According to the Use of the Philippine Islands,” _Dei Praesidio Fultus_ (blog), June 1, 2013, [http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html](http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html "http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html").
+Siniculus, “**The Sacrament of Matrimony According to the Use of the Philippine Islands**,” _Dei Praesidio Fultus_ (blog), June 1, 2013, [http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html](http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html "http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html").
 
-Siniculus, “Matrimony According to the Use of the Philippine Islands,” _Dei Praesidio Fultus_ (blog), September 14, 2013, [http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html](http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html "http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html").
+Siniculus, “**Matrimony According to the Use of the Philippine Islands**,” _Dei Praesidio Fultus_ (blog), September 14, 2013, [http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html](http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html "http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html").
 
 # Country
 
+## France 
+
+These texts all concern marriage preparation and instruction. I have been unable to confirm that the Hulst citation is correct.
+
+Coube, Abbe Stephen. **Discours de Mariage**. Paris: Lethielleux, 1910. https://www.worldcat.org/title/discours-de-mariage/oclc/66715201&referer=brief_results.
+
+Duplessy, Eugene. **Allocutions matrimoniales**. Paris: Pierre Tequi, 1947. http://www.worldcat.org/oclc/301424723.
+
+Guillermin, J. “**Choix de Discours et Allocutions de Mariage**.” Paris: Bloud, 1890. http://www.worldcat.org/oclc/123512988.
+
+d'Hulst, Maurice Le Sage d’Hauteroche. “**Discours et Allocutions de Mariage**.” In Melanges Oratoires. Paris: de Gigord, 1914?.
+
+Julien, Eugène. **Discours de mariage: 4e édition**. Arras; Brunet, 32, rue Gambetta: Impr. Nouvelle Société anonyme du Pas-de-Calais ;, 1936. http://www.worldcat.org/oclc/459687130.
+
+Klein, Félix. **Noces chrétiennes: allocutions nouvelles pour mariages**. Paris: Beauchesne, 1920. http://www.worldcat.org/oclc/783192825.
+
 ## Italy 
 
-“Tradidi Quod et Accepi: Missa Votiva pro Sponsis,” _Tradidi Quod et Accepi_ (blog), venerdì gennaio 2018, [http://tradidiaccepi.blogspot.com/2018/01/missa-votiva-pro-sponsis.html](http://tradidiaccepi.blogspot.com/2018/01/missa-votiva-pro-sponsis.html "http://tradidiaccepi.blogspot.com/2018/01/missa-votiva-pro-sponsis.html").
+“**Tradidi Quod et Accepi: Missa Votiva pro Sponsis**,” _Tradidi Quod et Accepi_ (blog), venerdì gennaio 2018, [http://tradidiaccepi.blogspot.com/2018/01/missa-votiva-pro-sponsis.html](http://tradidiaccepi.blogspot.com/2018/01/missa-votiva-pro-sponsis.html "http://tradidiaccepi.blogspot.com/2018/01/missa-votiva-pro-sponsis.html").
 
-“Rituale Romanum - De Sacramento Matrimonii - Www.Maranatha.It,” accessed August 8, 2019, [https://www.maranatha.it/rituale/51page.htm](https://www.maranatha.it/rituale/51page.htm "https://www.maranatha.it/rituale/51page.htm").
+“**Rituale Romanum - De Sacramento Matrimonii**,” accessed August 8, 2019, [https://www.maranatha.it/rituale/51page.htm](https://www.maranatha.it/rituale/51page.htm "https://www.maranatha.it/rituale/51page.htm").
 
 ## Philippines 
 
-San Pedro, Maricar Cinco. “Marrying in Ancient, Sacred Catholic Rites.” Philippine Daily Inquirer, October 17, 2013. https://www.pressreader.com/philippines/philippine-daily-inquirer-1109/20131017/281672547673113.
+San Pedro, Maricar Cinco. “**Marrying in Ancient, Sacred Catholic Rites**.” Philippine Daily Inquirer, October 17, 2013. https://www.pressreader.com/philippines/philippine-daily-inquirer-1109/20131017/281672547673113.
 
-Siniculus, “The Sacrament of Matrimony According to the Use of the Philippine Islands,” _Dei Praesidio Fultus_ (blog), June 1, 2013, [http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html](http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html "http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html").
+Siniculus, “**The Sacrament of Matrimony According to the Use of the Philippine Islands**,” _Dei Praesidio Fultus_ (blog), June 1, 2013, [http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html](http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html "http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html").
 
-Siniculus, “Matrimony According to the Use of the Philippine Islands,” _Dei Praesidio Fultus_ (blog), September 14, 2013, [http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html](http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html "http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html").
+Siniculus, “**Matrimony According to the Use of the Philippine Islands**,” _Dei Praesidio Fultus_ (blog), September 14, 2013, [http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html](http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html "http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html").
