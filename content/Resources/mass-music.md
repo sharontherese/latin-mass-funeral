@@ -79,25 +79,37 @@ Victoria, Tomas Luis de. “Missa Dominicalis.” ChoralWiki. Accessed August 6,
 Dalitz, Christoph. “Missa Tribus Vocibus.” ChoralWiki. Accessed August 6, 2019. http://www1.cpdl.org/wiki/index.php/Missa_tribus_vocibus_(Christoph_Dalitz). 12 pages.
 <br>
 <br>
-# Hymns and motets
+# Other Sacred Music
 
-## Gregorian settings
+Below are a few popular choices for hymns, motets, and chants for the wedding Mass. Many of these texts have more than one setting. If you need inspiration, consider the background of you and your future spouse (French, Italian, Irish, etc.), or the feasts on/near your wedding day. If your wedding day is near, for example, St. Thomas Aquinas' feast day, you could choose one of the many songs he composed, or a song centered on the Eucharist, a common theme in St. Thomas' works.
+
+## Marian chants
+
+Alma Redemptoris Mater (Marian atiphon for: Advent through February 1) 
+
+Ave, Regina Caelorum (Marian atiphon for: February 2 through Good Friday)
+
+Regina Caeli (Marian atiphon for: during the season of Easter)
+
+Salve Regina (Marian atiphon for: after Pentecost)
 
 Ave maris stella
 
-Regina Caeli (during the season of Easter)
+## Composers 
 
-Salve Regina (during the season of Ordinary Time)
+The following composers have written many sacred music pieces: Giovanni Pierluigi da Palestrina, Franz Schubert, Tomas Luis de Victoria, Orlando de Lassus, Josquin, Tommaso de Celano, Thomas Tallis, Hildegard of Bingen, Heinrich Ignaz Franz Biber, Anton Bruckner, Edward Elgar, Charles Gounod, Wolfgang Amadeus Mozart, Giovanni Battista Pergolesi
 
-Alma Redemptoris Mater (Advent through February 1)
-
-Ave, Regina Caelorum (February 2 through Good Friday)
-
-## Polyphonic settings
+Below are a few favorites from that list: 
 
 Ave verum Corpus, Mozart
 
-Ave Maria, Franz Schubert
+Ave verum, Byrd
+
+Ave maria, Schubert
+
+Sicut cervus, Palestrina 
+
+If ye love me, Tallis
 <br>
 <br>
 # Sources about Sacred Music 
