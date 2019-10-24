@@ -18,6 +18,8 @@ Lots! The big things that are different are the language, and the order of event
 
 In Catholic weddings in the _Novus Ordo_ Mass, the actual wedding - the _Rite of Marriage_ - happens in the middle of the mass. In the _Latin Mass_, the Rite of Marriage happens at the beginning, and is followed by the mass, uninterrupted.
 
+To compare the Latin Mass wedding with the Novus Ordo wedding, visit http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/.
+
 For more information on details about what makes the Latin Mass distinct, visit the [Latin Mass] (https://www.latinmasswedding.com/resources/the-mass/) page.
 
 # What can I customize with the wedding Mass?
