@@ -30,7 +30,7 @@ Von Hildebrand, Alice. **_By Love Refined: Letters to a Young Bride_**. Sophia I
 
 # Catechesis
 
-“Holy Matrimony.” **_Fish Eaters _**(blog). Accessed June 3, 2019. [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html").
+“**Holy Matrimony**.” Fish Eaters (blog). Accessed June 3, 2019. [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html").
 
 Klauder, Alexander Laurence Alphonsus. **_Catholic Practice at Church and at Home. The Parishioner’s Little Rule Book, a Guide for Catholics in the External Practice of Their Holy Religion_**, pp. 114-133. Boston, Mass., Angel guardian press, 1898. [http://archive.org/details/catholicpractice01klau](http://archive.org/details/catholicpractice01klau "http://archive.org/details/catholicpractice01klau").
 
@@ -47,14 +47,15 @@ Vuarin, M. **_Familiar Instructions on the Holiness and Dignity of the Sacrament
 
 Walter Jewell. **_Tell Her You’re a Catholic_**, 1949. [http://archive.org/details/TellHerYoureACatholic](http://archive.org/details/TellHerYoureACatholic "http://archive.org/details/TellHerYoureACatholic").
 
-> Page 41 is missing, with the crucial heading, "It is not the correct thing to...". Page 45 is also missing. There is good practical advice in here, but with a heavy caveat that the author had some strong materialistic opinions, like the reception and the engagement ring should be as expensive as possible.
 Bugg, Lelia Hardin. **_The Correct Thing For Catholics_**. New York, Cincinnati Benziger Bros., 1892. http://archive.org/details/TheCorrectThingForCatholics.
+
+> Page 41 is missing, with the crucial heading, "It is not the correct thing to...". Page 45 is also missing. There is good practical advice in here, but with a heavy caveat that the author had some strong materialistic opinions, like the reception and the engagement ring should be as expensive as possible.
 
 # The Domestic Realm
 
-“**The Christian Home: A Guide to Happiness in the Home: Chapter I.**” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/home2.html](https://www.fisheaters.com/home2.html "https://www.fisheaters.com/home2.html").
+“**The Christian Home: A Guide to Happiness in the Home: Chapter I.**” Fish Eaters (blog). Accessed June 3, 2019. [https://www.fisheaters.com/home2.html](https://www.fisheaters.com/home2.html "https://www.fisheaters.com/home2.html").
 
-“**The Domestic Church: The Catholic Home.**” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/domesticchurch.html](https://www.fisheaters.com/domesticchurch.html "https://www.fisheaters.com/domesticchurch.html").
+“**The Domestic Church: The Catholic Home.**” Fish Eaters (blog). Accessed June 3, 2019. [https://www.fisheaters.com/domesticchurch.html](https://www.fisheaters.com/domesticchurch.html "https://www.fisheaters.com/domesticchurch.html").
 
 **_Carrots for Michaelmas _**(blog). Accessed July 29, 2019. [https://www.carrotsformichaelmas.com/](https://www.carrotsformichaelmas.com/ "https://www.carrotsformichaelmas.com/").
 
@@ -78,7 +79,7 @@ Chesterton, Gilbert Keith. **_What’s Wrong with the World_**. Cassell, 1912. [
 
 Pieper, Josef. **_Happiness and Contemplation_**. Regnery, 1966. [https://books.google.com/books?id=J25QngEACAAJ](https://books.google.com/books?id=J25QngEACAAJ "https://books.google.com/books?id=J25QngEACAAJ").
 
-Louise Cowan, “Marriage As a Creative Work,” Newsletter of the Thomas More College of Liberal Arts 21 (November 2003), http://parousians-lsu.blogspot.com/2006/11/marriage-as-creative-work-by-louise.html.
+Louise Cowan, “**Marriage As a Creative Work**,” Newsletter of the Thomas More College of Liberal Arts 21 (November 2003), http://parousians-lsu.blogspot.com/2006/11/marriage-as-creative-work-by-louise.html.
 
 # Pamphlets from the International Catholic Truth Society
 
@@ -97,3 +98,16 @@ Jewell, Walter. “**To Those Getting Married.**” International Catholic Truth
 McEvoy, SJ, Hubert. “**Before You Wed.**” International Catholic Truth Society, 1947. [https://lxoa.wordpress.com/2010/09/15/before-you-wed/](https://lxoa.wordpress.com/2010/09/14/to-those-getting-married/ "https://lxoa.wordpress.com/2010/09/14/to-those-getting-married/").
 
 Pope Pius XII. “**The Pope Speaks to Mothers.**” International Catholic Truth Society, 1956. [https://lxoa.wordpress.com/2010/09/16/the-pope-speaks-to-mothers/](https://lxoa.wordpress.com/2010/09/16/the-pope-speaks-to-mothers/ "https://lxoa.wordpress.com/2010/09/16/the-pope-speaks-to-mothers/").
+
+# Mixed Marriages 
+
+A mixed marriage is a marriage between a Catholic and a non-Catholic. Before the 1960s, mixed marriages were strongly discouraged across the board by the Church, and required a dispensation. The 1917 Code of Canon Law lists additional requirements (commonly called "The Promises"), such as: a promise from the non-Catholic spouse that any future children would be raised Catholic with no interference, and a promise that the Catholic spouse would do their best to convert the non-Catholic spouse. These conditions, albeit significantly watered down, still appear in the 1983 Code of Canon Law.
+
+A wonderful example of how grave mixed marriages were considered can be found in Walter Jewell's book (citation below). 
+
+Walter Jewell. **_Tell Her You’re a Catholic_**, 1949. [http://archive.org/details/TellHerYoureACatholic](http://archive.org/details/TellHerYoureACatholic "http://archive.org/details/TellHerYoureACatholic").
+
+Fish Eater also includes a discussion of mixed marriages on their "Holy Matrimony" page. 
+
+“**Holy Matrimony**.” Fish Eaters (blog). Accessed June 3, 2019. [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html").
+
