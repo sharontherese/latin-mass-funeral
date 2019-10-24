@@ -10,7 +10,7 @@ toggle = false
 
 My husband, William, and I were married in a Latin Mass wedding on September 22, 2018. While we were both familiar with the Latin Mass, we found that we had a good deal to learn about a Latin Mass wedding. Much knowledge has been lost about nuptial services, liturgies, customs, and expectations.
 
-As a librarian who is chronically unable to be relaxed about anything, much of my wedding planning involved accruing piles of research on Catholic wedding masses. This website is everything I found about Latin Mass weddings, plus a lot of extra (but related) content on traditional aspects of Catholicism.
+As a librarian who is chronically unable to be relaxed about anything, I spent much of my wedding planning time accruing piles of research on Catholic wedding masses. This website is everything I have found, to date, about Latin Mass weddings, plus a lot of extra (but related) content on traditional aspects of Catholicism.
 
 The critical stuff is in the [Rite of Marriage](https://www.latinmasswedding.com/rite-of-marriage/) and the [Wedding Mass](https://www.latinmasswedding.com/the-wedding-mass/).
 
@@ -22,7 +22,7 @@ Any word in _italics_ can be found in the [Glossary](https://www.latinmassweddin
 
 I have an [FAQ ](https://www.latinmasswedding.com/resources/faqs/)page to get you started.
 
-I also have a [personal site](http://awildsostenuto.wordpress.com) full of fun and exciting research and Catholic content.
+I also have a [personal site](http://sharonkabel.wordpress.com) full of fun and exciting research.
 
 # Services
 
