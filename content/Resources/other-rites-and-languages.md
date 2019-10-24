@@ -44,6 +44,8 @@ Julien, Eugène. **Discours de mariage: 4e édition**. Arras; Brunet, 32, rue Ga
 
 Klein, Félix. **Noces chrétiennes: allocutions nouvelles pour mariages**. Paris: Beauchesne, 1920. http://www.worldcat.org/oclc/783192825.
 
+Nysten, Jean. **Instructions familières sur le mariage: son origine, sa vie intime, sa préparation : suivie de dix discours pour le jour du mariage**. Liége: H. Dessain, 1912. http://www.worldcat.org/oclc/70527662.
+
 ## Italy 
 
 “**Tradidi Quod et Accepi: Missa Votiva pro Sponsis**,” _Tradidi Quod et Accepi_ (blog), venerdì gennaio 2018, [http://tradidiaccepi.blogspot.com/2018/01/missa-votiva-pro-sponsis.html](http://tradidiaccepi.blogspot.com/2018/01/missa-votiva-pro-sponsis.html "http://tradidiaccepi.blogspot.com/2018/01/missa-votiva-pro-sponsis.html").
