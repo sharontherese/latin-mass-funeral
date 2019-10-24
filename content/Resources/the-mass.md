@@ -36,8 +36,6 @@ These are a scattershot collection of resources on and about the _Latin Mass_. T
 
 “**Traditional Catholicism 101: A Brief Primer.**” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/traditionalcatholicism.html](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
 
-“**Tridentine Latin Rite Missal Project.**” Tridentine Latin Rite Missal Project. Accessed April 12, 2018. [http://missale.heliohost.org/](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
-
 braniac. “**How to Plan a Traditional Latin Mass Wedding.”** _Our Everyday Life_ (blog). Accessed June 3, 2019. [https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html](https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html "https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html").
 
 Carota, Father. “**Traditional Catholic Wedding Ceremony Vs New Wedding Ceremony.**” _Traditional Catholic Priest_ (blog), September 4, 2014. [http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/](http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/ "http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/").
