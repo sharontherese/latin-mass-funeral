@@ -28,16 +28,17 @@ Sheen, F.J. **_Three to Get Married_**. Catholic Insight Series. Appleton-Centur
 
 Von Hildebrand, Alice. **_By Love Refined: Letters to a Young Bride_**. Sophia Institute Press, 1997. [https://books.google.com/books?id=KaCQAQAAQBAJ](https://books.google.com/books?id=KaCQAQAAQBAJ "https://books.google.com/books?id=KaCQAQAAQBAJ").
 
-# Catechesis
+# Catechesis/General
 
 “**Holy Matrimony**.” Fish Eaters (blog). Accessed June 3, 2019. [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html").
+
+Cassidy, Norma Cronin. **The Nuptial Mass**. New York: Paulist Press, 1957. http://www.worldcat.org/oclc/20557562.
 
 Klauder, Alexander Laurence Alphonsus. **_Catholic Practice at Church and at Home. The Parishioner’s Little Rule Book, a Guide for Catholics in the External Practice of Their Holy Religion_**, pp. 114-133. Boston, Mass., Angel guardian press, 1898. [http://archive.org/details/catholicpractice01klau](http://archive.org/details/catholicpractice01klau "http://archive.org/details/catholicpractice01klau").
 
 Heuser, Herman J. (Herman Joseph). **_The Parish Priest on Duty: A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission_**. New York: Benziger Brothers, 1904. [http://archive.org/details/theparishpriesto00heusuoft](http://archive.org/details/theparishpriesto00heusuoft "http://archive.org/details/theparishpriesto00heusuoft").
 
 Kelly, George Anthony. **_The Catholic Marriage Manual_**. Random House, 1958. https://books.google.com/books/about/The_Catholic_Marriage_Manual.html?id=M8siAQAAMAAJ.
-
 
 Semmler, Nerius. **_For Bride and Groom: A Pre-Nuptial Instruction Based on the Encyclical Letter of Pope Pius XI, Casti Connubii_**_, December 31, 1930 /_. Our Sunday Visitor, 1950. [https://www.lib.cua.edu/rarebook/node/4391](https://www.lib.cua.edu/rarebook/node/4391 "https://www.lib.cua.edu/rarebook/node/4391").
 
@@ -83,7 +84,9 @@ Pieper, Josef. **_Happiness and Contemplation_**. Regnery, 1966. [https://books.
 
 Louise Cowan, “**Marriage As a Creative Work**,” Newsletter of the Thomas More College of Liberal Arts 21 (November 2003), http://parousians-lsu.blogspot.com/2006/11/marriage-as-creative-work-by-louise.html.
 
-# Pamphlets from the International Catholic Truth Society
+# Books and Pamphlets from the International Catholic Truth Society
+
+**The Marriage Service and the Nuptial Mass**. Catholic Truth Society, 1961. https://books.google.com/books/about/The_Marriage_Service_and_the_Nuptial_Mas.html?id=j04wuQEACAAJ.
 
 A Catholic Woman Doctor. “**A Talk to Catholic Wives.**” International Catholic Truth Society, 1953. [https://lxoa.wordpress.com/2010/08/24/a-talk-to-catholic-wives/](https://lxoa.wordpress.com/2010/08/24/a-talk-to-catholic-wives/ "https://lxoa.wordpress.com/2010/08/24/a-talk-to-catholic-wives/").
 
