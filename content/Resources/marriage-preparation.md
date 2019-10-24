@@ -113,3 +113,14 @@ Fish Eater also includes a discussion of mixed marriages on their "Holy Matrimon
 
 “**Holy Matrimony**.” Fish Eaters (blog). Accessed June 3, 2019. [https://www.fisheaters.com/holymatrimony.html](https://www.fisheaters.com/holymatrimony.html "https://www.fisheaters.com/holymatrimony.html").
 
+# Legislation 
+
+Ayrinhac, H. A. (Henry Amans), and P. J. (Patrick Joseph) Lydon. **Marriage Legislation in the New Code of Canon Law**. New York : Benziger Brothers, [c1918]. http://archive.org/details/marriagelegislat00ayriiala.
+
+Boyle, David J. **The Juridic Effects of Moral Certitude on Pre‑Nuptial Guarantees**. The Catholic University of America Press, 2014.
+
+White, Robert J. “**Canonical Ante-Nuptial Promises and the Civil Law: An Historical Synopsis and Commentary**.” Catholic University of America, 1934. http://www.worldcat.org/oclc/918547632.
+
+White, Robert J. **The Legal Effect of Ante-Nuptial Promises in Mixed Marriages**. American Ecclesiastical Review, 1932. https://www.abebooks.com/signed/LEGAL-EFFECT-ANTE-NUPTIAL-PROMISES-MIXED-MARRIAGES/822233702/bd.
+
+
