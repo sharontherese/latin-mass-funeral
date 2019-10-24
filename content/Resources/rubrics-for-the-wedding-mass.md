@@ -17,23 +17,19 @@ More information can be found at Corpus Christi Watershed [^2] [^3].
 
 The wedding Mass is a second class votive Mass. On first class feasts, the readings for the first class feast are said (but the nuptial blessing and final blessing may still be used).
 
-Omitted: Tract
-
-Used: Gradual + lesser Alleluia
+For most of the liturgical year, the Tract is omitted, and the Gradual + lesser Alleluia are used. 
 
 > "**The Mass has neither Gloria nor Creed**. It counts as a votive Mass not for a grave matter; therefore it has three collects, its own, the commemoration of the day, and the third which is the one chosen for semi-doubles at that time of the year unless there be two commemorations. At the end Benedicamus Domino and the Gospel of St. John are said. **The colour is white**. The bridegroom and bride assist near the altar (just outside the sanctuary), the man on the right. After the Pater noster the celebrant genuflects and goes to epistle side. Meanwhile the bridegroom and bride come up and kneel before him. Turning to them he says the two prayers Propitiare Domine and Deus qui potestate (as in the Missal) with folded hands. He then goes back to the middle and continues the Mass. They go back to their places. He gives them Communion at the usual time. This implies that they are fasting and explains the misused name "wedding breakfast" afterwards. But the Communion is strict law (S.R.C., no 5582, 21 March, 1874). Immediately after the Benedicamus Domino and its answer the celebrant again goes to the Epistle side and the bridegroom and kneel before him as before. The celebrant turning to them says the prayer Deus Abraham (without Oremus). He is then told to warn them "with grave words to be faithful to one another". The rest of the advice suggested in the rubric of the Missal is now generally left out. He sprinkles them with holy water; they retire, he goes back to the middle of the altar, says Placeat tibi, gives the blessing and finishes Mass as usual." [^4]
 
-# Rubrics between Septuagesima and Easter
+# Rubrics during Septuagesima
 
-Omitted: Alleluia
+Septuagesima is a 3-week season of voluntary fasting preceding Lent [^5] . Septuagesima Sunday is roughly 70 days before Easter; Sexagesima Sunday, roughly 60 days; and Quinquagesima Sunday, roughly 50 days. This season was suppressed by the Second Vatican Council [^6], but is of course still included in rubrics from 1962 or earlier. 
 
-Used: Gradual + Tract
+During Septuagesima, the Alleluias are omitted, and the Gradual + Tract are used.
 
 # Rubrics during Paschaltide 
 
-Omitted: Gradual
-
-Used: greater Alleluia 
+During the Easter season, the Gradual and Tract are omitted, and the greater Alleluia (also called the double Alleluia) is used.
 
 # Sources
 
@@ -44,3 +40,9 @@ Used: greater Alleluia
 [^3]: Motkya, Andrew R. “**Weddings: Some Practical Advice - The End of the Beginning, Part 2.**” _Corpus Christi Watershed_, 2 Sept. 2014, [http://www.ccwatershed.org/blog/2014/sep/2/weddings-some-practical-advice-end-beginning-2/](http://www.ccwatershed.org/blog/2014/sep/2/weddings-some-practical-advice-end-beginning-2/ "http://www.ccwatershed.org/blog/2014/sep/2/weddings-some-practical-advice-end-beginning-2/").
 
 [^4]: Catholic Church. “**Rite for Celebrating Marriage.**” _Rituale Romanum_, 1962, [https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html](https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html "https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html").
+
+[^5]: Fish Eaters. “**Septuagesima Overview.**” https://www.fisheaters.com/customsseptuagesima1.html#1.
+
+[^6]: Pristas, Lauren. “**Parachuted into Lent: The Suppression of Septuagesima.**” _Usus Antiquior_ 1, no. 2 (2010).
+
+
