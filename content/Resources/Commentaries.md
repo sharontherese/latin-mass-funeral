@@ -336,7 +336,7 @@ display: block;
 
 font-weight: bold;
 font-family: lato;
-font-size: 0.8rem;
+font-size: 0.6rem;
 text-transform: uppercase;
 text-align: left;
 
