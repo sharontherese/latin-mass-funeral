@@ -18,7 +18,7 @@ Similar to the Rite of Marriage, the specifics of the Rite of Betrothal have not
 
 > Betrothment serves as a barrier against ill-omened haste; it renders the position of the engaged parties more secure; and it affords a better opportunity for bringing to light any impediments or incompatibility of disposition that may exist. It was in use among the Jews, the Romans, the Germans, and the Christians of the primitive Church. [^1]
 
-Laudate Dominum's website provide a free PDF version of Betrothal [^2].
+Laudate Dominum's website provides a free PDF version of Betrothal [^2].
 
 # The Rite of Betrothal
 
