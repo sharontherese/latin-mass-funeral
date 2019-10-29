@@ -10,15 +10,15 @@ Manuscript: [Miniature of the betrothal of Louis the Pious, his marriage, and hi
 
 # About
 
-Betrothal, or betrothment, is more solemn than an engagement, although the two may be seen as synonymous. Betrothal is, "a mutual promise of future marriage, or a contract by which a man and a woman engage themselves to marry." [^1]
+Betrothal, or betrothment, is a beautiful, ancient practice for those planning to marry in the Church. It is more solemn than an engagement, although the two may be seen as synonymous. Betrothal is, "a mutual promise of future marriage, or a contract by which a man and a woman engage themselves to marry." [^1]
+
+The general structure is this: the Rite of Betrothal takes places in a church, with a priest. Psalm 126 is chanted, followed by an allocution from the priest, a pledge between the couple, a reading from Tobias, a reading from the Gospel of John, and a final blessing.
+
+Similar to the Rite of Marriage, the specifics of the Rite of Betrothal have not always been legislated consistently, but both are to be encouraged and are still available to the faithful for their use today.
 
 > Betrothment serves as a barrier against ill-omened haste; it renders the position of the engaged parties more secure; and it affords a better opportunity for bringing to light any impediments or incompatibility of disposition that may exist. It was in use among the Jews, the Romans, the Germans, and the Christians of the primitive Church. [^1]
 
 Laudate Dominum's website provide a free PDF version of Betrothal [^2].
-
-Similar to the Rite of Marriage, the specifics of the Rite of Betrothal have not always been legislated consistently, uniformly, and universally. Again similar to the Rite of Marriage, the Rite of Betrothal is an ancient and beautiful practice, which is still available to the faithful for their use today.
-
-The general structure is this: Betrothal takes places in a church, with a priest. Psalm 126 is chanted, followed by an allocution from the priest, a pledge between the couple, a reading from Tobias, a reading from the Gospel of John, and a final blessing.
 
 # The Rite of Betrothal
 
