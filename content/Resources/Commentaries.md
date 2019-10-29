@@ -281,7 +281,7 @@ transition: max-height .25s ease-in-out;
 }
 
 .toggle:checked + .lbl-toggle + .collapsible-content {
-max-height: 2000px;
+max-height: 2500px;
 }
 
 .toggle:checked + .lbl-toggle {
