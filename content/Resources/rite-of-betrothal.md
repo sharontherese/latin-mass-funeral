@@ -94,7 +94,9 @@ Lastly, the priest extends his hands over the heads of the couple and prays:
 
 ## Articles 
 
-Press, Angelus. “Rite Of Betrothal.” Angelus Press. Accessed August 8, 2019. https://angeluspress.org/products/rite-of-betrothal.
+Angelus Press. “Rite Of Betrothal.” Angelus Press. Accessed August 8, 2019. https://angeluspress.org/products/rite-of-betrothal.
+
+New Liturgical Movement. “**A Liturgical Rite of Betrothal**,” October 26, 2019. http://www.newliturgicalmovement.org/2019/10/a-liturgical-rite-of-betrothal.html#.Xbhzf0ZKi70.
 
 “Consider a Betrothal Ceremony: What It Is, Why It’s Significant + How to Plan One.” Spoken Bride. Accessed August 29, 2019. https://www.spokenbride.com/blog/2016/11/17/betrothal-ceremony.
 
