@@ -8,7 +8,8 @@ toggle = false
 
 # About
 
-Below are classic Biblical commentaries on the _propers_ of the wedding Mass.  
+Below are classic Biblical commentaries on the _propers_ of the wedding Mass. Because of their length, only a portion of the commentaries for the Epistle and the Gospel are included. 
+
 The two commentaries I pull from are Haydock [^1] and St. Thomas Aquinas' Catena Aurea [^2].
 For more commentaries, visit Sermonry [^3] and Psallam Domino [^4].
 
@@ -306,7 +307,13 @@ padding: .5rem 1rem;
 <div class="collapsible-content">
 <div class="content-inner">
 <p>
-Ver. 23. For the husband is the head of the wife. Though S. Paul here speaks of a man, who is a husband, we may rather translate man than husband, being the same sentence and same words as 1 Cor. xi. 3. where even the Prot. translation has, that the man is head of the woman. — He (Christ) is the saviour of his mystical body, the Church: though some expound it, that the husband is to save and take care of his wife, who is as it were his body. Wi. Ver. 24. As the church is subject to Christ. The Church then, according to S. Paul, is ever obedient to Christ: and can never fall from him, but remain faithful to him, unspotted and unchanged to the end of the world. Ch. Ver. 26. Cleansing it by the laver\[3\] of water, in the word of life. By this washing is generally understood the sacrament of baptism; and by the word of life, not the word of the gospel preached, but the words or form used in the administration of baptism, according to Christ’s institution: but this is not so certain. Wi. Ver. 27. Not having spot or wrinkle. S. Aug. and others expound it of the glorious Church of Christ, in heaven: others even of the Church of Christ in this world, as to its doctrine, sacraments, and discipline, or practices approved by the Catholic Church. Wi. Ver. 28-31. He that loveth his wife, loveth himself. S. Paul would have this a love like that which a man hath for himself, or for his own flesh, when they are now joined in wedlock, and are become as it were one flesh and one person, as to a civil life and society. See Mat. xix. 5. The wife is to be considered as a part of the husband, as a member of his body, of his flesh, and of his bones. The words are to be taken with an allusion to what Adam said, (Gen. ii. 23.) This is now bone of my bones, &c. And so, according to the apostle, speaking figuratively, the Church, which is the spouse of Christ, is framed as it were of his bones and of his flesh sacrificed on the cross. Wi. Ver. 32. This … sacrament, (or mystery) … in Christ, and in the Church. This sacrament, in construction, must be referred to what immediately went before, i.e. to the conjunction of marriage betwixt man and wife; and this is called a great sacrament, or mystery, as representing the union or spiritual nuptials of Christ with his spouse, the Church. Wi.
+Ver. 23. For the husband is the head of the wife. Though S. Paul here speaks of a man, who is a husband, we may rather translate man than husband, being the same sentence and same words as 1 Cor. xi. 3. where even the Prot. translation has, that the man is head of the woman. — He (Christ) is the saviour of his mystical body, the Church: though some expound it, that the husband is to save and take care of his wife, who is as it were his body. Wi. 
+  
+Ver. 24. As the church is subject to Christ. The Church then, according to S. Paul, is ever obedient to Christ: and can never fall from him, but remain faithful to him, unspotted and unchanged to the end of the world. Ch. 
+
+Ver. 26. Cleansing it by the laver\[3\] of water, in the word of life. By this washing is generally understood the sacrament of baptism; and by the word of life, not the word of the gospel preached, but the words or form used in the administration of baptism, according to Christ’s institution: but this is not so certain. Wi. 
+  
+Read commentaries for verses 27-32 in the links below!
 </p>
 </div>
 </div>
@@ -882,9 +889,7 @@ padding: .5rem 1rem;
 <p>
 Ver. 3. Is it lawful? Here again the Pharisees, ever anxious to ensnare Jesus in his words, come to him and ask him, is it lawful for a man to put away his wife for every cause? Thinking now they had to a certainty succeeded, they argue thus with themselves: shall he say that it is not lawful, we will accuse him of blasphemy, contradicting the Scriptures. For, it is written, Deut. iv. 1. If a man take a wife, and she find not favour in his eyes, for some uncleanness, he shall write a bill of divorce. And Malachy, ii. 16. When thou shalt hate her, put her away. — On the other hand, if he shall say it is lawful, we will accuse him of favouring the passions. But Jesus Christ, the wisdom of the eternal Father, silences them with the authority of that Scripture they attempted to bring against him. What God has joined together, let no man put asunder; intimating, that the connexion between husband and wife is so strict, that by it they become as one flesh, and can no more be separated than one member from another. Dion. Carth. — To put away his wife for every cause,\[1\] or upon every occasion. They did not doubt it, if the cause was considerable. Wi.
 
-Ver. 4. In the beginning. It is remarked by S. Jerome, S. Chrys. and Theophylactus, that the Almighty does not say of any of the animals which he created, as he does of man and woman, that he joined one male to one female; from which it appears, according to the reasoning of S. Augustine, that monogamy, as well as the indissolubility of marriage, was instituted from the beginning by the Almighty. T.
-
-Ver. 5. These words were pronounced by Adam. Gen. xi. 24. — And they two shall be in one flesh.\[2\] I translate thus with submission to better judges; yet the sense may be, by a kind of Hebraism, they shall be esteemed as one person. Wi.
+Read the commentaries from verses 4-5 at the links below!
 </p>
 </div>
 </div>
