@@ -22,7 +22,7 @@ Both the Rite of Marriage and the Wedding Mass have complex histories, which are
 
 <br>
 
-**16th century**: The Protestant Revolution challenges Jerome's translation (preferring _mysterium_ to _sacramentum_), and the notion that marriage is a sacrament. Instead, marriage is redefined as a contract, important to the common good, and therefore important to the common good. Protestant weddings now must take place within a church, and are primarily didactic experiences. Later in this century, the Catholic Church calls the Council of Trent to clarify dogma, doctrine, and practices. The Church prunes the excesses of past centuries. Thanks to widespread problems with secret marriages, and to growing confusion with Protestant teaching, Catholic marriages now are required to be witnessed by a priest.
+**16th century**: The Protestant Revolution challenges Jerome's translation (preferring _mysterium_ to _sacramentum_), and the notion that marriage is a sacrament. Instead, marriage is redefined as a contract, and therefore important to the common good. Protestant weddings now must take place within a church, and are primarily didactic experiences. Later in this century, the Catholic Church calls the Council of Trent to clarify dogma, doctrine, and practices. The Church prunes the excesses of past centuries. Thanks to widespread problems with secret marriages, and to growing confusion with Protestant teaching, Catholic marriages now are required to be witnessed by a priest.
 
 <br>
 
