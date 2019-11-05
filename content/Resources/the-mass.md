@@ -34,7 +34,7 @@ These are a scattershot collection of resources on and about the _Latin Mass_. T
 
 # More Latin Mass resources
 
-“**Traditional Catholicism 101: A Brief Primer.**” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/traditionalcatholicism.html](https://books.google.com/books?id=qdAoAAAAYAAJ "https://books.google.com/books?id=qdAoAAAAYAAJ").
+“**Traditional Catholicism 101: A Brief Primer.**” _Fish Eaters_ (blog). Accessed June 3, 2019. [https://www.fisheaters.com/traditionalcatholicism.html](https://www.fisheaters.com/traditionalcatholicism.html "https://www.fisheaters.com/traditionalcatholicism.html").
 
 braniac. “**How to Plan a Traditional Latin Mass Wedding.”** _Our Everyday Life_ (blog). Accessed June 3, 2019. [https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html](https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html "https://oureverydaylife.com/how-to-plan-a-traditional-latin-mass-wedding-12157102.html").
 
