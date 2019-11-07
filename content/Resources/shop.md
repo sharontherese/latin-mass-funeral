@@ -35,5 +35,5 @@ https://www.etsy.com/listing/738597527/nuptial-mass-wedding-reception-coloring
 
 Romanitas Press
 
-https://www.romanitaspress.com/ceremonial-notes.
+https://www.romanitaspress.com/ceremonial-notes
 
