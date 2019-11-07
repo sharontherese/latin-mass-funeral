@@ -46,6 +46,6 @@ Stice, Fr. Randy. “**An Introduction to the Sacrament of Matrimony and the Nup
 
 # Sources
 
-[^1]: Friel, David. “**Chant Notation—Nuptial Blessing (EF).**” Corpus Christi Watershed, September 8, 2019. http://www.ccwatershed.org/blog/2019/sep/8/chant-notation-nuptial-blessing-extraordinary-form/.
+[^1]: Friel, David. “**Chant Notation—Nuptial Blessing (EF)**.” Corpus Christi Watershed, September 8, 2019. http://www.ccwatershed.org/blog/2019/sep/8/chant-notation-nuptial-blessing-extraordinary-form/.
 
 
