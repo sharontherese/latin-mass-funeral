@@ -12,7 +12,7 @@ The nuptial blessing takes place shortly after the Our Father. It is an ancient 
 
 The blessing is for both the bride and the groom, but primarily for the bride. It is only given during the wedding Mass, and only given once in a lifetime.
 
-The Nuptial Blessing can be read, or chanted. [1]
+The Nuptial Blessing can be read, or chanted. [^1]
 
 # Text of the Nuptial Blessing
 
