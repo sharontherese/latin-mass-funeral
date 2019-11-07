@@ -38,7 +38,15 @@ Both the Rite of Marriage and the Wedding Mass have complex histories, which are
 
 <br>
 
-**1969-70**: A new Missal, with a new form of the Catholic Mass, is promulgated universally by the Second Vatican Council. A new rite of marriage is also promulgated.
+**1963**: During the Second Vatican Countil, the Constitution on the Sacred Liturgy calls for a revision of the _Rite of Marriage_.
+
+<br>
+
+**1969-70**: A new Missal, with a new form of the Catholic Mass, is promulgated universally by the Second Vatican Council. A new rite of marriage is also promulgated, with an English translation following that same year.
+
+<br>
+
+**1991**: A second edition of the revised _Rite of Marriage_ is promulgated.
 
 # Sources
 
