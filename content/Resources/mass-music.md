@@ -10,6 +10,10 @@ toggle = false
 
 The ideal music _setting_ for the Mass is _gregorian chant_, followed by _polyphony_. In a sung _Latin Mass_, or _high Mass_, what is sung are the _propers_ and _ordinaries_. Historically, hymns were discouraged in the Mass. Your Latin Mass wedding music will depend mostly on the musical resources available to your church.
 
+Sancta Missa provides a 4-page Q&A booklet on Nuptial Mass music: 
+
+Haynes, S.J.C., Reverend Scott A. “**Guidelines for Liturgical Services According to the 1962 Missale Romanum: Music for Nuptial High Mass**.” Biretta Books, 2007. https://sanctamissa.org/en/music/musical-guidelines-for-the-traditional-roman-rite/liturgical-services-music-for-the-nuptial-high-mass.pdf.
+
 Here is how our wedding Mass music looked:
 
 > **Prelude:**  
