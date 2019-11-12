@@ -53,7 +53,7 @@ The Latin for the 1962 and the 1964 are the same, so a Latin comparison is unnec
 
 * **1991**: A second edition of the revised _Rite of Marriage_ is promulgated (called the second typical edition). It is Latin-only; an English translation is delayed because of an ongoing, new translation of the Roman Missal. 
 
-* **2012-2013**: The International Committee for English in the Liturgy (ICEL), the group responsible for the authorized English translations of Catholic liturgy and rituals, creates several drafts of a new English translation of the second typical edition of the _Rite of Marriage_. 
+* **2012-2013**: The International Commission on English in the Liturgy (ICEL), the group responsible for the authorized English translations of Catholic liturgy and rituals, creates several drafts of a new English translation of the second typical edition of the _Rite of Marriage_. 
 
 * **2016**: The ICEL publishes a new English translation of the second typical edition of the _Rite of Marriage_.
 
