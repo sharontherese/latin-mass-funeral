@@ -50,7 +50,7 @@ Both the Rite of Marriage and the Wedding Mass have complex histories, which are
 
 # Comparisons of the Roman Rite of Marriage 
 
-[Compare: 1962 v 1969 Rites of Marriage (English)] (https://github.com/sharontherese/latin-mass-wedding/blob/master/content/Resources/Compare_%201962%20v%201969%20Rites%20of%20Marriage%20(English).pdf)
+[Compare: 1962 v 1969 Rites of Marriage (English)] (https://github.com/sharontherese/latin-mass-wedding/raw/master/content/Resources/Compare_%201962%20v%201969%20Rites%20of%20Marriage%20(English).pdf)
 
 # Sources
 
