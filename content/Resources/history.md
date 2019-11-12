@@ -38,7 +38,7 @@ The ritual changes from 1962 to 1969 are significant, and constitute a near-tota
 * {{% staticref "files/Compare_ 1962 v 1969 Rites of Marriage (Latin).pdf" %}}Latin: Compare the 1962 vs. 1969 Rites of Marriage (PDF){{% /staticref %}}
 * {{% staticref "files/Compare with notes_ 1962 v 1969 Rites of Marriage (Latin).pdf" %}}Latin: Compare the 1962 vs. 1969 Rites of Marriage **with differences highlighted** (PDF){{% /staticref %}}
 * {{% staticref "files/Compare_ 1962 v 1969 Rites of Marriage (English).pdf" %}}English: Compare the 1962 vs. 1969 Rites of Marriage  (PDF){{% /staticref %}}
-* {{% staticref "files/Compare with notes_ 1962 vs 1969 Rites of Marriage (English).pdf" %}}English: Compare the 1962 vs. 1969 Rites of Marriage **with differences highlighted** (PDF){{% /staticref %}}
+* {{% staticref "files/Compare with notes_ 1962 v 1969 Rites of Marriage (English).pdf" %}}English: Compare the 1962 vs. 1969 Rites of Marriage **with differences highlighted** (PDF){{% /staticref %}}
 
 # Brief timeline
 
