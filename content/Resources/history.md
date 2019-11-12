@@ -10,15 +10,17 @@ Manuscript Leaf with Marriage Scene, from Decretals of Gregory IX,ca. 1300
 
 # About
 
-Both the Rite of Marriage and the Wedding Mass have complex histories, which are well worth exploring. Below is an extremely brief list of highlights in the history of weddings within the Catholic Church.
+Both the Rite of Marriage and the Wedding Mass have complex histories, which are well worth exploring. I am including a collection of comparisons on the Roman Rites of Marriage, and a brief timeline on the subject. 
 
-# Brief history
+# Ritual Comparisons 
 
-**4th century**: In his _Vulgate_, St. Jerome translates the Greek _mysterion_ into the Latin _sacramentum_, thus affirming Marriage as one of the seven Sacraments of the Catholic Church [^1] [^2]. Paulinus, bishop of Nola, provides us with the earliest documented instance of a Catholic wedding Mass in the West. Notably, there is no exchange of rings or vows (which scholars suggest likely took place earlier, in the home), and no celebration of the Eucharist. [^3]
 
-<br>
 
-**High Middle Ages**: The Middle Ages produces the greatest flowering of artistic and musical beauty within the Mass, leading to (among other things) enormous local and regional differences in celebrations of the Mass, and Masses overflowing, perhaps overburdened, with artistic zeal. Throughout this time, marriages are mostly private affairs, generally not requiring witnesses - consent of the two parties was valued above all else. Weddings usually did not take place in a Mass, or even in a church. This could reflect the Church's love of the local, despite her desire for universality.
+# Brief timeline
+
+* **4th century**: In his _Vulgate_, St. Jerome translates the Greek _mysterion_ into the Latin _sacramentum_, thus affirming Marriage as one of the seven Sacraments of the Catholic Church [^1] [^2]. Paulinus, bishop of Nola, provides us with the earliest documented instance of a Catholic wedding Mass in the West. Notably, there is no exchange of rings or vows (which scholars suggest likely took place earlier, in the home), and no celebration of the Eucharist. [^3]
+
+* **High Middle Ages**: The Middle Ages produces the greatest flowering of artistic and musical beauty within the Mass, leading to (among other things) enormous local and regional differences in celebrations of the Mass, and Masses overflowing, perhaps overburdened, with artistic zeal. Throughout this time, marriages are mostly private affairs, generally not requiring witnesses - consent of the two parties was valued above all else. Weddings usually did not take place in a Mass, or even in a church. This could reflect the Church's love of the local, despite her desire for universality.
 
 <br>
 
