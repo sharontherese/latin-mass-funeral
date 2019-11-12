@@ -12,7 +12,24 @@ Manuscript Leaf with Marriage Scene, from Decretals of Gregory IX,ca. 1300
 
 Both the Rite of Marriage and the Wedding Mass have complex histories, which are well worth exploring. I am including a collection of comparisons on the Roman Rites of Marriage, and a brief timeline on the subject. 
 
+None of this information is comprehensive, and I welcome suggestions or corrections. 
+
 # Ritual Comparisons 
+
+The earliest definitive text for the _Rite of Marriage_ is the _Rituale_ promulgated after the Council of Trent in 1615. The 1615 _Rite of Marriage_ is identical to the 1962 Rite. Using the 1615/1962 Rite as my starting point, I will compare it with the 1964, 1969-1970, 1991, and 2016. 
+
+For simplicity's sake, I keep the same sections for every comparison; that is, even though 1969 and later editions add addresses, prayers, etc., I group all ritual content either under _Exchange of Consent_ and _Blessing and Exchange of Rings_. 
+
+In several instances, I have made minor formatting changes (such as adjusting line breaks) in order to make reading and comparing the texts easier. None of the formatting changes affects the content of the rites.
+
+When relevant, I include separate comparisons for English and Latin, and with and without the differences highlighted. A green highlight is a notable addition to the text, and a red highlight is a notable alteration or deletion of the text.
+
+## 1964 
+
+The Latin for the 1962 and the 1964 are the same, so a Latin comparison is unnecessary. There are two notable differences: 1964 adds a double ring exchange (1962 has only the husband giving the wife a ring), and a series of English-only prayers at the end of the Rite. These prayers were not kept in any subsequent translation, revision, or addition. 
+
+* {{% staticref "files/static/files/Compare_ 1962 vs 1964 Rites of Marriage (English).pdf" %}}Compare the 1962 vs. 1964 Rites of Marriage (English){{% /staticref %}}
+* {{% staticref "files/Compare with notes_ 1962 vs 1964 Rites of Marriage (English).pdf"Compare the 1962 vs. 1964 Rites of Marriage (English) **with differences highlighted**{{% /staticref %}}
 
 
 
@@ -34,16 +51,11 @@ Both the Rite of Marriage and the Wedding Mass have complex histories, which are
 
 * **1969-1970**: A new Missal, with a new form of the Catholic Mass, is promulgated universally by the Second Vatican Council. A new rite of marriage is also promulgated (called the first typical edition), with an English translation following.
 
-* **1991**: A second edition of the revised _Rite of Marriage_ is promulgated (called the second typical edition). An English translation is delayed because of an ongoing, new translation of the Roman Missal. 
+* **1991**: A second edition of the revised _Rite of Marriage_ is promulgated (called the second typical edition). It is Latin-only; an English translation is delayed because of an ongoing, new translation of the Roman Missal. 
 
 * **2012-2013**: The International Committee for English in the Liturgy (ICEL), the group responsible for the authorized English translations of Catholic liturgy and rituals, creates several drafts of a new English translation of the second typical edition of the _Rite of Marriage_. 
 
 * **2016**: The ICEL publishes a new English translation of the second typical edition of the _Rite of Marriage_.
-
-# Test 
-
-test 
-{{% staticref "files/Compare_ 1962 vs 1964 Rites of Marriage (English).pdf" %}}Compare the 1962 vs 1964 Rites of Marriage (English){{% /staticref %}}
 
 # Sources
 
