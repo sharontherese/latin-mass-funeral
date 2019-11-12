@@ -48,6 +48,11 @@ Both the Rite of Marriage and the Wedding Mass have complex histories, which are
 
 **1991**: A second edition of the revised _Rite of Marriage_ is promulgated.
 
+# Test 
+
+test 
+{{% staticref "files/Compare_ 1962 vs 1964 Rites of Marriage (English).pdf" %}}Compare the 1962 vs 1964 Rites of Marriage (English){{% /staticref %}}
+
 # Sources
 
 [^1]: Catholic Church. “**The Church in God’s Plan**.” _Catechism of the Catholic Church_, 1993, #774, [http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm](http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm "http://www.vatican.va/archive/ccc_css/archive/catechism/p123a9p1.htm").
