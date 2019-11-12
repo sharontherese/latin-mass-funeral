@@ -28,8 +28,10 @@ When relevant, I include separate comparisons for English and Latin, and with an
 
 The Latin for the 1962 and the 1964 are the same, so a Latin comparison is unnecessary. There are two notable differences: 1964 adds a double ring exchange (1962 has only the husband giving the wife a ring), and a series of English-only prayers at the end of the Rite. These prayers were not kept in any subsequent translation, revision, or addition. 
 
-* {{% staticref "files/static/files/Compare_ 1962 vs 1964 Rites of Marriage (English).pdf" %}}Compare the 1962 vs. 1964 Rites of Marriage (English){{% /staticref %}}
+* {{% staticref "files/Compare_ 1962 vs 1964 Rites of Marriage (English).pdf{{% /staticref %}}Compare the 1962 vs. 1964 Rites of Marriage (English){{% /staticref %}}
 * {{% staticref "files/Compare with notes_ 1962 vs 1964 Rites of Marriage (English).pdf" %}}Compare the 1962 vs. 1964 Rites of Marriage (English) **with differences highlighted**{{% /staticref %}}
+
+## 1969-1970
 
 
 
