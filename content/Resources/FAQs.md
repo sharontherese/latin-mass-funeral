@@ -22,7 +22,7 @@ Lots! The big things that are different are the language, and the order of event
 
 In Catholic weddings in the _Novus Ordo_ Mass, the actual wedding - the _Rite of Marriage_ - happens in the middle of the mass. In the _Latin Mass_, the Rite of Marriage happens at the beginning, and is followed by the mass, uninterrupted.
 
-To compare the Latin Mass wedding with the Novus Ordo wedding, visit http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/.
+The blog TraditionalCatholicPriest offers a comparison of the Latin Mass wedding with the Novus Ordo wedding. [^2] 
 
 For more information on details about what makes the Latin Mass distinct, visit the [Latin Mass] (https://www.latinmasswedding.com/resources/the-mass/) page.
 
@@ -32,7 +32,7 @@ Not much, really. The _propers_ for the wedding Mass (texts of the Mass that cha
 
 Low Mass = nothing is sung; 1 priest  
 High Mass = sung; 1 priest  
-Solemn High Mass = sung; 3 priests (priest, deacon, and subdeacon) [^2]
+Solemn High Mass = sung; 3 priests (priest, deacon, and subdeacon) [^3]
 
 Be aware of the liturgical season when choosing your Mass. Traditionally penitential times, or “closed times” (_tempus clausum_) like Advent, Lent, and the Vigil of Pentecost, discourage weddings, especially sung Masses. Again, this will vary, as resources and general catechesis varies by diocese. Dispensations can be requested for particular dates. However, one should make an effort not to schedule such a festive occasion like a wedding in a penitential time like Lent.
 
@@ -54,12 +54,14 @@ Visit the [Glossary](https://www.latinmasswedding.com/resources/glossary/) page!
 
 Explore the pages under the Resources menu. There is introductory information on the [Latin Mass](https://www.latinmasswedding.com/resources/the-mass), things to include in your [wedding program](https://www.latinmasswedding.com/resources/mass-programs) (including my own), and more. You are free to reuse my wedding program content or template!
 
-Biretta Books offers a Latin-English booklet for Latin Mass weddings [^3]. For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.
+Biretta Books offers a Latin-English booklet for Latin Mass weddings [^4]. For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.
 
 # Sources
 
-[^1]: Sullivan, Roseanne T. “**Propers of the Mass vs. the Four Hymn Sandwich.**” _Homiletic and Pastoral Review_, 2016 [https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html](https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html "https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html").
+[^1]: Sullivan, Roseanne T. “**Propers of the Mass vs. the Four Hymn Sandwich.**” _Homiletic and Pastoral Review_, 2016. https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html.
 
-[^2]: Regina Caeli Parish. **_Low Mass, Sung Mass, High Mass, Solemn Mass_**. 12 June 2013, [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
+[^2] Carota, Father. “**Traditional Catholic Wedding Ceremony vs New Wedding Ceremony**.” Traditional Catholic Priest (blog), September 4, 2014. http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/.
 
-[^3]: Biretta Books. **_Latin-English Booklet Missal for Nuptial Mass_**_: Biretta Books_. [https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/](https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/ "https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/"). Accessed 3 June 2019.
+[^3]: Regina Caeli Parish. **_Low Mass, Sung Mass, High Mass, Solemn Mass_**. 12 June 2013, https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf.
+
+[^4]: Biretta Books. **_Latin-English Booklet Missal for Nuptial Mass_**_: Biretta Books_. https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/. Accessed 3 June 2019.
