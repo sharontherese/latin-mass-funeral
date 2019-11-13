@@ -56,6 +56,14 @@ Explore the pages under the Resources menu. There is introductory information on
 
 Biretta Books offers a Latin-English booklet for Latin Mass weddings [^4]. For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.
 
+# Where do I start if I want to learn about the history of all of this stuff? 
+
+Firstly, you're a crazy person. Secondly, try the [History](https://www.latinmasswedding.com/resources/history/) page. Thirdly, here's my "starter pack" of books to read about Catholic marriage - both the Rite and the Mass. 
+
+Fish Eaters. “**Holy Matrimony**.” Accessed June 3, 2019. https://www.fisheaters.com/holymatrimony.html.
+Searle, M., and K.W. Stevenson. **Documents of the Marriage Liturgy**. Pueblo Books. Liturgical Press, 1992. 
+Witte, J. **From Sacrament to Contract: Marriage, Religion, and Law in the Western Tradition**. Westminster John Knox Press, 2012.
+
 # Sources
 
 [^1]: Sullivan, Roseanne T. “**Propers of the Mass vs. the Four Hymn Sandwich.**” _Homiletic and Pastoral Review_, 2016. https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html.
