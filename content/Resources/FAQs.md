@@ -12,9 +12,9 @@ Sancta Missa also has a Latin Mass wedding Q&A ["here."] (https://sanctamissa.or
 
 Great! The most important thing you’ll need is a priest familiar with the TLM wedding, or willing to learn it. Contact said priest, and the church in which you intend to marry. Availability of priests who can say the TLM (and receptivity to saying it at all) will vary by diocese. Contact the church music director as well. Start a conversation about music for your mass, as you will not (or at least, should not) be following the “4 hymn sandwich.” [^1]
 
-Check out Catholic websites like [New Liturgical Movement](http://www.newliturgicalmovement.org/), [Musica Sacra](https://musicasacra.com/), or [Fr. Z](http://wdtprs.com/blog/), to find answers to more specific questions on Latin Masses and Catholic weddings. 
-
 If you are brand new to Latin Masses, browse online Latin Mass directories to see the churches in your area that may offer Latin Masses: [Latin Mass Directory](https://www.latinmassdir.org/), [Traditional Mass Directory](http://www.ecclesiadei.org/masses.cfm), and [Latin Mass Times](http://www.latinmasstimes.com/) all offer such information. 
+
+Check out Catholic websites like [New Liturgical Movement](http://www.newliturgicalmovement.org/), [Musica Sacra](https://musicasacra.com/), or [Fr. Z](http://wdtprs.com/blog/), to find answers to more specific questions on Latin Masses and Catholic weddings. 
 
 # What’s different with a Latin Mass wedding?
 
