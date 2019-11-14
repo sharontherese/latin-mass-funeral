@@ -6,7 +6,7 @@ toggle = false
 +++
 ![](/uploads/_MG_0677-min-1.JPG)
 
-Sancta Missa also has a Latin Mass wedding Q&A ["here."] (https://sanctamissa.org/en/music/musical-guidelines-for-the-traditional-roman-rite/liturgical-services-music-for-the-nuptial-high-mass.pdf)
+Sancta Missa also has a Latin Mass wedding Q&A [here.] (https://sanctamissa.org/en/music/musical-guidelines-for-the-traditional-roman-rite/liturgical-services-music-for-the-nuptial-high-mass.pdf)
 
 # I want a TLM wedding! What do I do?
 
@@ -52,23 +52,25 @@ Visit the [Glossary](https://www.latinmasswedding.com/resources/glossary/) page!
 
 # How can I help my wedding guests understand what's happening?
 
-Explore the pages under the Resources menu. There is introductory information on the [Latin Mass](https://www.latinmasswedding.com/resources/the-mass), things to include in your [wedding program](https://www.latinmasswedding.com/resources/mass-programs) (including my own), and more. You are free to reuse my wedding program content or template!
+Explore the pages under the Resources menu. There is introductory information on the [Latin Mass](https://www.latinmasswedding.com/resources/the-mass), things to include in your [wedding program](https://www.latinmasswedding.com/resources/mass-programs), and more. You are free to reuse my wedding program content or template!
 
 Biretta Books offers a Latin-English booklet for Latin Mass weddings [^4]. For those familiar with the red Latin Mass booklets - it is the exact same book, but with additional texts for the Rite of Marriage.
 
-# Where do I start if I want to learn about the history of all of this stuff? 
+# What if I want to learn more about the history of all of this? 
 
-Firstly, you're a crazy person. Secondly, try the [History](https://www.latinmasswedding.com/resources/history/) page. Thirdly, here's my "starter pack" of books to read about Catholic marriage - both the Rite and the Mass. 
+Firstly, you're a crazy person. Secondly, try the [History](https://www.latinmasswedding.com/resources/history/) page. Thirdly, here's my "starter pack" on the history of Catholic marriage - both the Rite and the Mass. 
 
 Fish Eaters. “**Holy Matrimony**.” Accessed June 3, 2019. https://www.fisheaters.com/holymatrimony.html.
+
 Searle, M., and K.W. Stevenson. **Documents of the Marriage Liturgy**. Pueblo Books. Liturgical Press, 1992. 
+
 Witte, J. **From Sacrament to Contract: Marriage, Religion, and Law in the Western Tradition**. Westminster John Knox Press, 2012.
 
 # Sources
 
 [^1]: Sullivan, Roseanne T. “**Propers of the Mass vs. the Four Hymn Sandwich.**” _Homiletic and Pastoral Review_, 2016. https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html.
 
-[^2] Carota, Father. “**Traditional Catholic Wedding Ceremony vs New Wedding Ceremony**.” Traditional Catholic Priest (blog), September 4, 2014. http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/.
+[^2]: Carota, Father. “**Traditional Catholic Wedding Ceremony vs New Wedding Ceremony**.” Traditional Catholic Priest (blog), September 4, 2014. http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/.
 
 [^3]: Regina Caeli Parish. **_Low Mass, Sung Mass, High Mass, Solemn Mass_**. 12 June 2013, https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf.
 
