@@ -16,7 +16,7 @@ None of this information is comprehensive, and I welcome suggestions or correcti
 
 # Ritual Comparisons 
 
-The earliest definitive text for the _Rite of Marriage_ is the _Rituale_ promulgated after the Council of Trent in 1615. The 1615 _Rite of Marriage_ is identical to the 1962 Rite. Using the 1615/1962 Rite as my starting point, I will compare it with the 1964, 1969-1970, 1991, and 2016. 
+The earliest definitive text for the _Rite of Marriage_ is the _Rituale_ promulgated after the Council of Trent in 1615. The 1615 _Rite of Marriage_ is identical to the 1962 Rite. Using the 1962 Rite as a starting point, let us compare it with the 1964, 1969, 1991, and 2016. 
 
 For simplicity's sake, I keep the same sections for every comparison; that is, even though 1969 and later editions add addresses, prayers, etc., I group all ritual content either under _Exchange of Consent_ and _Blessing and Exchange of Rings_. 
 
@@ -31,9 +31,9 @@ The Latin for the 1962 and the 1964 are the same, so a Latin comparison is unnec
 * {{% staticref "files/Compare_ 1962 vs 1964 Rites of Marriage (English).pdf" %}}English: Compare the 1962 vs. 1964 Rites of Marriage  (PDF){{% /staticref %}}
 * {{% staticref "files/Compare with notes_ 1962 vs 1964 Rites of Marriage (English).pdf" %}}English: Compare the 1962 vs. 1964 Rites of Marriage **with differences highlighted** (PDF){{% /staticref %}}
 
-## 1969-1970
+## 1969
 
-These years saw the publication of the first typical edition of the Rite of Marriage. The ritual changes from 1962 to 1969 are significant, and constitute a near-total revision of the Latin and the English. There are three notable similarities: the exchange of vows (one phrase from the 1962 formula is preserved as part of one of four options), the priest's blessing of the rings (partially preserved, with a new translation, as one of several options, with the emphasis on both parties rather than only the bride), and the exchange of rings (partially preserved, with a new translation).
+1969 saw the publication of the first typical edition of the Rite of Marriage, and the English translation came the following year. The ritual changes from 1962 to 1969 are significant, and constitute a near-total revision of both the Latin and the English. There are three notable similarities: the exchange of vows (one phrase from the 1962 formula is preserved as part of one of four options), the priest's blessing of the rings (partially preserved, with a new translation, as one of several options, with the emphasis on both parties rather than only the bride), and the exchange of rings (partially preserved, with a new translation).
 
 * {{% staticref "files/Compare_ 1962 v 1969 Rites of Marriage (Latin).pdf" %}}Latin: Compare the 1962 vs. 1969 Rites of Marriage (PDF){{% /staticref %}}
 * {{% staticref "files/Compare with notes_ 1962 v 1969 Rites of Marriage (Latin).pdf" %}}Latin: Compare the 1962 vs. 1969 Rites of Marriage **with differences highlighted** (PDF){{% /staticref %}}
