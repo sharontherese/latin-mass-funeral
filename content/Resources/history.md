@@ -33,12 +33,25 @@ The Latin for the 1962 and the 1964 are the same, so a Latin comparison is unnec
 
 ## 1969-1970
 
-The ritual changes from 1962 to 1969 are significant, and constitute a near-total revision of the Latin and the English. There are three notable similarities: the exchange of vows (one phrase from the 1962 formula is preserved as part of one of four options), the priest's blessing of the rings (partially preserved, with a new translation, as one of several options, with the emphasis on both parties rather than only the bride), and the exchange of rings (partially preserved, with a new translation).
+These years saw the publication of the first typical edition of the Rite of Marriage. The ritual changes from 1962 to 1969 are significant, and constitute a near-total revision of the Latin and the English. There are three notable similarities: the exchange of vows (one phrase from the 1962 formula is preserved as part of one of four options), the priest's blessing of the rings (partially preserved, with a new translation, as one of several options, with the emphasis on both parties rather than only the bride), and the exchange of rings (partially preserved, with a new translation).
 
 * {{% staticref "files/Compare_ 1962 v 1969 Rites of Marriage (Latin).pdf" %}}Latin: Compare the 1962 vs. 1969 Rites of Marriage (PDF){{% /staticref %}}
 * {{% staticref "files/Compare with notes_ 1962 v 1969 Rites of Marriage (Latin).pdf" %}}Latin: Compare the 1962 vs. 1969 Rites of Marriage **with differences highlighted** (PDF){{% /staticref %}}
 * {{% staticref "files/Compare_ 1962 v 1969 Rites of Marriage (English).pdf" %}}English: Compare the 1962 vs. 1969 Rites of Marriage  (PDF){{% /staticref %}}
 * {{% staticref "files/Compare with notes_ 1962 v 1969 Rites of Marriage (English).pdf" %}}English: Compare the 1962 vs. 1969 Rites of Marriage **with differences highlighted** (PDF){{% /staticref %}}
+
+## 1991 
+
+1991 saw the publication of the second typical edition - that is, a second Latin edition. An English translation was delayed until the 2010s. 
+
+(PDFs coming soon!) 
+
+## 2016 
+
+In 2016, the ICEL's English translation of the second typical edition (of 1991) was finally approved and mandated. 
+
+(PDFs coming soon!) 
+
 
 # Brief timeline
 
