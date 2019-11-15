@@ -42,7 +42,7 @@ Wives, be subject to your husbands, as to the Lord.  For the husband is the head
 
 ## Gradual
 
-Psalm 127:3
+Psalm 127:3 (RSV-CE 128)
 
 Uxor tua sicut vitis abundans in lateribus domus tuae. V. Filii tui sicut novellae olivarum in circuitu mensae tuae. Alleluia, alleluia.
 
@@ -50,7 +50,7 @@ Thy wife shall be as a fruitful vine on the sides of thy house. V. Thy children 
 
 ## Tract 
 
-Psalm 127:4-6
+Psalm 127:4-6 (RSV-CE 128)
 
 Ecce, sit benedicetur omnis homo, qui timet Dominum. V. Benedicat tibi Dominus ex Sion: et videas bona Jerusalem omnibus diebus vitae tuae. V. Et videas filios filiorum tuorum: pax super Israel.
 
@@ -58,7 +58,7 @@ Behold thus shall the man be blessed that feareth the Lord. May the Lord bless t
 
 ## Lesser Alleluia
 
-Psalms 19:3
+Psalms 19:3 (RSV-CE 20)
 
 Alleluia, alleluia. V. Mittat vobis Dominus auxilium de sancto: et de Sion tueatur vos. Alleluia.
 
@@ -66,7 +66,7 @@ Alleluia, alleluia. V. May the Lord send you help from the sanctuary, and defend
 
 ## Greater Alleluia
 
-Psalms 19:3; 133:3
+Psalms 19:3; 133:3 (RSV-CE 20; 134)
 
 Alleluia, alleluia. V. Mittat vobis Dominus auxilium de sancto: et de Sion tueatur vos. Alleluia. V. Benedicat vobis Dominus ex Sion: qui fecit coelum et terram. Alleluia.
 
@@ -82,7 +82,7 @@ There should be no Gloria or Credo for the TLM wedding. The homily also happens 
 
 ## Offertory
 
-Psalms 30:15-16
+Psalms 30:15-16 (RSV-CE 31)
 
 In te speravi, Domine: dixi: Tu es Deus meus: in manibus tuis tempora mea.
 
@@ -106,7 +106,7 @@ R. Amen.
 
 ## Communion
 
-Psalms 127:4, 6
+Psalms 127:4, 6 (RSV-CE 128)
 
 Ecce sic benedicetur omnis homo, qui timet Dominum: et videas filios filiorum tuorum: pax super Israel.
 
