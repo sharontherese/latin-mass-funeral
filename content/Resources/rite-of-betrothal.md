@@ -12,7 +12,7 @@ Manuscript: [Miniature of the betrothal of Louis the Pious, his marriage, and hi
 
 Betrothal, or betrothment, is a beautiful, ancient practice for those planning to marry in the Church. It is more solemn than an engagement, although the two may be seen as synonymous. Betrothal is, "a mutual promise of future marriage, or a contract by which a man and a woman engage themselves to marry." [^1]
 
-The general structure is this: the Rite of Betrothal takes places in a church, with a priest. Psalm 126 (127) is chanted (a psalm used for the Gradual, Tract, and Communion propers of the wedding Mass), followed by an allocution from the priest, a pledge between the couple, a reading from Tobias, a reading from the Gospel of John, and a final blessing.
+The general structure is this: the Rite of Betrothal takes places in a church, with a priest. Psalm 126 (RSV-CE 127) is chanted, followed by an allocution from the priest, a pledge between the couple, a reading from Tobias, a reading from the Gospel of John, and a final blessing.
 
 Similar to the Rite of Marriage, the specifics of the Rite of Betrothal have not always been legislated consistently, but both are to be encouraged and are still available to the faithful for their use today.
 
@@ -22,7 +22,7 @@ Laudate Dominum's website provides a free PDF version of Betrothal [^2].
 
 # The Rite of Betrothal
 
-## Psalm 126 (127)
+## Psalm 126 (RSV-CE 127)
 
 > Priest: Unless the house be of the Lord’s building, in vain do the builders labor.
 >
