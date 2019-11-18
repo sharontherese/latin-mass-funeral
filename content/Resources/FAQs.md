@@ -72,6 +72,6 @@ Witte, J. **From Sacrament to Contract: Marriage, Religion, and Law in the Weste
 
 [^2]: Carota, Father. “**Traditional Catholic Wedding Ceremony vs New Wedding Ceremony**.” Traditional Catholic Priest (blog), September 4, 2014. http://www.traditionalcatholicpriest.com/2014/09/04/traditional-catholic-wedding-ceremony-vs-new-wedding-ceremony/.
 
-[^3]: Regina Caeli Parish. **_Low Mass, Sung Mass, High Mass, Solemn Mass_**. 12 June 2013, https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf.
+[^3]: Regina Caeli Parish. **_Low Mass, Sung Mass, High Mass, Solemn Mass_**. 12 June 2013, https://d2y1pz2y630308.cloudfront.net/2708/documents/Different%20Masses.pdf.
 
 [^4]: Biretta Books. **_Latin-English Booklet Missal for Nuptial Mass_**_: Biretta Books_. https://www.birettabooks.com/for-the-faithful/latin-english-booklet-missal-for-nuptial-mass/. Accessed 3 June 2019.
