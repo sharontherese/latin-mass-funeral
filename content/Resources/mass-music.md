@@ -118,18 +118,20 @@ If ye love me, Tallis
 <br>
 # Sources about Sacred Music 
 
-Pope Pius X. “**Tra Le Sollecitudini (Instruction on Sacred Music),**” 1903. [https://adoremus.org/1903/11/22/tra-le-sollecitudini/](https://adoremus.org/1903/11/22/tra-le-sollecitudini/ "https://adoremus.org/1903/11/22/tra-le-sollecitudini/").
+Pope Pius X. “**Tra Le Sollecitudini (Instruction on Sacred Music),**” 1903. https://adoremus.org/1903/11/22/tra-le-sollecitudini/
 
-Regina Caeli Parish. **_Low Mass, Sung Mass, High Mass, Solemn Mass_**_._ June 12, 2013. [https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf](https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf "https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf").
+Regina Caeli Parish. **_Low Mass, Sung Mass, High Mass, Solemn Mass_**_._ June 12, 2013. https://d2wldr9tsuuj1b.cloudfront.net/2708/documents/Different%20Masses.pdf
 
-Henry, Hugh. “**Music of the Mass.**” In _The Catholic Encyclopedia_. Vol. 10. New York: Robert Appleton Company, 1911. [http://www.newadvent.org/cathen/10001a.htm](http://www.newadvent.org/cathen/10001a.htm "http://www.newadvent.org/cathen/10001a.htm").
+Henry, Hugh. “**Music of the Mass.**” In _The Catholic Encyclopedia_. Vol. 10. New York: Robert Appleton Company, 1911. http://www.newadvent.org/cathen/10001a.htm
 
-Gastoue, A. “**The ‘Missa de Angelis.’**” Translated by Albert Gingras. _The Caecilia_, December 1933, 375–78. [https://media.musicasacra.com/publications/caecilia/caecilia_v60n12_1933_12.pdf](https://media.musicasacra.com/publications/caecilia/caecilia_v60n12_1933_12.pdf "https://media.musicasacra.com/publications/caecilia/caecilia_v60n12_1933_12.pdf")
+Gastoue, A. “**The ‘Missa de Angelis.’**” Translated by Albert Gingras. _The Caecilia_, December 1933, 375–78. [https://media.musicasacra.com/publications/caecilia/caecilia_v60n12_1933_12.pdf
 
-Sullivan, Roseanne T. “**Propers of the Mass vs. the Four Hymn Sandwich.**” _Homiletic and Pastoral Review_, 2016. [https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html](https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html "https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html").
+Mills, B. Andrew. **Psallite Sapienter: A Musician’s Practical Guide to the 1962 Missal**. Association of America, 2008.
 
-“**Twenty-Four Questions on Sacred Music.**” Church Music Association of America. Accessed June 3, 2019. [https://musicasacra.com/about-cmaa/faq/](https://musicasacra.com/about-cmaa/faq/ "https://musicasacra.com/about-cmaa/faq/").
+Sullivan, Roseanne T. “**Propers of the Mass vs. the Four Hymn Sandwich.**” _Homiletic and Pastoral Review_, 2016. https://www.catholiceducation.org/en/culture/music/propers-of-the-mass-vs-the-four-hymn-sandwich.html
 
-“**What Is Gregorian Chant?**” GIA Publications. Accessed June 3, 2019. [https://www.giamusic.com/sacred_music/chant_what_is.cfm](https://www.giamusic.com/sacred_music/chant_what_is.cfm "https://www.giamusic.com/sacred_music/chant_what_is.cfm").
+“**Twenty-Four Questions on Sacred Music.**” Church Music Association of America. Accessed June 3, 2019. https://musicasacra.com/about-cmaa/faq
 
-Gattozzi, Bibiana. “**Catholic Artistic Piety in a Motet.**” _The Angelus Online_ (blog). Accessed June 3, 2019. [http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667](http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667 "http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667").
+“**What Is Gregorian Chant?**” GIA Publications. Accessed June 3, 2019. https://www.giamusic.com/sacred_music/chant_what_is.cfm
+
+Gattozzi, Bibiana. “**Catholic Artistic Piety in a Motet.**” _The Angelus Online_ (blog). Accessed June 3, 2019. http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667
