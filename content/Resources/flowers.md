@@ -25,7 +25,7 @@ Flowers around the church may be fresh and cut, artificial, or potted. The flowe
 
 In all matters, but particularly for this point, consult the rules and expectations of the church where you intend to marry. 
 
-# Flower Histories
+# Flower histories
 
 Foley, Daniel J. “**Medieval Mary Garden**.” _University of Dayton_, 1953, [https://udayton.edu/imri/mary/m/medieval-mary-garden.php](https://udayton.edu/imri/mary/m/medieval-mary-garden.php "https://udayton.edu/imri/mary/m/medieval-mary-garden.php").
 
@@ -34,6 +34,8 @@ Wells, D., and I. Patterson. **_100 Flowers and How They Got Their Names_**. Alg
 "**Mary Gardens: Flowers for Our Lady.**" _Fish Eaters_. Accessed 29 July 2019. [https://www.fisheaters.com/marygardens.html](https://www.fisheaters.com/marygardens.html "https://www.fisheaters.com/marygardens.html")
 
 Gemminger, Louis. **Flowers of Mary**, 1858. https://www.forgottenbooks.com/en/books/FlowersofMary_10789006.
+
+# My bouquet
 
 ![](/uploads/_MG_0325-min.JPG)
 
