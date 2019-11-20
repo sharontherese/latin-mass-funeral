@@ -9,7 +9,7 @@ toggle = false
 
 # About
 
-In addition to having their own rubrics, flower have rich traditions in Catholicism, history, art, amd music! Below are relevant rubrics (also on the Rubrics page), and some notes from my own floral research. 
+In addition to having their own rubrics, flower have rich traditions in Catholicism, history, art, amd music! Below are relevant rubrics (also on the [Rubrics](https://www.latinmasswedding.com/resources/rubrics-for-the-wedding-mass/) page), and some notes from my own floral research. 
 
 # Rubrics 
 
@@ -29,7 +29,7 @@ In all matters, but particularly for this point, consult the rules and expectati
 
 **Fleurs de Marie-Jacqueline: Catholic Church flower lore, film reviews, and more**. (Blog). Accessed November 20, 2019. http://the-pious-spinster.blogspot.com/.
 
-Foley, Daniel J. “**Medieval Mary Garden**.” _University of Dayton_, 1953, [https://udayton.edu/imri/mary/m/medieval-mary-garden.php](https://udayton.edu/imri/mary/m/medieval-mary-garden.php "https://udayton.edu/imri/mary/m/medieval-mary-garden.php").
+Foley, Daniel J. “**Medieval Mary Garden**.” _University of Dayton_, 1953, https://udayton.edu/imri/mary/m/medieval-mary-garden.php
 
 Gemminger, Louis. **Flowers of Mary**, 1858. https://www.forgottenbooks.com/en/books/FlowersofMary_10789006.
 
