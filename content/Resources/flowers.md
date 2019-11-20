@@ -27,13 +27,15 @@ In all matters, but particularly for this point, consult the rules and expectati
 
 # Flower histories
 
+**Fleurs de Marie-Jacqueline: Catholic Church flower lore, film reviews, and more**. (Blog). Accessed November 20, 2019. http://the-pious-spinster.blogspot.com/.
+
 Foley, Daniel J. “**Medieval Mary Garden**.” _University of Dayton_, 1953, [https://udayton.edu/imri/mary/m/medieval-mary-garden.php](https://udayton.edu/imri/mary/m/medieval-mary-garden.php "https://udayton.edu/imri/mary/m/medieval-mary-garden.php").
 
-Wells, D., and I. Patterson. **_100 Flowers and How They Got Their Names_**. Algonquin Books, 1997, [https://books.google.com/books?id=r05tI4YsidMC](https://books.google.com/books?id=r05tI4YsidMC "https://books.google.com/books?id=r05tI4YsidMC").
+Gemminger, Louis. **Flowers of Mary**, 1858. https://www.forgottenbooks.com/en/books/FlowersofMary_10789006.
 
 "**Mary Gardens: Flowers for Our Lady.**" _Fish Eaters_. Accessed 29 July 2019. [https://www.fisheaters.com/marygardens.html](https://www.fisheaters.com/marygardens.html "https://www.fisheaters.com/marygardens.html")
 
-Gemminger, Louis. **Flowers of Mary**, 1858. https://www.forgottenbooks.com/en/books/FlowersofMary_10789006.
+Wells, D., and I. Patterson. **_100 Flowers and How They Got Their Names_**. Algonquin Books, 1997, [https://books.google.com/books?id=r05tI4YsidMC](https://books.google.com/books?id=r05tI4YsidMC "https://books.google.com/books?id=r05tI4YsidMC").
 
 # My bouquet
 
