@@ -41,9 +41,12 @@ DiPippo, Gregory. “**The Velatio Nuptialis: An Ancient (and Forgotten) Part of
 
 > "In Christian tradition the wedding ring was not highly ornamented; the important thing was rather that it be of pure, unalloyed metal, symbolizing true marriage, the Rev. Dr. Edgar Schmiedeler, 0.S.B.. Director of the Family Life Bureau of the National Catholic Welfare Conference, declared on the Faith in Our Time program."
 
-“**Elaborate Wedding Rings Are Not in Christian Tradition, Speaker Says**.” _Catholic News Service_, April 25, 1949. [https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2&e=-------en-20--1-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2&e=-------en-20--1-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2&e=-------en-20--1-byDA-txt-txIN-%22wedding+tradition%22~10------").
+“**Elaborate Wedding Rings Are Not in Christian Tradition, Speaker Says**.” _Catholic News Service_, April 25, 1949. https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2&e=-------en-20--1-byDA-txt-txIN-%22wedding+tradition%22\~10------
 
 # Flowers
+
+Slovenia's national flower is a carnation, and one of their wedding customs involves carnations, and an unveiling at midnight. 
+Guillen, Jacquelyn. "**Parishes and couples embrace cultural wedding traditions**."_Chicago Catholic_, May 14, 2017. https://www.chicagocatholic.com/chicagoland/-/article/2017/05/14/parishes-and-couples-embrace-cultural-wedding-traditions
 
 For more information, visit the [Flowers ](https://www.latinmasswedding.com/resources/flowers/)page;
 
