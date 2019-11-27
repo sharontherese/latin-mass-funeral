@@ -51,7 +51,9 @@ She replies:
 
 After he has received the consent of the parties, the priest tells them to join their right hands. and says:
 
-> Ego conjúngo vos in matrimónium. In nómine Patris, et Fílii, et Spíritus Sancti. Amen. Vel aliis utatur verbis juxta receptum uniuscujusque loci ritum.
+> Ego conjúngo vos in matrimónium. In nómine Patris, et Fílii, et Spíritus Sancti. Amen. 
+
+(Vel aliis utatur verbis juxta receptum uniuscujusque loci ritum.)
 
 Then he sprinkles them with holy water.
 
