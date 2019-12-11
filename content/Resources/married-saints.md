@@ -18,11 +18,20 @@ Married saints in the Church are far from numerous, and even fewer are venerated
 Bogle, J., and J. Bogle. **A Heart for Europe: The Lives of Emperor Charles and Empress Zita of Austria-Hungary**. Gracewing Books. Fowler Wright, 1990. https://books.google.com/books?id=L59n8YY3gy8C.
 <br>
 <br>
+
 ## Sts. Louis and Zelie Martin
 
 “**Saints Louis and Zelie Martin**.” Society of the Little Flower - US. Accessed August 3, 2019. https://www.littleflower.org/therese/life-story/her-parents/.
 <br>
 <br>
+
+## Saints Henry II and Cunigunde of Luxembourg
+
+Catholic News Agency. “**St. Henry II**.” Accessed December 11, 2019. https://www.catholicnewsagency.com/saint/st-henry-ii-520.
+
+Vatican News. “**St. Henry II, Emperor**.” Accessed December 11, 2019. https://www.vaticannews.va/en/saints/07/13/st-henry-ii-emperor.html.
+
+
 ## St. Thomas More
 
 Huddleston, Gilbert. “**St. Thomas More**.” In Catholic Encylopedia. Vol. 14. New York: Robert Appleton Company, 1912. http://www.newadvent.org/cathen/14689c.htm.
