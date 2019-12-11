@@ -16,14 +16,10 @@ Married saints in the Church are far from numerous, and even fewer are venerated
 ## Blessed Karl and Servant of God Zita Habsburg
 
 Bogle, J., and J. Bogle. **A Heart for Europe: The Lives of Emperor Charles and Empress Zita of Austria-Hungary**. Gracewing Books. Fowler Wright, 1990. https://books.google.com/books?id=L59n8YY3gy8C.
-<br>
-<br>
 
 ## Sts. Louis and Zelie Martin
 
 “**Saints Louis and Zelie Martin**.” Society of the Little Flower - US. Accessed August 3, 2019. https://www.littleflower.org/therese/life-story/her-parents/.
-<br>
-<br>
 
 ## Saints Henry II and Cunigunde of Luxembourg
 
@@ -33,24 +29,24 @@ Vatican News. “**St. Henry II, Emperor**.” Accessed December 11, 2019. https
 
 CatholicSaints.Info. “**Saint Cunegundes**,” March 3, 2009. https://catholicsaints.info/saint-cunegundes/.
 
+# Saints Stephen and Giselle of Hungary
+
+“**Gisela of Hungary**.” In Wikipedia, October 16, 2019. https://en.wikipedia.org/w/index.php?title=Gisela_of_Hungary&oldid=921493047.
+
+Ott, Michael. “**St. Stephen**.” In The Catholic Encyclopedia. New York: Robert Appleton Company, 1912. http://www.newadvent.org/cathen/14287a.htm.
+
 
 ## St. Thomas More
 
 Huddleston, Gilbert. “**St. Thomas More**.” In Catholic Encylopedia. Vol. 14. New York: Robert Appleton Company, 1912. http://www.newadvent.org/cathen/14689c.htm.
-<br>
-<br>
 
 ## Saint Adelaide 
 
 “**Saint Adelaide**.” In Encyclopedia Britannica, 1998. https://www.britannica.com/biography/Saint-Adelaide.
-<br>
-<br>
 
 ## Saint Matilda 
 
 Catholic News Agency. “**St. Matilda**.” Accessed December 11, 2019. https://www.catholicnewsagency.com/saint/st-matilda-177/.
-<br>
-<br>
 
 # Married Catholic holy men and women
 
@@ -59,23 +55,19 @@ Catholic News Agency. “**St. Matilda**.” Accessed December 11, 2019. https:/
 Anderson, M.L. **Windthorst: A Political Biography**. Clarendon Press, 1981. https://books.google.com/books?id=DBJoAAAAMAAJ.
 
 Neill, T.P. **They Lived the Faith: Great Lay Leaders of Modern Times**. Literary Licensing, LLC, 2012. https://books.google.com/books?id=etpXLwEACAAJ.
-<br>
-<br>
+
 ## G. K. and Frances Chesterton
 
 Brown, N.C., and D. Ahlquist. **The Woman Who Was Chesterton**. ACS Books. ACS Books, 2015. https://books.google.com/books?id=V7I2CwAAQBAJ.
-<br>
-<br>
+
 ## Alice Thomas Ellis
 
 Ellis, Alice Thomas. **Home Life**. Royal National Institute of the Blind, 2004. https://books.google.com/books?id=aKmNvgEACAAJ.
-<br>
-<br>
+
 ## Dietrich and Alice von Hildebrand
 
 Hildebrand, D. von, A. von Hildebrand, and P. Kreeft. **The Art of Living**. Hildebrand Project, 2017. https://books.google.com/books?id=4OFptAEACAAJ.
-<br>
-<br>
+
 # Assorted 
 
 O’Malley, V.J. **Saintly Companions: A Cross-Reference of Sainted Relationships**. Alba House, 1995. https://books.google.com/books?id=X8V5JbPl248C.
