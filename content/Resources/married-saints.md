@@ -31,6 +31,8 @@ Catholic News Agency. “**St. Henry II**.” Accessed December 11, 2019. https:
 
 Vatican News. “**St. Henry II, Emperor**.” Accessed December 11, 2019. https://www.vaticannews.va/en/saints/07/13/st-henry-ii-emperor.html.
 
+CatholicSaints.Info. “**Saint Cunegundes**,” March 3, 2009. https://catholicsaints.info/saint-cunegundes/.
+
 
 ## St. Thomas More
 
