@@ -29,7 +29,7 @@ Vatican News. “**St. Henry II, Emperor**.” Accessed December 11, 2019. https
 
 CatholicSaints.Info. “**Saint Cunegundes**,” March 3, 2009. https://catholicsaints.info/saint-cunegundes/.
 
-# Saints Stephen and Giselle of Hungary
+## Saints Stephen and Giselle of Hungary
 
 “**Gisela of Hungary**.” In Wikipedia, October 16, 2019. https://en.wikipedia.org/w/index.php?title=Gisela_of_Hungary&oldid=921493047.
 
