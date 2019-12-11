@@ -34,6 +34,13 @@ Huddleston, Gilbert. “**St. Thomas More**.” In Catholic Encylopedia. Vol. 14
 “**Saint Adelaide**.” In Encyclopedia Britannica, 1998. https://www.britannica.com/biography/Saint-Adelaide.
 <br>
 <br>
+
+## Saint Matilda 
+
+Catholic News Agency. “**St. Matilda**.” Accessed December 11, 2019. https://www.catholicnewsagency.com/saint/st-matilda-177/.
+<br>
+<br>
+
 # Married Catholic holy men and women
 
 ## Ludwig Windthorst
