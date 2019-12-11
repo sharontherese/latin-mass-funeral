@@ -28,6 +28,12 @@ Bogle, J., and J. Bogle. **A Heart for Europe: The Lives of Emperor Charles and 
 Huddleston, Gilbert. “**St. Thomas More**.” In Catholic Encylopedia. Vol. 14. New York: Robert Appleton Company, 1912. http://www.newadvent.org/cathen/14689c.htm.
 <br>
 <br>
+
+## Saint Adelaide 
+
+“**Saint Adelaide**.” In Encyclopedia Britannica, 1998. https://www.britannica.com/biography/Saint-Adelaide.
+<br>
+<br>
 # Married Catholic holy men and women
 
 ## Ludwig Windthorst
