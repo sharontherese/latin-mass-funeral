@@ -17,7 +17,7 @@ Married saints in the Church are far from numerous, and even fewer are venerated
 
 Bogle, J., and J. Bogle. **A Heart for Europe: The Lives of Emperor Charles and Empress Zita of Austria-Hungary**. Gracewing Books. Fowler Wright, 1990. https://books.google.com/books?id=L59n8YY3gy8C.
 
-## Sts. Louis and Zelie Martin
+## Saints Louis and Zelie Martin
 
 “**Saints Louis and Zelie Martin**.” Society of the Little Flower - US. Accessed August 3, 2019. https://www.littleflower.org/therese/life-story/her-parents/.
 
