@@ -60,7 +60,7 @@ In all matters, but particularly for this point, consult the rules and expectati
 
 [^5]: O’Brien, M.A., Reverend William A. “**Nuptial Masses - Sacristan’s Manual for the Extraordinary Form**.” Sancta Missa. Accessed November 7, 2019. https://sanctamissa.org/en/sacristy/handbook-for-sacristan/handbook-for-sacristan-26.html.
 
-[^6]: Catholic Church. “**Rite for Celebrating Marriage.**” _Rituale Romanum_, 1962, https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html.
+[^6]: Fortescue, Adrian. 1911. “**Nuptial Mass**.” The Catholic Encyclopedia. New York: Robert Appleton Company. https://sanctamissa.org/en/resources/articles/nuptial-mass-fortescue.html.
 
 [^7]: Fish Eaters. “**Septuagesima Overview.**” https://www.fisheaters.com/customsseptuagesima1.html#1.
 
