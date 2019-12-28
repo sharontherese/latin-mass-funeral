@@ -58,7 +58,7 @@ In all matters, but particularly for this point, consult the rules and expectati
 
 [^4]: Tofari, Louis. “**Ceremonial Notes: Serving Notes & Training Guides for the Traditional Roman Mass**.” Romanitas Press, n.d. https://www.romanitaspress.com/ceremonial-notes.
 
-O’Brien, M.A., Reverend William A. “**Nuptial Masses - Sacristan’s Manual for the Extraordinary Form**.” Sancta Missa. Accessed November 7, 2019. https://sanctamissa.org/en/sacristy/handbook-for-sacristan/handbook-for-sacristan-26.html.
+[^5]: O’Brien, M.A., Reverend William A. “**Nuptial Masses - Sacristan’s Manual for the Extraordinary Form**.” Sancta Missa. Accessed November 7, 2019. https://sanctamissa.org/en/sacristy/handbook-for-sacristan/handbook-for-sacristan-26.html.
 
 [^6]: Catholic Church. “**Rite for Celebrating Marriage.**” _Rituale Romanum_, 1962, https://sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html.
 
