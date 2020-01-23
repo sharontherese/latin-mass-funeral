@@ -34,9 +34,9 @@
   
 [[main]]
   name = "About the Latin Mass"
-  parent = "Start Here"
-  url = "start-here/about-the-latin-mass"
-  weight = 20   
+  parent = "More Resources"
+  url = "resources/about-the-latin-mass"
+  weight = 40   
   
 [[main]]
   name = "About this Site"
