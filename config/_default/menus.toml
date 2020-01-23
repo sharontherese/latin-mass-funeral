@@ -17,13 +17,6 @@
   name = "Wedding Mass"
   url = "the-wedding-mass"
   weight = 30
-
-[[main]]
-  name = "Resources"
-  url = "resources"
-  weight = 40
-  
-  
   
 [[main]]
   name = "Start Here"
@@ -48,17 +41,31 @@
   url = "start-here/the-mass"
   weight = 40    
   
+  
+  
 [[main]]
- name = "Commentaries"
- parent = "Resources"
- url = "resources/commentaries"
- weight = 40
- 
+  name = "Wedding Planning"
+  url = "wedding-planning"
+  weight = 50  
+  
 [[main]]
   name = "Flowers"
-  parent = "Resources"
-  url = "resources/flowers"
-  weight = 40
+  parent = "wedding-planning"
+  url = "start-here/flowers"
+  weight = 50  
+  
+[[main]]
+  name = "Resources"
+  url = "resources"
+  weight = 60  
+  
+[[main]]
+ name = "Mass Commentaries"
+ parent = "Resources"
+ url = "resources/commentaries"
+ weight = 60
+ 
+
   
 [[main]]
   name = "History"
