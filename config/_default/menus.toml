@@ -51,33 +51,35 @@
 [[main]]
   name = "Flowers"
   parent = "wedding-planning"
-  url = "start-here/flowers"
+  url = "wedding-planning/flowers"
   weight = 50  
+
+[[main]]
+  name = "Marriage Preparation"
+  parent = "Start Here"
+  url = "start-here/marriage-preparation"
+  weight = 40  
   
 [[main]]
-  name = "Resources"
+  name = "More Resources"
   url = "resources"
   weight = 60  
   
 [[main]]
  name = "Mass Commentaries"
- parent = "Resources"
+ parent = "More Resources"
  url = "resources/commentaries"
  weight = 60
- 
-
   
 [[main]]
   name = "History"
-  parent = "Resources"
+  parent = "More Resources"
   url = "resources/history"
-  weight = 40  
+  weight = 60  
   
-[[main]]
-  name = "Marriage Preparation"
-  parent = "Resources"
-  url = "resources/marriage-preparation"
-  weight = 40  
+  
+  
+
   
 [[main]]
   name = "Local Customs"
