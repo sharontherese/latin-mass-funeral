@@ -18,7 +18,7 @@ https://www.veilsbylily.com/
 # Programs, Booklets, and Favors
 
 Shower of Roses Shoppe  
-https://tinyurl.com/trad-catholic-wedding]
+https://tinyurl.com/trad-catholic-wedding
 
 Angelus Press, “Rite Of Betrothal”   
 https://angeluspress.org/products/rite-of-betrothal
