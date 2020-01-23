@@ -33,7 +33,7 @@
 [[main]]
   name = "About the Latin Mass"
   parent = "Start Here"
-  url = "start-here/the-mass"
+  url = "start-here/about-the-latin-mass"
   weight = 40    
   
 [[main]]
