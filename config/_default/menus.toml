@@ -23,18 +23,30 @@
   url = "resources"
   weight = 40
   
+  
+  
 [[main]]
   name = "Start Here"
-  parent = "Resources"
   url = "start-here"
   weight = 40
  
-  
 [[main]]
   name = "FAQs"
   parent = "Start Here"
-  url = "resources/start-here/FAQs"
+  url = "start-here/FAQs"
   weight = 40
+ 
+ [[main]]
+  name = "Glossary"
+  parent = "Start Here"
+  url = "start-here/glossary"
+  weight = 40  
+  
+[[main]]
+  name = "About the Latin Mass"
+  parent = "Start Here"
+  url = "start-here/the-mass"
+  weight = 40    
   
 [[main]]
  name = "Commentaries"
@@ -49,12 +61,6 @@
   weight = 40
   
 [[main]]
-  name = "Glossary"
-  parent = "Resources"
-  url = "resources/glossary"
-  weight = 40  
-  
-[[main]]
   name = "History"
   parent = "Resources"
   url = "resources/history"
@@ -64,12 +70,6 @@
   name = "Marriage Preparation"
   parent = "Resources"
   url = "resources/marriage-preparation"
-  weight = 40  
-  
-[[main]]
-  name = "Latin Mass"
-  parent = "Resources"
-  url = "resources/the-mass"
   weight = 40  
   
 [[main]]
