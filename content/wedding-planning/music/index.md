@@ -2,6 +2,9 @@
 text = ""
 title = "Mass Music"
 toggle = false
+aliases = [
+    "/resources/mass-music/",
+]
 
 +++
 ![](/uploads/introit.png)
