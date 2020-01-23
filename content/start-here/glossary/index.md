@@ -12,31 +12,25 @@ aliases = [
 Betrothal
 : Betrothal, or betrothment, is, "a mutual promise of future marriage, or a contract by which a man and a woman engage themselves to marry." [^1]
 
-# Gregorian chant
-
-Also called plain chant or plainchant. A type of music, that is sung in unison, and without accompaniment. The Church has always preached that chant is the ideal type of music for the Mass.
+Gregorian chant
+: Also called plain chant or plainchant. A type of music, that is sung in unison, and without accompaniment. The Church has always preached that chant is the ideal type of music for the Mass.
 
 "Gregorian chant is the church’s own music, born in the church’s liturgy. Its texts are almost entirely scriptural, coming for the most part from the Psalter. For centuries it was sung as pure melody, in unison, and without accompaniment, and this is still the best way to sing chant if possible. It was composed entirely in Latin; and because its melodies are so closely tied to Latin accents and word meanings, it is best to sing it in Latin." [^2]
 
-# High Mass
+High Mass
+: A Latin Mass that is sung. Also called a Missa Cantata. [^3]
 
-A Latin Mass that is sung. [^3]
+Latin Mass
+: Also called the Extraordinary Form, Mass of St. Gregory the Great, the Tridentine Mass/Rite, or the old Mass. 
 
-# Latin Mass
+Low Mass
+: A Latin Mass that is spoken, not sung. [^3]
 
-Also called the Extraordinary Form, Mass of St. Gregory the Great, the Tridentine Mass/Rite, or the old Mass.
+Missa pro sponso et sponsa
+: The Mass for the Groom and Bride. One of many _votive Masses_.
 
-# Low Mass
-
-A Latin Mass that is spoken, not sung. [^3]
-
-# Missa pro sponso et sponsa
-
-The Mass for the Groom and Bride. One of many _votive Masses_.
-
-# Missale Romanum
-
-The books of texts for the Catholic Mass.
+Missale Romanum
+: The books of texts for the Catholic Mass.
 
 # Music of the Mass
 
