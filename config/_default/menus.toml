@@ -13,132 +13,132 @@
   name = "Wedding Mass"
   parent = "Start Here"  
   url = "start-here/wedding-mass"
-  weight = 30
+  weight = 20
   
 [[main]]
   name = "Start Here"
   url = "start-here"
-  weight = 40
+  weight = 20
  
 [[main]]
   name = "FAQs"
   parent = "Start Here"
   url = "start-here/FAQs"
-  weight = 40
+  weight = 20
  
  [[main]]
   name = "Glossary"
   parent = "Start Here"
   url = "start-here/glossary"
-  weight = 40  
+  weight = 20  
   
 [[main]]
   name = "About the Latin Mass"
   parent = "Start Here"
   url = "start-here/about-the-latin-mass"
-  weight = 40    
+  weight = 20   
   
 [[main]]
   name = "About this Site"
   parent = "Start Here"
   url = "start-here/about-this-site"
-  weight = 40     
+  weight = 20    
   
   
   
 [[main]]
   name = "Wedding Planning"
   url = "wedding-planning"
-  weight = 50  
+  weight = 30  
   
 [[main]]
   name = "Flowers"
   parent = "Wedding Planning"
   url = "wedding-planning/flowers"
-  weight = 50  
+  weight = 30
 
 [[main]]
   name = "Marriage Preparation"
   parent = "Wedding Planning"
   url = "wedding-planning/marriage-preparation"
-  weight = 40  
+  weight = 30
   
  [[main]]
   name = "Music"
   parent = "Wedding Planning"
   url = "wedding-planning/music"
-  weight = 50   
+  weight = 30 
   
 [[main]]
   name = "Programs"
   parent = "Wedding Planning"
   url = "wedding-planning/programs"
-  weight = 40  
+  weight = 30
   
 [[main]]
   name = "Nuptial Blessing"
   parent = "Wedding Planning"
   url = "wedding-planning/nuptial-blessing"
-  weight = 40    
+  weight = 30   
   
 [[main]]
   name = "Rubrics"
   parent = "Wedding Planning"
   url = "wedding-planning/rubrics"
-  weight = 50  
+  weight = 30
   
 [[main]]
   name = "Rite of Betrothal"
   parent = "Wedding Planning"
   url = "wedding-planning/rite-of-betrothal"
-  weight = 50  
+  weight = 30
   
 [[main]]
   name = "More Resources"
   url = "resources"
-  weight = 60  
+  weight = 40
   
 [[main]]
  name = "Mass Commentaries"
  parent = "More Resources"
  url = "resources/commentaries"
- weight = 60
+ weight = 40
   
 [[main]]
   name = "History"
   parent = "More Resources"
   url = "resources/history"
-  weight = 60  
+  weight = 40 
   
 [[main]]
   name = "Local Customs"
   parent = "More Resources"
   url = "resources/local-customs"
-  weight = 60    
+  weight = 40   
 
 [[main]]
   name = "Walkthrough"
   parent = "More Resources"
   url = "resources/walkthrough"
-  weight = 60  
+  weight = 40  
   
 [[main]]
   name = "Married Saints"
   parent = "More Resources"
   url = "resources/married-saints"
-  weight = 60  
+  weight = 40
 
 [[main]]
   name = "Other Rites and Languages"
   parent = "More Resources"
   url = "resources/other-rites-and-languages"
-  weight = 60    
+  weight = 40   
   
 [[main]]
   name = "Shop"
   parent = "More Resources"
   url = "resources/shop"
-  weight = 60      
+  weight = 40     
   
 
 # Link to a PDF of your resume/CV from the menu.
