@@ -4,6 +4,9 @@ media1 = ""
 text_area = ""
 text_heavy = "Wedding Mass"
 title = "Wedding Mass"
+aliases = [
+    "/the-wedding-mass/",
+]
 
 +++
 ![](/uploads/_MG_0492-min.JPG)
