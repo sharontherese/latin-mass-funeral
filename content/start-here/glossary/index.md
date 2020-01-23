@@ -21,7 +21,7 @@ High Mass
 : A Latin Mass that is sung. Also called a Missa Cantata. [^3]
 
 Latin Mass
-: Also called the Extraordinary Form, Mass of St. Gregory the Great, the Tridentine Mass/Rite, or the old Mass. 
+: The normative Mass of the Roman Rite until the _Novus Ordo_ in 1969-1970. Also called the Extraordinary Form, Mass of St. Gregory the Great, the Tridentine Mass/Rite, or the old Mass. 
 
 Low Mass
 : A Latin Mass that is spoken, not sung. [^3]
@@ -32,53 +32,41 @@ Missa pro sponso et sponsa
 Missale Romanum
 : The books of texts for the Catholic Mass.
 
-# Music of the Mass
+Music of the Mass
+: Texts of the Mass that can be sung. [^4]
 
-Texts of the Mass that can be sung. [^4]
+Novus Ordo
+: The normative Mass of the Roman Rite promulgated by Pope St. Paul VI in 1969-1970. Also called the Ordinary Form, the new Mass.
 
-# Novus Ordo
+Ordinary
+: The texts of the Mass that do not change; namely, the Kyrie, the Gloria, the Credo, the Sanctus, the Benedictus, and the Agnus Dei.
 
-Also called the Ordinary Form, the new Mass.
+Polyphony
+: A type of music with multiple voice parts (the word literally translates to "many voices"). read more here.
 
-# Ordinary
+Proper
+: The texts of the Mass that change based on the day or feast; namely, the Introit, Gradual, Alleluia-Verse, Sequence, Tract, Offertory, and Communion.
 
-The texts of the Mass that do not change; namely, the Kyrie, the Gloria, the Credo, the Sanctus, the Benedictus, and the Agnus Dei.
+Rite
+: "A Rite represents an ecclesiastical, or church, tradition about how the sacraments are to be celebrated." [^5]
 
-# Polyphony
+Ritual of Marriage
+: "The form for the celebration of Matrimony." [^6]
 
-A type of music with multiple voice parts (the word literally translates to "many voices"). read more here.
+Rituale Romanum
+: The book of texts, rubrics, and instructions for Catholic rituals and sacraments.
 
-# Proper
+Setting
+: How something is sung. For example, you can choose a _Gregorian chant_ setting of the Kyrie (like Missa de Angelis), or a _polyphonic_ setting (like the Mozart Mass in C Minor, with 4 voice parts).
 
-The texts of the Mass that change based on the day or feast; namely, the Introit, Gradual, Alleluia-Verse, Sequence, Tract, Offertory, and Communion.
+Solemn High Mass
+: A Latin Mass that is sung, with 3 priests. [^3]
 
-# Rite
+Tempus clausum
+: Latin for _forbidden time_. In this context, it refers to the (usually penitential) times of the liturgical year when marriages are forbidden or strongly discouraged; namely, Lent, Advent, and the vigil of Pentecost. [^7]
 
-"A Rite represents an ecclesiastical, or church, tradition about how the sacraments are to be celebrated." [^5]
-
-# Ritual of Marriage
-
-"The form for the celebration of Matrimony." [^6]
-
-# Rituale Romanum
-
-The book of texts, rubrics, and instructions for Catholic rituals and sacraments.
-
-# Setting
-
-How something is sung. For example, you can choose a _Gregorian chant_ setting of the Kyrie (like Missa de Angelis), or a _polyphonic_ setting (like the Mozart Mass in C Minor, with 4 voice parts).
-
-# Solemn High Mass
-
-A Latin Mass that is sung, with 3 priests. [^3]
-
-# Tempus clausum
-
-Latin for _forbidden time_. In this context, it refers to the (usually penitential) times of the liturgical year when marriages are forbidden or strongly discouraged; namely, Lent, Advent, and the vigil of Pentecost. [^7]
-
-# Votive Mass
-
-A Mass offered for a special intention, such as a Mass for kings, bishops, martyrs, a new church, the sick, or marriages. The votive Mass for marriages is called _Missa pro sponso et sponsa_ (Mass for the groom and the bride). [^8]
+Votive Mass
+: A Mass offered for a special intention, such as a Mass for kings, bishops, martyrs, a new church, the sick, or marriages. The votive Mass for marriages is called _Missa pro sponso et sponsa_ (Mass for the groom and the bride). [^8]
 
 # Sources
 
