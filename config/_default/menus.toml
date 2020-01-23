@@ -32,7 +32,7 @@
   
 [[main]]
   name = "FAQs"
-  parent = "Resources/Start Here"
+  parent = "Start Here"
   url = "resources/start-here/FAQs"
   weight = 40
   
