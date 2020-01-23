@@ -2,6 +2,9 @@
 text = ""
 title = "About the Latin Mass"
 toggle = false
+aliases = [
+    "/resources/latin-mass/",
+]
 
 +++
 ![](/uploads/_MG_0518-min.JPG)
