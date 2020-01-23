@@ -7,7 +7,6 @@ aliases = [
 ]
 
 +++
-![](/uploads/reading.JPG)
 
 # About
 
