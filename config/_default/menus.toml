@@ -82,7 +82,7 @@
 [[main]]
   name = "Rubrics"
   parent = "Wedding Planning"
-  url = "wedding-planning/rubrics-for-the-wedding-mass"
+  url = "wedding-planning/rubrics"
   weight = 50  
   
 [[main]]
