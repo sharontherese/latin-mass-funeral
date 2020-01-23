@@ -2,6 +2,9 @@
 text = ""
 title = "Rite of Betrothal"
 toggle = false
+aliases = [
+    "/resources/rite-of-betrothal/",
+]
 
 +++
 ![](/uploads/betrothal2.png)
