@@ -64,13 +64,13 @@
  [[main]]
   name = "Music"
   parent = "Wedding Planning"
-  url = "wedding-planning/mass-music"
+  url = "wedding-planning/music"
   weight = 50   
   
 [[main]]
   name = "Programs"
   parent = "Wedding Planning"
-  url = "wedding-planning/mass-programs"
+  url = "wedding-planning/programs"
   weight = 40  
   
 [[main]]
