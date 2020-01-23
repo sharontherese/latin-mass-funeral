@@ -4,7 +4,6 @@ title = "About This Site"
 toggle = false
 
 +++
-![](/uploads/59120965_2199110453733445_7574780640223035392_n.jpg)
 
 # About Me
 
@@ -20,9 +19,9 @@ Most pages have an "About" section at the top, to provide context.
 
 Any word in _italics_ can be found in the [Glossary](https://www.latinmasswedding.com/resources/glossary/).
 
-I have an [FAQ ](https://www.latinmasswedding.com/resources/faqs/)page to get you started.
+I have an [FAQ ](https://www.latinmasswedding.com/start-here/faqs/)page to get you started.
 
-I also have a [personal site](http://sharonkabel.wordpress.com) full of fun and exciting research.
+I also have a [personal site](https://sharonkabel.com) full of fun and exciting research.
 
 # Services
 
