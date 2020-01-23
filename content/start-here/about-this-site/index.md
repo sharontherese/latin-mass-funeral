@@ -2,6 +2,9 @@
 text = ""
 title = "About This Site"
 toggle = false
+aliases = [
+    "/about-2/",
+]
 
 +++
 
