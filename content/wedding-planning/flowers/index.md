@@ -2,6 +2,9 @@
 text = ""
 title = "Flowers"
 toggle = false
+aliases = [
+    "/resources/flowers/",
+]
 
 +++
 ![](/uploads/marygardentop.jpg)  
