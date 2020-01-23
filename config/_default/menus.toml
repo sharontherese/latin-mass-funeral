@@ -25,6 +25,7 @@
   
 [[main]]
   name = "Start Here"
+  parent = "Resources"
   url = "start-here"
   weight = 40
  
