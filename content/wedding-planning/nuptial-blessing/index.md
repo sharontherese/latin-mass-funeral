@@ -2,6 +2,9 @@
 text = ""
 title = "Nuptial Blessing"
 toggle = false
+aliases = [
+    "/resources/nuptial-blessing/",
+]
 
 +++
 ![](/uploads/_MG_0505-min.JPG)
