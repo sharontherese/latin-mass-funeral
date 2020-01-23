@@ -2,6 +2,9 @@
 text = ""
 title = "Programs"
 toggle = false
+aliases = [
+    "/resources/mass-programs/",
+]
 
 +++
 
