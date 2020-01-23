@@ -2,6 +2,9 @@
 text = ""
 title = "Rubrics for the Wedding Mass"
 toggle = false
+aliases = [
+    "/resources/rubrics-for-the-wedding-mass/",
+]
 
 +++
 
