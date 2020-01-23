@@ -5,7 +5,8 @@
 
 [[main]]
   name = "Rite of Marriage"
-  url = "rite-of-marriage"
+  parent = "Start Here"
+  url = "start-here/rite-of-marriage"
   weight = 20
 
 [[main]]
