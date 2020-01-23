@@ -50,43 +50,43 @@
   
 [[main]]
   name = "Flowers"
-  parent = "wedding-planning"
+  parent = "Wedding Planning"
   url = "wedding-planning/flowers"
   weight = 50  
 
 [[main]]
   name = "Marriage Preparation"
-  parent = "Start Here"
+  parent = "Wedding Planning"
   url = "start-here/marriage-preparation"
   weight = 40  
   
  [[main]]
   name = "Music"
-  parent = "Start Here"
+  parent = "Wedding Planning"
   url = "start-here/mass-music"
   weight = 50   
   
 [[main]]
   name = "Programs"
-  parent = "Start Here"
+  parent = "Wedding Planning"
   url = "start-here/mass-programs"
   weight = 40  
   
 [[main]]
   name = "Nuptial Blessing"
-  parent = "Start Here"
+  parent = "Wedding Planning"
   url = "start-here/nuptial-blessing"
   weight = 40    
   
 [[main]]
   name = "Rubrics"
-  parent = "Start Here"
+  parent = "Wedding Planning"
   url = "start-here/rubrics-for-the-wedding-mass"
   weight = 50  
   
 [[main]]
   name = "Rite of Betrothal"
-  parent = "Start Here"
+  parent = "Wedding Planning"
   url = "start-here/rite-of-betrothal"
   weight = 50  
   
