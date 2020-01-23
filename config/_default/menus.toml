@@ -36,6 +36,12 @@
   url = "start-here/the-mass"
   weight = 40    
   
+[[main]]
+  name = "About this Site"
+  parent = "Start Here"
+  url = "start-here/about-this-site"
+  weight = 40     
+  
   
   
 [[main]]
