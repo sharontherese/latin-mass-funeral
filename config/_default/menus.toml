@@ -67,38 +67,28 @@
   weight = 50   
   
 [[main]]
-  name = "Mass Programs"
-  parent = "Resources"
-  url = "resources/mass-programs"
+  name = "Programs"
+  parent = "Start Here"
+  url = "start-here/mass-programs"
   weight = 40  
   
 [[main]]
   name = "Nuptial Blessing"
-  parent = "Resources"
-  url = "resources/nuptial-blessing"
+  parent = "Start Here"
+  url = "start-here/nuptial-blessing"
   weight = 40    
   
 [[main]]
   name = "Rubrics"
-  parent = "Resources"
-  url = "resources/rubrics-for-the-wedding-mass"
-  weight = 40  
+  parent = "Start Here"
+  url = "start-here/rubrics-for-the-wedding-mass"
+  weight = 50  
   
-  [[main]]
+[[main]]
   name = "Rite of Betrothal"
-  parent = "Resources"
-  url = "resources/rite-of-betrothal"
-  weight = 40  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  parent = "Start Here"
+  url = "start-here/rite-of-betrothal"
+  weight = 50  
   
 [[main]]
   name = "More Resources"
