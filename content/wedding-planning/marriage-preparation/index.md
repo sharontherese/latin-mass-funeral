@@ -5,9 +5,9 @@ toggle = false
 aliases = [
     "/resources/marriage-preparation/",
 ]
-image:
-   placement: 1
 +++
+
+![](/uploads/reading.JPG)
 
 # About
 
