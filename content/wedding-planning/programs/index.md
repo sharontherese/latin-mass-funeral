@@ -1,6 +1,6 @@
 +++
 text = ""
-title = "Mass Programs"
+title = "Programs"
 toggle = false
 
 +++
