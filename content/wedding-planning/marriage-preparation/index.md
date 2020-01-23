@@ -2,6 +2,9 @@
 text = ""
 title = "Marriage Preparation"
 toggle = false
+aliases = [
+    "/resources/marriage-preparation/",
+]
 
 +++
 ![](/uploads/reading.JPG)
