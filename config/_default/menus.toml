@@ -11,7 +11,8 @@
 
 [[main]]
   name = "Wedding Mass"
-  url = "the-wedding-mass"
+  parent = "Start Here"  
+  url = "start-here/wedding-mass"
   weight = 30
   
 [[main]]
