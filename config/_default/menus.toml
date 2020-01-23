@@ -23,18 +23,24 @@
   url = "resources"
   weight = 40
   
- [[main]]
+[[main]]
+  name = "Start Here"
+  url = "start-here"
+  weight = 40
+ 
+  
+[[main]]
+  name = "FAQs"
+  parent = "Resources/Start Here"
+  url = "resources/start-here/FAQs"
+  weight = 40
+  
+[[main]]
  name = "Commentaries"
  parent = "Resources"
  url = "resources/commentaries"
  weight = 40
-  
-[[main]]
-  name = "FAQs"
-  parent = "Resources"
-  url = "resources/faqs"
-  weight = 40
-  
+ 
 [[main]]
   name = "Flowers"
   parent = "Resources"
