@@ -1,6 +1,6 @@
 +++
 text = ""
-title = "The Latin Mass"
+title = "About the Latin Mass"
 toggle = false
 
 +++
