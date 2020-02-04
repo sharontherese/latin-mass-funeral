@@ -36,10 +36,17 @@ O merciful God, we humbly beseech Thee to send Thy blessing continually upon us,
 
 Catholic Church. Plenary Council of Baltimore. **A Manual Of Prayers For The Use Of The Catholic Laity: Prepared And Published By Order Of The Third Plenary Council Of Baltimore**. New York: Catholic Publication Society, 1888, p. 452 http://archive.org/details/AManualOfPrayers1888.
 
+## Prayer for Divine Direction in the Choice of a State of Life 
+
+Almighty God! Whose wise and amiable providence watches over every human event, deign to be my light and my counsel in all my undertakings, particularly in the choice of a state of life. I know that on this important step my sanctification and salvation may in a great measure depend. I know that I am incapable of discerning what may be best for me; therefore I cast myself into Thy arms, beseeching Thee, my God, Who hast sent me into this world only to love and serve Thee, to direct by Thy grace every action of my life to the glorious end of my creation. I renounce most sincerely every other wish than to fulfil Thy designs on my soul, whatever they may be; and I beseech Thee to give me the grace to be imbued with the spirit of Christ and to qualify myself for any state of life to which Thy adorable providence may call me. O my God! whenever it may become my duty to make a choice, do Thou be my light and my counsel, and mercifully deign to make the way known to me wherein I should walk, for I have lifted up my soul to Thee. Preserve me from listening to the suggestions of self-love, or worldly prudence, in prejudice to Thy holy inspirations. Let Thy good Spirit lead me into the right way, and let Thy adorable providence place me, not where I may naturally feel inclined to go, but where all things may be most conducive to Thy glory and to the good of my soul. Mary, Mother of Good Counsel, Seat of Wisdom, Help of Christians, pray for me. Amen. 
+
+Lasance, Francis Xavier. **With God: A Book of Prayers and Reflections**. New York: Benziger Bros, 1911, p. 753. http://archive.org/details/withgodbookofpra00lasa.
+
+
 ## Missals and Prayerbooks
 
 Lasance, Francis Xavier. *The Young Man’s Guide: Counsels, Reflections, and Prayers for Catholic Young Men*. New York: Benziger Brothers, 1910. http://archive.org/details/TheYoungMansGuide.
 
-Lasance, Francis Xavier. *The Catholic Girl’s Guide. Counsels and Devotions for Girls in the Ordinary Walks of Life, and in Particular for the Children of Mary*. New York, Cincinnati: Benziger brothers, 1906. http://archive.org/details/catholicgirlsgui00lasa.
+Lasance, Francis Xavier. *The Catholic Girl’s Guide: Counsels and Devotions for Girls in the Ordinary Walks of Life, and in Particular for the Children of Mary*. New York, Cincinnati: Benziger brothers, 1906. http://archive.org/details/catholicgirlsgui00lasa.
 
 
