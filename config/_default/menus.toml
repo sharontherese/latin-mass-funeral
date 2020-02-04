@@ -139,7 +139,7 @@
   weight = 40     
 
 [[main]]
-  name = "Pryares"
+  name = "Prayers"
   parent = "More Resources"
   url = "resources/prayers"
   weight = 40   
