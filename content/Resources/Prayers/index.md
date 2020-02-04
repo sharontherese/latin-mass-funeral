@@ -5,6 +5,8 @@ toggle = false
 
 +++
 
+![](/uploads/prayerbook.png)
+
 # About
 
 This is a collection of prayers for brides and grooms, as found in old missals, manuals, and prayer books.
