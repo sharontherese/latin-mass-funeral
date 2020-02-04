@@ -42,11 +42,18 @@ Almighty God! Whose wise and amiable providence watches over every human event, 
 
 Lasance, Francis Xavier. **With God: A Book of Prayers and Reflections**. New York: Benziger Bros, 1911, p. 753. http://archive.org/details/withgodbookofpra00lasa.
 
+## For the Master and Mistress of a Family
 
-## Missals and Prayerbooks
+Merciful God, I implore thy grace for my direction and help, in the execution of every thing thou hast committed to my charge. Grant me discretion, that I may discover in all things what is best to be done, that I may manage them according to the obligations thou hast laid upon me. Make me faithful in taking care of what, under thee, I have in charge, that nothing may suffer through my neglect, idleness, prodigality, or ill management. Let not passion have any influence on my words or actions, that I may reprove without anger, command without imperiousness, require service without cruelty, have compassion on such failings as proceed rather from weakness than neglect, and show a tenderness towards all under my charge, as knowing that both they and I serve one master in heaven, who, without respect to persons, will call us all to an equal account. Lord, let me never want thy grace to suppress every inclination that leads me from my duty. Let no kind of extravagance, excess, or disorder find encouragement in my house. Make me a zealous observer of good discipline, and watchful against all undue liberties. Suffer me not to be unjust to any one, nor connive at what ought to be reproved. Take from me all immoderate solicitude, and let no excess of worldly care withdraw my heart from the important concern of eternity. May my chief solicitude be, how to regulate all my concerns to thy honor and glory. I crave thy blessing this day and forever, on all I am to do or suffer, and humbly offer myself, and all I possess, to thy glory. Help me, my God, according to my necessities, now and forever. Amen. 
+
+**The Key of Heaven: Or, A Manual of Prayer**. New York, P. J. Kenedy, 1870, pp. 126-7. http://archive.org/details/keyofheavenorman00unse.
+
+# Missals and Prayerbooks
 
 Lasance, Francis Xavier. *The Young Man’s Guide: Counsels, Reflections, and Prayers for Catholic Young Men*. New York: Benziger Brothers, 1910. http://archive.org/details/TheYoungMansGuide.
 
 Lasance, Francis Xavier. *The Catholic Girl’s Guide: Counsels and Devotions for Girls in the Ordinary Walks of Life, and in Particular for the Children of Mary*. New York, Cincinnati: Benziger brothers, 1906. http://archive.org/details/catholicgirlsgui00lasa.
 
+Lasance, Francis Xavier. **With God: A Book of Prayers and Reflections**. New York: Benziger Bros, 1911, p. 753. http://archive.org/details/withgodbookofpra00lasa.
 
+Catholic Church. Plenary Council of Baltimore. **A Manual Of Prayers For The Use Of The Catholic Laity: Prepared And Published By Order Of The Third Plenary Council Of Baltimore**. New York: Catholic Publication Society, 1888, p. 452 http://archive.org/details/AManualOfPrayers1888.
