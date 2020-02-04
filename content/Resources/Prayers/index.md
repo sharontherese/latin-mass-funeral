@@ -48,6 +48,12 @@ Merciful God, I implore thy grace for my direction and help, in the execution of
 
 **The Key of Heaven: Or, A Manual of Prayer**. New York, P. J. Kenedy, 1870, pp. 126-7. http://archive.org/details/keyofheavenorman00unse.
 
+## For a Husband or Wife
+
+God, who hast ordained the holy state of matrimony, wherein I am engaged, grant me grace to comply with all its obligations, and to perform them in such a manner as is becoming a Christian, not an unbeliever. Preserve my love undefiled, according to thy divine command, and let the duty of love help to conduct me with comfort through all the obligations and difficulties of my state. Grant me discretion to manage all circumstances for the best, a true love for peace, and such a discreet compliance as to resign my own thoughts and inclinations for preserving it. Inspire me with true humility and patience, that I may submit to and bear with all crosses in the manner thy apostle requires. Furnish me with all other helps, that whatever difficulties may occur, I may persevere with cheerfulness in discharging the duties of my state, and never yield so far to any weakness, ill-humor, or impatience, as to weaken, much less to break the bond which thou hast sanctified, and which cannot be dissolved but by death. May I always be faithful and indefatigable in the discharge of the duties of my state, doing and suffering whatever falls to my lot, with such absolute submission to thy will, that both in peace and trouble, in prosperity and adversity, I may ever remember to resign myself cheerfully, God, to thy pleasure or permission; and under all difficulties, still labor to work out my salvation. 
+
+**The Key of Heaven: Or, A Manual of Prayer**. New York, P. J. Kenedy, 1870, pp. 136-7. http://archive.org/details/keyofheavenorman00unse.
+
 # Missals and Prayerbooks
 
 Lasance, Francis Xavier. *The Young Man’s Guide: Counsels, Reflections, and Prayers for Catholic Young Men*. New York: Benziger Brothers, 1910. http://archive.org/details/TheYoungMansGuide.
