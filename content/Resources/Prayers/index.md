@@ -34,7 +34,7 @@ Catholic Church. Plenary Council of Baltimore. **A Manual Of Prayers For The Use
 
 O merciful God, we humbly beseech Thee to send Thy blessing continually upon us, and to make us thankful for all that Thou hast already vouchsafed unto us; and as Thou hast made us one in the mystical grace of matrimony, grant that we may be also inwardly of one heart and of one mind, paying due honor one to another, united in love to Thee and to each other in Thee; living together in peace and holiness, as faithful members of Thy Church, denying ourselves, and being a mutual help, comfort, and support to each other, all the days of our life. (Give us grace to train our children in Thy faith and fear.) Bless us with health and strength, if it be Thy will, and with whatever else Thy good providence shall see to be best for our souls and bodies. Fit and prepare us day by day for our departure hence, that we may together inherit eternal life in Thy heavenly kingdom. Through the merits of Jesus Christ, our Lord and Saviour. Amen. 
 
-Catholic Church. Plenary Council of Baltimore. **A Manual Of Prayers For The Use Of The Catholic Laity: Prepared And Published By Order Of The Third Plenary Council Of Baltimore**. New York: Catholic Publication Society, 1888, p. 452 http://archive.org/details/AManualOfPrayers1888.
+Catholic Church. Plenary Council of Baltimore. **A Manual Of Prayers For The Use Of The Catholic Laity: Prepared And Published By Order Of The Third Plenary Council Of Baltimore**. New York: Catholic Publication Society, 1888, p. 452. http://archive.org/details/AManualOfPrayers1888.
 
 ## Prayer for Divine Direction in the Choice of a State of Life 
 
@@ -60,6 +60,8 @@ Lasance, Francis Xavier. *The Young Man’s Guide: Counsels, Reflections, and Pr
 
 Lasance, Francis Xavier. *The Catholic Girl’s Guide: Counsels and Devotions for Girls in the Ordinary Walks of Life, and in Particular for the Children of Mary*. New York, Cincinnati: Benziger brothers, 1906. http://archive.org/details/catholicgirlsgui00lasa.
 
-Lasance, Francis Xavier. **With God: A Book of Prayers and Reflections**. New York: Benziger Bros, 1911, p. 753. http://archive.org/details/withgodbookofpra00lasa.
+Lasance, Francis Xavier. **With God: A Book of Prayers and Reflections**. New York: Benziger Bros, 1911. http://archive.org/details/withgodbookofpra00lasa.
 
-Catholic Church. Plenary Council of Baltimore. **A Manual Of Prayers For The Use Of The Catholic Laity: Prepared And Published By Order Of The Third Plenary Council Of Baltimore**. New York: Catholic Publication Society, 1888, p. 452 http://archive.org/details/AManualOfPrayers1888.
+Catholic Church. Plenary Council of Baltimore. **A Manual Of Prayers For The Use Of The Catholic Laity: Prepared And Published By Order Of The Third Plenary Council Of Baltimore**. New York: Catholic Publication Society, 1888. http://archive.org/details/AManualOfPrayers1888.
+
+**The Key of Heaven: Or, A Manual of Prayer**. New York, P. J. Kenedy, 1870. http://archive.org/details/keyofheavenorman00unse.
