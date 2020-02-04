@@ -33,18 +33,10 @@
   weight = 20  
   
 [[main]]
-  name = "About the Latin Mass"
-  parent = "More Resources"
-  url = "resources/about-the-latin-mass"
-  weight = 40   
-  
-[[main]]
   name = "About this Site"
   parent = "Start Here"
   url = "start-here/about-this-site"
   weight = 20    
-  
-  
   
 [[main]]
   name = "Wedding Planning"
@@ -99,6 +91,12 @@
   weight = 40
   
 [[main]]
+  name = "About the Latin Mass"
+  parent = "More Resources"
+  url = "resources/about-the-latin-mass"
+  weight = 40   
+  
+[[main]]
  name = "Mass Commentaries"
  parent = "More Resources"
  url = "resources/commentaries"
@@ -139,6 +137,12 @@
   parent = "More Resources"
   url = "resources/shop"
   weight = 40     
+
+[[main]]
+  name = "Pryares"
+  parent = "More Resources"
+  url = "resources/prayers"
+  weight = 40   
   
 
 # Link to a PDF of your resume/CV from the menu.
