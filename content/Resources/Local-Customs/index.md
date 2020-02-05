@@ -23,38 +23,38 @@ If you know of a Catholic wedding custom, [let me know] (https://www.latinmasswe
 
 > Norway: "The youth’s head is bare; the bride wears her marriage crown as proudly as any queen."
 
-“**Philadelphia Letter**.” _The Catholic Telegraph_, July 6, 1876. [https://thecatholicnewsarchive.org/?a=d&d=TCT18760706-01.1.1&srpos=7&e=-------en-20--1-byDA-txt-txIN-%22bride+crown%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=TCT18760706-01.1.1&srpos=7&e=-------en-20--1-byDA-txt-txIN-%22bride+crown%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=TCT18760706-01.1.1&srpos=7&e=-------en-20--1-byDA-txt-txIN-%22bride+crown%22~10------").
+“**Philadelphia Letter**.” _The Catholic Telegraph_, July 6, 1876. https://thecatholicnewsarchive.org/?a=d&d=TCT18760706-01.1.1&srpos=7.
 
 # Veils
 
 Veiling could refer to two things: the veil worn by the bride, or the pall, or cloth, raised over the couple's hands or heads.
 
-DiPippo, Gregory. “**The Velatio Nuptialis: An Ancient (and Forgotten) Part of the Latin Marriage Rite**.” _New Liturgical Movement_ (blog), February 8, 2019. [http://www.newliturgicalmovement.org/2019/02/the-velatio-nuptialis-ancient-and.html](http://www.newliturgicalmovement.org/2019/02/the-velatio-nuptialis-ancient-and.html "http://www.newliturgicalmovement.org/2019/02/the-velatio-nuptialis-ancient-and.html").
+DiPippo, Gregory. “**The Velatio Nuptialis: An Ancient (and Forgotten) Part of the Latin Marriage Rite**.” _New Liturgical Movement_ (blog), February 8, 2019. http://www.newliturgicalmovement.org/2019/02/the-velatio-nuptialis-ancient-and.html.
 
 # Rings
 
 > America: "The new tabernacle curtain at Our Lady of Mount Carmel Church runs on golden wedding rings. The curtain and the wedding-ring idea were copied after the curtain in the chapel of the Blessed Sacrament in Westminster Cathedral, London, at the suggestion of the pastor, the Rev. Henry van Boxel. Wedding rings which in some families had been handed down from generation to generation and the wedding rings of widows were given for this Louisiana church."
 
-“**Tabernacle Curtain Runs on Golden Wedding Rings**.” _Catholic News Service_, November 8, 1950. [https://thecatholicnewsarchive.org/?a=d&d=cns19501108-01.1.7](https://thecatholicnewsarchive.org/?a=d&d=cns19501108-01.1.7 "https://thecatholicnewsarchive.org/?a=d&d=cns19501108-01.1.7").
+“*Tabernacle Curtain Runs on Golden Wedding Rings*.” _Catholic News Service_, November 8, 1950. https://thecatholicnewsarchive.org/?a=d&d=cns19501108-01.1.7.
 
 <br>
 
 > "In Christian tradition the wedding ring was not highly ornamented; the important thing was rather that it be of pure, unalloyed metal, symbolizing true marriage, the Rev. Dr. Edgar Schmiedeler, 0.S.B.. Director of the Family Life Bureau of the National Catholic Welfare Conference, declared on the Faith in Our Time program."
 
-“**Elaborate Wedding Rings Are Not in Christian Tradition, Speaker Says**.” _Catholic News Service_, April 25, 1949. https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2&e=-------en-20--1-byDA-txt-txIN-%22wedding+tradition%22\~10------
+“*Elaborate Wedding Rings Are Not in Christian Tradition, Speaker Says*.” _Catholic News Service_, April 25, 1949. https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2.
 
 # Flowers
 
 Slovenia's national flower is a carnation, and one of their wedding customs involves carnations, and an unveiling at midnight. 
-Guillen, Jacquelyn. "**Parishes and couples embrace cultural wedding traditions**."_Chicago Catholic_, May 14, 2017. https://www.chicagocatholic.com/chicagoland/-/article/2017/05/14/parishes-and-couples-embrace-cultural-wedding-traditions
+Guillen, Jacquelyn. "*Parishes and couples embrace cultural wedding traditions*."_Chicago Catholic_, May 14, 2017. https://www.chicagocatholic.com/chicagoland/-/article/2017/05/14/parishes-and-couples-embrace-cultural-wedding-traditions
 
-For more information, visit the [Flowers ](https://www.latinmasswedding.com/resources/flowers/)page;
+For more information, visit the [Flowers](https://www.latinmasswedding.com/resources/flowers/)page;
 
 # Other
 
 > South Philadelphia, America: "In a display that has remained a unique feature of South Philly culture, the groom is expected to “surprise” his bride at some point before the wedding (often the day before) by singing to her from the street."
 
-Friel, David. “**Only the Lover Sings**.” _Corpus Christi Watershed_, Oct. 2014, [http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/](http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/ "http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/").
+Friel, David. “*Only the Lover Sings*.” _Corpus Christi Watershed_, Oct. 2014, http://www.ccwatershed.org/blog/2014/oct/26/only-lover-sings/.
 
 <br>
 
@@ -72,8 +72,8 @@ Monti, James. **_The Week of Salvation: History and Traditions of Holy Week_**. 
 
 > At one lime the marriage custom of York, Eng., required that the bride throw herself at the feel of her husband if he gave her land as part of the dowry. And many dioceses in France had the couple lie prone before the altar with a pall held over them during the nuptial blessing. These rites may seem peculiar, but modern day marriage customs had their origins centuries ago in practices equally strange to us.
 
-“**Kissing, Dowries, Ancient Customs**.” _Clarion Herald_, May 9, 1963. [https://thecatholicnewsarchive.org/?a=d&d=cher19630509-01.1.8&srpos=33&e=-------en-20--21-byDA-txt-txIN-%22bride+crown%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cher19630509-01.1.8&srpos=33&e=-------en-20--21-byDA-txt-txIN-%22bride+crown%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cher19630509-01.1.8&srpos=33&e=-------en-20--21-byDA-txt-txIN-%22bride+crown%22~10------").
+“*Kissing, Dowries, Ancient Customs*.” _Clarion Herald_, May 9, 1963. https://thecatholicnewsarchive.org/?a=d&d=cher19630509-01.1.8&srpos=33.
 
-“**Nuptial Rites Follow Customs of Society**.” _Clarion Herald_, April 30, 1964. [https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------](https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22\~10------ "https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38&e=-------en-20--21-byDA-txt-txIN-%22wedding+tradition%22~10------").
+“*Nuptial Rites Follow Customs of Society*.” _Clarion Herald_, April 30, 1964. https://thecatholicnewsarchive.org/?a=d&d=cher19640430-01.1.31&srpos=38.
 
-Klauder, Alexander Laurence Alphonsus. **_Catholic Practice at Church and at Home. The Parishioner’s Little Rule Book, a Guide for Catholics in the External Practice of Their Holy Religion_**, pp. 114-133. Boston, Mass., Angel guardian press, 1898. [http://archive.org/details/catholicpractice01klau](http://archive.org/details/catholicpractice01klau "http://archive.org/details/catholicpractice01klau").
+Klauder, Alexander Laurence Alphonsus. *_Catholic Practice at Church and at Home. The Parishioner’s Little Rule Book, a Guide for Catholics in the External Practice of Their Holy Religion_*, pp. 114-133. Boston, Mass., Angel Guardian Press, 1898. http://archive.org/details/catholicpractice01klau.
