@@ -39,7 +39,7 @@ DiPippo, Gregory. “**The Velatio Nuptialis: An Ancient (and Forgotten) Part of
 
 <br>
 
-> "In Christian tradition the wedding ring was not highly ornamented; the important thing was rather that it be of pure, unalloyed metal, symbolizing true marriage, the Rev. Dr. Edgar Schmiedeler, 0.S.B.. Director of the Family Life Bureau of the National Catholic Welfare Conference, declared on the Faith in Our Time program."
+> "In Christian tradition the wedding ring was not highly ornamented; the important thing was rather that it be of pure, unalloyed metal, symbolizing true marriage, the Rev. Dr. Edgar Schmiedeler, O.S.B.. Director of the Family Life Bureau of the National Catholic Welfare Conference, declared on the Faith in Our Time program."
 
 “*Elaborate Wedding Rings Are Not in Christian Tradition, Speaker Says*.” _Catholic News Service_, April 25, 1949. https://thecatholicnewsarchive.org/?a=d&d=cns19490425-01.1.11&srpos=2.
 
