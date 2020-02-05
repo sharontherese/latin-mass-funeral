@@ -4,8 +4,10 @@ title = "FAQs"
 toggle = false
 aliases = [
     "/resources/FAQs/",
+] 
+        = [
+    "/start-here/FAQs", 
 ]
-
 +++
 
 test
