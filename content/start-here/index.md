@@ -12,4 +12,4 @@ aliases = [
 
 * [Glossary](https://www.latinmasswedding.com/glossary/) for words that I use on this website, like _missa cantata_
 
-* About
+* [About](https://www.latinmasswedding.com/about-this-site/) for how this site is laid out, and how it got started
