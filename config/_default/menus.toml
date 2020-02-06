@@ -12,60 +12,6 @@
   name = "Wedding Planning"
   url = "wedding-planning"
   weight = 30  
-  
-[[main]]
-  name = "More Resources"
-  url = "resources"
-  weight = 40
-  
-[[main]]
-  name = "About the Latin Mass"
-  parent = "More Resources"
-  url = "resources/about-the-latin-mass"
-  weight = 40   
-  
-[[main]]
-  name = "History"
-  parent = "More Resources"
-  url = "resources/history"
-  weight = 40 
-  
-[[main]]
-  name = "Local Customs"
-  parent = "More Resources"
-  url = "resources/local-customs"
-  weight = 40   
-
-[[main]]
-  name = "Walkthrough"
-  parent = "More Resources"
-  url = "resources/walkthrough"
-  weight = 40  
-  
-[[main]]
-  name = "Married Saints"
-  parent = "More Resources"
-  url = "resources/married-saints"
-  weight = 40
-
-[[main]]
-  name = "Other Rites and Languages"
-  parent = "More Resources"
-  url = "resources/other-rites-and-languages"
-  weight = 40   
-  
-[[main]]
-  name = "Shop"
-  parent = "More Resources"
-  url = "resources/shop"
-  weight = 40     
-
-[[main]]
-  name = "Prayers"
-  parent = "More Resources"
-  url = "resources/prayers"
-  weight = 40   
-  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
