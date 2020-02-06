@@ -9,9 +9,21 @@
   weight = 20
   
 [[main]]
+  name = "About"
+  parent = "Start Here"
+  url = "about"
+  weight = 20  
+
+[[main]]
   name = "FAQs"
   parent = "Start Here"
-  url = "FAQs"
+  url = "faqs"
+  weight = 20  
+
+[[main]]
+  name = "Glossary"
+  parent = "Start Here"
+  url = "glossary"
   weight = 20  
  
 [[main]]
