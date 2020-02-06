@@ -1,6 +1,6 @@
 +++
 text = ""
-title = "Start Here"
+title = "Start"
 toggle = false
 aliases = [
     "/about-2/",
