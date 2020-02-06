@@ -14,48 +14,6 @@
   weight = 30  
   
 [[main]]
-  name = "Flowers"
-  parent = "Wedding Planning"
-  url = "wedding-planning/flowers"
-  weight = 30
-
-[[main]]
-  name = "Marriage Preparation"
-  parent = "Wedding Planning"
-  url = "wedding-planning/marriage-preparation"
-  weight = 30
-  
- [[main]]
-  name = "Music"
-  parent = "Wedding Planning"
-  url = "wedding-planning/music"
-  weight = 30 
-  
-[[main]]
-  name = "Programs"
-  parent = "Wedding Planning"
-  url = "wedding-planning/programs"
-  weight = 30
-  
-[[main]]
-  name = "Nuptial Blessing"
-  parent = "Wedding Planning"
-  url = "wedding-planning/nuptial-blessing"
-  weight = 30   
-  
-[[main]]
-  name = "Rubrics"
-  parent = "Wedding Planning"
-  url = "wedding-planning/rubrics"
-  weight = 30
-  
-[[main]]
-  name = "Rite of Betrothal"
-  parent = "Wedding Planning"
-  url = "wedding-planning/rite-of-betrothal"
-  weight = 30
-  
-[[main]]
   name = "More Resources"
   url = "resources"
   weight = 40
