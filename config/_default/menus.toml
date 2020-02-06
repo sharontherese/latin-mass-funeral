@@ -30,6 +30,30 @@
   name = "Wedding Planning"
   url = "wedding-planning"
   weight = 30  
+  
+[[main]]
+  name = "The Engagement"
+  parent = "Wedding Planning"
+  url = "rite-of-betrothal"
+  weight = 30    
+  
+[[main]]
+  name = "The Wedding"
+  parent = "Wedding Planning"
+  url = "wedding-mass"
+  weight = 40    
+  
+[[main]]
+  name = "For Priests"
+  parent = "Wedding Planning"
+  url = "rubrics"
+  weight = 50
+  
+[[main]]
+  name = "Learn More"
+  parent = "Wedding Planning"
+  url = "history"
+  weight = 60    
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
