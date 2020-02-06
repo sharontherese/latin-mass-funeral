@@ -46,7 +46,7 @@
 [[main]]
   name = "For Priests"
   parent = "Wedding Planning"
-  url = "rubrics"
+  url = "for-priests"
   weight = 50
   
 [[main]]
