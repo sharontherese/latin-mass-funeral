@@ -22,9 +22,9 @@ Please feel free to contact me to add a resource to this page!
 
 San Pedro, Maricar Cinco. “**Marrying in Ancient, Sacred Catholic Rites**.” Philippine Daily Inquirer, October 17, 2013. https://www.pressreader.com/philippines/philippine-daily-inquirer-1109/20131017/281672547673113.
 
-Siniculus, “**The Sacrament of Matrimony According to the Use of the Philippine Islands**,” _Dei Praesidio Fultus_ (blog), June 1, 2013, [http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html](http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html "http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html").
+Siniculus, “**The Sacrament of Matrimony According to the Use of the Philippine Islands**,” _Dei Praesidio Fultus_ (blog), June 1, 2013, http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html.
 
-Siniculus, “**Matrimony According to the Use of the Philippine Islands**,” _Dei Praesidio Fultus_ (blog), September 14, 2013, [http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html](http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html "http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html").
+Siniculus, “**Matrimony According to the Use of the Philippine Islands**,” _Dei Praesidio Fultus_ (blog), September 14, 2013, http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html.
 
 # Country
 
@@ -48,14 +48,14 @@ Nysten, Jean. **Instructions familières sur le mariage: son origine, sa vie int
 
 ## Italy 
 
-“**Tradidi Quod et Accepi: Missa Votiva pro Sponsis**,” _Tradidi Quod et Accepi_ (blog), venerdì gennaio 2018, [http://tradidiaccepi.blogspot.com/2018/01/missa-votiva-pro-sponsis.html](http://tradidiaccepi.blogspot.com/2018/01/missa-votiva-pro-sponsis.html "http://tradidiaccepi.blogspot.com/2018/01/missa-votiva-pro-sponsis.html").
+“**Tradidi Quod et Accepi: Missa Votiva pro Sponsis**,” _Tradidi Quod et Accepi_ (blog), venerdì gennaio 2018, http://tradidiaccepi.blogspot.com/2018/01/missa-votiva-pro-sponsis.html.
 
-“**Rituale Romanum - De Sacramento Matrimonii**,” accessed August 8, 2019, [https://www.maranatha.it/rituale/51page.htm](https://www.maranatha.it/rituale/51page.htm "https://www.maranatha.it/rituale/51page.htm").
+“**Rituale Romanum - De Sacramento Matrimonii**,” accessed August 8, 2019, https://www.maranatha.it/rituale/51page.htm.
 
 ## Philippines 
 
 San Pedro, Maricar Cinco. “**Marrying in Ancient, Sacred Catholic Rites**.” Philippine Daily Inquirer, October 17, 2013. https://www.pressreader.com/philippines/philippine-daily-inquirer-1109/20131017/281672547673113.
 
-Siniculus, “**The Sacrament of Matrimony According to the Use of the Philippine Islands**,” _Dei Praesidio Fultus_ (blog), June 1, 2013, [http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html](http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html "http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html").
+Siniculus, “**The Sacrament of Matrimony According to the Use of the Philippine Islands**,” _Dei Praesidio Fultus_ (blog), June 1, 2013, http://deipraesidiofultus.blogspot.com/2013/06/the-sacrament-of-matrimony-according-to.html.
 
-Siniculus, “**Matrimony According to the Use of the Philippine Islands**,” _Dei Praesidio Fultus_ (blog), September 14, 2013, [http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html](http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html "http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html").
+Siniculus, “**Matrimony According to the Use of the Philippine Islands**,” _Dei Praesidio Fultus_ (blog), September 14, 2013, http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html.
