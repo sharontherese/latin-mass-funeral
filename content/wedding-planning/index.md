@@ -4,7 +4,7 @@ title = "Wedding Planning"
 toggle = false
 +++
 
-# The Engagement
+## The Engagement
 
 * [Rite of Betrothal](https://www.latinmasswedding.com/rite-of-betrothal/) 
 * [Marriage Preparation](https://www.latinmasswedding.com/marriage-preparation/) 
@@ -14,14 +14,14 @@ toggle = false
 * [Local Customs](https://www.latinmasswedding.com/local-customs/) 
 * [Shop](https://www.latinmasswedding.com/shop/) 
 
-# The Wedding 
+## The Wedding 
 
 * [The Rite of Marriage](https://www.latinmasswedding.com/rite-of-marriage/) 
 * [The _Missa pro sponso et sponsa_](https://www.latinmasswedding.com/wedding-mass/) 
 * [The Nuptial Blessing](https://www.latinmasswedding.com/nuptial-blessing/) 
 * [Rubrics](https://www.latinmasswedding.com/rubrics/) 
 
-# Learn More 
+## Learn More 
 
 * [About the Latin Mass](https://www.latinmasswedding.com/about-the-latin-mass/) 
 * [History](https://www.latinmasswedding.com/history/) of the rite of marriage and the wedding mass
