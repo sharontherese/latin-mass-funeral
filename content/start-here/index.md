@@ -16,10 +16,17 @@ aliases = [
 
 * See the [About](https://www.latinmasswedding.com/about-this-site/) for how this site is laid out, and how it got started
 
-## For wedding planning 
+## For those getting married
 
-* See the pages listed under the Wedding Planning menu
+* See the [Wedding Planning](https://www.latinmasswedding.com/wedding-planning) page
 
-## Want more? 
+## For priests, servers, and those assisting
 
-* See the pages listed under the More Resources menu
+* See the [Rubrics](https://www.latinmasswedding.com/Rubrics) page
+
+* See the [Music](https://www.latinmasswedding.com/music) page
+
+* See the [Mass Commentaries](https://www.latinmasswedding.com/commentaries) page
+
+* See the [Other Rites and Languages](https://www.latinmasswedding.com/other-rites) page
+
