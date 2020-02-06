@@ -7,6 +7,12 @@
   name = "Start Here"
   url = "start-here"
   weight = 20
+  
+[[main]]
+  name = "FAQs"
+  parent = "Start Here"
+  url = "FAQs"
+  weight = 20  
  
 [[main]]
   name = "Wedding Planning"
