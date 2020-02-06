@@ -95,8 +95,6 @@ Lastly, the priest extends his hands over the heads of the couple and prays:
 
 # Resources
 
-## Articles 
-
 Angelus Press. “Rite Of Betrothal.” Angelus Press. Accessed August 8, 2019. https://angeluspress.org/products/rite-of-betrothal.
 
 New Liturgical Movement. “**A Liturgical Rite of Betrothal**,” October 26, 2019. http://www.newliturgicalmovement.org/2019/10/a-liturgical-rite-of-betrothal.html#.Xbhzf0ZKi70.
@@ -107,14 +105,14 @@ New Liturgical Movement. “**A Liturgical Rite of Betrothal**,” October 26, 2
 
 “What Is The Catholic Rite Of Betrothal.” Traditional Catholic Femininity. Accessed August 29, 2019. https://tradcatfem.com/2017/08/03/what-is-the-catholic-rite-of-betrothal/.
 
-“Canon Lawyer Advocates Return of Betrothal.” Catholic Transcript, December 30, 1977. https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47&srpos=1&e=-------en-20--1--txt-txIN-betrothal------.
+“Canon Lawyer Advocates Return of Betrothal.” Catholic Transcript, December 30, 1977. https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47&srpos=1.
 
-“Old Catholic Ceremony of Betrothal Revived at Montreal Oratory.” Catholic News Service, February 3, 1941. https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2&e=-------en-20--1--txt-txIN-%22rite+betrothal%22~8------.
+“Old Catholic Ceremony of Betrothal Revived at Montreal Oratory.” Catholic News Service, February 3, 1941. https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2.
 
 Kwasniewski, Peter. “New Liturgical Movement: Problems with Weddings and How We Might Remedy Them.” New Liturgical Movement (blog), April 29, 2019. http://www.newliturgicalmovement.org/2019/04/problems-with-weddings-and-how-we-might.html#.XVHX6G9Ki70.
 
 # Sources
 
-[^1]: Smet, Alöis de. _Betrothment and Marriage; a Canonical and Theological Treatise with Notices on History and Civil Law_. St. Louis : B. Herder, 1912. [http://archive.org/details/betrothmentmarri01smetiala](http://archive.org/details/betrothmentmarri01smetiala "http://archive.org/details/betrothmentmarri01smetiala").
+[^1]: Smet, Alöis de. _Betrothment and Marriage; a Canonical and Theological Treatise with Notices on History and Civil Law_. St. Louis : B. Herder, 1912. http://archive.org/details/betrothmentmarri01smetiala.
 
-[^2]: “Solemn Rite of Betrothal.” Laudate Dominum, n.d. [http://laudatedominum.net/files/bet.pdf](http://laudatedominum.net/files/bet.pdf "http://laudatedominum.net/files/bet.pdf").
+[^2]: “Solemn Rite of Betrothal.” Laudate Dominum, n.d. http://laudatedominum.net/files/bet.pdf.
