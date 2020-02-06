@@ -34,8 +34,8 @@
 [[main]]
   name = "The Engagement"
   parent = "Wedding Planning"
-  url = "rite-of-betrothal"
-  weight = 30    
+  url = "the-engagement"
+  weight = 30       
   
 [[main]]
   name = "The Wedding"
