@@ -17,14 +17,14 @@ toggle = false
 ## The Wedding 
 
 * [The Rite of Marriage](https://www.latinmasswedding.com/rite-of-marriage/) 
-* [The _Missa pro sponso et sponsa_](https://www.latinmasswedding.com/wedding-mass/) 
+* [The Wedding Mass](https://www.latinmasswedding.com/wedding-mass/) 
 * [The Nuptial Blessing](https://www.latinmasswedding.com/nuptial-blessing/) 
 * [Rubrics](https://www.latinmasswedding.com/rubrics/) 
 
 ## Learn More 
 
 * [About the Latin Mass](https://www.latinmasswedding.com/about-the-latin-mass/) 
-* [History](https://www.latinmasswedding.com/history/) of the rite of marriage and the wedding mass
+* [History of the rite of marriage and the wedding mass](https://www.latinmasswedding.com/history/)
 * [Married Saints](https://www.latinmasswedding.com/married-saints/) 
 * [Prayers](https://www.latinmasswedding.com/prayers/) 
 * [Mass Commentaries](https://www.latinmasswedding.com/commentaries/) 
