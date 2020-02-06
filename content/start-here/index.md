@@ -8,9 +8,7 @@ aliases = [
 ]
 +++
 
-# Start Here 
-
-* FAQs
+* [FAQs](https://www.latinmasswedding.com/FAQs/) for frequently asked questions about Latin Mass weddings and this website
 
 * Glossary 
 
