@@ -6,7 +6,7 @@ toggle = false
 
 +++
 
-# Pages you'll need
+## Pages you'll need
 
 * [The Rite of Marriage](https://www.latinmasswedding.com/rite-of-marriage/) 
 * [The Wedding Mass](https://www.latinmasswedding.com/wedding-mass/) 
