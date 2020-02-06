@@ -4,7 +4,7 @@ title = "For Priests"
 toggle = false
 +++
 
-# Pages you'll need 
+## Pages you'll need 
 
 * [Rubrics](https://www.latinmasswedding.com/Rubrics) 
 * [Music](https://www.latinmasswedding.com/music) 
