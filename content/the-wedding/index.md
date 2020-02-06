@@ -5,7 +5,6 @@ title = "The Wedding"
 toggle = false
 
 +++
-![](/uploads/IMG_0405-min.JPG)
 
 # Pages you'll need
 
@@ -13,3 +12,5 @@ toggle = false
 * [The Wedding Mass](https://www.latinmasswedding.com/wedding-mass/) 
 * [The Nuptial Blessing](https://www.latinmasswedding.com/nuptial-blessing/) 
 * [Rubrics](https://www.latinmasswedding.com/rubrics/) 
+
+![](/uploads/IMG_0405-min.JPG)
