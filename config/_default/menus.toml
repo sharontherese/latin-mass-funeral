@@ -25,12 +25,6 @@
   weight = 40   
   
 [[main]]
- name = "Mass Commentaries"
- parent = "More Resources"
- url = "resources/commentaries"
- weight = 40
-  
-[[main]]
   name = "History"
   parent = "More Resources"
   url = "resources/history"
