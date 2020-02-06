@@ -8,8 +8,8 @@ aliases = [
 ]
 +++
 
-* [FAQs](https://www.latinmasswedding.com/FAQs/) for frequently asked questions about Latin Mass weddings and this website
+* [FAQs](https://www.latinmasswedding.com/FAQs/) for frequently asked questions about Latin Mass weddings and this website, like "what can I customize about a Latin Mass wedding?"
 
-* Glossary 
+* [Glossary](https://www.latinmasswedding.com/glossary/) for words that I use on this website, like _missa cantata_
 
 * About
