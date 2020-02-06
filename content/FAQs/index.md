@@ -2,11 +2,10 @@
 text = ""
 title = "FAQs"
 toggle = false
+
 aliases = [
     "/resources/FAQs/",
-] 
-        = [
-    "/start-here/FAQs", 
+    "/start-here/FAQs"
 ]
 +++
 
