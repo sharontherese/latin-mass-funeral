@@ -10,23 +10,28 @@ aliases = [
 
 ## For quick reference 
 
-* See the [FAQs](https://www.latinmasswedding.com/FAQs/) for frequently asked questions about Latin Mass weddings and this website, like "what can I customize about a Latin Mass wedding?"
-
-* See the [Glossary](https://www.latinmasswedding.com/glossary/) for words that I use on this website, like _missa cantata_
-
-* See the [About](https://www.latinmasswedding.com/about-this-site/) for how this site is laid out, and how it got started
+* [FAQs](https://www.latinmasswedding.com/FAQs/)
+* [Glossary](https://www.latinmasswedding.com/glossary/) 
+* [About](https://www.latinmasswedding.com/about-this-site/) 
 
 ## For those getting married
 
-* See the [Wedding Planning](https://www.latinmasswedding.com/wedding-planning) page
+* [Wedding Planning](https://www.latinmasswedding.com/wedding-planning) 
 
 ## For priests, servers, and those assisting
 
-* See the [Rubrics](https://www.latinmasswedding.com/Rubrics) page
+* [Rubrics](https://www.latinmasswedding.com/Rubrics) 
+* [Music](https://www.latinmasswedding.com/music) 
+* [Mass Commentaries](https://www.latinmasswedding.com/commentaries) 
+* [Other Rites and Languages](https://www.latinmasswedding.com/other-rites) 
 
-* See the [Music](https://www.latinmasswedding.com/music) page
+## For those curious 
 
-* See the [Mass Commentaries](https://www.latinmasswedding.com/commentaries) page
+* [About the Latin Mass](https://www.latinmasswedding.com/about-the-latin-mass/) 
+* [Rite of Betrothal](https://www.latinmasswedding.com/rite-of-betrothal/) 
+* [The Nuptial Blessing](https://www.latinmasswedding.com/nuptial-blessing/) 
+* [History](https://www.latinmasswedding.com/history/) of the rite of marriage and the wedding mass
+* [Walkthrough](https://www.latinmasswedding.com/walkthrough/) 
 
-* See the [Other Rites and Languages](https://www.latinmasswedding.com/other-rites) page
+
 
