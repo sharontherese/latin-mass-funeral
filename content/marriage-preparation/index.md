@@ -37,6 +37,8 @@ Von Hildebrand, Alice. **_By Love Refined: Letters to a Young Bride_**. Sophia I
 
 "**On the Sacrament of Matrimony**." _Catechism of the Council of Trent_, pp. 225-236. https://archive.org/details/thecatechismofth00donouoft/page/n241.
 
+“**The Sacrament of Matrimony**.” _Catechism of the Catholic Church_, no. 1601-1666. Accessed February 11, 2020. https://www.vatican.va/archive/ccc_css/archive/catechism/p2s2c3a7.htm.
+
 Cassidy, Norma Cronin. **The Nuptial Mass**. New York: Paulist Press, 1957. http://www.worldcat.org/oclc/20557562.
 
 Holy Mass And More. “**The Seven Sacraments and Their Liturgies, Part 7: Marriage**,” August 23, 2018. https://www.holymassandmore.org/2018/08/the-seven-sacraments-and-their_23.html.
