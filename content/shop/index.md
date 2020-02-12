@@ -2,7 +2,9 @@
 text = ""
 title = "Shop"
 toggle = false
-/resources/shop/
+aliases = [
+    "/resources/shop/"
+]
 
 +++
 ![](/uploads/08750015-min.jpg)
