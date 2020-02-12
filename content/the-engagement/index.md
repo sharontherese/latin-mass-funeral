@@ -1,23 +1,4 @@
 +++
-gallery1 = [""]
-text = ""
-title = "The Engagement"
-toggle = false
-+++
-
-## Pages you'll need
-
-* [Rite of Betrothal](https://www.latinmasswedding.com/rite-of-betrothal/) 
-* [Marriage Preparation](https://www.latinmasswedding.com/marriage-preparation/) 
-* [Flowers](https://www.latinmasswedding.com/flowers/) 
-* [Music](https://www.latinmasswedding.com/music/) 
-* [Programs](https://www.latinmasswedding.com/programs/)
-* [Local Customs](https://www.latinmasswedding.com/local-customs/) 
-* [Shop](https://www.latinmasswedding.com/shop/) 
-
-![](/uploads/reading.JPG)
-
-+++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
