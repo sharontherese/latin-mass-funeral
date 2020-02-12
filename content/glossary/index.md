@@ -4,6 +4,7 @@ title = "Glossary"
 toggle = false
 aliases = [
     "/resources/glossary/",
+    "/start-here/glossary/"
 ]
 
 +++
