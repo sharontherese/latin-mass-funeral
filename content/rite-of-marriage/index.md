@@ -3,9 +3,6 @@ gallery1 = [""]
 text = ""
 title = "Rite of Marriage"
 toggle = false
-aliases = [
-    "/rite-of-marriage/",
-]
 
 +++
 ![](/uploads/_MG_0459_1-min.JPG)
