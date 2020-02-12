@@ -2,6 +2,9 @@
 text = ""
 title = "History"
 toggle = false
+aliases = [
+    "/resources/history/"
+]
 
 +++
 ![](/uploads/sf55-18-3d1 (1).jpg)  
