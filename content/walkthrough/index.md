@@ -2,6 +2,9 @@
 text = ""
 title = "Walkthrough"
 toggle = false
+aliases = [
+    "/resources/walkthrough/",
+]
 
 +++
 # About
