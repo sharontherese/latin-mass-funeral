@@ -3,7 +3,7 @@ text = ""
 title = "Mass Music"
 toggle = false
 aliases = [
-    "/resources/mass-music/",
+    "/resources/mass-music/"
 ]
 
 +++
@@ -54,7 +54,7 @@ The _propers_ are the Introit, Gradual, Tract, Alleluia, Offertory, and Communio
 
 “**Gregorian Propers**.” Corpus Christi Watershed. Accessed July 29, 2019. http://www.ccwatershed.org/goupil/ \[Scroll down to "Nuptial Mass"\]
 
-“**Sacred Music**.” Institute of Christ the King Sovereign Priest. Accessed July 31, 2019. http://www.institute-christ-king.org/resources/sacred-music#votive \[Scroll down to "Votive Masses\]
+“**Sacred Music**.” Institute of Christ the King Sovereign Priest. Accessed July 31, 2019. http://www.institute-christ-king.org/resources/sacred-music#votive \[Scroll down to "Votive Masses"\]
 
 Windsor Tridentine Mass Community. “**Chant Sheets for the Orations and Readings**.” Accessed November 27, 2019. http://www.windsorlatinmass.org/latin/chant.htm \[Scroll down to "Nuptial Mass"\]
 
