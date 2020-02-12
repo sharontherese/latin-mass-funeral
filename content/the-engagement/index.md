@@ -3,7 +3,10 @@ gallery1 = [""]
 text = ""
 title = "The Engagement"
 toggle = false
-
+widget = "featurette"
+active = true
+draft = true
+headless = true
 +++
 
 ## Pages you'll need
@@ -16,16 +19,9 @@ toggle = false
 * [Local Customs](https://www.latinmasswedding.com/local-customs/) 
 * [Shop](https://www.latinmasswedding.com/shop/) 
 
-+++
-active = true
-draft = true
-headless = true
-+++ 
-
 subtitle = ""
 title = "The Engagement"
 weight = 30
-widget = "featurette"
 [[feature]]
 description = "90%"
 icon = "r-project"
