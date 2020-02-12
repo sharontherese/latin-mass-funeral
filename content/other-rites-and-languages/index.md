@@ -2,6 +2,10 @@
 text = ""
 title = "Other Rites and Languages"
 toggle = false
+aliases = [
+    "/resources/other-rites/",
+    "/resources/other-rites-and-languages/"
+]
 
 +++
 ![](/uploads/_DSC0373.JPG)
