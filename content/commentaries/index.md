@@ -2,6 +2,9 @@
 text = "Commentaries on the Propers of the wedding Mass"
 title = "Commentaries"
 toggle = false
+aliases = [
+    "/resources/commentaries/"
+]
 
 +++
 ![](/uploads/_MG_0413-min.JPG)
