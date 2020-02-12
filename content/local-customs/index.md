@@ -2,6 +2,9 @@
 text = ""
 title = "Local Customs"
 toggle = false
+aliases = [
+    "/resources/local-customs",
+]
 
 +++
 ![](/uploads/08740007-min.JPG)  
