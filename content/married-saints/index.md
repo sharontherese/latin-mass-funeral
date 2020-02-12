@@ -2,6 +2,9 @@
 text = ""
 title = "Married Saints"
 toggle = false
+aliases = [
+    "/resources/married-saints/",
+]
 
 +++
 ![](https://upload.wikimedia.org/wikipedia/commons/c/ca/Zitawed.jpg)  
