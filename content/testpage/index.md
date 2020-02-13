@@ -20,15 +20,15 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-  #   name = "All"
+  #   name = "Rite of Betrothal"
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
+  #   name = "Flowers"
   #   tag = "Deep Learning"
   
   # [[content.filter_button]]
-  #   name = "Other"
+  #   name = "Music"
   #   tag = "Demo"
 
 [design]
