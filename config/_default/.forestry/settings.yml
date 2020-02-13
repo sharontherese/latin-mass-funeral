@@ -43,7 +43,7 @@ instant_preview: false
 build:
   preview_env:
   - HUGO_ENV=staging
-  - HUGO_VERSION=0.55.6
+  - HUGO_VERSION=0.64.1
   preview_output_directory: public
   preview_docker_image: forestryio/build:latest
   mount_path: "/opt/buildhome/repo"
@@ -52,7 +52,7 @@ build:
   publish_command: hugo -d public
   publish_env:
   - HUGO_ENV=production
-  - HUGO_VERSION=0.55.6
+  - HUGO_VERSION=0.64.1
   output_directory: public
   preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
-version: 0.55.6
+version: 0.64.1
