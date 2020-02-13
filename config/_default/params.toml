@@ -87,10 +87,9 @@ contact_links = [
   engine = 2
   api_key = ""
   zoom = 15
-# coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 map = 0
 map_api_key = ""
-zoom = 15
+# coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 ############################
 ## Advanced options       ##
