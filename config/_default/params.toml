@@ -97,16 +97,6 @@ map_api_key = ""
 zoom = 15
 
 ############################
-## Plugins                ##
-############################
-
-# Load CSS and JS plugins
-#   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
-#   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_css = []
-plugins_js  = []
-
-############################
 ## Advanced options       ##
 ############################
 
@@ -195,4 +185,7 @@ main_menu = {align = "l", show_logo = true}
 ############################
 [marketing]
   google_analytics = "UA-144733098-1"
-  google_tag_manager = ""
+  # google_tag_manager = ""
+
+# Link authors to their profile page? (true/false)
+link_authors = false
