@@ -74,15 +74,3 @@ subtitle = ""
  css_class = ""
 +++
 
-  # [[content.filter_button]]
-  #   name = "Rite of Betrothal"
-  #   tag = "*"
-  
-  # [[content.filter_button]]
-  #   name = "Flowers"
-  #   tag = "Deep Learning"
-  
-  # [[content.filter_button]]
-  #   name = "Music"
-  #   tag = "Demo"
-
