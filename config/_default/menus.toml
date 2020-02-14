@@ -36,24 +36,24 @@
   parent = "Wedding Planning"
   url = "the-engagement"
   weight = 30       
-  
-[[main]]
-  name = "The Wedding"
-  parent = "Wedding Planning"
-  url = "the-wedding"
-  weight = 40    
+
   
 [[main]]
   name = "For Priests"
   parent = "Wedding Planning"
   url = "for-priests"
-  weight = 50
+  weight = 40
   
 [[main]]
   name = "All Resources"
   parent = "Wedding Planning"
   url = "all-resources"
-  weight = 60    
+  weight = 50    
+  
+[[main]]
+  name = "Wedding"
+  url = "#wedding"
+  weight = 60  
 
 [[main]]
   name = "Contact"
