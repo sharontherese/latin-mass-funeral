@@ -1,11 +1,9 @@
-+++
-page_type = "widget_page"
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
-title = "Engagement"
-subtitle = ""
+---
+title: "Landing Page"  # Add a page title.
+summary: "Hello!"  # Add a page description.
+date: "2019-01-01T00:00:00Z"  # Add today's date.
+type: "widget_page"  # Page type is a Widget Page
+---
 
 [content]
   # Page type to display. E.g. project.
@@ -72,5 +70,4 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-+++
 
