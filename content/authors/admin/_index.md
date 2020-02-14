@@ -23,7 +23,7 @@ Welcome!
 A Catholic wedding Mass has two parts:
 
 1. the [Rite of Marriage](https://www.latinmasswedding.com/rite-of-marriage/)
-2. the [wedding Mass](https://www.latinmasswedding.com/wedding-mass/).
+2. the [wedding Mass](https://www.latinmasswedding.com/wedding-mass/)
 
 In my experience, the vast majority of Catholic wedding resources online presuppose that the couple will have a _Novus Ordo_ Mass (the current form of the Catholic Mass) - to say nothing of the fact that most wedding resources focus on the reception.
 
