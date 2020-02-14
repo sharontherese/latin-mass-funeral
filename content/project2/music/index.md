@@ -2,7 +2,7 @@
 title: Music
 summary: Explanations and examples of Catholic wedding music
 tags:
-- Music
+- Planning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
