@@ -32,6 +32,10 @@ subtitle = ""
 [[content.filter_button]]
      name = "For Priests"
      tag = "Priests"
+     
+[[content.filter_button]]
+     name = "Devotions"
+     tag = "Devotions"     
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
