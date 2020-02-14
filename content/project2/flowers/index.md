@@ -2,7 +2,7 @@
 title: Flowers
 summary: Catholic history and symbolism of wedding flowers
 tags:
-- Flowers
+- Planning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
