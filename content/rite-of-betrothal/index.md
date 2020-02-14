@@ -7,9 +7,7 @@ aliases = [
 ]
 
 +++
-![](/uploads/betrothal2.png)
-
-Manuscript: [Miniature of the betrothal of Louis the Pious, his marriage, and his coronation, Royal 16 G VI, folio 189v (c. 12th century)](http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=43972)
+_Manuscript: [Miniature of the betrothal of Louis the Pious, his marriage, and his coronation, Royal 16 G VI, folio 189v (c. 12th century)](http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=43972)_
 
 # About
 
