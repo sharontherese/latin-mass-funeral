@@ -23,15 +23,15 @@ subtitle = ""
   
   # [[content.filter_button]]
   #   name = "About this site"
-  #   tag = "*"
+  #   tag = "About"
   
   # [[content.filter_button]]
   #   name = "FAQs"
-  #   tag = "Deep Learning"
+  #   tag = "FAQs"
   
   # [[content.filter_button]]
   #   name = "Glossary"
-  #   tag = "Demo"
+  #   tag = "Glossary"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
