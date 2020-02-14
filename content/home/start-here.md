@@ -1,5 +1,5 @@
 +++
-active = false
+active = true
 date_format = "Jan 2006"
 draft = true
 headless = true
@@ -8,14 +8,14 @@ title = "Start Here"
 weight = 50
 widget = "accomplishments"
 [[item]]
-certificate_url = "https://latinmasswedding.com/about"
+certificate_url = "https://www.edx.org"
 date_end = ""
-date_start = ""
-description = ""
-organization = ""
-organization_url = ""
-title = "About This Site"
-url = ""
+date_start = "2018-03-01"
+description = "Formulated informed blockchain models, hypotheses, and use cases."
+organization = "edX"
+organization_url = "https://www.edx.org"
+title = "Blockchain Fundamentals"
+url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
 [[item]]
 certificate_url = "https://www.edx.org"
 date_end = ""
