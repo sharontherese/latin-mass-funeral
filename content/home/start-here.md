@@ -8,7 +8,7 @@ title = "Start Here"
 weight = 50
 widget = "accomplishments"
 [[item]]
-certificate_url = "https://www.edx.org"
+certificate_url = ""
 date_end = ""
 date_start = "2018-03-01"
 description = "Formulated informed blockchain models, hypotheses, and use cases."
