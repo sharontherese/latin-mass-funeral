@@ -2,7 +2,7 @@
 title: Programs
 summary: Templates for Mass programs
 tags:
-- programs
+- Planning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
