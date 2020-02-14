@@ -5,47 +5,23 @@
   
 [[main]]
   name = "Start Here"
-  url = "start-here"
+  url = "#start"
   weight = 20
-  
-[[main]]
-  name = "About"
-  parent = "Start Here"
-  url = "about"
-  weight = 20  
-
-[[main]]
-  name = "FAQs"
-  parent = "Start Here"
-  url = "faqs"
-  weight = 20  
-
-[[main]]
-  name = "Glossary"
-  parent = "Start Here"
-  url = "glossary"
-  weight = 20  
-
-[[main]]
-  name = "All Resources"
-  parent = "Start Here"
-  url = "all-resources"
-  weight = 30 
   
 [[main]]
   name = "Wedding"
   url = "#wedding"
-  weight = 40  
+  weight = 30  
 
 [[main]]
   name = "Planning"
   url = "#planning"
-  weight = 50  
+  weight = 4  
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
