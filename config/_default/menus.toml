@@ -31,34 +31,21 @@
   parent = "Start Here"
   url = "all-resources"
   weight = 30 
- 
-[[main]]
-  name = "Wedding Planning"
-  url = "wedding-planning"
-  weight = 30  
-  
-[[main]]
-  name = "The Engagement"
-  parent = "Wedding Planning"
-  url = "the-engagement"
-  weight = 30       
-
-  
-[[main]]
-  name = "For Priests"
-  parent = "Wedding Planning"
-  url = "for-priests"
-  weight = 40   
   
 [[main]]
   name = "Wedding"
   url = "#wedding"
-  weight = 60  
+  weight = 40  
+
+[[main]]
+  name = "Planning"
+  url = "#planning"
+  weight = 50  
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
