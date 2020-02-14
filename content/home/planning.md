@@ -35,7 +35,11 @@ subtitle = ""
      
 [[content.filter_button]]
      name = "Devotions"
-     tag = "Devotions"     
+     tag = "Devotions"
+     
+[[content.filter_button]]
+     name = "Learn More"
+     tag = "More"      
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
