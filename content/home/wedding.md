@@ -24,7 +24,6 @@ subtitle = ""
   # [[content.filter_button]]
   #   name = "Planning"
   #   tag = "planning"
-  
   [Flowers](https://www.latinmasswedding.com/flowers)
   [Music](https://www.latinmasswedding.com/music)
   
