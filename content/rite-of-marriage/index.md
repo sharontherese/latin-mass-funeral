@@ -5,7 +5,6 @@ title = "Rite of Marriage"
 toggle = false
 
 +++
-![](/uploads/_MG_0459_1-min.JPG)
 
 # About
 
