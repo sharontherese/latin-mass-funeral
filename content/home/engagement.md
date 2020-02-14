@@ -21,18 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "Planning"
-  #   tag = "planning"
-  [Flowers]
+ [[content.filter_button]]
+     name = "Planning"
+     tag = "planning"
   
-  # [[content.filter_button]]
-  #   name = "Day of"
-  #   tag = "day"
+[[content.filter_button]]
+     name = "Day of"
+     tag = "day"
   
-  # [[content.filter_button]]
-  #   name = "Glossary"
-  #   tag = "Glossary"
+[[content.filter_button]]
+     name = "Glossary"
+     tag = "Glossary"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
