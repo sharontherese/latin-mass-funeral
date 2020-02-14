@@ -27,7 +27,7 @@ subtitle = ""
   
 [[content.filter_button]]
      name = "Planning"
-     tag = "*"
+     tag = "Planning"
   
 [[content.filter_button]]
      name = "Glossary"
