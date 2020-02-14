@@ -1,20 +1,20 @@
 +++
-active = false
+active = true
 date_format = "Jan 2006"
 draft = true
 headless = true
 subtitle = ""
-title = "Accomplish&shy;ments"
+title = "Start Here"
 weight = 50
 widget = "accomplishments"
 [[item]]
-certificate_url = "https://www.coursera.org"
+certificate_url = "https://latinmasswedding.com/about"
 date_end = ""
-date_start = "2018-10-01"
+date_start = ""
 description = ""
-organization = "Coursera"
-organization_url = "https://www.coursera.org"
-title = "Neural Networks and Deep Learning"
+organization = ""
+organization_url = ""
+title = "About This Site"
 url = ""
 [[item]]
 certificate_url = "https://www.edx.org"
