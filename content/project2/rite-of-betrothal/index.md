@@ -2,7 +2,7 @@
 title: Rite of Betrothal
 summary: The full text of for the traditional Rite of Betrothal
 tags:
-- Rite of Betrothal
+- Betrothal
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
