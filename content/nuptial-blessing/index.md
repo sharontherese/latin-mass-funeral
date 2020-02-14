@@ -7,7 +7,6 @@ aliases = [
 ]
 
 +++
-![](/uploads/_MG_0505-min.JPG)
 
 # About
 
