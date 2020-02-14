@@ -25,6 +25,12 @@
   parent = "Start Here"
   url = "glossary"
   weight = 20  
+
+[[main]]
+  name = "All Resources"
+  parent = "Start Here"
+  url = "all-resources"
+  weight = 30 
  
 [[main]]
   name = "Wedding Planning"
@@ -42,13 +48,7 @@
   name = "For Priests"
   parent = "Wedding Planning"
   url = "for-priests"
-  weight = 40
-  
-[[main]]
-  name = "All Resources"
-  parent = "Wedding Planning"
-  url = "all-resources"
-  weight = 50    
+  weight = 40   
   
 [[main]]
   name = "Wedding"
