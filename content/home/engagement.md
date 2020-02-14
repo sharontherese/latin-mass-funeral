@@ -22,12 +22,12 @@ subtitle = ""
   filter_default = 0
   
  [[content.filter_button]]
-     name = "Planning"
-     tag = "planning"
+     name = "Engagement"
+     tag = "Rite of Betrothal"
   
 [[content.filter_button]]
      name = "Day of"
-     tag = "day"
+     tag = "*"
   
 [[content.filter_button]]
      name = "Glossary"
