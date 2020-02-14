@@ -23,7 +23,7 @@ subtitle = ""
   
  [[content.filter_button]]
      name = "Engagement"
-     tag = "Rite of Betrothal," "Marriage Preparation"
+     tag = "Rite of Betrothal" 
   
 [[content.filter_button]]
      name = "Planning"
