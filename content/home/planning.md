@@ -30,8 +30,8 @@ subtitle = ""
      tag = "Planning"
   
 [[content.filter_button]]
-     name = "Glossary"
-     tag = "Glossary"
+     name = "For Priests"
+     tag = "Priests"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
