@@ -10,7 +10,7 @@ widget = "accomplishments"
 [[item]]
 certificate_url = ""
 date_end = ""
-date_start = ""
+date_start = "2020"
 description = "Formulated informed blockchain models, hypotheses, and use cases."
 organization = "edX"
 organization_url = "https://www.edx.org"
