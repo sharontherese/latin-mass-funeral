@@ -8,8 +8,6 @@ aliases = [
 
 +++
 
-![](/uploads/08740016-min.JPG)
-
 # About
 
 Rubrics are the "how" of rites and Masses. There are rubrics on the Latin Mass in general [^1]; this page is for rubrics specific to the wedding Mass.
