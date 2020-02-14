@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Start Here"
+title = "Wedding"
 subtitle = ""
 
 [content]
@@ -22,12 +22,12 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-  #   name = "About this site"
-  #   tag = "About"
+  #   name = "Planning"
+  #   tag = "planning"
   
   # [[content.filter_button]]
-  #   name = "FAQs"
-  #   tag = "FAQs"
+  #   name = "Day of"
+  #   tag = "day"
   
   # [[content.filter_button]]
   #   name = "Glossary"
