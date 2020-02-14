@@ -1,6 +1,6 @@
 ---
 title: Rite of Marriage
-summary: An explanation and full text of the 1962 Rite of Marriage
+summary: The full text of the 1962 Rite of Marriage
 tags:
 - Rite of Marriage
 date: "2016-04-27T00:00:00Z"
