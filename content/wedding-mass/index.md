@@ -9,7 +9,6 @@ aliases = [
 ]
 
 +++
-![](/uploads/_MG_0492-min.JPG)
 
 # About
 
