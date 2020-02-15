@@ -9,9 +9,6 @@ aliases = [
 ]
 +++
 
-test
-![](/uploads/_MG_0677-min-1.JPG)
-
 Sancta Missa also has a Latin Mass wedding Q&A [here.] (https://sanctamissa.org/en/music/musical-guidelines-for-the-traditional-roman-rite/liturgical-services-music-for-the-nuptial-high-mass.pdf)
 
 # I want a TLM wedding! What do I do?
