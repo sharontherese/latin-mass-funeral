@@ -8,7 +8,6 @@ aliases = [
 ]
 
 +++
-![](/uploads/_MG_0182-min.JPG)
 
 Betrothal
 : Betrothal, or betrothment, is, "a mutual promise of future marriage, or a contract by which a man and a woman engage themselves to marry." [^1]
