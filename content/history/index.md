@@ -7,9 +7,9 @@ aliases = [
 ]
 
 +++
-![](/uploads/sf55-18-3d1 (1).jpg)  
-Manuscript Leaf with Marriage Scene, from Decretals of Gregory IX,ca. 1300  
-[The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/468476)
+
+_Manuscript Leaf with Marriage Scene, from Decretals of Gregory IX,ca. 1300  
+[The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/468476)_
 
 # About
 
