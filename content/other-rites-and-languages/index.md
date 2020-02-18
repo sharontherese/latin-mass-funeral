@@ -30,6 +30,15 @@ Siniculus, “**The Sacrament of Matrimony According to the Use of the Philippin
 
 Siniculus, “**Matrimony According to the Use of the Philippine Islands**,” _Dei Praesidio Fultus_ (blog), September 14, 2013, http://deipraesidiofultus.blogspot.com/2013/09/matrimony-according-to-use-of.html.
 
+## Sarum 
+
+Justin, Fr. “**Wedding, Sarum-Style**.” Nova et Vetera (blog), August 6, 2007. http://nova-et-vetera.blogspot.com/2007/08/wedding-sarum-style.html.
+
+The Modern Medievalist. “**Modern Medievalism: The Use of Sarum: A Brief History and Why It Matters**.” Modern Medievalism (blog), October 11, 2012. http://modernmedievalism.blogspot.com/2012/10/the-use-of-sarum-brief-history-and-why.html.
+
+The Pocket Scroll. “**Order for Consecration of Marriage: Sarum Use**,” July 21, 2010. https://thepocketscroll.wordpress.com/classic-christian-texts/order-for-consecration-of-marriage-sarum-use/.
+
+
 # Country
 
 ## France 
