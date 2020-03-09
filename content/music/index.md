@@ -92,17 +92,20 @@ Dalitz, Christoph. “Missa Tribus Vocibus.” ChoralWiki. Accessed August 6, 20
 
 Below are a few popular choices for hymns, motets, and chants for the wedding Mass. Many of these texts have more than one setting. If you need inspiration, consider the background of you and your future spouse (French, Italian, Irish, etc.), or the feasts on/near your wedding day. If your wedding day is near, for example, St. Thomas Aquinas' feast day, you could choose one of the many songs he composed, or a song centered on the Eucharist, a common theme in St. Thomas' works.
 
+## Sequences 
+
+A sequence is a hymn sung before the Gospel. Before the Council of Trent, there were hundreds of sequences for various Masses and feasts. The Tridentine reforms winnowed the sequences in the Roman Missal to 4 (now 5), the most famous of which is likely the _Dies Irae._ The [Sarum Use](https://www.latinmasswedding.com/other-rites-and-languages/) of the Roman Rite used the sequence _Alma Chorus Domini_ for its nuptial Masses (which was typically the Mass of the Trinity). Below are links to a PDF of the Latin and the English sheet music.
+
+* {{% staticref "files/alma-chorus.pdf" %}}Latin sheet music for the Sarum nuptial sequence _Alma Chorus Domini_ (PDF){{% /staticref %}}
+* [Chantblog's post](http://chantblog.blogspot.com/2013/11/the-hymns-at-lesser-hours-compline-iii.html) on _Alma Chorus Domini_, which includes some history, and sheet music for an English translation 
+
 ## Marian chants
 
-Alma Redemptoris Mater (Marian atiphon for: Advent through February 1) 
-
-Ave, Regina Caelorum (Marian atiphon for: February 2 through Good Friday)
-
-Regina Caeli (Marian atiphon for: during the season of Easter)
-
-Salve Regina (Marian atiphon for: after Pentecost)
-
-Ave maris stella
+* Alma Redemptoris Mater (Marian atiphon for: Advent through February 1) 
+* Ave, Regina Caelorum (Marian atiphon for: February 2 through Good Friday)
+* Regina Caeli (Marian atiphon for: during the season of Easter)
+* Salve Regina (Marian atiphon for: after Pentecost)
+* Ave maris stella
 
 ## Composers 
 
@@ -110,15 +113,11 @@ The following composers have written many sacred music pieces: Giovanni Pierluig
 
 Below are a few favorites from that list: 
 
-Ave verum Corpus, Mozart
-
-Ave verum, Byrd
-
-Ave maria, Schubert
-
-Sicut cervus, Palestrina 
-
-If ye love me, Tallis
+* Ave verum Corpus, Mozart
+* Ave verum, William Byrd
+* Ave maria, Schubert
+* Sicut cervus, Palestrina 
+* If ye love me, Thomas Tallis
 <br>
 <br>
 # Sources about Sacred Music 
@@ -140,3 +139,7 @@ Sullivan, Roseanne T. “**Propers of the Mass vs. the Four Hymn Sandwich.**” 
 “**What Is Gregorian Chant?**” GIA Publications. Accessed June 3, 2019. https://www.giamusic.com/sacred_music/chant_what_is.cfm
 
 Gattozzi, Bibiana. “**Catholic Artistic Piety in a Motet.**” _The Angelus Online_ (blog). Accessed June 3, 2019. http://www.angelusonline.org/index.php?section=articles&subsection=show_article&article_id=2667
+
+David Friel, “**A Mini History of the Sequences**,” Corpus Christi Watershed, May 24, 2015, https://www.ccwatershed.org/2015/05/24/mini-history-sequences/.
+
+Bls, “The Hymns at the Lesser Hours: Compline III,” Chantblog (blog), November 6, 2013, http://chantblog.blogspot.com/2013/11/the-hymns-at-lesser-hours-compline-iii.html.
