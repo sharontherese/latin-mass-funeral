@@ -42,7 +42,7 @@ The Pocket Scroll. “**Order for Consecration of Marriage: Sarum Use**,” July
 
 A sequence is a hymn sung before the Gospel. Before the Council of Trent, there were hundreds of sequences for various Masses and feasts. The Tridentine reforms winnowed the sequences in the Roman Missal to 4 (now 5), the most famous of which is likely the _Dies Irae._ The Sarum Use of the Roman Rite used the sequence _Alma Chorus Domini_ for its nuptial Masses (which was typically the Mass of the Trinity). Below are links to a PDF of the Latin and the English sheet music.
 
-* {{% staticref "files/alma-chorus.pdf" %}}Latin sheet music for the Sarum nuptial sequence _Alma Chorus Domini_ (PDF){{% /staticref %}}
+* {{% staticref "files/alma-chorus.pdf" %}}Latin sheet music for the Sarum nuptial sequence _Alma Chorus Domini_ (PDF){{% /staticref %}}. (Reposted with permission from the Gregorian Institute of Canada)
 * [Chantblog's post](http://chantblog.blogspot.com/2013/11/the-hymns-at-lesser-hours-compline-iii.html) on _Alma Chorus Domini_, which includes some history, and sheet music for an English translation 
 
 
