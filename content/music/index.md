@@ -7,7 +7,6 @@ aliases = [
 ]
 
 +++
-![](/uploads/introit.png)
 
 # About
 
@@ -48,6 +47,8 @@ Here is how our wedding Mass music looked:
 
 # Propers
 
+![](/uploads/introit.png)
+
 The _propers_ are the Introit, Gradual, Tract, Alleluia, Offertory, and Communion. 
 
 ## Gregorian chant settings
@@ -69,6 +70,8 @@ Polyphonic settings of the nuptial propers are one of the most difficult types o
 <br>
 # Ordinaries
 
+![](/uploads/kyrie.png)
+
 The _ordinaries_ are the Kyrie, Sanctus, and Agnus Dei (the Gloria and Credo are not included in the wedding Mass). 
 
 ## Gregorian chant settings
@@ -89,6 +92,9 @@ Dalitz, Christoph. “Missa Tribus Vocibus.” ChoralWiki. Accessed August 6, 20
 <br>
 <br>
 # Other Sacred Music
+
+![](/uploads/almachorus.png)
+_Alma chorus domini in the The Winchester Troper, Cambridge, Corpus Christi College, MS 473: 129r_
 
 Below are a few popular choices for hymns, motets, and chants for the wedding Mass. Many of these texts have more than one setting. If you need inspiration, consider the background of you and your future spouse (French, Italian, Irish, etc.), or the feasts on/near your wedding day. If your wedding day is near, for example, St. Thomas Aquinas' feast day, you could choose one of the many songs he composed, or a song centered on the Eucharist, a common theme in St. Thomas' works.
 
