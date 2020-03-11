@@ -8,6 +8,8 @@ aliases = [
 
 +++
 
+_Detail of an historiated initial 'C'(antate Domino), at the beginning of Psalm 97. Breviary, Use of Sarum with Norwich variants ('The Stowe Breviary'). British Library._
+
 # About
 
 The ideal music _setting_ for the Mass is _gregorian chant_, followed by _polyphony_. In a sung _Latin Mass_, or _high Mass_, what is sung are the _propers_ and _ordinaries_. Historically, hymns were discouraged in the Mass. Your Latin Mass wedding music will depend mostly on the musical resources available to your church.
