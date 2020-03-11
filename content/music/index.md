@@ -95,7 +95,7 @@ Dalitz, Christoph. “Missa Tribus Vocibus.” ChoralWiki. Accessed August 6, 20
 <br>
 # Other Sacred Music
 
-![](/uploads/almachorus.png)
+![](/uploads/almachorus.jpg)
 _Alma chorus domini in the The Winchester Troper, Cambridge, Corpus Christi College, MS 473: 129r_
 
 Below are a few popular choices for hymns, motets, and chants for the wedding Mass. Many of these texts have more than one setting. If you need inspiration, consider the background of you and your future spouse (French, Italian, Irish, etc.), or the feasts on/near your wedding day. If your wedding day is near, for example, St. Thomas Aquinas' feast day, you could choose one of the many songs he composed, or a song centered on the Eucharist, a common theme in St. Thomas' works.
