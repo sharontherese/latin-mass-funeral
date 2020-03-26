@@ -10,7 +10,7 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "prefacesheader.png"
+  image: "prefacesheader2.png"
 ---
 
 On March 25, 2020, the Congregation for the Doctrine of Faith [announced](https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2020/03/25/0183/00401.html#EN) that they had approved seven new prefaces for optional use in the _Extraordinary Form_, or the Traditional Latin Mass. 
