@@ -6,8 +6,7 @@ aliases = [
     "/resources/flowers/",
 ]
 
-+++
-![](/uploads/marygardentop.jpg)  
++++ 
 [Upper Rhenish Master, Little Garden of Paradise (c. 15th century)](https://commons.wikimedia.org/wiki/File:1415_Das_Paradiesg%C3%A4rtlein_anagoria.JPG)
 
 # About
