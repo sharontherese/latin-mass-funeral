@@ -19,7 +19,7 @@ Your choice in flowers should be guided by the interior deisgn of the church whe
 
 The most popular custom regarding flowers in Catholicism is Mary gardens.[^1] Mary gardens are a custom - dating at least to medieval Europe - of dedicating a garden to the Blessed Mother and growing plants associated with her. The flowers and herbs with Marian associations are quite extensive, from rosemary (Mary's rose), to bleeding hearts (Mary's heart), to ferns (Mary's hair). FishEaters provides an excellent list of flowers and their Marian associations.[^2] 
 
-For those with the resources and inclination, growing a Mary garden for one's wedding is a praiseworthy custom. (Of course, you can grow a Mary garden at any time - but weddings are obviously more relevant here.) If you plan to give a bouquet to Mary during your wedding Mass, perhaps that bouquet could come from your own garden, or a friend's garden. Jen Stark's website Happy DIY Home is a good starting point with, for example, their post on care for bleeding hearts[^3].  
+For those with the resources and inclination, growing a Mary garden for one's wedding is a praiseworthy custom. (Of course, you can grow a Mary garden at any time - but weddings are obviously more relevant here.) If you plan to give a bouquet to Mary during your wedding Mass, perhaps that bouquet could come from your own garden, or a friend's garden. Jenn Stark's website Happy DIY Home is a good starting point with, for example, their post on care for bleeding hearts[^3].  
 
 For those more interested in flower histories and symbolism, see Gemminger's book _Flowers of Mary_[^4], the blog The Pious Spinster[^5], and Wells' book _100 Flowers and How They Got Their Names_[^6]. 
 
