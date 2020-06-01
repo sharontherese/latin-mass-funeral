@@ -54,7 +54,7 @@ Thy wife shall be as a fruitful vine on the sides of thy house. V. Thy children 
 
 Psalm 127:4-6 (RSV-CE 128)
 
-Ecce, sit benedicetur omnis homo, qui timet Dominum. V. Benedicat tibi Dominus ex Sion: et videas bona Jerusalem omnibus diebus vitae tuae. V. Et videas filios filiorum tuorum: pax super Israel.
+Ecce, sic benedicetur omnis homo, qui timet Dominum. V. Benedicat tibi Dominus ex Sion: et videas bona Jerusalem omnibus diebus vitae tuae. V. Et videas filios filiorum tuorum: pax super Israel.
 
 Behold thus shall the man be blessed that feareth the Lord. May the Lord bless thee out of Sion; and mayest thou see the good things of Jerusalem all the days of thy life. And mayest thou see thy children's children: peace upon Israel. 
 
