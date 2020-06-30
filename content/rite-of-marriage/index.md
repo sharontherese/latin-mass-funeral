@@ -26,7 +26,7 @@ Below is the text for the Rite of Marriage, as found in the 1962 _Rituale Romanu
 
 # Rite of Marriage (1962)
 
-* To view the Latin and English side by side, see this PDF. 
+* To view the Latin and English side by side, see this {{% staticref "files/1962 Rite of Marriage (Latin-English).pdf" %}}PDF{{% /staticref %}}
 
 ## In Latin 
 
@@ -130,7 +130,7 @@ She replies: **I do.**
 
 The consent of one does not suffice, but consent must be given by both-expressed in words, if possible, but otherwise through equivalent signs, whether personally or through a proxy.
 
-After he has received the consent of the parties, the priest tells them to join their right hands. and says: **Ego conjúngo vos in matrimónium. In nómine Patris, et Fílii, et Spíritus Sancti. Amen.**
+After he has received the consent of the parties, the priest tells them to join their right hands. and says: **By the authority of the Church I ratify and bless the bond of marriage you have contracted. In the name of the Father, and of the Son, and of the Holy Spirit.**
 
 Vel aliis utatur verbis juxta receptum uniuscujusque loci ritum.
 
