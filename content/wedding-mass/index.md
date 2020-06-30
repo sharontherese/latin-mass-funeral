@@ -14,7 +14,7 @@ aliases = [
 
 The Latin Mass wedding Mass (one of many _votive Masses_) is called _Missa pro sponso et sponsa_, or the Mass for the Groom and Bride. It is optional, and preceded by the Rite of Marriage.
 
-The text below is from the 1962 _Missale Romanum_. [^1] Due to different translations and edits over time, there may be slight variations in the Nuptial Blessing in different missals.
+The Latin text below is from the 1920 _Missale Romanum_, [^1] and the English text is from the 1806 _Roman Missal for the Use of the Laity_. [^2] Due to different translations and edits over time, there may be slight variations in the Nuptial Blessing in different missals.
 
 **Rubric note:** The wedding Mass is a second class votive Mass [^3] [^4] [^5], and its readings are therefore superceded if the wedding day is on a first class feast. However, the nuptial blessing and the final blessing may still be used. So if, for example, you have a Latin Mass wedding on August 15, Feast of the Assumption of Our Lady (a first class feast), your Mass would have the nuptial blessing, and the final blessing, and the readings for the feast of the Assumption.
 
@@ -142,7 +142,9 @@ R. Amen.
 
 # Sources
 
-[^1]: Catholic Church. **_The Roman Missal for the Use of the Laity_**: P. Keating, Brown, 1806. _Internet Archive_, [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
+[^1]: Catholic Church. **_Missale Romanum_**. 1920. https://archive.org/details/MissaleRomanum1920/
+
+[^2]: Catholic Church. **_The Roman Missal for the Use of the Laity_**: P. Keating, Brown, 1806. _Internet Archive_, [http://archive.org/details/a550137400unknuoft](http://archive.org/details/a550137400unknuoft "http://archive.org/details/a550137400unknuoft").
 
 [^3]: Catholic Church. **Saint Andrew Daily Missal**. Bruges: Biblica, 1962. http://www.worldcat.org/oclc/25614082.
 
