@@ -26,45 +26,181 @@ Below is the text for the Rite of Marriage, as found in the 1962 _Rituale Romanu
 
 # Rite of Marriage (1962)
 
-## Part 1: The Exchange of Vows
+* To view the Latin and English side by side, see this PDF. 
 
-The priest is vested in a surplice and white stole. If, however, the marriage ceremony is performed by the priest who is going to say the Nuptial Mass and this Mass follows immediately, the priest puts on all the vestments except the maniple, which should be placed on the altar, whence he takes it and puts it on after the marriage ceremony. To assist the priest there should be at least one acolyte, who wears a surplice and carries the book and a vessel with Holy Water. The priest interrogates the man and woman concerning their consent to marry.
+## In Latin 
 
-First the priest asks the groom:
+1. Parochus Matrimonio adfuturus, publicationibus factis ut dictum est, si nullum obstet legitimum impedimentum in ecclesia, superpelliceo et stola alba indutus, adhibito uno saltem Clerico superpelliceo pariter induto, qui librum et vas aquæ benedictæ cum aspersorio deferat, coram duobus saltem testibus, virum et mulierem ante altare genuflexos, quos parentum vel propinquorum suorum præsentia cohonestari decet, de consensu in Matrimonium interroget, utrumque singillatim in hunc modum vulgari sermone:
 
-> N., do you take N. here present, for your lawful wife according to the rite of our holy mother, the Church?
+Et primo quidem sponsum interroget: **N. Vis accípere N. hic præséntem in tuam legítimam uxórem juxta ritum sanctæ matris Ecclésiæ?**
 
-The bridegroom responds:
+Respondeat sponsus:  **Volo.**
 
-> I do.
+2. Mox Sacerdos sponsam interroget: **N. Vis accípere N. hic præséntem in tuum legítimum marítum juxta ritum sanctæ matris Ecclésiæ?**
 
-2\. Then he asks the bride:
+Respondeat sponsa: **Volo.**
 
-> N., do you take N., here present, for your lawful husband according to the rite of our holy mother, the Church?
+Nec sufficit consensus unius, sed debet esse amborum, et expressus verbis, si loqui possint, aut secus æquipollentibus signis, sive fiat per se, sive per procuratorem.
 
-She replies:
+Mutuo autem contrahentium consensu intellecto, Sacerdos jubeat eos invicem jungere dexteras, et dicat: **Ego conjúngo vos in matrimónium. In nómine Patris, et Fílii, X et Spíritus Sancti. Amen.**
 
-> I do. \[...\]
+Vel aliis utatur verbis juxta receptum uniuscujusque loci ritum.
 
-After he has received the consent of the parties, the priest tells them to join their right hands. and says:
+Postea eos aspergat aqua benedicta.
 
-> Ego conjúngo vos in matrimónium. In nómine Patris, et Fílii, et Spíritus Sancti. Amen. 
+Mox benedicat anulum, dicens:
 
-(Vel aliis utatur verbis juxta receptum uniuscujusque loci ritum.)
+**V. Adjutórium nostrum in nómine Dómini.**
+
+**R. Qui fecit cælum et terram.**
+
+**V. Dómine, exáudi oratiónem meam.**
+
+**R. Et clamor meus ad te véniat.**
+
+**V. Dóminus vobíscum.**
+
+**R. Et cum spíritu tuo.**
+
+**Orémus. Oratio
+Béne X dic, Dómine, ánulum hunc, quem nos in tuo nómine bene X dícimus: ut, quæ eum gestáverit, fidelitátem íntegram suo sponso tenens, in pace et voluntáte tua permáneat, atque in mútua caritáte semper vivat. Per Christum Dóminum nostrum. R. Amen.**
+
+3. Deinde Sacerdos aspergat anulum aqua benedicta; et sponsus acceptum anulum de manu Sacerdotis imponat in digito anulari sinistræ manus sponsæ, Sacerdote dicente:
+
+**In nómine Patris, et Fílii, X et Spíritus Sancti. Amen.**
+
+Mox Sacerdos subjungat:
+
+**V. Confírma hoc, Deus, quod operátus es in nobis.**
+
+**R. A templo sancto tuo, quod est in Jerúsalem.**
+
+**Kýrie, eléison. Christe, eléison. Kýrie, eléison.**
+
+**Pater noster** secreto usque ad:
+
+**V. Et ne nos indúcas in tentatiónem.**
+
+**R. Sed líbera nos a malo.**
+
+**V. Salvos fac servos tuos.**
+
+**R. Deus meus, sperántes in te.**
+
+**V. Mitte eis, Dómine, auxílium de sancto.**
+
+**R. Et de Sion tuére eos.**
+
+**V. Esto eis, Dómine, turris fortitúdinis.**
+
+**R. A fácie inimíci.**
+
+**V. Dómine, exáudi oratiónem meam.**
+
+**R. Et clamor meus ad te véniat.**
+
+**V. Dóminus vobíscum.**
+
+**R. Et cum spíritu tuo.**
+
+**Orémus. Oratio
+Réspice, quæsumus, Dómine, super hos fámulos tuos: et institútis tuis, quibus propagatiónem humáni géneris ordinásti, benígnus assíste; ut qui te auctóre jungúntur, te auxiliánte servéntur. Per Christum Dóminum nostrum. R. Amen.**
+
+4. His expletis, si benedicendæ sint nuptiæ, Parochus Missam pro Sponso et Sponsa, ut in Missali Romano, celebret, servatis omnibus quæ ibi præscribuntur.
+
+5. Quando plures simul copulantur, accepto primum singulorum consensu, et rite celebratis singulis Matrimoniis, dictoque pro singulis a Parocho Ego conjúngo vos in matrimónium, etc., benedictiones anulorum et reliquæ benedictiones plurali numero semel fiunt.
+
+6. Ceterum, sicubi aliæ laudabiles consuetudines et cæremoniæ in celebrando Matrimonii Sacramento adhibentur, eas convenit retineri.
+
+7. Celebrato Matrimonio, Parochus vel qui ejus vices gerit, quamprimum describat in libro Matrimoniorum nomina conjugum ac testium, locum et diem celebrati Matrimonii, atque alia juxta formulam præscriptam; idque licet alius Sacerdos vel a se vel ab Ordinario delegatus Matrimonio adstiterit.
+
+Præterea Parochus in libro quoque Baptizatorum adnotet conjugem tali die in sua parœcia Matrimonium contraxisse. Quod si conjux alibi baptizatus fuerit, Matrimonii Parochus notitiam initi contractus ad Parochum Baptismi sive per se sive per Curiam episcopalem transmittat, ut Matrimonium in Baptizatorum librum referatur.
+
+## In English
+
+1. The priest is vested in a surplice and white stole. If, however, the marriage ceremony is performed by the priest who is going to say the Nuptial Mass and this Mass follows immediately, the priest puts on all the vestments except the maniple, which should be placed on the altar, whence he takes it and puts it on after the marriage ceremony. To assist the priest there should be at least one acolyte, who wears a surplice and carries the book and a vessel with Holy Water. The priest interrogates the man and woman concerning their consent to marry.
+
+First the priest asks the groom: **N., do you take N. here present, for your lawful wife according to the rite of our holy mother, the Church?**
+
+The bridegroom responds: **I do.**
+
+2. Then he asks the bride: **N., do you take N., here present, for your lawful husband according to the rite of our holy mother, the Church?**
+
+She replies: **I do.** 
+
+The consent of one does not suffice, but consent must be given by both-expressed in words, if possible, but otherwise through equivalent signs, whether personally or through a proxy.
+
+After he has received the consent of the parties, the priest tells them to join their right hands. and says: **Ego conjúngo vos in matrimónium. In nómine Patris, et Fílii, et Spíritus Sancti. Amen.**
+
+Vel aliis utatur verbis juxta receptum uniuscujusque loci ritum.
 
 Then he sprinkles them with holy water.
 
-## Part 2: Blessing and Exchange of Rings
+Next the priest blesses the ring saying:
 
-Next the priest blesses the ring saying...
+**V. Our help is in the name of the Lord.**
 
-> Bless O Lord, this ring, which we are blessing in Thy name, so that she who wears it, keeping faith with her husband in unbroken loyalty, may ever remain at peace with Thee, obedient to Thy will, and may live with him always in mutual love. Through Christ our Lord. R. Amen.
+**R. Who made heaven and earth.**
 
-The priest then sprinkles the ring with holy water. The husband, taking the ring from the priest's hand, places it upon the ring finger of his wife's left hand, saying:
+**V. O Lord, hear my prayer.**
 
-> Take and wear this ring as a sign of our marriage vows. In the name of the Father, and of the Son, X and of the Holy Ghost. Amen. \[...\]
+**R. And let my cry come to you.**
 
-After this, if the nuptial blessing is to be given, the Mass pro Sponso et Sponsa is celebrated, according to the rubrics of the Roman Missal.
+**V. The Lord be with you.**
+
+**R. And with thy spirit.**
+
+**Let us pray. Prayer
+Bless O Lord, this ring, which we are blessing in Thy name, so that she who wears it, keeping faith with her husband in unbroken loyalty, may ever remain at peace with Thee, obedient to Thy will, and may live with him always in mutual love. Through Christ our Lord. R. Amen.**
+
+3. The priest then sprinkles the ring with holy water. The husband, taking the ring from the priest's hand, places it upon the ring finger of his wife's left hand, saying: **Take and wear this ring as a sign of our marriage vows. In the name of the Father, and of the Son, X and of the Holy Ghost. Amen. 
+
+Then the priest adds:
+
+**V. Strengthen, O God, what you have wrought in us.**
+
+**R. From your holy temple, which is in Jerusalem.**
+
+**Lord, have mercy. Christ, have mercy. Lord, have mercy.**
+
+**Our Father** silently as far as:
+
+**V. And lead us not into temptation.**
+
+**R. But deliver us from evil.**
+
+**V. Save your servants.**
+
+**R. Who trust in you, my God.**
+
+**V. Send them help, O Lord, from your sanctuary.**
+
+**R. And sustain them from Sion.**
+
+**V. Be a tower of strength for them, O Lord.**
+
+**R. Against the attack of the enemy.**
+
+**V. O Lord, hear my prayer.**
+
+**R. And let my cry come to you.**
+
+**V. The Lord be with you.**
+
+**R. And with thy spirit.**
+
+**Let us pray. Prayer
+We beg you, Lord, to look on these your servants, and graciously to uphold the institution of marriage established by you for the continuation of the human race, so that they who have been joined together by your authority may remain faithful together by your help. Through Christ our Lord. R. Amen.**
+
+4. After this, if the nuptial blessing is to be given, the Mass pro Sponso et Sponsa is celebrated, according to the rubrics of the Roman Missal.
+
+5. If several couples are married at the same time, the exchange of consent and contracting of marriage, as well as the formula Ego conjúngo vos in matrimónium, etc., are to take place separately for each individual couple, but the blessing of ring and other prayers are said only once, in the plural.
+
+6. Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained.
+
+7. After the marriage has been celebrated, the pastor, or the one who takes his place, as soon as possible should inscribe in the Book of Marriages the names of the spouses and witnesses, and the place and day of the marriage celebrated, and the other things according to the prescribed form. And this is done even though another priest or one delegated by the pastor or by the Ordinary has taken the pastor's place.
+
+Moreover, the pastor should note in the Book of Baptisms that the party has contracted marriage on such day in his (her) own parish. But if the party should have been baptized elsewhere, the pastor, having drawn up a note of the marriage entered into, should transmit to the pastor of the Baptism, either by himself or through the episcopal chancery, the fact that the marriage be set down in the Book of Baptisms.
 
 # Sources
 
