@@ -156,7 +156,7 @@ Next the priest blesses the ring saying:
 
 **Bless O Lord, this ring, which we are blessing in Thy name, so that she who wears it, keeping faith with her husband in unbroken loyalty, may ever remain at peace with Thee, obedient to Thy will, and may live with him always in mutual love. Through Christ our Lord. R. Amen.**
 
-3\. The priest then sprinkles the ring with holy water. The husband, taking the ring from the priest's hand, places it upon the ring finger of his wife's left hand, saying: **Take and wear this ring as a sign of our marriage vows. In the name of the Father, and of the Son, X and of the Holy Ghost. Amen. 
+3\. The priest then sprinkles the ring with holy water. The husband, taking the ring from the priest's hand, places it upon the ring finger of his wife's left hand, saying: **Take and wear this ring as a sign of our marriage vows. In the name of the Father, and of the Son, X and of the Holy Ghost. Amen.** 
 
 Then the priest adds:
 
