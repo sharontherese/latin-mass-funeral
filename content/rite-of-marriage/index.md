@@ -30,13 +30,13 @@ Below is the text for the Rite of Marriage, as found in the 1962 _Rituale Romanu
 
 ## In Latin 
 
-1. Parochus Matrimonio adfuturus, publicationibus factis ut dictum est, si nullum obstet legitimum impedimentum in ecclesia, superpelliceo et stola alba indutus, adhibito uno saltem Clerico superpelliceo pariter induto, qui librum et vas aquæ benedictæ cum aspersorio deferat, coram duobus saltem testibus, virum et mulierem ante altare genuflexos, quos parentum vel propinquorum suorum præsentia cohonestari decet, de consensu in Matrimonium interroget, utrumque singillatim in hunc modum vulgari sermone:
+1\. Parochus Matrimonio adfuturus, publicationibus factis ut dictum est, si nullum obstet legitimum impedimentum in ecclesia, superpelliceo et stola alba indutus, adhibito uno saltem Clerico superpelliceo pariter induto, qui librum et vas aquæ benedictæ cum aspersorio deferat, coram duobus saltem testibus, virum et mulierem ante altare genuflexos, quos parentum vel propinquorum suorum præsentia cohonestari decet, de consensu in Matrimonium interroget, utrumque singillatim in hunc modum vulgari sermone:
 
 Et primo quidem sponsum interroget: **N. Vis accípere N. hic præséntem in tuam legítimam uxórem juxta ritum sanctæ matris Ecclésiæ?**
 
 Respondeat sponsus:  **Volo.**
 
-2. Mox Sacerdos sponsam interroget: **N. Vis accípere N. hic præséntem in tuum legítimum marítum juxta ritum sanctæ matris Ecclésiæ?**
+2.\ Mox Sacerdos sponsam interroget: **N. Vis accípere N. hic præséntem in tuum legítimum marítum juxta ritum sanctæ matris Ecclésiæ?**
 
 Respondeat sponsa: **Volo.**
 
@@ -62,10 +62,11 @@ Mox benedicat anulum, dicens:
 
 **R. Et cum spíritu tuo.**
 
-**Orémus. Oratio
-Béne X dic, Dómine, ánulum hunc, quem nos in tuo nómine bene X dícimus: ut, quæ eum gestáverit, fidelitátem íntegram suo sponso tenens, in pace et voluntáte tua permáneat, atque in mútua caritáte semper vivat. Per Christum Dóminum nostrum. R. Amen.**
+**Orémus.** Oratio
 
-3. Deinde Sacerdos aspergat anulum aqua benedicta; et sponsus acceptum anulum de manu Sacerdotis imponat in digito anulari sinistræ manus sponsæ, Sacerdote dicente:
+**Béne X dic, Dómine, ánulum hunc, quem nos in tuo nómine bene X dícimus: ut, quæ eum gestáverit, fidelitátem íntegram suo sponso tenens, in pace et voluntáte tua permáneat, atque in mútua caritáte semper vivat. Per Christum Dóminum nostrum. R. Amen.**
+
+\3.\ Deinde Sacerdos aspergat anulum aqua benedicta; et sponsus acceptum anulum de manu Sacerdotis imponat in digito anulari sinistræ manus sponsæ, Sacerdote dicente:
 
 **In nómine Patris, et Fílii, X et Spíritus Sancti. Amen.**
 
@@ -103,8 +104,9 @@ Mox Sacerdos subjungat:
 
 **R. Et cum spíritu tuo.**
 
-**Orémus. Oratio
-Réspice, quæsumus, Dómine, super hos fámulos tuos: et institútis tuis, quibus propagatiónem humáni géneris ordinásti, benígnus assíste; ut qui te auctóre jungúntur, te auxiliánte servéntur. Per Christum Dóminum nostrum. R. Amen.**
+**Orémus.** Oratio
+
+**Réspice, quæsumus, Dómine, super hos fámulos tuos: et institútis tuis, quibus propagatiónem humáni géneris ordinásti, benígnus assíste; ut qui te auctóre jungúntur, te auxiliánte servéntur. Per Christum Dóminum nostrum. R. Amen.**
 
 4. His expletis, si benedicendæ sint nuptiæ, Parochus Missam pro Sponso et Sponsa, ut in Missali Romano, celebret, servatis omnibus quæ ibi præscribuntur.
 
@@ -150,8 +152,9 @@ Next the priest blesses the ring saying:
 
 **R. And with thy spirit.**
 
-**Let us pray. Prayer
-Bless O Lord, this ring, which we are blessing in Thy name, so that she who wears it, keeping faith with her husband in unbroken loyalty, may ever remain at peace with Thee, obedient to Thy will, and may live with him always in mutual love. Through Christ our Lord. R. Amen.**
+**Let us pray.** Prayer
+
+**Bless O Lord, this ring, which we are blessing in Thy name, so that she who wears it, keeping faith with her husband in unbroken loyalty, may ever remain at peace with Thee, obedient to Thy will, and may live with him always in mutual love. Through Christ our Lord. R. Amen.**
 
 3. The priest then sprinkles the ring with holy water. The husband, taking the ring from the priest's hand, places it upon the ring finger of his wife's left hand, saying: **Take and wear this ring as a sign of our marriage vows. In the name of the Father, and of the Son, X and of the Holy Ghost. Amen. 
 
@@ -189,8 +192,9 @@ Then the priest adds:
 
 **R. And with thy spirit.**
 
-**Let us pray. Prayer
-We beg you, Lord, to look on these your servants, and graciously to uphold the institution of marriage established by you for the continuation of the human race, so that they who have been joined together by your authority may remain faithful together by your help. Through Christ our Lord. R. Amen.**
+**Let us pray.** Prayer
+
+**We beg you, Lord, to look on these your servants, and graciously to uphold the institution of marriage established by you for the continuation of the human race, so that they who have been joined together by your authority may remain faithful together by your help. Through Christ our Lord. R. Amen.**
 
 4. After this, if the nuptial blessing is to be given, the Mass pro Sponso et Sponsa is celebrated, according to the rubrics of the Roman Missal.
 
