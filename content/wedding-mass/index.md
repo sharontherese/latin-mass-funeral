@@ -24,7 +24,7 @@ The Latin text below is from the 1920 _Missale Romanum_, [^1] and the English te
 
 ## Rubrics 
 
-Si sollemnis benedictio Nuptiarum, intra Missam, facienda sit die Dominica, vel alio die Festo, sive de prxcepto, licet suppresso, sive Duplici I vel II classis, aut in Octavis Epiphanix, Paschatis, Pentecostes aut Corporis Christi, vel in Feriis ac Vigiliis privilegiatis, dicatur Missa de Officio occurrenti, cum Gloria in excelsis et Credo, si ilia Missa id requirat, et cum Commemoratione sequentis Misssc pro Sponso et Sponsa, et reliquis, quse pro Communione, et complemento benedictidnis in ea habentur. Si autem sollemnis benedictio Nuptiarum, intra Missam, facienda sit aliis diebus, etiamsi in Us occurrat Festum duplex majus vel minus, dicatur sequens Missa votiva pro Sponso et Sponsa, prxterquam in Gommemoriatione Omnium Fidelium Defunctorum, in qua et Missa votiva et sollemnis benedictio nuptialis prohibentur. 
+Si sollemnis benedictio Nuptiarum, intra Missam, facienda sit die Dominica, vel alio die Festo, sive de praecepto, licet suppresso, sive Duplici I vel II classis, aut in Octavis Epiphaniae, Paschatis, Pentecostes aut Corporis Christi, vel in Feriis ac Vigiliis privilegiatis, dicatur Missa de Officio occurrenti, cum Gloria in excelsis et Credo, si ilia Missa id requirat, et cum Commemoratione sequentis Missae pro Sponso et Sponsa, et reliquis, quae pro Communione, et complemento benedictionis in ea habentur. Si autem sollemnis benedictio Nuptiarum, intra Missam, facienda sit aliis diebus, etiamsi in iis occurrat Festum duplex majus vel minus, dicatur sequens Missa votiva pro Sponso et Sponsa, praeterquam in Gommemoriatione Omnium Fidelium Defunctorum, in qua et Missa votiva et sollemnis benedictio nuptialis prohibentur. 
 
 ## Introit
 
