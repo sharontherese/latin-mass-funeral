@@ -19,10 +19,3 @@ fields:
 - name: toggle
   type: boolean
   label: toggle
-pages:
-- content/Resources/shop.md
-- content/Resources/other-rites-and-languages.md
-- content/Resources/rite-of-betrothal.md
-- content/Resources/married-saints.md
-- content/about-2.md
-- content/Resources/nuptial-blessing.md
