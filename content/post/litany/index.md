@@ -122,7 +122,7 @@ St. Cunegunda, pray for us.
 
 St. Saturnina, pray for us.
 
-St. Ejizabeth Leseur, pray for us.
+St. Elizabeth Leseur, pray for us.
 
 St. Teresa Grillo Michel, pray for us.
 
