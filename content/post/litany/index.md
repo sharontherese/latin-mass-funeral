@@ -15,14 +15,14 @@ header:
 
 Courtesy of Rachel-Claire Reyes [on Twitter](https://web.archive.org/web/20200722190036/https://twitter.com/misstrinity3n1/status/1285716584011571200), below is a Litany for Conception. 
 
-To view this as a PDF, click here. 
+To view this as a PDF, {{% staticref "files/LitanyforConception.pdf" %}}click here{{% /staticref %}}.
 
 # Litany 
 
 
-Our Lady, Undoer of Knots, 		pray for us.
-Our Lady of Guadalupe, 			pray for us.
-Our Lady of La Leche, 			pray for us.
+Our Lady, Undoer of Knots, pray for us.
+Our Lady of Guadalupe, pray for us.
+Our Lady of La Leche, pray for us.
 Madonna del Parto, 			pray for us.
 St. Gabriel the Archangel, 			pray for us.
 St. Joseph, 				pray for us.
