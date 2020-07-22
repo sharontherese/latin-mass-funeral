@@ -10,6 +10,8 @@ Courtesy of Rachel-Claire Reyes [on Twitter](https://web.archive.org/web/2020072
 
 To view this as a PDF, {{% staticref "files/LitanyforConception.pdf" %}}click here{{% /staticref %}}.
 
+For more prayers for married couples, see the [Prayers](https://www.latinmasswedding.com/prayers/) page. 
+
 # Litany
 
 Our Lady, Undoer of Knots, pray for us. 
