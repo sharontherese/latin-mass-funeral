@@ -6,216 +6,261 @@ toggle = false
 
 +++
 
-# About
+# At the door of the church 
 
-The Rite of Marriage is, "The form for the celebration of the Sacrament of Matrimony, as it stands in the 'Rituale Romanum'". [^1]
+## Reception of the child
 
-This is the essential part of getting married in the Catholic Church - a Mass is not required.
+1. The priest says the greeting: **Peace be with you.**
 
-**The only sacramentally essential element of the Rite of Marriage is the exchange of consent.**
+He then asks the name of the child (if several are to be baptized he asks the name of each one):
 
-There are a couple of important historical notes to make about the Catholic Rite of Marriage before I include the text and rubrics of the rite.
+Priest: **What is your name?**
 
-The _Rituale Romanum_ says, "Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained." [^2]
+Sponsors: **N.**
 
-Perhaps because the marriage texts were not codified until fairly late, there is some variation when it comes to the specific words in the Rite of Marriage. [^3] [^4]
+P (to each): **N., what are you asking of God's Church?**
 
-> Matrimony has always been celebrated with greater leeway for adaptation than other Sacraments, largely on account of its pre-Christian history as a purely domestic and civil affair. For certain, Trent decreed that marriage is a Sacrament and that it must be celebrated in church, in the presence of a priest. But Trent also left room for local adaptation (“earnestly” so). The marriage formula contained in the _Missale Romanum_ of 1570 is so bare that the austerity, itself, almost implies that it was meant to be the bare minimum to which local customs would be added. Notably, the _Rituale Romanum_ was not published until 1614, nearly half a century after the _Missale Romanum_ of the same council had been promulgated. During those intervening years, all that was provided was a Mass formulary in the 1570 missal. Even after the publication of the _Rituale_, “one must doubt that it was ever intended to be used as it stood.” Evidence shows, in fact, that local customs continued to be used in the period before the _Rituale_ was published and even afterward, up until the late nineteenth century. [^5]
+Sponsors: **Faith.**
 
-Below is the text for the Rite of Marriage, as found in the 1962 _Rituale Romanum._ This is to give you a starting point, an idea of what to expect. You can peruse plenty of _Rituales_ online from earlier years and find slight variations in the text (like a _Rituale_ from 1873 with English, Gallic, and German vows) [^6]. What remains the same is that there is an exchange of consent (and that this happens before Mass begins).
+P (to each): **What does faith hold out to you?**
 
-# Rite of Marriage (1962)
+Sponsors: **Everlasting life.**
 
-* To view the Latin and English side by side, see this {{% staticref "files/1962 Rite of Marriage (Latin-English).pdf" %}}PDF{{% /staticref %}}
+2. P (to each): **If, then, you wish to inherit everlasting life, keep the commandments, "Love the Lord your God with all your heart, with all your soul, and with all your mind; and your neighbor as yourself."**
 
-## In Latin 
+3. The priest thrice breathes softly in the face of the child (each one singly), and follows up the gesture with
+these words: **Depart from him (her), unclean spirit, and give place to the Holy Spirit, the Advocate.**
 
-1\. Parochus Matrimonio adfuturus, publicationibus factis ut dictum est, si nullum obstet legitimum impedimentum in ecclesia, superpelliceo et stola alba indutus, adhibito uno saltem Clerico superpelliceo pariter induto, qui librum et vas aquæ benedictæ cum aspersorio deferat, coram duobus saltem testibus, virum et mulierem ante altare genuflexos, quos parentum vel propinquorum suorum præsentia cohonestari decet, de consensu in Matrimonium interroget, utrumque singillatim in hunc modum vulgari sermone:
+4. With his thumb the priest traces the sign of the cross on the brow and on the breast of the child, saying (to each): **Receive the sign of the cross on your brow and on your heart. Put your whole trust in the heavenly teachings. And lead a life that will truly fit you to be a dwelling place for God.**
 
-Et primo quidem sponsum interroget: **N. Vis accípere N. hic præséntem in tuam legítimam uxórem juxta ritum sanctæ matris Ecclésiæ?**
+Then he adds this prayer:
 
-Respondeat sponsus:  **Volo.**
+For one: **Let us pray. Lord, if it please you, hear our prayer, and by your inexhaustible power protect your chosen one, N., now marked with the sign of our Savior's holy cross. Let him (her) treasure this first sharing of your sovereign glory, and by keeping your commandments deserve to attain the glory of heaven to which those born anew are destined; through Christ our Lord.**
 
-2\. Mox Sacerdos sponsam interroget: **N. Vis accípere N. hic præséntem in tuum legítimum marítum juxta ritum sanctæ matris Ecclésiæ?**
+All: **Amen.**
 
-Respondeat sponsa: **Volo.**
+For several: **Let us pray. Lord, if it please you, hear our prayer, and by your inexhaustible power protect your chosen ones, N. and N., now marked with the sign of our Savior's holy cross. Let them treasure this first sharing of your sovereign glory, and by keeping your commandments deserve to attain the glory of heaven to which those born anew are destined; through Christ our Lord.**
 
-Nec sufficit consensus unius, sed debet esse amborum, et expressus verbis, si loqui possint, aut secus æquipollentibus signis, sive fiat per se, sive per procuratorem.
+All: **Amen.**
 
-Mutuo autem contrahentium consensu intellecto, Sacerdos jubeat eos invicem jungere dexteras, et dicat: **Ego conjúngo vos in matrimónium. In nómine Patris, et Fílii, X et Spíritus Sancti. Amen.**
+5. The priest lays his hand on the head of the child (on each one singly), after which he holds his hand
+outstretched and says:
 
-Vel aliis utatur verbis juxta receptum uniuscujusque loci ritum.
+For one: **Let us pray. Almighty, everlasting God, Father of our Lord Jesus Christ, look with favor on your servant, N., whom it has pleased you to call to this first step in the faith. Rid him (her) of all inward blindness. Sever all snares of Satan which heretofore bound him (her). Open wide for him (her), Lord, the door to your fatherly love. May the seal of your wisdom so penetrate him (her) as to cast out all tainted and foul inclinations, and let in the fragrance of your lofty teachings. Thus shall he (she) serve you gladly in your Church and grow daily more perfect; through Christ our Lord.**
 
-Postea eos aspergat aqua benedicta.
+All: **Amen.**
 
-Mox benedicat anulum, dicens:
+For several: **Let us pray. Almighty, everlasting God, Father of our Lord Jesus Christ, look with favor on your servants, N. and N., whom it has pleased you to call to this first step in the faith. Rid them of all inward blindness. Sever all snares of Satan which heretofore bound them. Open wide for them, Lord, the door to your fatherly love. May the seal of your wisdom so penetrate them, as to cast out all tainted and foul inclinations, and let in the fragrance of your lofty teachings. Thus shall they serve you gladly in your Church and grow daily more perfect; through Christ our Lord.**
 
-**V. Adjutórium nostrum in nómine Dómini.**
+All: **Amen.**
 
-**R. Qui fecit cælum et terram.**
+## The Blessing of Salt
 
-**V. Dómine, exáudi oratiónem meam.**
+6. The priest blesses salt, which once blessed may serve for future baptisms; (unless he is to use salt that
+already has been blessed).
 
-**R. Et clamor meus ad te véniat.**
+**God's creature, salt, I cast out the demon from you, in the name of God the Father almighty, in the love of our Lord Jesus Christ, and in the strength of the Holy Spirit. I purify you by the living God, the true God, the holy God, by God who created you to be a preservative for mankind, and ordered you to be sanctified by His ministers for the benefit of the people who are about to embrace the faith. In the name of the Blessed Trinity may you become a saving sign empowered to drive away the enemy. Therefore, we beg you, Lord, our God, to sanctify and to bless this creature, salt, thus providing a perfect remedy for all who receive it, one that will permeate their inmost being. We ask this in the name of our Lord Jesus Christ, who is coming to judge both the living and the dead and the world by fire.**
 
-**V. Dóminus vobíscum.**
+All: **Amen.**
 
-**R. Et cum spíritu tuo.**
+7. The priest puts a pinch of the blessed salt in the mouth of the child (to each one), saying as he does so: **N., take this salt in sign of wisdom. May it be for you likewise a token that foreshadows everlasting life.**
 
-**Orémus.** Oratio
+All: **Amen.**
 
-**Bénedic, Dómine, ánulum hunc, quem nos in tuo nómine benedícimus: ut, quæ eum gestáverit, fidelitátem íntegram suo sponso tenens, in pace et voluntáte tua permáneat, atque in mútua caritáte semper vivat. Per Christum Dóminum nostrum. R. Amen.**
+Priest: **Peace be with you.**
 
-3\. Deinde Sacerdos aspergat anulum aqua benedicta; et sponsus acceptum anulum de manu Sacerdotis imponat in digito anulari sinistræ manus sponsæ, Sacerdote dicente:
+All: **And also with you.**
 
-**In nómine Patris, et Fílii, X et Spíritus Sancti. Amen.**
+The priest then adds this prayer:
 
-Mox Sacerdos subjungat:
+For one: **Let us pray. God of our fathers, God, source of all truth, we humbly ask you to be well disposed to your servant, N. After this first taste of salt, let his (her) hunger for heavenly nourishment not be prolonged but soon be satisfied. For then he (she) will always pay homage to your holy name with fervor, joy, and trust. In your tender care, O Lord, lead him (her) to the bath of water where one is born over again, so that taken into the family of your faithful he (she) can finally attain the everlasting reward which you have promised; through Christ our Lord.**
 
-**V. Confírma hoc, Deus, quod operátus es in nobis.**
+All: **Amen.**
 
-**R. A templo sancto tuo, quod est in Jerúsalem.**
+For several: **Let us pray. God of our fathers, God, source of all truth, we humbly ask you to be well disposed to your servants, N. and N. After this first taste of salt, let their hunger for heavenly nourishment not be prolonged but soon be satisfied. For then they will always pay homage to your holy name with fervor, joy, and trust. In your tender care, O Lord, lead them to the bath of water where one is born over again, so that taken into the family of your faithful they can finally attain the everlasting reward which you have promised; through Christ our Lord.**
 
-**Kýrie, eléison. Christe, eléison. Kýrie, eléison.**
+All: **Amen.**
 
-**Pater noster** secreto usque ad:
+## Exorcism of the Subject
 
-**V. Et ne nos indúcas in tentatiónem.**
+The priest says: **I cast you out, unclean spirit, in the name of the Father, and of the Son, and of the Holy Spirit. Depart and stay far away from this servant (these servants) of God, N. (N. and N.). For it is the Lord Himself who commands you, accursed and doomed spirit, He who walked on the sea and reached out His hand to Peter as he was sinking. So then, foul fiend, recall the curse that decided your fate once for all. Indeed, pay homage to the living and true God, pay homage to Jesus Christ, His Son, and to the Holy Spirit. Keep far from this servant (these servants) of God, N. (N. and N.), for Jesus Christ, our Lord and God, has freely called him (her) (them) to His holy grace and blessed way and to the waters of baptism.**
 
-**R. Sed líbera nos a malo.**
+8. Now the priest traces the sign of the cross upon the brow of the child (on each one), saying as he does so: **Never dare, accursed fiend, to desecrate this seal of the holy cross which we imprint upon his (her) brow; through Christ our Lord.**
 
-**V. Salvos fac servos tuos.**
+All: **Amen.**
 
-**R. Deus meus, sperántes in te.**
+## Prayer of Enlightenment
 
-**V. Mitte eis, Dómine, auxílium de sancto.**
+9. The priest next lays his hand on the head of the child (on each one), after which he holds his hand
+outstretched and says:
 
-**R. Et de Sion tuére eos.**
+For one
 
-**V. Esto eis, Dómine, turris fortitúdinis.**
+**Let us pray. Holy Lord, almighty Father, everlasting God, source of light and truth, I appeal to your sacred and boundless compassion on behalf of this servant of yours, N. Be pleased to enlighten him (her) by the light of your eternal wisdom. Cleanse, sanctify, and endow him (her) with true knowledge. For thus will he (she) be made ready for the grace of your baptism and ever remain steadfast, never losing hope, never faltering in duty, never straying from sacred truth; through Christ our Lord.**
 
-**R. A fácie inimíci.**
+All: **Amen.**
 
-**V. Dómine, exáudi oratiónem meam.**
+For several
 
-**R. Et clamor meus ad te véniat.**
+**Let us pray. Holy Lord, almighty Father, everlasting God, source of light and truth, I appeal to your sacred and boundless compassion on behalf of these servants of yours, N. and N. Be pleased to enlighten them by the light of your eternal wisdom. Cleanse, sanctify, and endow them with true knowledge.[5] For thus will they be made ready for the grace of your baptism and ever remain steadfast, never losing hope, never faltering in duty, never straying from sacred truth; through Christ our Lord.**
 
-**V. Dóminus vobíscum.**
+All: **Amen.**
 
-**R. Et cum spíritu tuo.**
+10. Then the priest places the left end of his stole on the first child only and conducts him (her)--followed by the others--into the holy place; in doing so he says: **Come into God's sanctuary, N. (N. and N.), where you will be given a share with Christ in everlasting life.**
 
-**Orémus.** Oratio
+All: **Amen.**
 
-**Réspice, quæsumus, Dómine, super hos fámulos tuos: et institútis tuis, quibus propagatiónem humáni géneris ordinásti, benígnus assíste; ut qui te auctóre jungúntur, te auxiliánte servéntur. Per Christum Dóminum nostrum. R. Amen.**
+# Inside the church edifice 
 
-4\. His expletis, si benedicendæ sint nuptiæ, Parochus Missam pro Sponso et Sponsa, ut in Missali Romano, celebret, servatis omnibus quæ ibi præscribuntur.
+The procession then makes its way to the baptistery. In a solemn baptism the organ may be played and hymns sung at this time. See the special music supplement for the voice and organ parts for the text given below.
 
-5\. Quando plures simul copulantur, accepto primum singulorum consensu, et rite celebratis singulis Matrimoniis, dictoque pro singulis a Parocho Ego conjúngo vos in matrimónium, etc., benedictiones anulorum et reliquæ benedictiones plurali numero semel fiunt.
+Hymns
+Psalm 99
+All: Arise, come to your God, * sing Him your songs of rejoicing.
+P: Sing joyfully to the Lord, all the earth; serve the Lord with gladness; * come before Him singing for joy.
+All: Arise, come to your God, * sing Him your songs of rejoicing.
+P: Know that the Lord is God. He made us, we belong to Him, * we are His people, the sheep He tends.
+All: Arise, come to your God, * sing Him your songs of rejoicing.
+P: Enter His gates, giving thanks. Enter His courts with praise; * give thanks to Him and bless His name.
+All: Arise, come to your God, * sing Him your songs of rejoicing.
+P: Indeed, the Lord is good; His kindness endures forever; * He is faithful from age to age.
+All: Arise, come to your God, * sing Him your songs of rejoicing.
+P: Give glory to the Father in heaven, to His Son, Jesus Christ, our Lord, * to the Spirit who dwells in our hearts.
+All: Arise, come to your God, * sing Him your songs of rejoicing.
 
-6\. Ceterum, sicubi aliæ laudabiles consuetudines et cæremoniæ in celebrando Matrimonii Sacramento adhibentur, eas convenit retineri.
+Psalm 22
+P: The Lord is my shepherd; I shall not want. * In verdant pastures He gives me repose.
+All: Beside restful waters He leads me * He refreshes my soul.
+P: He guides me in right paths * for His name's sake.
+All: Even though I walk in the dark valley * I fear no evil; for you are at my side
+P: With your rod and your staff * that give me courage.
+All: You spread the table before me * in the sight of my foes;
+P: You anoint my head with oil; * my cup overflows.
+All: Only goodness and kindness follow me * all the days of my life;
+P: And I shall dwell in the house of the Lord * for years to come.
+All: Glory be to the Father.
+P: As it was in the beginning.
 
-7\. Celebrato Matrimonio, Parochus vel qui ejus vices gerit, quamprimum describat in libro Matrimoniorum nomina conjugum ac testium, locum et diem celebrati Matrimonii, atque alia juxta formulam præscriptam; idque licet alius Sacerdos vel a se vel ab Ordinario delegatus Matrimonio adstiterit.
+# At the gates of the baptistery
 
-Præterea Parochus in libro quoque Baptizatorum adnotet conjugem tali die in sua parœcia Matrimonium contraxisse. Quod si conjux alibi baptizatus fuerit, Matrimonii Parochus notitiam initi contractus ad Parochum Baptismi sive per se sive per Curiam episcopalem transmittat, ut Matrimonium in Baptizatorum librum referatur.
+## The Creed and Lord's Prayer
 
-## In English
+11. Priest: **Will you please recite the Creed?**
 
-1\. The priest is vested in a surplice and white stole. If, however, the marriage ceremony is performed by the priest who is going to say the Nuptial Mass and this Mass follows immediately, the priest puts on all the vestments except the maniple, which should be placed on the altar, whence he takes it and puts it on after the marriage ceremony. To assist the priest there should be at least one acolyte, who wears a surplice and carries the book and a vessel with Holy Water. The priest interrogates the man and woman concerning their consent to marry.
+All: **I believe in God, the Father almighty, Creator of heaven and earth. And in Jesus Christ, His only Son, our Lord; who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died, and was buried. He descended into hell; the third day He arose again from the dead. He ascended into heaven, and sits at the right hand of God, the Father almighty; from there He shall come to judge the living and the dead. I believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.** 
 
-First the priest asks the groom: **N., do you take N. here present, for your lawful wife according to the rite of our holy mother, the Church?**
+Priest: **Now please say the Lord's Prayer.**
 
-The bridegroom responds: **I do.**
+All: **Our Father, who art in heaven, hallowed be thy name; thy kingdom come, thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. Amen.**
 
-2\. Then he asks the bride: **N., do you take N., here present, for your lawful husband according to the rite of our holy mother, the Church?**
+12. Having his back turned to the gates of the baptistery, the priest says (notice the change in wording when supplying ceremonies after private baptism; consult the footnote):
 
-She replies: **I do.** 
+## Final Exorcism
 
-The consent of one does not suffice, but consent must be given by both-expressed in words, if possible, but otherwise through equivalent signs, whether personally or through a proxy.
+For one
 
-After he has received the consent of the parties, the priest tells them to join their right hands. and says: **By the authority of the Church I ratify and bless the bond of marriage you have contracted. In the name of the Father, and of the Son, and of the Holy Spirit.**
+**I cast you out, every unclean spirit, in the name of God the Father almighty, in the name of Jesus Christ, His Son, our Lord and judge, and in the power of the Holy Spirit. Begone, Satan, from God's handiwork, N. Because our Lord (has) graciously called him her to His holy sanctuary, where he (she) will become a dwelling place for the living God, a dwelling place for the Holy Spirit. We ask this in the name of Christ our Lord, who is coming to judge both the living and the dead and the world and the dead and the world by fire.**
 
-Vel aliis utatur verbis juxta receptum uniuscujusque loci ritum.
+All: **Amen.**
 
-Then he sprinkles them with holy water.
+For several
 
-Next the priest blesses the ring saying:
+**I cast you out, every unclean spirit, in the name of God the Father almighty, in the name of Jesus Christ, His Son, our Lord and judge, and in the power of the Holy Spirit. Begone, Satan, from God's handiwork, N. and N. Because our Lord has graciously called them to His holy sanctuary, where they will become a dwelling place for the living God, a dwelling place for the Holy Spirit. We ask this in the name of Christ our Lord, who is coming to judge both the living and the dead and the world by fire.**
 
-**V. Our help is in the name of the Lord.**
+All: **Amen.**
 
-**R. Who made heaven and earth.**
+## Touching of the Ears and Nostrils
 
-**V. O Lord, hear my prayer.**
+13. The priest then moistens his thumb with his spittle and touches the ears and nostrils of the child (each one). The use of saliva may be omitted for reasons of hygiene, when there is fear of contracting or communicating disease (by order of Pius XII in 1944). But the ceremony itself is not omitted. He touches first the right ear then the left, saying: **Ephpheta.** 
 
-**R. And let my cry come to you.**
+Next touching the nostrils, he adds: **And perceive the fragrance of God's loving ways. But you, evil spirit, begone, for the judgment of God has come.**
 
-**V. The Lord be with you.**
+## Threefold Renunciation of Satan
 
-**R. And with thy spirit.**
+14. The priest questions the candidate by name (each one):
 
-**Let us pray.** Prayer
+Priest: **N., do you renounce Satan?**
 
-**Bless O Lord, this ring, which we are blessing in Thy name, so that she who wears it, keeping faith with her husband in unbroken loyalty, may ever remain at peace with Thee, obedient to Thy will, and may live with him always in mutual love. Through Christ our Lord. R. Amen.**
+Sponsors: **I do renounce him.**
 
-3\. The priest then sprinkles the ring with holy water. The husband, taking the ring from the priest's hand, places it upon the ring finger of his wife's left hand, saying: **Take and wear this ring as a sign of our marriage vows. In the name of the Father, and of the Son, X and of the Holy Ghost. Amen.** 
+P: **And all his works?**
 
-Then the priest adds:
+Sponsors: **I do renounce them.**
 
-**V. Strengthen, O God, what you have wrought in us.**
+P: **And all his attractions?**
 
-**R. From your holy temple, which is in Jerusalem.**
+Sponsors: **I do renounce them.**
 
-**Lord, have mercy. Christ, have mercy. Lord, have mercy.**
+## Anointing for Spiritual Combat
 
-**Our Father** silently as far as:
+15. The priest dips his thumb in the oil of catechumens and anoints the child (each one) in the form of a cross on the breast and on the back between the shoulders, pronouncing only once these words: **I anoint you with the oil that sanctifies in Christ Jesus our Lord, that you may have everlasting life.**
 
-**V. And lead us not into temptation.**
+All: **Amen.**
 
-**R. But deliver us from evil.**
+16. Afterward he wipes his thumb and the spots anointed with cotton or similar material.
 
-**V. Save your servants.**
+17. Remaining in the same place outside the gates of the baptistery, he exchanges the purple stole for a white one. (In a more solemn baptism he also changes the cope.) Then he enters the baptistery and so do the sponsors with the child.
 
-**R. Who trust in you, my God.**
+# Inside the Baptistery
 
-**V. Send them help, O Lord, from your sanctuary.**
+## Final Profession of Faith
 
-**R. And sustain them from Sion.**
+Standing beside the font the priest puts the following questions to each one to be baptized, calling him (her)
+by name. The sponsors give the answers:
 
-**V. Be a tower of strength for them, O Lord.**
+Priest: **N., do you believe in God, the Father almighty, Creator of heaven and earth?**
 
-**R. Against the attack of the enemy.**
+Sponsors: **I do believe.**
 
-**V. O Lord, hear my prayer.**
+P: **Do you believe in Jesus Christ, His only Son, our Lord, who was born into this world and suffered for us?**
 
-**R. And let my cry come to you.**
+Sponsors: **I do believe.**
 
-**V. The Lord be with you.**
+P: **And do you believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness
+of sins, the resurrection of the body, and life everlasting?**
 
-**R. And with thy spirit.**
+Sponsors: **I do believe.**
 
-**Let us pray.** Prayer
+18. Then calling him (her) by name the priest inquires:
 
-**We beg you, Lord, to look on these your servants, and graciously to uphold the institution of marriage established by you for the continuation of the human race, so that they who have been joined together by your authority may remain faithful together by your help. Through Christ our Lord. R. Amen.**
+Priest: **N., do you wish to be baptized?**
 
-4\. After this, if the nuptial blessing is to be given, the Mass pro Sponso et Sponsa is celebrated, according to the rubrics of the Roman Missal.
+Sponsors: **I do.**
 
-5\. If several couples are married at the same time, the exchange of consent and contracting of marriage, as well as the formula Ego conjúngo vos in matrimónium, etc., are to take place separately for each individual couple, but the blessing of ring and other prayers are said only once, in the plural.
+## Act of Baptizing
 
-6\. Wherever other praiseworthy customs and ceremonies are used in the celebration of the sacrament of matrimony, it is fitting that they be retained.
+19. As the godfather or godmother (or both if two sponsors are used) holds the child, the priest takes water from the font with a ladle, pours it three times in the form of a cross on the head of the child, and while pouring pronounces only once distinctly and attentively the words: **N., I baptize you in the name of the Father,** (here he pours the first time) **and of the Son,** (pouring a second time) **and of the Holy Spirit** (pouring a third time).
 
-7\. After the marriage has been celebrated, the pastor, or the one who takes his place, as soon as possible should inscribe in the Book of Marriages the names of the spouses and witnesses, and the place and day of the marriage celebrated, and the other things according to the prescribed form. And this is done even though another priest or one delegated by the pastor or by the Ordinary has taken the pastor's place.
+20. But where it is the custom to baptize by immersion, the priest takes the child, and handling it carefully so that it will not be injured be baptizes with a threefold immersion, pronouncing the words only once: **N., I baptize you in the name of the Father, and of the Son, and of the Holy Spirit.**
 
-Moreover, the pastor should note in the Book of Baptisms that the party has contracted marriage on such day in his (her) own parish. But if the party should have been baptized elsewhere, the pastor, having drawn up a note of the marriage entered into, should transmit to the pastor of the Baptism, either by himself or through the episcopal chancery, the fact that the marriage be set down in the Book of Baptisms.
+21. Forthwith the godfather or godmother (or both of them together if there are two) lifts the child from the holy font, receiving it from the priest.
 
-# Sources
+22. If there is doubt whether the child has already been baptized, the following form is used: **N., if you are not baptized, I baptize you in the name of the Father, and of the Son, and of the Holy Spirit.**
 
-[^1]: Thurston, Herbert. “**Ritual of Marriage**.” _The Catholic Encyclopedia_, vol. 9, New York: Robert Appleton Company, 1910, [http://www.newadvent.org/cathen/09703b.htm](http://www.newadvent.org/cathen/09703b.htm "http://www.newadvent.org/cathen/09703b.htm").
+## Anointing With Chrism
 
-[^2]: Catholic Church. “**Rite for Celebrating Marriage**.” _Rituale Romanum_, 1962, https://web.archive.org/web/20191024134650/https://www.sanctamissa.org/en/resources/books-1962/rituale-romanum/67-matrimony-rite.html
+23. The priest dips his thumb in holy chrism, and in the form of a cross anoints the child (each one) on the crown of the head, saying: **The almighty God, Father of our Lord Jesus Christ, has caused you to be born over again of water and the Holy Spirit and pardoned you all your sins. May He now anoint you with the chrism that sanctifies in Christ Jesus our Lord, and bring you to everlasting life.**
 
-[^3]: Searle, M., and K. W. Stevenson. **_Documents of the Marriage Liturgy_**. Liturgical Press, 1992, [https://books.google.com/books?id=OhZ_QgAACAAJ](https://books.google.com/books?id=OhZ_QgAACAAJ "https://books.google.com/books?id=OhZ_QgAACAAJ").
+All: **Amen.**
 
-[^4]: Holy Mass And More. “**The Seven Sacraments and Their Liturgies, Part 7: Marriage**,” August 23, 2018. https://www.holymassandmore.org/2018/08/the-seven-sacraments-and-their_23.html.
+Priest: **Peace be with you.**
 
-[^5]: Friel, David. “**The Historic Adaptability of the Marriage Rite**.” _Corpus Christi Watershed_, 2016, http://www.ccwatershed.org/blog/2016/dec/11/historic-adaptability-marriage-rite/
+All: **And also with you.**
 
-[^6]: Catholic Church. **_Rituale romanum_**. 1873. _Internet Archive_, http://archive.org/details/ritualeromanum00cath_0
+The priest wipes his thumb and the place anointed with cotton.
+
+## Bestowal of the White Robe
+
+24. The priest puts a white linen cloth (in place of the white garment) on the head of the child (on each one), saying: **Take this white robe and keep it spotless until you arrive at the judgment seat of our Lord Jesus Christ, that you may be rewarded with everlasting life.**
+
+All: **Amen.**
+
+## Bestowal of the Blessed Candle
+
+25. Next the priest presents a lighted candle to the newly baptized (to each one) or to the sponsors, saying: **Take this burning candle as a reminder to keep your baptismal innocence. Obey God's commandments, so that when our Lord comes for the joyous wedding feast you may go forth to meet Him with all the saints in the halls of heaven, and be happy with Him forevermore.**
+
+All: **Amen.**
+
+26. In conclusion the priest says: **Go in peace, N. (N. and N.), and may the Lord be with you.**
+
+All: **Amen.**
