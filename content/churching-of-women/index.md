@@ -1,9 +1,8 @@
 +++
 text = ""
-title = "Rite of Betrothal"
+title = "Churching of Women"
 toggle = false
 aliases = [
-    "/resources/rite-of-betrothal/",
 ]
 
 +++
