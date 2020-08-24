@@ -1,7 +1,7 @@
 +++
 gallery1 = [""]
 text = ""
-title = "Rite of Marriage"
+title = "Rite of Baptism for Children"
 toggle = false
 
 +++
