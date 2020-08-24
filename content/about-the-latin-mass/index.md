@@ -10,9 +10,9 @@ aliases = [
 
 # About
 
-This is a scattershot collection of resources on and about the _Latin Mass_. They range from missals to books to blog posts to pamphlets. 
+ALthough baptisms are not usually followed by a _Latin Mass_ (with the exception of baptisms during Easter Vigil), I've included a scattershot collection of resources below on the _Latin Mass_ and traditional Catholicism.  
 
-# Introduction to the Latin Mass
+# Resources
 
 “**Introduction to the Traditional Latin (Tridentine) Mass.**” In _St. Joseph’s Daily Missal_, 1959. http://www.the-latinmass.com/id7.html
 
@@ -21,8 +21,6 @@ This is a scattershot collection of resources on and about the _Latin Mass_. The
 “**NEWCOMERS TO THE TRADITIONAL LATIN MASS: Frequently Asked Questions.**” _Sancta Missa_ (blog). Accessed July 29, 2019. https://sanctamissa.org/en/faq/newcomers-to-the-traditional-latin-mass.html
 
 “**Tridentine Mass Introduction For Newcomers.**” _EXSULTATE IUSTI IN DOMINO Mother of Divine Mercy Parish Tridentine Community Blog_ (blog), December 21, 2011. https://stjosaphat.wordpress.com/tridentine-mass-introduction-for-newcomers/
-
-# More Latin Mass resources
 
 Fish Eaters. “**Traditional Catholicism 101: A Brief Primer.**” Accessed June 3, 2019. https://www.fisheaters.com/traditionalcatholicism.html.
 
