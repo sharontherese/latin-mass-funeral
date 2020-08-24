@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-theme = "ocean"
+theme = "forest"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -15,10 +15,10 @@ font = "minimal"
 font_color = "#000000"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Learn about Latin Mass weddings!"
+description = "Learn about Latin Mass baptisms!"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "sharing2.JPG"
+sharing_image = ""
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
@@ -46,7 +46,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "latinmasswedding@gmail.com"
+email = ""
 phone = ""
 address = {} # {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
 
