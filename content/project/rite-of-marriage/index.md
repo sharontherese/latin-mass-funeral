@@ -1,12 +1,11 @@
 ---
-title: Rite of Marriage
-summary: The full text of the 1962 Rite of Marriage
+title: Rite of Baptism for Children
+summary: The full text of the 1962 Rite of Baptism for Children
 tags:
-- Rite of Marriage
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.latinmasswedding.com/rite-of-marriage/"
+external_link: "https://www.latinmasswedding.com/rite-of-baptism-for-children/"
 
 # image:
  # caption: Photo by rawpixel on Unsplash
