@@ -13,10 +13,10 @@
   url = "#planning"
   weight = 40  
   
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 50    
+# [[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 50    
 
 # [[main]]
 #  name = "Contact"
