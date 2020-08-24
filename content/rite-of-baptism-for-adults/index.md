@@ -6,6 +6,8 @@ toggle = false
 
 +++
 
+# Beginning 
+
 1. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps
 with his assistants. He kneels and implores God's help, after which he rises, signs himself with the cross, and
 says:
@@ -86,7 +88,9 @@ by your power.
 We beg you, O Lord, grant that our chosen one (ones), well instructed in the holy mysteries, may be born
 again in the font of baptism and be added to the household of your Church; through Christ our Lord.
 All: Amen.
-AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+
+## AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+
 4. Next the priest calls the candidates by their full name, first the men then the women, and each one answers
 "Present." Afterward he puts these questions to them:
 P: What are you asking of God's church?
@@ -212,7 +216,9 @@ All: Amen.
 12. In conclusion the priest says:
 Go in peace and may the Lord be with you.
 All: Amen.
-SECOND STAGE
+
+# SECOND STAGE
+
 13. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps
 with his assistants. He kneels and implores God's help, after which he rises, signs himself with the cross, and
 says:
@@ -220,7 +226,9 @@ P: God, come to my rescue.
 All: Lord, make haste to help me.
 P: Glory be to the Father.
 All: As it was in the beginning.
-AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+
+## AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+
 14. The priest blesses salt with this exorcism:
 Exorcism
 God's creature, salt, I cast out the demon from you, in the name of God the Father almighty, in the love of
@@ -263,7 +271,9 @@ vessel offered to them by the priest.
 16. In conclusion the priest says:
 P: Go in peace and may the Lord be with you.
 All: Amen.
-THIRD STAGE
+
+# THIRD STAGE
+
 55
 17. It is left to the prudent judgment of the Ordinary whether the three following stages, i.e., the three series
 of exorcisms, are to be carried out independently and separately, or whether all three are to be combined into
@@ -277,8 +287,10 @@ P: God, come to my rescue.
 All: Lord, make haste to help me.
 P: Glory be to the Father.
 All: As it was in the beginning.
-FOR MEN
-AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+
+## FOR MEN
+## AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+
 20. The priest says to the candidates (now called the elect) who are standing before him:
 Pray, you who are chosen by God; kneel down and say the Our Father.
 The candidates kneel and say Our Father (up to the word "evil" inclusive.)
@@ -310,7 +322,9 @@ Never dare, accursed fiend, to desecrate this seal of the holy cross which we im
 Christ our Lord, who is coming to judge both the living and the dead and the world by fire.
 All: Amen.
 The ceremony concludes with no. 24 below:
-For Women
+
+## For Women
+
 22. When the candidates are women the priest says (changing the plural forms to the singular when required):
 Pray, you who are chosen by God; kneel down and say the Our Father.
 The candidates kneel and say Our Father (up to the word "evil" inclusive.)
@@ -345,7 +359,9 @@ The ceremony concludes with no. 24 below:
 24. In conclusion the priest says:
 P: Go in peace and may the Lord be with you.
 All: Amen.
-FOURTH STAGE
+
+# FOURTH STAGE
+
 25. The ceremonies of this stage are always to take place with the men in a separate group and the same for
 the women; also if convenient at a different place or time.
 26. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps
@@ -355,8 +371,11 @@ P: God, come to my rescue.
 All: Lord, make haste to help me.
 P: Glory be to the Father.
 All: As it was in the beginning.
-AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
-For Men
+
+## AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+
+## For Men
+
 27. The priest says to the candidates (now called the elect) who are standing before him:
 Pray, you who are chosen by God; kneel down and say the Our Father.
 The candidates kneel and say Our Father (up to the word "evil" inclusive.)
@@ -391,7 +410,9 @@ these servants of the Most High, delivered from guilt of past crimes, render end
 God and laud His holy name forevermore.
 All: Amen.
 The ceremonies conclude with the form given below in no. 31.
-For Women
+
+## For Women
+
 29. The priest says to the candidates who are standing before him (using the singular forms when required):
 Pray, you who are chosen by God; kneel down and say the Our Father.
 The candidates kneel and say Our Father (up to the word "evil" inclusive.)
@@ -424,7 +445,9 @@ Christ our Lord, who is coming to judge both the living and the dead and the wor
 All: Amen.
 31. P: Go in peace and may the Lord be with you.
 All: Amen.
-FIFTH STAGE
+
+# FIFTH STAGE
+
 32. The ceremonies of this stage are always to take place with the men in a separate group and the same for
 the women; also if convenient at a different place or time.
 33. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps
@@ -435,8 +458,10 @@ All: Lord, make haste to help me.
 P: Glory be to the Father.
 All: As it was in the beginning.
 60
-AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
-For Men
+
+## AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+## For Men
+
 34. The priest says to the candidates (now called the elect) who are standing before him:
 Pray, you who are chosen by God; kneel down and say the Our Father.
 The candidates kneel and say Our Father (up to the word "evil" inclusive.)
@@ -471,7 +496,9 @@ from sacred truth, but ready at all times to receive your grace; through Christ 
 All: Amen.
 61
 The ceremony concludes with the words given in no. 40 below.
-For Women
+
+## For Women
+
 37. The priest says to the candidates (now called the elect) who are standing before him:
 Pray, you who are chosen by God; kneel down and say the Our Father.
 The candidates kneel and say Our Father (up to the word "evil" inclusive.)
@@ -510,162 +537,150 @@ The ceremony concludes with the words given in no. 40 below.
 40. Lastly the priest says:
 P: Go in peace and may the Lord be with you.
 All: Amen.
-SIXTH STAGE
-AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
-41. At the appointed time the catechumens assemble at the church door, or at another place outside the
-edifice, from where they will march in solemn procession to the church. The priest, vested in surplice and
-purple stole or even a cope of the same color, comes to the altar steps with his assistants where he kneels and
-implores God's help. Then he rises and goes to the church entrance where he stands facing the elect and
-makes the sign of the cross, saying:
+
+# SIXTH STAGE
+
+## AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+
+41. At the appointed time the catechumens assemble at the church door, or at another place outside the edifice, from where they will march in solemn procession to the church. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps with his assistants where he kneels and implores God's help. Then he rises and goes to the church entrance where he stands facing the elect and makes the sign of the cross, saying:
+
 P: God, come to my rescue.
+
 All: Lord, make haste to help me.
+
 P: Glory be to the Father.
+
 All: As it was in the beginning.
-42. Next the priest with his left hand takes hold of the right forearm of the first elect, or else puts in his hand
-the end of the stole hanging from his left shoulder, and conducts him into the church. The first candidate with
-left hand holds onto the right hand of the second, the second of the third, etc.
-In doing so the priest says:
-Come into God's holy sanctuary to receive a heavenly blessing from our Lord Jesus Christ and to be united
-with Him and His saints.
+
+42. Next the priest with his left hand takes hold of the right forearm of the first elect, or else puts in his hand the end of the stole hanging from his left shoulder, and conducts him into the church. The first candidate with left hand holds onto the right hand of the second, the second of the third, etc. In doing so the priest says: Come into God's holy sanctuary to receive a heavenly blessing from our Lord Jesus Christ and to be united with Him and His saints.
+
 All: Amen.
-43. Having come into the church the elect lie prostrate on the floor-- all at the same time--and spend a few
-moments in adoration.
-44. Then at a signal they rise together; the priest then holds his hand outstretched over their heads as they join
-with him in reciting the Apostles' Creed and the Lord's Prayer:
-AT THE GATES OF THE BAPTISTERY
-All: I believe in God, the Father almighty, Creator of heaven and earth. And in Jesus Christ, His only Son, our
-Lord; who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was
-crucified, died, and was buried. He descended into hell; the third day He arose again from the dead. He
-ascended into heaven, and sits at the right hand of God, the Father almighty; from there He shall come to
-judge the living and the dead. I believe in the Holy Spirit, the holy Catholic Church, the communion of saints,
-the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.
-63
-Our Father, who art in heaven, hallowed be thy name; thy kingdom come, thy will be done on earth as it is in
-heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass
-against us; and lead us not into temptation, but deliver us from evil. Amen.
-45. Standing with his back turned to the gates of the baptistery, the priest again holds his hand outstretched
-over the heads of the elect, and says (using the singular forms when required):
-Exorcism
-Surely it is no secret to you, Satan, that punishment is your lot, torments your portion, that the day of
-judgment threatens you, that day of never ending torture, the day that shall be like a flaming furnace, in the
-midst of which everlasting perdition awaits you and your apostate angels. Therefore, accursed one, deservedly
-doomed, pay homage to the living and true God, pay homage to Jesus Christ, His Son, and to the Holy Spirit,
-the Advocate. In His name and power I command you, unclean spirit whoever you are, begone and stay far
-away from these servants of God. For today Jesus Christ, our Lord and God, freely calls them to His holy
-grace and blessed way and to the waters of baptism, where they will become God's dwelling by the water of
-rebirth that gives full remission of sin We ask this in the name of our Lord Jesus Christ, who is coming to
-judge both the living and the dead and the world by fire.
+
+43. Having come into the church the elect lie prostrate on the floor-- all at the same time--and spend a few moments in adoration.
+
+44. Then at a signal they rise together; the priest then holds his hand outstretched over their heads as they join with him in reciting the Apostles' Creed and the Lord's Prayer:
+
+## AT THE GATES OF THE BAPTISTERY
+
+All: I believe in God, the Father almighty, Creator of heaven and earth. And in Jesus Christ, His only Son, our Lord; who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died, and was buried. He descended into hell; the third day He arose again from the dead. He ascended into heaven, and sits at the right hand of God, the Father almighty; from there He shall come to judge the living and the dead. I believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.
+
+Our Father, who art in heaven, hallowed be thy name; thy kingdom come, thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. Amen.
+
+45. Standing with his back turned to the gates of the baptistery, the priest again holds his hand outstretched over the heads of the elect, and says (using the singular forms when required):
+
+## Exorcism
+
+Surely it is no secret to you, Satan, that punishment is your lot, torments your portion, that the day of judgment threatens you, that day of never ending torture, the day that shall be like a flaming furnace, in the midst of which everlasting perdition awaits you and your apostate angels. Therefore, accursed one, deservedly doomed, pay homage to the living and true God, pay homage to Jesus Christ, His Son, and to the Holy Spirit, the Advocate. In His name and power I command you, unclean spirit whoever you are, begone and stay far away from these servants of God. For today Jesus Christ, our Lord and God, freely calls them to His holy grace and blessed way and to the waters of baptism, where they will become God's dwelling by the water of rebirth that gives full remission of sin We ask this in the name of our Lord Jesus Christ, who is coming to judge both the living and the dead and the world by fire.
+
 All: Amen.
-46. The priest then moistens his thumb with his spittle and touches the ears and nostrils of the person (each
-one). The use of saliva may be omitted for reasons of hygiene, when there is fear of contracting or
-communicating disease. But the ceremony itself is not omitted. He touches first the right ear then the left,
-saying:
+
+46. The priest then moistens his thumb with his spittle and touches the ears and nostrils of the person (each one). The use of saliva may be omitted for reasons of hygiene, when there is fear of contracting or communicating disease. But the ceremony itself is not omitted. He touches first the right ear then the left, saying:
 Ephpheta, which means: Be opened.
-Next touching the nostrils he adds:
-And perceive the fragrance of God's loving ways. But you, evil spirit, begone, for the judgment of God has
-come.
-46a. As said above, whenever there is a just cause prohibiting or dissuading the priest from using his spittle,
-he may simply go through the gesture of touching the ears and nostrils.
-47. Next the priest calls the candidates by their full name, first the men then the women, and each one
-answers: Present Afterward he puts these questions to them:
-P: Do you renounce Satan? All: I do renounce him.
+
+Next touching the nostrils he adds: And perceive the fragrance of God's loving ways. But you, evil spirit, begone, for the judgment of God has come.
+
+46a. As said above, whenever there is a just cause prohibiting or dissuading the priest from using his spittle, he may simply go through the gesture of touching the ears and nostrils.
+
+47. Next the priest calls the candidates by their full name, first the men then the women, and each one answers: Present. 
+
+Afterward he puts these questions to them:
+
+P: Do you renounce Satan? 
+
+All: I do renounce him.
+
 P: And all his works?
+
 All: I do renounce them.
+
 P: And all his attractions?
+
 All: I do renounce them.
-48. Then the candidates pass in single file before the priest, who dips his thumb in the holy oil of catechumens
-and anoints each one in the form of a cross, first on the breast then on the back between the shoulders,
-pronouncing only once these words:
-I anoint you with the oil that sanctifies in Christ Jesus our Lord, that you may have everlasting life.
-64
+
+48. Then the candidates pass in single file before the priest, who dips his thumb in the holy oil of catechumens and anoints each one in the form of a cross, first on the breast then on the back between the shoulders, pronouncing only once these words: I anoint you with the oil that sanctifies in Christ Jesus our Lord, that you may have everlasting life.
+
 All: Amen.
+
 P: Peace be with you.
-All: And also with you.
-48a. But wherever the anointing with oil of catechumens gives rise to considerable difficulties that are
-insurmountable for the time being, the conference of bishops can dispense from the practice for that particular
-place or people, in accord with the norms established for the use of this new rite. Nevertheless, all priests
-whose task it is to instruct catechumens and the faithful should bear in mind that they must do their utmost to
-remove such difficulties, so that, as Christian practices gradually are better understood, the ceremony of
-anointing catechumens with the holy oil may be observed.
-In the meantime a substitute ceremony should be used, namely this, that as the candidates pass in single file
-before the priest he blesses each one with the sign of the cross in the ordinary way, saying:
-I strengthen you with the sign of the cross in Christ Jesus our Lord, that you may have everlasting life.
-Peace be with you.
-And then he goes on with the exorcism as given above.
-Or the ceremony may also be performed in one action for the whole group.
-49. Afterward he wipes his thumb and the spots anointed with cotton or similar material. He then adds the
-following:
-Go out, unclean spirit, and pay homage to the living and true God. Depart, unclean spirit, and give place to
-Jesus Christ, His Son. Stay far away, unclean spirit, and give place to the Holy Spirit, the Advocate.
-If the number of catechumens is large there is no objection to having these ceremonies performed by several
-priests.
+
+All: And also with you. 
+
+48a. But wherever the anointing with oil of catechumens gives rise to considerable difficulties that are insurmountable for the time being, the conference of bishops can dispense from the practice for that particular place or people, in accord with the norms established for the use of this new rite. Nevertheless, all priests whose task it is to instruct catechumens and the faithful should bear in mind that they must do their utmost to remove such difficulties, so that, as Christian practices gradually are better understood, the ceremony of anointing catechumens with the holy oil may be observed. In the meantime a substitute ceremony should be used, namely this, that as the candidates pass in single file before the priest he blesses each one with the sign of the cross in the ordinary way, saying: I strengthen you with the sign of the cross in Christ Jesus our Lord, that you may have everlasting life. Peace be with you.
+
+And then he goes on with the exorcism as given above. Or the ceremony may also be performed in one action for the whole group.
+
+49. Afterward he wipes his thumb and the spots anointed with cotton or similar material. He then adds the following: Go out, unclean spirit, and pay homage to the living and true God. Depart, unclean spirit, and give place to Jesus Christ, His Son. Stay far away, unclean spirit, and give place to the Holy Spirit, the Advocate. If the number of catechumens is large there is no objection to having these ceremonies performed by several priests.
+
 50. In conclusion the priest says:
+
 P: Go in peace, and may the Lord be with you.
+
 All: Amen.
-SEVENTH STAGE
-51. The elect are assembled at the baptismal font. The priest, vested in surplice and purple stole or even a
-cope of the same color, comes to the altar steps with his assistants. He kneels and implores God's help. after
-which he rises, signs himself with the cross, and says:
-P: God, come to my rescue.
-All: Lord, make haste to help me.
-P: Glory be to the Father.
-All: As it was in the beginning.
-52. Next the priest calls the elect by their full name, and each one answers: Present. Afterward he puts these
-questions to them:
-65
-P: Do you believe in God the Father almighty, Creator of heaven and earth?
-All: I do believe.
-P: Do you believe in Jesus Christ, His only Son, our Lord, who was born into this world and suffered for us?
-All: I do believe.
-P: And do you believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness
-of sins, the resurrection of the body, and life everlasting?
-All: I do believe.
-P: Do you wish to be baptized?[11]
-All: I do.
-53. The candidate at this moment is bareheaded and has his clothing loosened at the neck. As the godfather or
-godmother (or both if two sponsors are used) take hold of or touch the candidate, the latter bends down over
-the font, and the priest takes baptismal water with a ladle, pours it thrice in the form of a cross on the head of
-the candidate, and baptizes him in the name of the Blessed Trinity, saying:
-N., I baptize you in the name of the Father, (here he pours the first time) and of the Son, (pouring a
-second time) and of the Holy Spirit (pouring a third time).
-54. If the water which runs off the head of the baptized cannot fall into the sacrarium of the baptistery, it
-should be caught in a basin provided for that purpose and later thrown into the sacrarium.
-If several are being baptized each one has the ceremony administered to him in the manner described above;
-and if there are both men and women the men are baptized first, followed by the women.
-If there is doubt whether the person has already been baptized, the following form is used:
-N., if you are not baptized, I baptize you, etc.
-55. The priest dips his thumb in holy chrism (if convenient he may be assisted here by another priest or
-several others, also vested in surplice and white stole), and in the form of a cross anoints the person on the
-crown of the head, saying:
-The almighty God, Father of our Lord Jesus Christ, has caused you to be born over again of water and the
-Holy Spirit and pardoned you all your sins. May he now anoint you with the chrism that sanctifies in Christ
-Jesus our Lord, and bring you to everlasting life.
-All: Amen.
-P: Peace be with you.
-All: And also with you.
-55a. If anointing with chrism involves a great difficulty, the conference of bishops may dispense with it (see
-what is said above in no. 48a); and in this case the following alternate ceremony should be substituted:
-The priest blesses each of the baptized (or all in one action) with the sign of the cross, saying:
-66
-The almighty God, Father of our Lord Jesus Christ, has caused you to be born over again of water and the
-Holy Spirit and pardoned you all your sins. May He now fill you with His blessing in Christ Jesus our
-Lord, and bring you to everlasting life.
-All: Amen.
-P: Peace be with you.
-All: And also with you.
-56. When all have been anointed with holy chrism (or blessed as directed in no. 55a), the priest wipes his
-thumb with cotton or something similar. Now the sponsors give the white robe to their respective godchild as
-the priest says:
-Take this white robe and keep it spotless until you arrive at the judgment seat of our Lord Jesus Christ, that
-you may be rewarded with everlasting life.
-All: Amen.
+
+# SEVENTH STAGE
+
+51. The elect are assembled at the baptismal font. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps with his assistants. He kneels and implores God's help. after which he rises, signs himself with the cross, and says:
+
+P: **God, come to my rescue.**
+
+All: **Lord, make haste to help me.**
+
+P: **Glory be to the Father.**
+
+All: **As it was in the beginning.**
+
+52. Next the priest calls the elect by their full name, and each one answers: Present. Afterward he puts these questions to them:
+
+P: **Do you believe in God the Father almighty, Creator of heaven and earth?**
+
+All: **I do believe.**
+
+P: **Do you believe in Jesus Christ, His only Son, our Lord, who was born into this world and suffered for us?**
+
+All: **I do believe.**
+
+P: **And do you believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting?**
+
+All: **I do believe.**
+
+P: **Do you wish to be baptized?**
+
+All: **I do.**
+
+53. The candidate at this moment is bareheaded and has his clothing loosened at the neck. As the godfather or godmother (or both if two sponsors are used) take hold of or touch the candidate, the latter bends down over the font, and the priest takes baptismal water with a ladle, pours it thrice in the form of a cross on the head of the candidate, and baptizes him in the name of the Blessed Trinity, saying: **N., I baptize you in the name of the Father,** (here he pours the first time) **and of the Son,** (pouring a second time) **and of the Holy Spirit** (pouring a third time).
+
+54. If the water which runs off the head of the baptized cannot fall into the sacrarium of the baptistery, it should be caught in a basin provided for that purpose and later thrown into the sacrarium. If several are being baptized each one has the ceremony administered to him in the manner described above; and if there are both men and women the men are baptized first, followed by the women.
+
+If there is doubt whether the person has already been baptized, the following form is used: **N., if you are not baptized, I baptize you,** etc.
+
+55. The priest dips his thumb in holy chrism (if convenient he may be assisted here by another priest or several others, also vested in surplice and white stole), and in the form of a cross anoints the person on the crown of the head, saying: **The almighty God, Father of our Lord Jesus Christ, has caused you to be born over again of water and the Holy Spirit and pardoned you all your sins. May he now anoint you with the chrism that sanctifies in Christ Jesus our Lord, and bring you to everlasting life.**
+
+All: **Amen.**
+
+P: **Peace be with you.**
+
+All: **And also with you.**
+
+55a. If anointing with chrism involves a great difficulty, the conference of bishops may dispense with it (see what is said above in no. 48a); and in this case the following alternate ceremony should be substituted: The priest blesses each of the baptized (or all in one action) with the sign of the cross, saying: **The almighty God, Father of our Lord Jesus Christ, has caused you to be born over again of water and the Holy Spirit and pardoned you all your sins. May He now fill you with His blessing in Christ Jesus our Lord, and bring you to everlasting life.**
+
+All: **Amen.**
+
+P: **Peace be with you.**
+
+All: **And also with you.**
+
+56. When all have been anointed with holy chrism (or blessed as directed in no. 55a), the priest wipes his thumb with cotton or something similar. Now the sponsors give the white robe to their respective godchild as the priest says: **Take this white robe and keep it spotless until you arrive at the judgment seat of our Lord Jesus Christ, that you may be rewarded with everlasting life.**
+
+All: **Amen.**
+
 And the baptized are now vested in the new white robes, removing if necessary some of their outer clothing.
-57. Next the godparents place a lighted taper or candle in the right hand of their respective godchild as the
-priest says:
-Take this burning candle as a reminder to keep your baptismal innocence. Obey God's commandments, so that
-when our Lord comes for the joyous wedding feast you may go forth to meet Him with all the saints in the
-halls of heaven, and be happy with Him forevermore.
-All: Amen.
+
+57. Next the godparents place a lighted taper or candle in the right hand of their respective godchild as the priest says: **Take this burning candle as a reminder to keep your baptismal innocence. Obey God's commandments, so that when our Lord comes for the joyous wedding feast you may go forth to meet Him with all the saints in the halls of heaven, and be happy with Him forevermore.**
+
+All: **Amen.**
+
 The baptized hold the lighted candle till the end, except while being confirmed.
-58. In conclusion the priest says: Go in peace, and may the Lord be with you.
-All: Amen.
+
+58. In conclusion the priest says: **Go in peace, and may the Lord be with you.**
+
+All: **Amen.**
