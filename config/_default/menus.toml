@@ -4,14 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
   
 [[main]]
-  name = "Start Here"
-  url = "#start"
-  weight = 20
-  
-[[main]]
-  name = "Wedding"
-  url = "#wedding"
-  weight = 30  
+  name = "Baptism"
+  url = "#baptism"
+  weight = 20  
 
 [[main]]
   name = "Planning"
