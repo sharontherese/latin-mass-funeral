@@ -45,18 +45,6 @@ time_format = "3:04 PM"
 ## Contact Widget setup   ##
 ############################
 
-# Enter contact details (optional). To hide a field, clear it to "".
-email_form = 0
-# email = ""
-# phone = ""
-# address = {} # {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
-
-# Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = "" # ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
-
-# Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
-
 # Address format (choose from the [address_formats] list below or add you own to the list).
 address_format = "en-us"
 
