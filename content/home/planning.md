@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 75  # Order that this section will appear.
 
 title = "Planning"
@@ -22,7 +22,7 @@ subtitle = ""
   filter_default = 0
   
  [[content.filter_button]]
-     name = "Betrothal"
+     name = "Churching of Mothers"
      tag = "Betrothal" 
   
 [[content.filter_button]]
