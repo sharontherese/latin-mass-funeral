@@ -6,226 +6,257 @@ toggle = false
 
 +++
 
-# Beginning 
+# First stage 
 
-1. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps
-with his assistants. He kneels and implores God's help, after which he rises, signs himself with the cross, and
-says:
-Priest: God, come to my rescue.
-All: Lord, make haste to help me.
-P: Glory be to the Father.
-All: As it was in the beginning.[1]
-2. Then he intones the antiphon which is continued by the assistants (if this and the following psalms are to be
-sung see the music supplement):
-Antiphon: I will pour out on you pure water, and you shall be cleansed of all your stains, says the Lord.
+1. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps with his assistants. He kneels and implores God's help, after which he rises, signs himself with the cross, and says:
+
+Priest: **God, come to my rescue.**
+
+All: **Lord, make haste to help me.**
+
+P: **Glory be to the Father.**
+
+All: **As it was in the beginning.**
+
+2. Then he intones the antiphon which is continued by the assistants:
+
+Antiphon: **I will pour out on you pure water, and you shall be cleansed of all your stains, says the Lord.**
+
 If possible he sings or recites the following alternately with all who are present:
-All: Ant. I will pour out * on you pure water, and you shall be cleansed of all your stains, says the Lord.
-P: O Lord, our Lord, how glorious is your majesty over all the earth! * you have exalted your majesty above
-the heavens.
-All: Out of the mouths of babes and sucklings you have fashioned praise because of your foes, * to silence the
-hostile and the vengeful.
-P: When I behold your heavens, the work of your fingers, * the moon and the stars which you set in place--
-All: What is man that you should be mindful of him, * or the son of man that you should care for him?
-P: You have made him little less than the angels, * and crowned him with glory and honor.
-All: You have given him rule over the works of your hands, * putting all things under his feet:
-P: All sheep and oxen, * yes, and the beasts of the field,
-All: The birds of the air, the fishes of the sea, * and whatever swims the paths of the seas.
-P: O Lord, our Lord, * how glorious is your name over all the earth!
-All: Glory be to the Father.
-P: As it was in the beginning.
-Psalm 28
-P: Give to the Lord, you sons of God, * give to the Lord glory and praise,
-48
-All: Give to the Lord the glory due His name; * adore the Lord in holy attire.
-P: The voice of the Lord is over the waters, the God of glory thunders, * the Lord, over vast waters.
-All: The voice of the Lord is mighty; * the voice of the Lord is majestic.
-P: The voice of the Lord breaks the cedars, * the Lord breaks the cedars of Lebanon.
-All: He makes Lebanon leap like a calf * and Sarion like a young wild bull.
-P: The voice of the Lord strikes fiery flames; the voice of the Lord shakes the desert, * the Lord shakes the
-wilderness of Cades.
-All: The voice of the Lord twists the oaks and strips the forests, * and in His temple all say, "Glory!"
-P: The Lord is enthroned above the flood; * the Lord is enthroned as king forever.
-All: May the Lord give strength to His people; * may the Lord bless his people with peace.
-P: Glory be to the Father.
-All: As it was in the beginning.
-Psalm 41
-P: As the hind longs for the running waters, * so my soul longs for you, O God.
-All: Athirst is my soul for God, the living God. * When shall I go and behold the face of God?
-P: My tears are my food day and night, * as they say to me day after day, "Where is your God?"
-All: Those times I recall, now that I pour out my soul within me, when I went with the throng * and led them
-in procession to the house of God,
-P: Amid loud cries of joy and thanksgiving, * with the multitude keeping festival.
-All: Why are you so downcast, O my soul? * Why do you sigh within me?
-P: Hope in God! For I shall again be thanking him, * my Savior and my God.
-All: My soul is downcast within me; * so will I remember you from the land of the Jordan and of Hermon,
-from Mount Misar.
-P: Deep calls unto deep in the roar of your cataracts; * all your breakers and your billows pass over me.
-All: By day the Lord bestows His grace, * and at night I have His song, a prayer to my living God.
-P: I sing to God, "My Rock, why do you forget me? * Why must I go about in mourning, with the enemy
-oppressing me?"
-All: It crushes my bones that my foes mock me, * as they say to me day after day, "Where is your God?"
-P: Why are you so downcast, O my soul? * Why do you sigh within me?
-49
-All: Hope in God! For I shall again be thanking Him, * my Savior and my God.
-P: Glory be to the Father.
-All: As it was in the beginning.
-Repeat the antiphon:
-I will pour out on you pure water, * and you shall be cleansed of all your stains, says the Lord.
-3. Then he says:
-Lord, have mercy. Christ, have mercy. Lord, have mercy. Our Father (the rest inaudibly until:)
-P: And lead us not into temptation.
-All: But deliver us from evil.
-P: Lord, heed my prayer.
-All: And let my cry be heard by you.
-P: The Lord be with you.
-All: May He also be with you.
-Let us pray.
-Almighty, everlasting God, who enable us, your servants, in our profession of the true faith, to acknowledge
-the glory of the three Persons in the eternal Godhead, and to adore their oneness of nature, their co-equal
-majesty; grant, we pray, that by steadfastness in that faith we may ever be guarded against all adversity.
-Hear our prayer, almighty God, so that what we purpose to do by our lowly ministry may have its full effect
-by your power.
-We beg you, O Lord, grant that our chosen one (ones), well instructed in the holy mysteries, may be born
-again in the font of baptism and be added to the household of your Church; through Christ our Lord.
-All: Amen.
 
-## AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+All: Ant. **I will pour out * on you pure water, and you shall be cleansed of all your stains, says the Lord.**
 
-4. Next the priest calls the candidates by their full name, first the men then the women, and each one answers
-"Present." Afterward he puts these questions to them:
-P: What are you asking of God's church?
-All: Faith.
-P: What does faith hold out to you?
-All: Everlasting life.
-50
-P: If, then, you wish to inherit everlasting life, keep the commandments, "Love the Lord your God with all
-your heart, with all your soul, and with all your mind; and your neighbor as yourself." On these two
-commandments depend the whole law and the prophets. Now faith demands that you worship one God in
-Trinity, and Trinity in unity, neither confusing the Persons one with the other, nor making a distinction in
-their nature. For the Father is a distinct Person, so also the Son, so also the Holy Spirit; yet all Three possess
-the one nature, the one Godhead.
+P: **O Lord, our Lord, how glorious is your majesty over all the earth! * you have exalted your majesty above the heavens.**
+
+All: **Out of the mouths of babes and sucklings you have fashioned praise because of your foes, * to silence the hostile and the vengeful.**
+
+P: **When I behold your heavens, the work of your fingers, * the moon and the stars which you set in place.**
+
+All: **What is man that you should be mindful of him, * or the son of man that you should care for him?**
+
+P: **You have made him little less than the angels, * and crowned him with glory and honor.**
+
+All: **You have given him rule over the works of your hands, * putting all things under his feet:**
+
+P: **All sheep and oxen, * yes, and the beasts of the field,**
+
+All: **The birds of the air, the fishes of the sea, * and whatever swims the paths of the seas.**
+
+P: **O Lord, our Lord, * how glorious is your name over all the earth!**
+
+All: **Glory be to the Father.**
+
+P: **As it was in the beginning.**
+
+## Psalm 28
+
+P: **Give to the Lord, you sons of God, * give to the Lord glory and praise,**
+
+All: **Give to the Lord the glory due His name; * adore the Lord in holy attire.**
+
+P: **The voice of the Lord is over the waters, the God of glory thunders, * the Lord, over vast waters.**
+
+All: **The voice of the Lord is mighty; * the voice of the Lord is majestic.**
+
+P: **The voice of the Lord breaks the cedars, * the Lord breaks the cedars of Lebanon.**
+
+All: **He makes Lebanon leap like a calf * and Sarion like a young wild bull.**
+
+P: **The voice of the Lord strikes fiery flames; the voice of the Lord shakes the desert, * the Lord shakes the wilderness of Cades.**
+
+All: **The voice of the Lord twists the oaks and strips the forests, * and in His temple all say, "Glory!"**
+
+P: **The Lord is enthroned above the flood; * the Lord is enthroned as king forever.**
+
+All: **May the Lord give strength to His people; * may the Lord bless his people with peace.**
+
+P: **Glory be to the Father.**
+
+All: **As it was in the beginning.**
+
+## Psalm 41
+
+P: **As the hind longs for the running waters, * so my soul longs for you, O God.**
+
+All: **Athirst is my soul for God, the living God. * When shall I go and behold the face of God?**
+
+P: **My tears are my food day and night, * as they say to me day after day, "Where is your God?"**
+
+All: **Those times I recall, now that I pour out my soul within me, when I went with the throng * and led them in procession to the house of God.**
+
+P: **Amid loud cries of joy and thanksgiving, * with the multitude keeping festival.**
+
+All: **Why are you so downcast, O my soul? * Why do you sigh within me?**
+
+P: **Hope in God! For I shall again be thanking him, * my Savior and my God.**
+
+All: **My soul is downcast within me; * so will I remember you from the land of the Jordan and of Hermon, from Mount Misar.**
+
+P: **Deep calls unto deep in the roar of your cataracts; * all your breakers and your billows pass over me.**
+
+All: **By day the Lord bestows His grace, * and at night I have His song, a prayer to my living God.**
+
+P: **I sing to God, "My Rock, why do you forget me? * Why must I go about in mourning, with the enemy oppressing me?"**
+
+All: **It crushes my bones that my foes mock me, * as they say to me day after day, "Where is your God?"**
+
+P: **Why are you so downcast, O my soul? * Why do you sigh within me?**
+
+All: **Hope in God! For I shall again be thanking Him, * my Savior and my God.**
+
+P: **Glory be to the Father.**
+
+All: **As it was in the beginning.**
+
+Repeat the antiphon: **I will pour out on you pure water, * and you shall be cleansed of all your stains, says the Lord.**
+
+3. Then he says: **Lord, have mercy. Christ, have mercy. Lord, have mercy. Our Father** (the rest inaudibly until:)
+
+P: **And lead us not into temptation.**
+
+All: **But deliver us from evil.**
+
+P: **Lord, heed my prayer.**
+
+All: **And let my cry be heard by you.**
+
+P: **The Lord be with you.**
+
+All: **May He also be with you.**
+
+P: **Let us pray. Almighty, everlasting God, who enable us, your servants, in our profession of the true faith, to acknowledge the glory of the three Persons in the eternal Godhead, and to adore their oneness of nature, their co-equal majesty; grant, we pray, that by steadfastness in that faith we may ever be guarded against all adversity. Hear our prayer, almighty God, so that what we purpose to do by our lowly ministry may have its full effect by your power. We beg you, O Lord, grant that our chosen one (ones), well instructed in the holy mysteries, may be born again in the font of baptism and be added to the household of your Church; through Christ our Lord.**
+
+All: **Amen.**
+
+## At the entrance or in the vestibule of the church
+
+4. Next the priest calls the candidates by their full name, first the men then the women, and each one answers **"Present."** Afterward he puts these questions to them:
+
+P: **What are you asking of God's church?**
+
+All: **Faith.**
+
+P: **What does faith hold out to you?**
+
+All: **Everlasting life.**
+
+P: **If, then, you wish to inherit everlasting life, keep the commandments, "Love the Lord your God with all your heart, with all your soul, and with all your mind; and your neighbor as yourself." On these two commandments depend the whole law and the prophets. Now faith demands that you worship one God in Trinity, and Trinity in unity, neither confusing the Persons one with the other, nor making a distinction in their nature. For the Father is a distinct Person, so also the Son, so also the Holy Spirit; yet all Three possess the one nature, the one Godhead.**
+
 5. He questions them further, with all giving the answers together, each one for himself in the singular forms:
-P: Do you renounce Satan?
-All: I do renounce him.
-P: And all his works?
-All: I do renounce them.
-P: And all his attractions?
-All: I do renounce them.
+
+P: **Do you renounce Satan?**
+
+All: **I do renounce him.**
+
+P: **And all his works?**
+
+All: **I do renounce them.**
+
+P: **And all his attractions?**
+
+All: **I do renounce them.**
+
 6. Next the priest questions them on the Creed, saying:
-P: Do you believe in God, the Father almighty, Creator of heaven and earth?
-All: I do believe.
-P: Do you believe in Jesus Christ, His only Son, our Lord, who was born into this world and suffered for us?
-All: I do believe.
-P: Do you also believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness
-of sins, the resurrection of the body, and life everlasting?
-All: I do believe.
-7. The priest thrice blows softly in their face, and follows up the gesture with the words below, saying them
-only once:
-7a. But if it seems impractical to breathe on them from a distance, he simply holds his right hand outstretched
-toward the catechumens while he says the words:
-Depart from them, unclean spirit, and give place to the Holy Spirit, the Advocate.
-{The previous act of blowing (exsufflation) was a sign of removing something, or, figuratively, driving out
-the evil spirit. The next act of breathing on them (insufflation, a breath as if preceded by the letter h) is a sign
-of giving something, or, figuratively, bestowing on them God's Spirit and His blessing.}
-8. Here he breathes softly on them in the form of a cross, saying:
-Receive, by this breath, the good Spirit along with His blessing.
-P: Peace be with you.
-51
-All: And also with you.
-8a. Here again if it seems impractical to breathe on them from a distance, he holds his hand as in 7a while he
-says:
-Receive, by this laying on of hands, the good Spirit along with His blessing.
-P: Peace be with you.
-All: And also with you.
-9. Then the candidates pass in single file before the priest, who makes the sign of the cross on the brow and
-heart of each, saying:
-N., receive the sign of the cross on your brow and on your heart. Put your whole trust in the heavenly
-teachings. And lead a life that will truly fit you to be a dwelling place for God. On entering God's Church
-acknowledge with joy that you have escaped the clutches of death.
-{But if the number of catechumens is large, they remain in their place and sign themselves with the thumb on
-the brow and heart, at the same time that the priest makes the twofold sign of the cross over them, saying:
-Receive the sign of the cross on your brow and on your heart. Put your whole trust in the heavenly
-teachings. And lead a life that will truly fit you to be a dwelling place for God. On entering God's Church
-acknowledge with joy that you have escaped the clutches of death.}
-The priest continues:
-Worship God the Father almighty, and Jesus Christ, His only-begotten Son, our Lord, who is coming to judge
-both the living and the dead and the world by fire.
-All: Amen.
-The priest then adds (using the singular forms when required):
-Let us pray.
-I entreat you, blessed Lord and Father, almighty and everlasting God, to point out the way of truth and godly
-knowledge to these servants of yours who grope in uncertainty and doubt in the darkness of this world. Open
-their inner sight, the better to see you as the one God, the Father in the Son and the Son in the Father, in union
-with the Holy Spirit. May it be their good fortune to enjoy the fruit of this avowal both now and forevermore;
-through Christ our Lord.
-All: Amen.
-9a. If there are serious objections to the priest himself tracing the sign of the cross on the person of the
-catechumen, then, in accord with the general norms for this rite (no. 3a), the conference of bishops may
-determine whether the subjects are to be signed with the cross by the godparents or do so themselves, while
-the priest simply makes the sign of the cross over them.
-10. After this the candidates pass again in single file before the priest, who traces the sign of the cross with his
-thumb on the brow of each, saying:
-I sign you on the brow that you may take up the cross of our Lord.
-52
-On the ears: I sign you on the ears that you may listen to the heavenly teachings.
-On the eyes: I sign you on the eyes that you may see the grandeur of God.
-On the nostrils: I sign you on the nostrils that you may sense the sweet fragrance of Christ.
-On the mouth: I sign you on the mouth that you may proclaim the word of life.
-On the breast: I sign you on the breast that you may believe in God.
-On the shoulders: I sign you on the shoulders that you may take on you the yoke of His service.
-{But if the number of catechumens is large, there is no objection to having a number of priests perform the
-above ceremonies.}
-Finally he makes one large sign of the cross over the elect, saying:
-I sign all of you in the name of the Father, and of the Son, and of the Holy Spirit, that you may come to
-your eternal destiny and have life without end.
-All: Amen.
-Then he adds these two prayers (using the singular forms when required):
-Let us pray.
-Lord, if it please you, hear our prayer, and by your inexhaustible power protect your chosen ones, N. and N.,
-now marked with the sign of our Savior's holy cross. Let them treasure this first sharing of your sovereign
-glory, and by keeping your commandments deserve to attain the glory of heaven to which those born anew
-are destined; through Christ our Lord.
-All: Amen.
-Let us pray.
-God, who first made the human race and then fashioned it anew, show your mercy to the people you are to
-adopt, and by the New Covenant add them as new offspring to your family. Thus, as children of the promise,
-may they delight in having become by grace what they could not have aspired to by nature; through Christ our
-Lord.
-All: Amen.
-10a. But if it is inadvisable for the priest to trace the sign of the cross on their person (see no. 9a above), then
-the candidates, remaining in their place, sign themselves with the thumb on the respective parts of the body
-each time the priest makes the sign of the cross, saying:
-I sign you on the brow that you may take up the cross of our Lord.
-On the ears: I sign you on the ears that you may listen to the heavenly teachings.
-On the eyes: I sign you on the eyes that you may see the grandeur of God.
-On the nostrils: I sign you on the nostrils that you may sense the sweet fragrance of Christ.
-53
-On the mouth: I sign you on the mouth that you may proclaim the word of life.
-On the breast: I sign you on the breast that you may believe in God.
-On the shoulders: I sign you on the shoulders that you may take on you the yoke of His service.
-11. Then the priest holds his hand outstretched over them and says (using the singular forms when required):
-Let us pray.
-Almighty everlasting God, Father of our Lord Jesus Christ, look with favor on your servants whom it has[1]
-pleased you to call to this first step in the faith. Rid them of all inward blindness. Sever all snares of Satan
-which heretofore bound them. Open wide for them, Lord, the door to your fatherly love. May the seal of your
-wisdom so penetrate them, as to cast out all tainted and foul inclinations, and let in the fragrance of your lofty
-teachings. Thus shall they serve you gladly in your Church and grow daily more perfect. And once they have
-tasted the medicinal property of salt, may they be fit to approach the grace of your baptism;[2] through Christ
-our Lord.
-All: Amen.
-12. In conclusion the priest says:
-Go in peace and may the Lord be with you.
+
+P: **Do you believe in God, the Father almighty, Creator of heaven and earth?**
+
+All: **I do believe.**
+
+P: **Do you believe in Jesus Christ, His only Son, our Lord, who was born into this world and suffered for us?**
+
+All: **I do believe.**
+
+P: **Do you also believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting?**
+
+All: **I do believe.**
+
+7. The priest thrice blows softly in their face, and follows up the gesture with the words below, saying them only once:
+
+7a. But if it seems impractical to breathe on them from a distance, he simply holds his right hand outstretched toward the catechumens while he says the words: **Depart from them, unclean spirit, and give place to the Holy Spirit, the Advocate.**
+
+8. Here he breathes softly on them in the form of a cross, saying: **Receive, by this breath, the good Spirit along with His blessing.**
+
+P: **Peace be with you.**
+
+All: **And also with you.**
+
+8a. Here again if it seems impractical to breathe on them from a distance, he holds his hand as in 7a while he says: **Receive, by this laying on of hands, the good Spirit along with His blessing.**
+
+P: **Peace be with you.**
+
+All: **And also with you.**
+
+9. Then the candidates pass in single file before the priest, who makes the sign of the cross on the brow and heart of each, saying: **N., receive the sign of the cross on your brow and on your heart. Put your whole trust in the heavenly teachings. And lead a life that will truly fit you to be a dwelling place for God. On entering God's Church acknowledge with joy that you have escaped the clutches of death.**
+
+The priest continues: **Worship God the Father almighty, and Jesus Christ, His only-begotten Son, our Lord, who is coming to judge both the living and the dead and the world by fire.**
+
 All: Amen.
 
-# SECOND STAGE
+The priest then adds (using the singular forms when required): **Let us pray. I entreat you, blessed Lord and Father, almighty and everlasting God, to point out the way of truth and godly knowledge to these servants of yours who grope in uncertainty and doubt in the darkness of this world. Open their inner sight, the better to see you as the one God, the Father in the Son and the Son in the Father, in union with the Holy Spirit. May it be their good fortune to enjoy the fruit of this avowal both now and forevermore; through Christ our Lord.**
 
-13. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps
-with his assistants. He kneels and implores God's help, after which he rises, signs himself with the cross, and
-says:
-P: God, come to my rescue.
-All: Lord, make haste to help me.
-P: Glory be to the Father.
-All: As it was in the beginning.
+All: **Amen.**
+
+9a. If there are serious objections to the priest himself tracing the sign of the cross on the person of the catechumen, then, in accord with the general norms for this rite (no. 3a), the conference of bishops may determine whether the subjects are to be signed with the cross by the godparents or do so themselves, while the priest simply makes the sign of the cross over them.
+
+10. After this the candidates pass again in single file before the priest, who traces the sign of the cross with his thumb on the brow of each, saying: **I sign you on the brow that you may take up the cross of our Lord.**
+
+On the ears: **I sign you on the ears that you may listen to the heavenly teachings.**
+
+On the eyes: **I sign you on the eyes that you may see the grandeur of God.**
+
+On the nostrils: **I sign you on the nostrils that you may sense the sweet fragrance of Christ.**
+
+On the mouth: **I sign you on the mouth that you may proclaim the word of life.**
+
+On the breast: **I sign you on the breast that you may believe in God.**
+
+On the shoulders: **I sign you on the shoulders that you may take on you the yoke of His service.**
+
+Finally he makes one large sign of the cross over the elect, saying: **I sign all of you in the name of the Father, and of the Son, and of the Holy Spirit, that you may come to your eternal destiny and have life without end.**
+
+All: **Amen.**
+
+Then he adds these two prayers (using the singular forms when required): **Let us pray. Lord, if it please you, hear our prayer, and by your inexhaustible power protect your chosen ones, N. and N., now marked with the sign of our Savior's holy cross. Let them treasure this first sharing of your sovereign glory, and by keeping your commandments deserve to attain the glory of heaven to which those born anew are destined; through Christ our Lord.**
+
+All: Amen.
+
+P: **Let us pray. God, who first made the human race and then fashioned it anew, show your mercy to the people you are to adopt, and by the New Covenant add them as new offspring to your family. Thus, as children of the promise, may they delight in having become by grace what they could not have aspired to by nature; through Christ our Lord.**
+
+All: **Amen.**
+
+10a. But if it is inadvisable for the priest to trace the sign of the cross on their person (see no. 9a above), then the candidates, remaining in their place, sign themselves with the thumb on the respective parts of the body each time the priest makes the sign of the cross, saying: **I sign you on the brow that you may take up the cross of our Lord.**
+
+On the ears: **I sign you on the ears that you may listen to the heavenly teachings.** 
+
+On the eyes: **I sign you on the eyes that you may see the grandeur of God.**
+
+On the nostrils: **I sign you on the nostrils that you may sense the sweet fragrance of Christ.**
+
+On the mouth: **I sign you on the mouth that you may proclaim the word of life.**
+
+On the breast: **I sign you on the breast that you may believe in God.**
+
+On the shoulders: **I sign you on the shoulders that you may take on you the yoke of His service.**
+
+11. Then the priest holds his hand outstretched over them and says (using the singular forms when required): **Let us pray. Almighty everlasting God, Father of our Lord Jesus Christ, look with favor on your servants whom it has pleased you to call to this first step in the faith. Rid them of all inward blindness. Sever all snares of Satan which heretofore bound them. Open wide for them, Lord, the door to your fatherly love. May the seal of your wisdom so penetrate them, as to cast out all tainted and foul inclinations, and let in the fragrance of your lofty teachings. Thus shall they serve you gladly in your Church and grow daily more perfect. And once they have tasted the medicinal property of salt, may they be fit to approach the grace of your baptism;[2] through Christ our Lord.**
+
+All: **Amen.**
+
+12. In conclusion the priest says: **Go in peace and may the Lord be with you.**
+
+All: **Amen.**
+
+# Second stage
+
+13. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps with his assistants. He kneels and implores God's help, after which he rises, signs himself with the cross, and says:
+
+P: **God, come to my rescue.**
+
+All: **Lord, make haste to help me.**
+
+P: **Glory be to the Father.**
+
+All: **As it was in the beginning.**
 
 ## AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
 
