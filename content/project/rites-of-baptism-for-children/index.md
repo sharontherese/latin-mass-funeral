@@ -5,7 +5,7 @@ tags:
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.latinmasswedding.com/rite-of-baptism-for-children/"
+external_link: "https://www.latinmassbaptism.com/rite-of-baptism-for-children/"
 
 # image:
  # caption: Photo by rawpixel on Unsplash
