@@ -258,397 +258,349 @@ P: **Glory be to the Father.**
 
 All: **As it was in the beginning.**
 
-## AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+## At the entrance or in the vestibule of the church
 
-14. The priest blesses salt with this exorcism:
-Exorcism
-God's creature, salt, I cast out the demon from you, in the name of God the Father almighty, in the love of
-our Lord Jesus Christ, and in the strength of the Holy Spirit. I purify you by the living God, the true
-God, the holy God, by God who created you to be a preservative for mankind, and ordered you to be
-sanctified by His ministers for the benefit of the people who are about to embrace the faith. In the name of the
-Blessed Trinity may you become a saving sign empowered to drive away the enemy. Therefore, we beg you,
-Lord, our God, to sanctify and to bless this creature, salt, thus providing a perfect remedy for all who
-54
-receive it, one that will permeate their inmost being. We ask this in the name of our Lord Jesus Christ, who is
-coming to judge both the living and the dead and the world by fire.
-All: Amen.
-Before giving the blessed salt to the catechumens the priest adds this prayer (using the singular forms when
-required):
-Let us pray.
-Blessed Lord and Father, almighty and everlasting God, who is, who was, who ever shall be, whose beginning
-is unknown, whose end is inconceivable. We humbly implore you on behalf of these servants of yours whom
-you have freed from the shackles of error; graciously heed them as they bow low before you at the cleansing
-font where one is born over again by water and the Holy Spirit. May they put off the old man and put on the
-new man created in your image; may they receive the pure and spotless robe and thus become worthy of
-serving you, our God; through Christ our Lord.
-All: Amen.
-15. Taking a pinch of blessed salt he puts it in the mouth of each catechumen, saying:
-N., take this salt in sign of wisdom. May it be for you likewise a token that foreshadows everlasting life.
-Candidate: Amen.
-P: Peace be with you.
-Candidate: And also with you.
-Then he adds this prayer (using the singular forms when required):
-Let us pray.
-God of our fathers, God, source of all truth, we humbly ask you to be well disposed to your servants, N. and
-N. After this first[3] taste of salt, let their hunger for heavenly nourishment not be prolonged but soon be
-satisfied. For then they will always pay homage to your holy name with fervor, joy, and trust.[4] In your
-tender care, O Lord, lead them to the bath of water where one is born over again, so that taken into the family
-of your faithful they can finally attain the everlasting reward which you have promised; through Christ our
-Lord.
-All: Amen.
-15a. Wherever it is inconvenient for the priest himself to put the salt in the mouth of the catechumens, the
-conference of bishops may decide that the catechumens themselves do so, taking a pinch of salt from a larger
-vessel offered to them by the priest.
+## Exorcism
+
+14. The priest blesses salt with this exorcism: **God's creature, salt, I cast out the demon from you, in the name of God the Father almighty, in the love of our Lord Jesus Christ, and in the strength of the Holy Spirit. I purify you by the living God, the true God, the holy God, by God who created you to be a preservative for mankind, and ordered you to be sanctified by His ministers for the benefit of the people who are about to embrace the faith. In the name of the Blessed Trinity may you become a saving sign empowered to drive away the enemy. Therefore, we beg you, Lord, our God, to sanctify and to bless this creature, salt, thus providing a perfect remedy for all who receive it, one that will permeate their inmost being. We ask this in the name of our Lord Jesus Christ, who is coming to judge both the living and the dead and the world by fire.**
+
+All: **Amen.**
+
+Before giving the blessed salt to the catechumens the priest adds this prayer (using the singular forms when required): **Let us pray. Blessed Lord and Father, almighty and everlasting God, who is, who was, who ever shall be, whose beginning is unknown, whose end is inconceivable. We humbly implore you on behalf of these servants of yours whom you have freed from the shackles of error; graciously heed them as they bow low before you at the cleansing font where one is born over again by water and the Holy Spirit. May they put off the old man and put on the new man created in your image; may they receive the pure and spotless robe and thus become worthy of serving you, our God; through Christ our Lord.**
+
+All: **Amen.**
+
+15. Taking a pinch of blessed salt he puts it in the mouth of each catechumen, saying: **N., take this salt in sign of wisdom. May it be for you likewise a token that foreshadows everlasting life.**
+
+Candidate: **Amen.**
+
+P: **Peace be with you.**
+
+Candidate: **And also with you.**
+
+Then he adds this prayer (using the singular forms when required): **Let us pray. God of our fathers, God, source of all truth, we humbly ask you to be well disposed to your servants, N. and N. After this first taste of salt, let their hunger for heavenly nourishment not be prolonged but soon be satisfied. For then they will always pay homage to your holy name with fervor, joy, and trust. In your tender care, O Lord, lead them to the bath of water where one is born over again, so that taken into the family of your faithful they can finally attain the everlasting reward which you have promised; through Christ our Lord.**
+
+All: **Amen.**
+
+15a. **Wherever it is inconvenient for the priest himself to put the salt in the mouth of the catechumens, the conference of bishops may decide that the catechumens themselves do so, taking a pinch of salt from a larger vessel offered to them by the priest.**
+
 16. In conclusion the priest says:
-P: Go in peace and may the Lord be with you.
-All: Amen.
 
-# THIRD STAGE
+P: **Go in peace and may the Lord be with you.**
 
-55
-17. It is left to the prudent judgment of the Ordinary whether the three following stages, i.e., the three series
-of exorcisms, are to be carried out independently and separately, or whether all three are to be combined into
-one action, or even whether only one of the three is to be used, omitting the other two.
-18. The ceremonies of this stage are always to take place with the men in a separate group and the same for
-the women; also if convenient at a different place or time.
-19. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps
-with his assistants. He kneels and implores God's help, after which he rises, signs himself with the cross, and
-says:
-P: God, come to my rescue.
-All: Lord, make haste to help me.
-P: Glory be to the Father.
-All: As it was in the beginning.
+All: **Amen.**
 
-## FOR MEN
-## AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+# Third stage
 
-20. The priest says to the candidates (now called the elect) who are standing before him:
-Pray, you who are chosen by God; kneel down and say the Our Father.
+17. It is left to the prudent judgment of the Ordinary whether the three following stages, i.e., the three series of exorcisms, are to be carried out independently and separately, or whether all three are to be combined into one action, or even whether only one of the three is to be used, omitting the other two.
+
+18. The ceremonies of this stage are always to take place with the men in a separate group and the same for the women; also if convenient at a different place or time.
+
+19. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps with his assistants. He kneels and implores God's help, after which he rises, signs himself with the cross, and says:
+
+P: **God, come to my rescue.**
+
+All: **ord, make haste to help me.**
+
+P: **Glory be to the Father.**
+
+All: **As it was in the beginning.**
+
+## For men
+## At the entrance or in the vestibule of the church
+
+20. The priest says to the candidates (now called the elect) who are standing before him: **Pray, you who are chosen by God; kneel down and say the Our Father.**
+
 The candidates kneel and say Our Father (up to the word "evil" inclusive.)
-P: Arise and conclude your prayer with the Amen.
-The candidates stand up and say: Amen.
-The priest says to the sponsors:
-Mark them with the sign of the cross while I do likewise.
-The sponsors trace the sign of the cross on the candidates' brow with the thumb, whereas the priest makes the
-sign over them--both priest and sponsors saying the words:
-In the name of the Father, and of the Son, and of the Holy Spirit.
-21. When the candidates are men the priest says the following prayer holding his hand outstretched over
-them, and changing the plural forms to the singular when required:
-Let us pray.
-God of Abraham, Isaac, and Jacob, O God, who appeared to Moses, your servant, on Mt. Sinai, and led the
-children of Israel out of Egypt's land, appointing your good angel over them to guard them day and night; we
-beg you, Lord, if it please you, to send down your holy angel from heaven to guard these servants of yours in
-like manner,[5] and to lead them to the grace of your baptism; through Christ our Lord.
-All: Amen.
-56
-The priest then pronounces the exorcism over them, changing the plural forms to the singular when required:
-Exorcism
-Now, foul fiend, recall the curse that decided your fate once for all. Indeed, pay homage to the living and true
-God, pay homage to Jesus Christ, His Son, and to the Holy Spirit. Keep far from these servants of God, for
-Jesus Christ, our Lord and God, has freely called them to His holy grace and blessed way and to the waters of
-baptism.
-The priest makes the sign of the cross over them, while the candidates sign themselves on the brow with the
-thumb; the priest says:
-Never dare, accursed fiend, to desecrate this seal of the holy cross which we imprint on their brow; through
-Christ our Lord, who is coming to judge both the living and the dead and the world by fire.
-All: Amen.
+
+P: **Arise and conclude your prayer with the Amen.**
+
+The candidates stand up and say: **Amen.**
+
+The priest says to the sponsors: **Mark them with the sign of the cross while I do likewise.**
+
+The sponsors trace the sign of the cross on the candidates' brow with the thumb, whereas the priest makes the sign over them--both priest and sponsors saying the words: **In the name of the Father, and of the Son, and of the Holy Spirit.**
+
+21. When the candidates are men the priest says the following prayer holding his hand outstretched over them, and changing the plural forms to the singular when required: **Let us pray. God of Abraham, Isaac, and Jacob, O God, who appeared to Moses, your servant, on Mt. Sinai, and led the children of Israel out of Egypt's land, appointing your good angel over them to guard them day and night; we beg you, Lord, if it please you, to send down your holy angel from heaven to guard these servants of yours in like manner, and to lead them to the grace of your baptism; through Christ our Lord.**
+
+All: **Amen.**
+
+## Exorcism
+
+The priest then pronounces the exorcism over them, changing the plural forms to the singular when required: **Now, foul fiend, recall the curse that decided your fate once for all. Indeed, pay homage to the living and true God, pay homage to Jesus Christ, His Son, and to the Holy Spirit. Keep far from these servants of God, for Jesus Christ, our Lord and God, has freely called them to His holy grace and blessed way and to the waters of baptism.**
+
+The priest makes the sign of the cross over them, while the candidates sign themselves on the brow with the thumb; the priest says: **Never dare, accursed fiend, to desecrate this seal of the holy cross which we imprint on their brow; through Christ our Lord, who is coming to judge both the living and the dead and the world by fire.**
+
+All: **Amen.**
+
 The ceremony concludes with no. 24 below:
 
 ## For Women
 
-22. When the candidates are women the priest says (changing the plural forms to the singular when required):
-Pray, you who are chosen by God; kneel down and say the Our Father.
+22. When the candidates are women the priest says (changing the plural forms to the singular when required): **Pray, you who are chosen by God; kneel down and say the Our Father.**
+
 The candidates kneel and say Our Father (up to the word "evil" inclusive.)
-P: Arise and conclude your prayer with the Amen.
-The candidates stand up and say: Amen.
-The priest says to the sponsors:
-Mark them with the sign of the cross while I do likewise.
+
+P: **Arise and conclude your prayer with the Amen.**
+
+The candidates stand up and say: **Amen.**
+
+The priest says to the sponsors: **Mark them with the sign of the cross while I do likewise.**
+
 The sponsors trace the sign of the cross on the candidates' brow with the thumb, whereas the priest makes the
-sign over them--both priest and sponsors saying the words:
-In the name of the Father, and of the Son, and of the Holy Spirit.
-23. Holding his hand outstretched over them, the priest says (using singular forms when required):
-Let us pray.
-God of heaven and earth, God of the angels and archangels, God of the patriarchs and prophets, God of the
-apostles and martyrs, God of the confessors and virgins, God of all the devout; God whom every tongue
-praises and before whom all bend the knee, in heaven, on earth, and in the depths; I call on you, Lord, to
-watch over these servants of yours in like manner,[6] and to lead them in your kindness to the grace of your
-baptism; through Christ our Lord.
+sign over them--both priest and sponsors saying the words: **In the name of the Father, and of the Son, and of the Holy Spirit.**
+
+23. Holding his hand outstretched over them, the priest says (using singular forms when required): **Let us pray. God of heaven and earth, God of the angels and archangels, God of the patriarchs and prophets, God of the apostles and martyrs, God of the confessors and virgins, God of all the devout; God whom every tongue praises and before whom all bend the knee, in heaven, on earth, and in the depths; I call on you, Lord, to watch over these servants of yours in like manner, and to lead them in your kindness to the grace of your baptism; through Christ our Lord.**
 All: Amen.
-Exorcism
+
+## Exorcism
+
 Using the singular forms when required:
-57
-Now, foul fiend, recall the curse that decided your fate once for all. Indeed, pay homage to the living and true
-God, pay homage to Jesus Christ, His Son, and to the Holy Spirit. Keep far from these servants of God, for
-Jesus Christ, our Lord and God, has freely called them to His holy grace and blessed way and to the waters of
-baptism.
-The priest makes the sign of the cross over them, while the candidates sign themselves on the brow with the
-thumb; the priest says:
-Never dare, accursed fiend, to desecrate this seal of the holy cross which we imprint on their brow; through
-Christ our Lord, who is coming to judge both the living and the dead and the world by fire.
-All: Amen.
+
+**Now, foul fiend, recall the curse that decided your fate once for all. Indeed, pay homage to the living and true God, pay homage to Jesus Christ, His Son, and to the Holy Spirit. Keep far from these servants of God, for Jesus Christ, our Lord and God, has freely called them to His holy grace and blessed way and to the waters of baptism.**
+
+The priest makes the sign of the cross over them, while the candidates sign themselves on the brow with the thumb; the priest says: **Never dare, accursed fiend, to desecrate this seal of the holy cross which we imprint on their brow; through Christ our Lord, who is coming to judge both the living and the dead and the world by fire.**
+
+All: **Amen.**
+
 The ceremony concludes with no. 24 below:
-24. In conclusion the priest says:
-P: Go in peace and may the Lord be with you.
-All: Amen.
 
-# FOURTH STAGE
+24. In conclusion the priest says: **Go in peace and may the Lord be with you.**
 
-25. The ceremonies of this stage are always to take place with the men in a separate group and the same for
-the women; also if convenient at a different place or time.
-26. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps
-with his assistants. He kneels and implores God's help, after which he rises, signs himself with the cross, and
-says:
-P: God, come to my rescue.
-All: Lord, make haste to help me.
-P: Glory be to the Father.
-All: As it was in the beginning.
+All: **Amen.**
 
-## AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+# Fourth stage
+
+25. The ceremonies of this stage are always to take place with the men in a separate group and the same for the women; also if convenient at a different place or time.
+
+26. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps with his assistants. He kneels and implores God's help, after which he rises, signs himself with the cross, and says:
+
+P: **God, come to my rescue.**
+
+All: **Lord, make haste to help me.**
+
+P: **Glory be to the Father.**
+
+All: **As it was in the beginning.**
+
+## At the entrance or in the vestibule of the church
 
 ## For Men
 
-27. The priest says to the candidates (now called the elect) who are standing before him:
-Pray, you who are chosen by God; kneel down and say the Our Father.
+27. The priest says to the candidates (now called the elect) who are standing before him: **Pray, you who are chosen by God; kneel down and say the Our Father.**
+
 The candidates kneel and say Our Father (up to the word "evil" inclusive.)
-P: Arise and conclude your prayer with the Amen.
-The candidates stand up and say: Amen.
-The priest says to the sponsors:
-58
-Mark them with the sign of the cross while I do likewise.
-The sponsors trace the sign of the cross on the candidates' brow with the thumb, whereas the priest makes the
-sign over them--both priest and sponsors saying the words:
-In the name of the Father, and of the Son, and of the Holy Spirit.
-28. Holding his hand outstretched over them the priest says the following prayer (using the singular forms
-when required):
-Let us pray.
-God, the everlasting support of all who seek you, the liberator of all who plead with you, the peace of all who
-importune you, the life of all the faithful, the resurrection of the dead; I appeal to you on behalf of these
-servants of yours who desire[7] the gift of baptism and the abiding grace bestowed in this supernatural birth.
-Claim them as your own, you who have graciously promised: "Ask and you shall receive, seek and you shall
-find, knock and it shall be opened to you." Reach out the reward to them who ask, open wide the door to them
-who knock. For then will they attain the everlasting blessing of heavenly cleansing, and possess the kingdom
-which in your bounty you have promised; through Christ our Lord.
-All: Amen.
-The priest then pronounces the exorcism over them (using the singular forms when required):
-Exorcism
-Hear, accursed Satan, for I adjure you in the name of the infinite God and His Son, Jesus Christ, our Savior, to
-flee in trembling and groaning, for you and your envy are vanquished. May you have nothing in common with
-these servants of God, whose thoughts are already of heaven, and who are determined to renounce both you
-and your world and to overcome you and so win a blessed and immortal reward. Pay homage, then, to the
-Holy Spirit, who now approaches from heaven's high citadel to frustrate your wicked designs, and to prepare
-their hearts, once they are purified in the grace-laden waters, as a sanctified dwelling for God. And so will
-these servants of the Most High, delivered from guilt of past crimes, render endless thanks to the everlasting
-God and laud His holy name forevermore.
-All: Amen.
+
+P: **Arise and conclude your prayer with the Amen.**
+
+The candidates stand up and say: **Amen.**
+
+The priest says to the sponsors: **Mark them with the sign of the cross while I do likewise.**
+
+The sponsors trace the sign of the cross on the candidates' brow with the thumb, whereas the priest makes the sign over them--both priest and sponsors saying the words: **In the name of the Father, and of the Son, and of the Holy Spirit.**
+
+28. Holding his hand outstretched over them the priest says the following prayer (using the singular forms when required): **Let us pray. God, the everlasting support of all who seek you, the liberator of all who plead with you, the peace of all who importune you, the life of all the faithful, the resurrection of the dead; I appeal to you on behalf of these servants of yours who desire the gift of baptism and the abiding grace bestowed in this supernatural birth. Claim them as your own, you who have graciously promised: "Ask and you shall receive, seek and you shall find, knock and it shall be opened to you." Reach out the reward to them who ask, open wide the door to them who knock. For then will they attain the everlasting blessing of heavenly cleansing, and possess the kingdom which in your bounty you have promised; through Christ our Lord.**
+
+All: **Amen.**
+
+## Exorcism
+
+The priest then pronounces the exorcism over them (using the singular forms when required): **Hear, accursed Satan, for I adjure you in the name of the infinite God and His Son, Jesus Christ, our Savior, to flee in trembling and groaning, for you and your envy are vanquished. May you have nothing in common with these servants of God, whose thoughts are already of heaven, and who are determined to renounce both you and your world and to overcome you and so win a blessed and immortal reward. Pay homage, then, to the Holy Spirit, who now approaches from heaven's high citadel to frustrate your wicked designs, and to prepare their hearts, once they are purified in the grace-laden waters, as a sanctified dwelling for God. And so will these servants of the Most High, delivered from guilt of past crimes, render endless thanks to the everlasting God and laud His holy name forevermore.**
+
+All: **Amen.**
+
 The ceremonies conclude with the form given below in no. 31.
 
 ## For Women
 
-29. The priest says to the candidates who are standing before him (using the singular forms when required):
-Pray, you who are chosen by God; kneel down and say the Our Father.
+29. The priest says to the candidates who are standing before him (using the singular forms when required): **Pray, you who are chosen by God; kneel down and say the Our Father.**
+
 The candidates kneel and say Our Father (up to the word "evil" inclusive.)
-P: Arise and conclude your prayer with the Amen.
-The candidates stand up and say: Amen.
-The priest says to the sponsors:
-Mark them with the sign of the cross while I do likewise.
-59
-The sponsors trace the sign of the cross on the candidates' brow with the thumb, whereas the priest makes the
-sign over them--both priest and sponsors saying the words:
-In the name of the Father, and of the Son, and of the Holy Spirit.
-30. Holding his hand outstretched over them the priest says the following prayer (using the singular forms
-when required):
-Let us pray.
-God of Abraham, Isaac, and Jacob, O God, who appeared to Moses, your servant, on Mt. Sinai, and led the
-children of Israel out of Egypt's land, appointing your good angel over them to guard them day and night; we
-beg you, Lord, if it please you, to send down your holy angel from heaven to guard these servants of yours in
-like manner,[8] and to lead them to the grace of your baptism; through Christ our Lord.
-All: Amen.
-The priest then pronounces the exorcism over them, changing the plural forms to the singular when required:
-Exorcism
-Now, foul fiend, recall the curse that decided your fate once for all. Indeed, pay homage to the living and true
-God, pay homage to Jesus Christ, His Son, and to the Holy Spirit. Keep far from these servants of God, for
-Jesus Christ, our Lord and God, has freely called them to His holy grace and blessed way and to the waters of
-baptism.
-The priest makes the sign of the cross over them, while the candidates sign themselves on the brow with the
-thumb, the priest saying:
-Never dare, accursed fiend, to desecrate this seal of the holy cross which we imprint on their brow; through
-Christ our Lord, who is coming to judge both the living and the dead and the world by fire.
-All: Amen.
-31. P: Go in peace and may the Lord be with you.
-All: Amen.
 
-# FIFTH STAGE
+P: **Arise and conclude your prayer with the Amen.**
 
-32. The ceremonies of this stage are always to take place with the men in a separate group and the same for
-the women; also if convenient at a different place or time.
-33. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps
-with his assistants. He kneels and implores God's help, after which he rises, signs himself with the cross, and
-says:
-P: God, come to my rescue.
-All: Lord, make haste to help me.
-P: Glory be to the Father.
-All: As it was in the beginning.
-60
+The candidates stand up and say: **Amen.**
 
-## AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+The priest says to the sponsors: **Mark them with the sign of the cross while I do likewise.**
+
+The sponsors trace the sign of the cross on the candidates' brow with the thumb, whereas the priest makes the sign over them--both priest and sponsors saying the words:
+
+**In the name of the Father, and of the Son, and of the Holy Spirit.**
+
+30. Holding his hand outstretched over them the priest says the following prayer (using the singular forms when required): **Let us pray. God of Abraham, Isaac, and Jacob, O God, who appeared to Moses, your servant, on Mt. Sinai, and led the children of Israel out of Egypt's land, appointing your good angel over them to guard them day and night; we beg you, Lord, if it please you, to send down your holy angel from heaven to guard these servants of yours in like manner, and to lead them to the grace of your baptism; through Christ our Lord.**
+
+All: **Amen.**
+
+## Exorcism
+
+The priest then pronounces the exorcism over them, changing the plural forms to the singular when required: **Now, foul fiend, recall the curse that decided your fate once for all. Indeed, pay homage to the living and true God, pay homage to Jesus Christ, His Son, and to the Holy Spirit. Keep far from these servants of God, for Jesus Christ, our Lord and God, has freely called them to His holy grace and blessed way and to the waters of baptism.**
+
+The priest makes the sign of the cross over them, while the candidates sign themselves on the brow with the thumb, the priest saying: **Never dare, accursed fiend, to desecrate this seal of the holy cross which we imprint on their brow; through Christ our Lord, who is coming to judge both the living and the dead and the world by fire.**
+
+All: **Amen.**
+
+31. P: **Go in peace and may the Lord be with you.**
+
+All: **Amen.**
+
+# Fifth stage
+
+32. The ceremonies of this stage are always to take place with the men in a separate group and the same for the women; also if convenient at a different place or time.
+
+33. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps with his assistants. He kneels and implores God's help, after which he rises, signs himself with the cross, and says:
+
+P: **God, come to my rescue.**
+
+All: **Lord, make haste to help me.**
+
+P: **Glory be to the Father.**
+
+All: **As it was in the beginning.**
+
+## At the entrance or in the vestibule of the church
+
 ## For Men
 
-34. The priest says to the candidates (now called the elect) who are standing before him:
-Pray, you who are chosen by God; kneel down and say the Our Father.
+## At the entrance or in the vestibule of the church
+
+34. The priest says to the candidates (now called the elect) who are standing before him: **Pray, you who are chosen by God; kneel down and say the Our Father.**
+
 The candidates kneel and say Our Father (up to the word "evil" inclusive.)
-P: Arise and conclude your prayer with the Amen.
-The candidates stand up and say: Amen.
-The priest says to the sponsors: Mark them with the sign of the cross while I do likewise.
-The sponsors trace the sign of the cross on the candidates' brow with the thumb, whereas the priest makes the
-sign over them--both priest and sponsors saying the words:
-In the name of the Father, and of the Son, and of the Holy Spirit.
-35. Then the priest holds his hand outstretched over them and says the following (using the singular forms
-when required):
-Exorcism
-I cast you out, unclean spirit, in the name of the Father, and of the Son, and of the Holy Spirit. Depart
-and stay away from these servants of God. For it is the Lord Himself who commands you, accursed and
-doomed spirit, He who walked on the sea and reached out His hand to Peter as he was sinking. So then, foul
-fiend, recall the curse that decided your fate once for all. Indeed, pay homage to the living and true God, pay
-homage to Jesus Christ, His Son, and to the Holy Spirit. Keep far from these servants of God, for Jesus Christ,
-our Lord and God, has freely called them to His holy grace and blessed way and to the waters of baptism.
-The priest makes the sign of the cross over them, while the candidates sign themselves on the brow with the
-thumb; the priest says:
-Never dare, accursed fiend, to desecrate this seal of the holy cross which we imprint on their brow; through
-Christ our Lord, who is coming to judge both the living and the dead and the world by fire.
-All: Amen.
-36. Then the priest, still holding his hand outstretched over the candidates says (using the singular forms
-when required):
-Let us pray.
-Holy Lord, almighty Father, everlasting God, source of light and truth, I appeal to your sacred and boundless
-compassion on behalf of these servants of yours. Be pleased to enlighten them by the light of your eternal
-wisdom. Cleanse, sanctify, and endow them with true knowledge.[9] For thus will they be made ready for the
-grace of your baptism and ever remain steadfast, never losing hope, never faltering in duty, never straying
-from sacred truth, but ready at all times to receive your grace; through Christ our Lord.
-All: Amen.
-61
+
+P: **Arise and conclude your prayer with the Amen.**
+
+The candidates stand up and say: **Amen.**
+
+The priest says to the sponsors: **Mark them with the sign of the cross while I do likewise.**
+
+The sponsors trace the sign of the cross on the candidates' brow with the thumb, whereas the priest makes the sign over them--both priest and sponsors saying the words: **In the name of the Father, and of the Son, and of the Holy Spirit.**
+
+## Exorcism
+
+35. Holding his hand outstretched over them the priest says the following prayer (using the singular forms when required): **I cast you out, unclean spirit, in the name of the Father, and of the Son, and of the Holy Spirit. Depart and stay away from these servants of God. For it is the Lord Himself who commands you, accursed and doomed spirit, He who walked on the sea and reached out His hand to Peter as he was sinking. So then, foul fiend, recall the curse that decided your fate once for all. Indeed, pay homage to the living and true God, pay homage to Jesus Christ, His Son, and to the Holy Spirit. Keep far from these servants of God, for Jesus Christ, our Lord and God, has freely called them to His holy grace and blessed way and to the waters of baptism.**
+
+The priest makes the sign of the cross over them, while the candidates sign themselves on the brow with the thumb; the priest says: **Never dare, accursed fiend, to desecrate this seal of the holy cross which we imprint on their brow; through Christ our Lord, who is coming to judge both the living and the dead and the world by fire.**
+
+All: **Amen.**
+
+36. Then the priest, still holding his hand outstretched over the candidates says (using the singular forms when required): **Let us pray. Holy Lord, almighty Father, everlasting God, source of light and truth, I appeal to your sacred and boundless compassion on behalf of these servants of yours. Be pleased to enlighten them by the light of your eternal wisdom. Cleanse, sanctify, and endow them with true knowledge.[9] For thus will they be made ready for the grace of your baptism and ever remain steadfast, never losing hope, never faltering in duty, never straying from sacred truth, but ready at all times to receive your grace; through Christ our Lord.**
+
+All: **Amen.**
+
 The ceremony concludes with the words given in no. 40 below.
 
 ## For Women
 
-37. The priest says to the candidates (now called the elect) who are standing before him:
-Pray, you who are chosen by God; kneel down and say the Our Father.
+37. The priest says to the candidates (now called the elect) who are standing before him: **Pray, you who are chosen by God; kneel down and say the Our Father.**
+
 The candidates kneel and say Our Father (up to the word "evil" inclusive.)
-P: Arise and conclude your prayer with the Amen.
-The candidates stand up and say: Amen.
-The priest says to the sponsors:
-Mark them with the sign of the cross while I do likewise.
-The sponsors trace the sign of the cross on the candidates' brow with the thumb, whereas the priest makes the
-sign over them--both priest and sponsors saying the words:
-In the name of the Father, and of the Son, and of the Holy Spirit.
-38. Then the priest holds his hand outstretched over them and says the following (using the singular forms
-when required):
-Exorcism
-I cast you out, unclean spirit, in the name of the Father, and of the Son, and of the Holy Spirit. Depart
-and stay far away from these servants of God. For it is the Lord Himself who commands you, accursed and
-doomed spirit, He who restored sight to the man born blind and raised Lazarus from the tomb where he had
-lain four days. So then, foul fiend, recall the curse that decided your fate once for all. Indeed, pay homage to
-the living and true God, pay homage to Jesus Christ, His Son, and to the Holy Spirit. Keep far from these
-servants of God, for Jesus Christ, our Lord and God, has freely called them to His holy grace and blessed way
-and to the waters of baptism. The priest makes the sign of the cross over them, while the candidates sign
-themselves on the brow with the thumb; the priest says:
-Never dare, accursed fiend, to desecrate this seal of the holy cross which we imprint on their brow; through
-Christ our Lord, who is coming to judge both the living and the dead and the world by fire.
-All: Amen.
-39. Then the priest, still holding his hand outstretched over the candidates says (using the singular forms
-when required):
-Let us pray.
-Holy Lord, almighty Father, everlasting God, source of light and truth, I appeal to your sacred and boundless
-compassion on behalf of these servants of yours. Be pleased to enlighten them by the light of your eternal
-wisdom. Cleanse, sanctify, and endow them with true knowledge.[10] For thus will they be made ready for
-the grace of your baptism and ever remain steadfast, never losing hope, never faltering in duty, never straying
-from sacred truth, but ready at all times to receive your grace; through Christ our Lord.
-All: Amen.
-62
-The ceremony concludes with the words given in no. 40 below.
-40. Lastly the priest says:
-P: Go in peace and may the Lord be with you.
-All: Amen.
 
-# SIXTH STAGE
+P: **Arise and conclude your prayer with the Amen.**
 
-## AT THE ENTRANCE OR IN THE VESTIBULE OF THE CHURCH
+The candidates stand up and say: **Amen.**
 
-41. At the appointed time the catechumens assemble at the church door, or at another place outside the edifice, from where they will march in solemn procession to the church. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps with his assistants where he kneels and implores God's help. Then he rises and goes to the church entrance where he stands facing the elect and makes the sign of the cross, saying:
+The priest says to the sponsors: **Mark them with the sign of the cross while I do likewise.**
 
-P: God, come to my rescue.
-
-All: Lord, make haste to help me.
-
-P: Glory be to the Father.
-
-All: As it was in the beginning.
-
-42. Next the priest with his left hand takes hold of the right forearm of the first elect, or else puts in his hand the end of the stole hanging from his left shoulder, and conducts him into the church. The first candidate with left hand holds onto the right hand of the second, the second of the third, etc. In doing so the priest says: Come into God's holy sanctuary to receive a heavenly blessing from our Lord Jesus Christ and to be united with Him and His saints.
-
-All: Amen.
-
-43. Having come into the church the elect lie prostrate on the floor-- all at the same time--and spend a few moments in adoration.
-
-44. Then at a signal they rise together; the priest then holds his hand outstretched over their heads as they join with him in reciting the Apostles' Creed and the Lord's Prayer:
-
-## AT THE GATES OF THE BAPTISTERY
-
-All: I believe in God, the Father almighty, Creator of heaven and earth. And in Jesus Christ, His only Son, our Lord; who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died, and was buried. He descended into hell; the third day He arose again from the dead. He ascended into heaven, and sits at the right hand of God, the Father almighty; from there He shall come to judge the living and the dead. I believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.
-
-Our Father, who art in heaven, hallowed be thy name; thy kingdom come, thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. Amen.
-
-45. Standing with his back turned to the gates of the baptistery, the priest again holds his hand outstretched over the heads of the elect, and says (using the singular forms when required):
+The sponsors trace the sign of the cross on the candidates' brow with the thumb, whereas the priest makes the sign over them--both priest and sponsors saying the words: **In the name of the Father, and of the Son, and of the Holy Spirit.**
 
 ## Exorcism
 
-Surely it is no secret to you, Satan, that punishment is your lot, torments your portion, that the day of judgment threatens you, that day of never ending torture, the day that shall be like a flaming furnace, in the midst of which everlasting perdition awaits you and your apostate angels. Therefore, accursed one, deservedly doomed, pay homage to the living and true God, pay homage to Jesus Christ, His Son, and to the Holy Spirit, the Advocate. In His name and power I command you, unclean spirit whoever you are, begone and stay far away from these servants of God. For today Jesus Christ, our Lord and God, freely calls them to His holy grace and blessed way and to the waters of baptism, where they will become God's dwelling by the water of rebirth that gives full remission of sin We ask this in the name of our Lord Jesus Christ, who is coming to judge both the living and the dead and the world by fire.
+38. Then the priest holds his hand outstretched over them and says the following (using the singular forms when required): **I cast you out, unclean spirit, in the name of the Father, and of the Son, and of the Holy Spirit. Depart and stay far away from these servants of God. For it is the Lord Himself who commands you, accursed and doomed spirit, He who restored sight to the man born blind and raised Lazarus from the tomb where he had lain four days. So then, foul fiend, recall the curse that decided your fate once for all. Indeed, pay homage to the living and true God, pay homage to Jesus Christ, His Son, and to the Holy Spirit. Keep far from these servants of God, for Jesus Christ, our Lord and God, has freely called them to His holy grace and blessed way and to the waters of baptism.** 
 
-All: Amen.
+The priest makes the sign of the cross over them, while the candidates sign themselves on the brow with the thumb; the priest says: **Never dare, accursed fiend, to desecrate this seal of the holy cross which we imprint on their brow; through Christ our Lord, who is coming to judge both the living and the dead and the world by fire.**
+
+All: **Amen.**
+
+39. Then the priest, still holding his hand outstretched over the candidates says (using the singular forms when required): **Let us pray. Holy Lord, almighty Father, everlasting God, source of light and truth, I appeal to your sacred and boundless compassion on behalf of these servants of yours. Be pleased to enlighten them by the light of your eternal wisdom. Cleanse, sanctify, and endow them with true knowledge. For thus will they be made ready for the grace of your baptism and ever remain steadfast, never losing hope, never faltering in duty, never straying from sacred truth, but ready at all times to receive your grace; through Christ our Lord.**
+
+All: **Amen.**
+
+The ceremony concludes with the words given in no. 40 below.
+
+40. Lastly the priest says:
+
+P: **Go in peace and may the Lord be with you.**
+
+All: **Amen.**
+
+# Sixth stage
+
+## At the entrance or in the vestibule of the church
+
+41. At the appointed time the catechumens assemble at the church door, or at another place outside the edifice, from where they will march in solemn procession to the church. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps with his assistants where he kneels and implores God's help. Then he rises and goes to the church entrance where he stands facing the elect and makes the sign of the cross, saying:
+
+P: **God, come to my rescue.**
+
+All: **Lord, make haste to help me.**
+
+P: **Glory be to the Father.**
+
+All: **As it was in the beginning.**
+
+42. Next the priest with his left hand takes hold of the right forearm of the first elect, or else puts in his hand the end of the stole hanging from his left shoulder, and conducts him into the church. The first candidate with left hand holds onto the right hand of the second, the second of the third, etc. In doing so the priest says: **Come into God's holy sanctuary to receive a heavenly blessing from our Lord Jesus Christ and to be united with Him and His saints.**
+
+All: **Amen.**
+
+43. Having come into the church the elect lie prostrate on the floor-- all at the same time--and spend a few moments in adoration.
+
+## At the gates 
+
+44. Then at a signal they rise together; the priest then holds his hand outstretched over their heads as they join with him in reciting the Apostles' Creed and the Lord's Prayer:
+
+All: **I believe in God, the Father almighty, Creator of heaven and earth. And in Jesus Christ, His only Son, our Lord; who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died, and was buried. He descended into hell; the third day He arose again from the dead. He ascended into heaven, and sits at the right hand of God, the Father almighty; from there He shall come to judge the living and the dead. I believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.**
+
+**Our Father, who art in heaven, hallowed be thy name; thy kingdom come, thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. Amen.**
+
+## Exorcism
+
+45. Standing with his back turned to the gates of the baptistery, the priest again holds his hand outstretched over the heads of the elect, and says (using the singular forms when required):
+
+**Surely it is no secret to you, Satan, that punishment is your lot, torments your portion, that the day of judgment threatens you, that day of never ending torture, the day that shall be like a flaming furnace, in the midst of which everlasting perdition awaits you and your apostate angels. Therefore, accursed one, deservedly doomed, pay homage to the living and true God, pay homage to Jesus Christ, His Son, and to the Holy Spirit, the Advocate. In His name and power I command you, unclean spirit whoever you are, begone and stay far away from these servants of God. For today Jesus Christ, our Lord and God, freely calls them to His holy grace and blessed way and to the waters of baptism, where they will become God's dwelling by the water of rebirth that gives full remission of sin We ask this in the name of our Lord Jesus Christ, who is coming to judge both the living and the dead and the world by fire.**
+
+All: **Amen.**
 
 46. The priest then moistens his thumb with his spittle and touches the ears and nostrils of the person (each one). The use of saliva may be omitted for reasons of hygiene, when there is fear of contracting or communicating disease. But the ceremony itself is not omitted. He touches first the right ear then the left, saying:
-Ephpheta, which means: Be opened.
+**Ephpheta**, which means: Be opened.
 
-Next touching the nostrils he adds: And perceive the fragrance of God's loving ways. But you, evil spirit, begone, for the judgment of God has come.
+Next touching the nostrils he adds: **And perceive the fragrance of God's loving ways. But you, evil spirit, begone, for the judgment of God has come.**
 
 46a. As said above, whenever there is a just cause prohibiting or dissuading the priest from using his spittle, he may simply go through the gesture of touching the ears and nostrils.
 
-47. Next the priest calls the candidates by their full name, first the men then the women, and each one answers: Present. 
+47. Next the priest calls the candidates by their full name, first the men then the women, and each one answers: **Present.**
 
 Afterward he puts these questions to them:
 
-P: Do you renounce Satan? 
+P: **Do you renounce Satan?**
 
-All: I do renounce him.
+All: **I do renounce him.**
 
-P: And all his works?
+P: **And all his works?**
 
-All: I do renounce them.
+All: **I do renounce them.**
 
-P: And all his attractions?
+P: **And all his attractions?**
 
-All: I do renounce them.
+All: **I do renounce them.**
 
-48. Then the candidates pass in single file before the priest, who dips his thumb in the holy oil of catechumens and anoints each one in the form of a cross, first on the breast then on the back between the shoulders, pronouncing only once these words: I anoint you with the oil that sanctifies in Christ Jesus our Lord, that you may have everlasting life.
+48. Then the candidates pass in single file before the priest, who dips his thumb in the holy oil of catechumens and anoints each one in the form of a cross, first on the breast then on the back between the shoulders, pronouncing only once these words: **I anoint you with the oil that sanctifies in Christ Jesus our Lord, that you may have everlasting life.**
 
-All: Amen.
+All: **Amen.**
 
-P: Peace be with you.
+P: **Peace be with you.**
 
-All: And also with you. 
+All: **And also with you.**
 
-48a. But wherever the anointing with oil of catechumens gives rise to considerable difficulties that are insurmountable for the time being, the conference of bishops can dispense from the practice for that particular place or people, in accord with the norms established for the use of this new rite. Nevertheless, all priests whose task it is to instruct catechumens and the faithful should bear in mind that they must do their utmost to remove such difficulties, so that, as Christian practices gradually are better understood, the ceremony of anointing catechumens with the holy oil may be observed. In the meantime a substitute ceremony should be used, namely this, that as the candidates pass in single file before the priest he blesses each one with the sign of the cross in the ordinary way, saying: I strengthen you with the sign of the cross in Christ Jesus our Lord, that you may have everlasting life. Peace be with you.
+48a. But wherever the anointing with oil of catechumens gives rise to considerable difficulties that are insurmountable for the time being, the conference of bishops can dispense from the practice for that particular place or people, in accord with the norms established for the use of this new rite. Nevertheless, all priests whose task it is to instruct catechumens and the faithful should bear in mind that they must do their utmost to remove such difficulties, so that, as Christian practices gradually are better understood, the ceremony of anointing catechumens with the holy oil may be observed. In the meantime a substitute ceremony should be used, namely this, that as the candidates pass in single file before the priest he blesses each one with the sign of the cross in the ordinary way, saying: **I strengthen you with the sign of the cross in Christ Jesus our Lord, that you may have everlasting life. Peace be with you.**
 
 And then he goes on with the exorcism as given above. Or the ceremony may also be performed in one action for the whole group.
 
-49. Afterward he wipes his thumb and the spots anointed with cotton or similar material. He then adds the following: Go out, unclean spirit, and pay homage to the living and true God. Depart, unclean spirit, and give place to Jesus Christ, His Son. Stay far away, unclean spirit, and give place to the Holy Spirit, the Advocate. If the number of catechumens is large there is no objection to having these ceremonies performed by several priests.
+49. Afterward he wipes his thumb and the spots anointed with cotton or similar material. He then adds the following: **Go out, unclean spirit, and pay homage to the living and true God. Depart, unclean spirit, and give place to Jesus Christ, His Son. Stay far away, unclean spirit, and give place to the Holy Spirit, the Advocate. If the number of catechumens is large there is no objection to having these ceremonies performed by several priests.**
 
-50. In conclusion the priest says:
+50. In conclusion the priest says: **Go in peace, and may the Lord be with you.**
 
-P: Go in peace, and may the Lord be with you.
+All: **Amen.**
 
-All: Amen.
-
-# SEVENTH STAGE
+# Seventh stage
 
 51. The elect are assembled at the baptismal font. The priest, vested in surplice and purple stole or even a cope of the same color, comes to the altar steps with his assistants. He kneels and implores God's help. after which he rises, signs himself with the cross, and says:
 
