@@ -14,7 +14,7 @@ The Latin text below is directly from the _Rituale Romanum_[^1], with some of th
 
 The English text below is from Philip T. Weller's translation of the _Rituale Romanum_[^2], with some of the options and the commentary removed for clarity. 
 
-Other versions (some English only, somem Latin only, some with both side-my-side) are available here: 
+Other versions (some English only, some Latin only, some with both side-by-side) are available here: 
 
 * Angelus press (booklet for purchase)[^3]
 * Corpus Christi Watershed (program)[^4]
