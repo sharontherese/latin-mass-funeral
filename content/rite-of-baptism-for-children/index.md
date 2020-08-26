@@ -14,6 +14,16 @@ The Latin text below is directly from the _Rituale Romanum_[^1], with some of th
 
 The English text below is from Philip T. Weller's translation of the _Rituale Romanum_[^2], with some of the options and the commentary removed for clarity. 
 
+Other versions (some English only, somem Latin only, some with both side-my-side) are available here: 
+
+* Angelus press (booklet for purchase)[^3]
+* Corpus Christi Watershed (program)[^4]
+* Fish Eaters (website)[^5]
+* Holy Mass and More (website)[^6]
+* Laudate Dominum (website)[^7]
+* The Parish Priest on Duty (book)[^8]
+
+
 # Ordo Baptismi Parvulorum
 
 1\. Sacerdos interrogat: R: **N., Quid petis ab Ecclesia Dei?**
@@ -298,6 +308,20 @@ All: **Amen.**
 
 # Sources 
 
-[^1]: https://archive.org/details/ritualeromanum00cath/page/n30/mode/1up
+[^1]: Catholic Church. Rituale Romanum Pauli V Pontificis Maximi Jussu Editum Et a Benedicto Xiv Auctum Et Castigatum. Cui Novissima Accedit Benedictiorum Et Instructionum Appendix. 1903. https://archive.org/details/ritualeromanum00cath/mode/2up.
 
-[^2]: https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf
+[^2]: Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf.
+
+[^3]: "Baptism." Angelus Press, 2006, https://angeluspress.org/products/baptism.
+
+[^4]: Friel, David. "Participation Booklet for Extraordinary Form Baptisms." Corpus Christi Watershed  (October 6 2018). https://www.ccwatershed.org/2018/10/06/participation-booklet-extraordinary-form-baptisms/.
+
+[^5]: "Baptism," Fish Eaters, https://www.fisheaters.com/baptism2.html.
+
+[^6]: "The Seven Sacraments and Their Liturgies, Part 2: Baptism," Holy Mass and More, August 5, 2018, https://www.holymassandmore.org/2018/08/the-seven-sacraments-and-their_5.html.
+
+[^7]: Heuser, Herman J. "Baptism." In The Parish Priest on Duty : A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission, 14-53: New York : Benziger Brothers, 1904. http://archive.org/details/theparishpriesto00heusuoft
+
+[^8]: "Baptismale." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/files/baptismale.pdf; also "Ordo Baptismi Parvulorum." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/baptism.php.
+
+
