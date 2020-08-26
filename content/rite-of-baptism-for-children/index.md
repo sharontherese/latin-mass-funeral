@@ -16,7 +16,7 @@ The English text below is from Philip T. Weller's translation of the _Rituale Ro
 
 Other versions (some English only, some Latin only, some with both side-by-side) are available here: 
 
-* Angelus press (booklet for purchase)[^3]
+* Angelus Press (booklet for purchase)[^3]
 * Corpus Christi Watershed (program)[^4]
 * Fish Eaters (website)[^5]
 * Holy Mass and More (website)[^6]
