@@ -21,7 +21,8 @@ Other versions (some English only, some Latin only, some with both side-by-side)
 * Fish Eaters (website)[^5]
 * Holy Mass and More (website)[^6]
 * Laudate Dominum (website)[^7]
-* The Parish Priest on Duty (book)[^8]
+* A Manual of Prayers For the Use of the Catholic Laity (book)[^8]
+* The Parish Priest on Duty (book)[^9]
 
 
 # Ordo Baptismi Parvulorum
@@ -322,6 +323,8 @@ All: **Amen.**
 
 [^7]: Heuser, Herman J. "Baptism." In The Parish Priest on Duty : A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission, 14-53: New York : Benziger Brothers, 1904. http://archive.org/details/theparishpriesto00heusuoft
 
-[^8]: "Baptismale." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/files/baptismale.pdf; also "Ordo Baptismi Parvulorum." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/baptism.php.
+[^8]: Catholic Church, and Plenary Council of Baltimore. "The Sacrament of Baptism." In A Manual of Prayers for the Use of the Catholic Laity: Prepared and Published by Order of the Third Plenary Council of Baltimore, 391-411. New York: Catholic Publication Society, 1888. http://archive.org/details/AManualOfPrayers1888.
+
+[^9]: "Baptismale." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/files/baptismale.pdf; also "Ordo Baptismi Parvulorum." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/baptism.php.
 
 
