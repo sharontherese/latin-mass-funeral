@@ -6,110 +6,190 @@ aliases = [
 ]
 
 +++
-_Manuscript: [Miniature of the betrothal of Louis the Pious, his marriage, and his coronation, Royal 16 G VI, folio 189v (c. 12th century)](http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=43972)_
+
+_Artwork: Lemasle, Louis-Nicolas "Relevailles De La Duchesse De Berry Dans L’église De Vernouillet ", 1788-1876._
 
 # About
 
-Betrothal, or betrothment, is a beautiful, ancient practice for those planning to marry in the Church. It is more solemn than an engagement, although the two may be seen as synonymous. Betrothal is, "a mutual promise of future marriage, or a contract by which a man and a woman engage themselves to marry." [^1]
+The _Rituale Romanum_ calls this blessing "De Benedictione Mulieris Post Partum," or "Blessing of a Mother after Childbirth." More commonly, it is called the Rite of Churching, the Churching of Women, or the Purification of Women. This last title has contributed to long-standing misinterpretation of the blessing. As Father James Jackson explains, 
 
-The general structure is this: the Rite of Betrothal takes places in a church, with a priest. Psalm 126 (RSV-CE 127) is chanted, followed by an allocution from the priest, a pledge between the couple, a reading from Tobias, a reading from the Gospel of John, and a final blessing.
+> Notice that the rites of “washing” the chalice and ciboria are called ablutions or purification. The word purification is used not in the sense that the sacred vessels are dirty in any way. It is used instead in the same sense as the rite of purification (churching) of women after childbirth. That is, the woman is not dirty after childbirth; the birth is holy - an imitation of God’s creating. So, in order for her to return to daily life, she and her child come into the church to give thanks and be blessed. In the same way, once the vessels have been used for the holy act of the Consecration, they must be blessed before they can be returned to the ordinary.[^1]
 
-Similar to the Rite of Marriage, the specifics of the Rite of Betrothal have not always been legislated consistently, but both are to be encouraged and are still available to the faithful for their use today.
+The Latin text below is directly from the _Rituale Romanum_[^2]. 
 
-> Betrothment serves as a barrier against ill-omened haste; it renders the position of the engaged parties more secure; and it affords a better opportunity for bringing to light any impediments or incompatibility of disposition that may exist. It was in use among the Jews, the Romans, the Germans, and the Christians of the primitive Church. [^1]
+The English text below is from Philip T. Weller's translation of the _Rituale Romanum_[^3], with some of the options and the commentary removed for clarity. 
 
-Laudate Dominum's website provides a free PDF version of Betrothal [^2].
+Other versions (some English only, some Latin only, some with both side-by-side) are available here: 
 
-# The Rite of Betrothal
+* {{% staticref "files/Churching_of_Women_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
+* Fish Eaters[^4]
+* Windsor Latin Mass Community[^5]
 
-## Psalm 126 (RSV-CE 127)
+As Weller notes in his translation of the _Rituale_, the _Collectio Rituum_ offers a slightly different version of the churching of women. 
 
-> Priest: Unless the house be of the Lord’s building, in vain do the builders labor.
->
-> All: Unless the Lord be the guard of the city, in vain does the guard keep sentry.
->
-> P: It is futile that you rise before daybreak, to be astir in the midst of darkness,
->
-> All: You that eat the bread of hard labor, for He deals bountifully to His beloved while they are sleeping.
->
-> P: Behold, offspring come from God’s giving, a fruitful womb is the reward of His blessing.
->
-> All: Like arrows in the hand of the warrior are children begotten of a youthful father.
->
-> P: Happy the man who has filled with them his quiver; they shall uphold him in contending at the gate with his rival.
->
-> All: Glory be to the Father, and to the Son, and to the Holy Spirit,
->
-> P: As it was in the beginning, is now, and ever shall be, world without end, Amen.
+# De Benedictione Mulieris Post Partum
 
-## Allocution and Pledge
+Si qua puerpera post partum, juxta piam ac laudabilem consuetudinem, ad Ecclesiam venire voluerit, pro incolumitate sua Deo gratias actura, petieritque a Sacerdote benedictionem, ipse superpelliceo et stola alba indutus, cum ministro aspergillum deferente, ad fores Ecclesiae accedat, ubi illam foris ad limina genuflectentem, et candelam accensam in manu tenentem, aqua benedicta aspergat, deinde dicat: 
 
-> Beloved of Christ: It is in God’s designs that you are called to the holy vocation of matrimony. For this reason you present yourselves today before Christ and the Church, before His sacred minister and the people of God, to ratify in a formal manner your engagement. You are here to ask the blessing of God and of the Church on your proposal, and to ask the good prayers of the faithful here present. You realize that what has begun by the inspiration of your heavenly Father requires equally His grace to be brought to a happy conclusion. We trust that you have given serious and prayerful deliberation to your promise that you will one day be married. In the time that intervenes until your wedding day, may you prepare for the sacrament of matrimony by persevering in a virtuous life. Then, when the holy day arrives on which you will give yourselves irrevocably to each other, you will have laid a solid religious foundation for the many years you will spend together. These years will be filled with joy and peace as long as you wear the sweet yoke of Jesus Christ; if you remain faithful to Him, your love on earth will be perfected in the eternal wedding feast of heaven. May the union you purpose to consummate one day in Christian marriage be truly a sacramental image of the perfect union of Christ with His beloved bride, the Church.
->
-> Priest_:_ Join your right hands and plight your troth.
->
-> Man_:_ In the name of our Lord, I, \[name\], promise that I will one day take you, \[name\], for my wife, according to the ordinances of God and holy Church. I will love you as I love myself, and will sacrifice my life for you as Christ offered His life for His bride, the Church. I will keep faith with you and be loyal to you all the days of my life, and so aid you and comfort you in all your necessities. These things and all that a man ought to do for his espoused, I promise to do for you, and to keep the promise by the faith that is in me.
->
-> Woman_:_ In the name of our Lord, I, \[name\], promise that I will one day take you, \[name\], for my husband, according to the ordinances of God and holy Church. I will love you as I love myself, and will revere and honor you as my lord, even as the Church loves Christ her bridegroom. I will keep faith with you and be loyal to you all the days of my life, and so aid you and comfort you in all your necessities. These things and all that a woman ought to do for her espoused, I promise to do for you, and to keep the promise by the faith that is in me.
+Sacerdos: **Adjutorium nostrum in nomine Domini.** 
 
-Then the priest takes the two ends of his stole and in the form of a cross places them over the clasped hands of the couple. Holding the stole in place with his left hand, he says:
+R: **Qui fecit caelum et terram.** 
 
-> I bear witness to your solemn proposal and I declare you engaged; in the name of the Father, and of the Son, and of the Holy Spirit.
+Antiphona. **Haec accipiet benedictionem a Domino, et misericordiam a Deo salutdri suo: quia haec est generatio quaerentium Dominum.** 
 
-As he pronounces the last words he sprinkles them with holy water in the form of a cross.
+Psalmus 23 
 
-> All: Amen.
->
-> Priest: Our help is in the name of the Lord.
->
-> All: Who made heaven and earth.
->
-> P: The Lord be with you.
->
-> All: And also with thy spirit.
->
-> Priest: Let us pray. Lord, reach out Thy right hand to Thy faithful servants, that they may seek Thee wholeheartedly and receive from Thee all the good things they desire. Almighty everlasting God, look kindly on Thy servants who have come to Thy holy sanctuary with glad hearts to make known their promise; grant they they, whose only trust is in Thee, may be filled with Thy grace, may live together in the bond of charity on this earth, and may finally attain the joys of everlasting life, through Christ our Lord.
->
-> _All:_ Amen.
+**Domine est terra, et plenitudo ejus: * orbis terrarum, et universi, qui habitant in eo.** 
 
-## Reading from Tobias
+**Quia ipse super maria fundavit eum: * et super flumina prseparavit eum.** 
 
-(ch. 7, vv. 10, 12, 15–17; ch. 8, vv. 4–10)
+**Quis ascendet in montem Domini? * aut quis stabit in loco sancto ejus?** 
 
-Tobias said: “I will not eat nor drink here this day, unless thou first grant me my petition, and promise to give me Sara thy daughter.” The angel said to Raguel: “Be not afraid to give her to this man, for to him who feareth God is thy daughter due to be his wife; therefore another could not have her.” And taking the right hand of his daughter, Raguel gave it into the right hand of Tobias, saying: “The God of Abraham, and the God of Isaac, and the God of Jacob, be with you. And may he join you together, and fulfill His blessing in you.” And taking paper they made a writing of the marriage. And afterwards they made merry, blessing God. . . . Then Tobias exhorted the virgin, and said to her: “Sarah, arise, and let us pray to God today, and tomorrow, and the next day: because for these three nights we are joined to God. And when the third night is over, we will be in our own wedlock. For we are the children of saints: and we must not be joined together like heathens that know not God.” So they both arose, and prayed earnestly both together that healthy might be given them. And Tobias said: “Lord God of our fathers, may the heavens and the earth, and the sea, and the fountains, and the rivers, and all thy creatures that are in them, bless Thee. Thou madest Adam of the slime of the earth, and gavest him Eve for a helper. And now, Lord, Thou knowest that not for fleshly lust do I take my sister to wife, but only for the love of posterity, in which Thy name be blessed for ever and ever.” Sara also said: “Have mercy on us, O Lord, have mercy on us: and let us grow old both together in health.”
+**Innocens manibus et mundo corde, * qui non accepit in vano animam suam, nec jurdvit in dolo proximo suo.**
 
-## Reading from John
+**Hic accipiet benedictionem a Domino: * et misericordiam a Deo salutari suo.** 
 
-(ch. 15, vv. 4–17)
+**Haec est generatio quaerentium eum, * quaerentium faciem Dei Jacob.** 
 
-At that time, Jesus said to His disciples: “Abide in me and I in you. As the branch cannot bear fruit of itself unless it abide in the vine, so neither can you, unless you abide in me. I am the vine, you the branches. He that abideth in me, and I in him, the same beareth much fruit; for without me you can do nothing. If any one abide not in me, he shall be cast forth as a branch and shall wither; and they shall gather him up and cast him into the fire, and he burneth. If you abide in me and my words abide in you, you shall ask whatever you will, and it shall be done unto you. In this is my Father glorified: that you bring forth very much fruit and become my disciples. As the Father hath loved me, I also have loved you. Abide in my love. If you keep my commandments, you shall abide in my love; as I also have kept my Father’s commandments and do abide in His love. These things I have spoken to you, that my joy may be in you, and your joy may be filled. This is my commandment: that you love one another, as I have loved you. Greater love than this no man hath, that a man lay down his life for his friends. You are my friends if you do the things that I command you. I will not now call you servants; for the servant knoweth not what his lord doth. But I have called you friends, because all things whatsoever I have heard of my Father, I have made known to you. You have not chosen me, but I have chosen you, and have appointed you, that you should go and should bring forth fruit, and your fruit should remain, that whatsoever you shall ask of the Father in my name he may give it you. These things I command you, that you love one another.”
+**Attollite portas principes vestras, et elevamini portae aeternales: * et introibit Rex gloriae.**
 
-## Final blessing
+**Quis est iste Rex gloriae? * Dominus fortis et potens: Dominus potens in praelio.** 
 
-Lastly, the priest extends his hands over the heads of the couple and prays:
+**Attollite portas principes vestras, et elevamini portaea: * et introibit Rex gloriae.** 
 
-> May God bless your bodies and your souls. May he shed His blessing on you as He blessed Abraham, Isaac, and Jacob. May the hand of the Lord be upon you. May He send His holy angel to guard you all the days of your life. Amen. Go in peace.
+**Quis est iste Rex gloriae? * Dominus virtutum ipse est Rex gloriae.** 
 
-# Resources
+**Gloria Patri.** 
 
-Angelus Press. “Rite Of Betrothal.” Angelus Press. Accessed August 8, 2019. https://angeluspress.org/products/rite-of-betrothal.
+Et repetitur Antiphona: **Haec accipiet benedictionem a Domino, et misericordiam a Deo salutdri suo: quia haec est generatio quaerentium Dominum.** 
 
-New Liturgical Movement. “**A Liturgical Rite of Betrothal**,” October 26, 2019. http://www.newliturgicalmovement.org/2019/10/a-liturgical-rite-of-betrothal.html#.Xbhzf0ZKi70.
+2. Deinde porrigens ad manum mulieris exlremam partem stolae, eam introducit in Ecclesiam, dicens: **Ingredere in templum Dei, ad6ra Filium beatae Mariae Virginis, qui tibi foecunditatem tribuit prolis.** 
 
-“Consider a Betrothal Ceremony: What It Is, Why It’s Significant + How to Plan One.” Spoken Bride. Accessed August 29, 2019. https://www.spokenbride.com/blog/2016/11/17/betrothal-ceremony.
+3. El ipsa ingressa genuflectit coram Altari, et orat, gratias agens Deo de beneficiis sibi collatis; et Sacerdos dicit: 
 
-“Engagements: In Church.” Catholic Culture. Accessed August 29, 2019. http://www.catholicculture.org/culture/library/view.cfm?recnum=2978.
+**Kyrie eleison. Christe eleison. Kyrie eleison. Pater noster. secreto.** 
 
-“What Is The Catholic Rite Of Betrothal.” Traditional Catholic Femininity. Accessed August 29, 2019. https://tradcatfem.com/2017/08/03/what-is-the-catholic-rite-of-betrothal/.
+S: **Et ne nos inducas in tentationem.** 
 
-“Canon Lawyer Advocates Return of Betrothal.” Catholic Transcript, December 30, 1977. https://thecatholicnewsarchive.org/?a=d&d=CTR19771230-01.2.47&srpos=1.
+R: **Sed libera nos a malo.** 
 
-“Old Catholic Ceremony of Betrothal Revived at Montreal Oratory.” Catholic News Service, February 3, 1941. https://thecatholicnewsarchive.org/?a=d&d=cns19410203-01.1.20&srpos=2.
+S: **Salvam fac ancillam tuam Domine.**
+ 
+R: **Deus meus sperantem in te.** 
 
-Kwasniewski, Peter. “New Liturgical Movement: Problems with Weddings and How We Might Remedy Them.” New Liturgical Movement (blog), April 29, 2019. http://www.newliturgicalmovement.org/2019/04/problems-with-weddings-and-how-we-might.html#.XVHX6G9Ki70.
+S: **Mitte ei Domine auxilium de sancto.** 
+
+R: **Et de Sion tuere eam.** 
+
+S: **Nihil proficiat inimicus in ea.** 
+
+R: **Et filius iniquitatis non apponat nocere ei.** 
+
+S: **Domine exaudi orationem meam.** 
+
+R: **Et clamor meus ad te veniat.** 
+
+S: **Dominus vobiscum.** 
+
+R: **Et cum spiritu tuo.** 
+
+**Oremus. Omnipotens sempiterne Deus, qui per beatae Mariae Virginis partum fidelium parientium dolores in gaudium vertisti: respice propitius super hanc famulam tuam, ad templum sanctum tuum pro gratiarum actione laetam accedentem, et praesta; ut post hanc vitam, ejusdem beatae Mariae meritis, et intercessione, ad aeternae beatitudinis gaudia cum prole sua pervenire mereatur. Per Christum Dominum nostrum.** 
+
+R: **Amen.** 
+
+4. Deinde illam aspergit iterum aqua beenedicta in modum crucis, dicens: **Pax et benedictio Dei omnipotentis, Patris, et Filii, et Spiritus sancti, descendat super te, et maneat semper.** 
+
+R: **Amen.** 
+
+# Blessing of a Mother after Childbirth (Churching of Women)
+
+1. After giving birth to a child a mother may wish to give thanks to God in church for a safe delivery, and to obtain the Church's blessing. This has long been a devout and praiseworthy practice. The priest, vested in surplice and white stole (assisted by a server who carries the aspersory), goes to the threshold of the church. The woman kneels there, holding a lighted candle. 
+
+The priest sprinkles her with holy water, saying: **Our help is in the name of the Lord.**
+
+All: **Who made heaven and earth.** 
+
+He then says the following antiphon and Psalm 23: 
+
+Antiphon: **This woman shall receive a blessing from the Lord and mercy from God, her Savior; for she is one of the people who seek the Lord.** 
+
+Psalm 23
+
+P: **The Lord's are the earth and its fullness; * the world and those who dwell in it.**
+
+All: **For He founded it upon the seas * and established it upon the rivers.**
+
+P: **Who can ascend the mountain of the Lord? * or who may stand in His holy place?**
+
+All: **He whose hands are sinless, whose heart is clean, who desires not what is vain, * nor swears deceitfully to his neighbor.**
+
+P: **He shall receive a blessing from the Lord, * a reward from God, his Savior.**
+
+All: **Such is the race that seeks for Him, * that seeks the face of the God of Jacob.**
+
+P: **Lift up, O gates, your lintels; reach up, you ancient portals, * that the king of glory may come in!**
+
+All: **"Who is this king of glory?" * "The Lord, strong and mighty, the Lord, mighty in battle."**
+
+P: **Lift up, O gates, your lintels; reach up, you ancient portals, * that the king of glory may come in!**
+
+All: **"Who is this king of glory?" * "The Lord of hosts; He is the king of glory."**
+
+P: **Glory be to the Father.**
+
+All: **As it was in the beginning.**
+
+After Psalm 23 the above antiphon is repeated: **This woman shall receive a blessing from the Lord and mercy from God, her Savior; for she is one of the people who seek the Lord.** 
+
+2. Then the priest places the end of the stole hanging from his left shoulder in the hand of the woman and leads her into the church, saying: **Come into God's house. Adore the Son of the blessed Virgin Mary, and thank God who has given you the grace of motherhood.** 
+
+3. The woman kneels before the altar, giving thanks to God for the benefits He has bestowed on her. The priest continues: 
+
+**Lord, have mercy. Christ, have mercy. Lord, have mercy. Our Father** (the rest inaudibly until:) 
+
+P: **And lead us not into temptation.** 
+
+All: **But deliver us from evil.** 
+
+P: **Save your servant.** 
+
+All: **Who trusts in you, my God.** 
+
+P: **Lord, send her aid from your holy place.** 
+
+All: **And watch over her from Sion.** 
+
+P: **Let the enemy have no power over her.** 
+
+All: **And the son of iniquity be powerless to harm her.** 
+
+P: **Lord, heed my prayer.** 
+
+All: **And let my cry be heard by you.** 
+
+P: **The Lord be with you.** 
+
+All: **May He also be with you.** 
+
+Let us pray. **Almighty everlasting God, who by means of the blessed Virgin Mary's childbearing has given every Christian mother joy, even in her pains of bringing forth her child; look kindly on this servant of yours who has come in gladness to your holy dwelling to offer her thanks. And grant that after this life, through the merits and prayers of that same blessed Mary, she and her child may be deemed worthy of attaining the happiness of everlasting life; through Christ our Lord.** 
+
+All: **Amen.** 
+
+4. The priest again sprinkles her with holy water, saying: **May the peace and blessing of almighty God, Father, Son, and Holy Spirit, come upon you and remain with you forever.** 
+
+All: **Amen.** 
+
+5. The blessing of a woman after childbirth ought to be given by the pastor, if he is requested to do so. But any priest may impart it in any church or public oratory, in which case he should notify the superior.
 
 # Sources
 
-[^1]: Smet, Alöis de. _Betrothment and Marriage; a Canonical and Theological Treatise with Notices on History and Civil Law_. St. Louis : B. Herder, 1912. http://archive.org/details/betrothmentmarri01smetiala.
+[^1]: Jackson, J. W. Nothing Superfluous. Redbrush, 2016. https://books.google.com/books?id=dBnZtAEACAAJ.
 
-[^2]: “Solemn Rite of Betrothal.” Laudate Dominum, n.d. http://laudatedominum.net/files/bet.pdf.
+[^2]: Catholic Church. Rituale Romanum Pauli V Pontificis Maximi Jussu Editum Et a Benedicto Xiv Auctum Et Castigatum. Cui Novissima Accedit Benedictiorum Et Instructionum Appendix. 1903. https://archive.org/details/ritualeromanum00cath/mode/2up.
+
+[^3]: Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf.
+
+[^4]: "Churching of Women," Fish Eaters, https://www.fisheaters.com/churchingofwomen.html.
+
+[^5]: Windsor Latin Mass Community. "The Churching of Women." Tridentine Community News  (February 22 2015). http://www.windsorlatinmass.org/wtnews/150222.pdf.
+
