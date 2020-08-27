@@ -9,6 +9,11 @@
   weight = 20  
 
 [[main]]
+  name = "Devotions and Blessings"
+  url = "#devotions"
+  weight = 30  
+
+[[main]]
   name = "Planning"
   url = "#planning"
   weight = 40  
