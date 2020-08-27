@@ -11,19 +11,21 @@ _Artwork: Lemasle, Louis-Nicolas "Relevailles De La Duchesse De Berry Dans L’�
 
 # About
 
+The churching of women is "a blessing given by the Church to mothers after recovery from childbirth."[^1]
+
 The _Rituale Romanum_ calls this blessing "De Benedictione Mulieris Post Partum," or "Blessing of a Mother after Childbirth." More commonly, it is called the Rite of Churching, the Churching of Women, or the Purification of Women. This last title has contributed to long-standing misinterpretation of the blessing. As Father James Jackson explains, 
 
-> Notice that the rites of “washing” the chalice and ciboria are called ablutions or purification. The word purification is used not in the sense that the sacred vessels are dirty in any way. It is used instead in the same sense as the rite of purification (churching) of women after childbirth. That is, the woman is not dirty after childbirth; the birth is holy - an imitation of God’s creating. So, in order for her to return to daily life, she and her child come into the church to give thanks and be blessed. In the same way, once the vessels have been used for the holy act of the Consecration, they must be blessed before they can be returned to the ordinary.[^1]
+> Notice that the rites of “washing” the chalice and ciboria are called ablutions or purification. The word purification is used not in the sense that the sacred vessels are dirty in any way. It is used instead in the same sense as the rite of purification (churching) of women after childbirth. That is, the woman is not dirty after childbirth; the birth is holy - an imitation of God’s creating. So, in order for her to return to daily life, she and her child come into the church to give thanks and be blessed. In the same way, once the vessels have been used for the holy act of the Consecration, they must be blessed before they can be returned to the ordinary.[^2]
 
-The Latin text below is directly from the _Rituale Romanum_[^2]. 
+The Latin text below is directly from the _Rituale Romanum_[^3]. 
 
-The English text below is from Philip T. Weller's translation of the _Rituale Romanum_[^3], with some of the options and the commentary removed for clarity. 
+The English text below is from Philip T. Weller's translation of the _Rituale Romanum_[^4], with some of the options and the commentary removed for clarity. 
 
 Other versions (some English only, some Latin only, some with both side-by-side) are available here: 
 
 * {{% staticref "files/Churching_of_Women_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
-* Fish Eaters[^4]
-* Windsor Latin Mass Community[^5]
+* Fish Eaters[^5]
+* Windsor Latin Mass Community[^6]
 
 As Weller notes in his translation of the _Rituale_, the _Collectio Rituum_ offers a slightly different version of the churching of women. 
 
@@ -183,13 +185,15 @@ All: **Amen.**
 
 # Sources
 
-[^1]: Jackson, J. W. Nothing Superfluous. Redbrush, 2016. https://books.google.com/books?id=dBnZtAEACAAJ.
+[^1]: Schulte, Augustin Joseph. "Churching of Women." In Catholic Encyclopedia. New York: Robert Appleton Company, 1908. https://www.newadvent.org/cathen/03761a.htm.
 
-[^2]: Catholic Church. Rituale Romanum Pauli V Pontificis Maximi Jussu Editum Et a Benedicto Xiv Auctum Et Castigatum. Cui Novissima Accedit Benedictiorum Et Instructionum Appendix. 1903. https://archive.org/details/ritualeromanum00cath/mode/2up.
+[^2]: Jackson, J. W. Nothing Superfluous. Redbrush, 2016. https://books.google.com/books?id=dBnZtAEACAAJ.
 
-[^3]: Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf.
+[^3]: Catholic Church. Rituale Romanum Pauli V Pontificis Maximi Jussu Editum Et a Benedicto Xiv Auctum Et Castigatum. Cui Novissima Accedit Benedictiorum Et Instructionum Appendix. 1903. https://archive.org/details/ritualeromanum00cath/mode/2up.
 
-[^4]: "Churching of Women," Fish Eaters, https://www.fisheaters.com/churchingofwomen.html.
+[^4]: Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf.
 
-[^5]: Windsor Latin Mass Community. "The Churching of Women." Tridentine Community News  (February 22 2015). http://www.windsorlatinmass.org/wtnews/150222.pdf.
+[^5]: "Churching of Women," Fish Eaters, https://www.fisheaters.com/churchingofwomen.html.
+
+[^6]: Windsor Latin Mass Community. "The Churching of Women." Tridentine Community News  (February 22 2015). http://www.windsorlatinmass.org/wtnews/150222.pdf.
 
