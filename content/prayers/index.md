@@ -7,7 +7,7 @@ toggle = false
 
 # About
 
-Old prayer books contain many beautiful prayers for the newly baptized, for conversions, and for parents. Below is a small sample of freely available old Catholic prayer books. 
+Old prayer books contain many beautiful prayers for holy water, the newly baptized, for conversions, and for parents. Below is a small sample of freely available old Catholic prayer books. 
 
 # Missals and Prayerbooks
 
