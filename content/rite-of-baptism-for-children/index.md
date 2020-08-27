@@ -26,6 +26,7 @@ Other versions (some English only, some Latin only, some with both side-by-side)
 * A Manual of Prayers For the Use of the Catholic Laity (book)[^8]
 * The Parish Priest on Duty (book)[^9]
 
+**Any italicized Latin text are the parts of the rite that must be said in Latin.**
 
 # Ordo Baptismi Parvulorum
 
@@ -49,7 +50,11 @@ R. **Amen.**
 
 R: **Amen.** 
 
-6\. Deinde Sacerdos benedical sal, quod seniel benedictum alias ad eumdem usum deservire potest: **Exorcizo te, creatura salis, in nomine Dei Patris omnipotentis, et in caritate Domini nostri Jesu Christi, et in virtute Spiritus sancti. Exorcizo te per Deum vivum , per Deum verum, per Deum sanctum, per Deum, qui te ad tutelam humani generis procreavit, et p6pulo venienti ad credulitatem per servos suos consecrari praecepit, ut in nomine sanctae Trinitatis efficiaris salutare sacramentum ad effugandum inimicum. Proinde rogamus te, Domine Deus noster, ut hanc creaturam salis sanctificando sanctifices, et benedicendo benedicas, ut fiat omnibus accipientibus perfecta medicina, permanens in visceribus e6rum, in nomine ejusdem Domini nostri Jesu Christi, qui venturus est judicare vivos et mortuos, et saeculum per ignem.** 
+6\. Deinde Sacerdos benedical sal, quod seniel benedictum alias ad eumdem usum deservire potest: 
+
+_Benedictio salis_
+
+_**Exorcizo te, creatura salis, in nomine Dei Patris omnipotentis, et in caritate Domini nostri Jesu Christi, et in virtute Spiritus sancti. Exorcizo te per Deum vivum , per Deum verum, per Deum sanctum, per Deum, qui te ad tutelam humani generis procreavit, et p6pulo venienti ad credulitatem per servos suos consecrari praecepit, ut in nomine sanctae Trinitatis efficiaris salutare sacramentum ad effugandum inimicum. Proinde rogamus te, Domine Deus noster, ut hanc creaturam salis sanctificando sanctifices, et benedicendo benedicas, ut fiat omnibus accipientibus perfecta medicina, permanens in visceribus e6rum, in nomine ejusdem Domini nostri Jesu Christi, qui venturus est judicare vivos et mortuos, et saeculum per ignem.**_
 
 R: **Amen.** 
 
@@ -65,7 +70,7 @@ Sacerdos: **Oremus. Deus patrum nostrorum, Deus universae conditor veritatis, te
 
 R: **Amen.** 
 
-Sacerdos: **Exorcizo te, immunde spiritus, in nomine Patris  et Filii  et Spiritus  Sancti, ut exeas, et recedas ab hoc famulo (hac famula) Dei N.: ipse enim tibi imperat, maledicte damnate, qui pedibus super mare ambulavit, et Petro mergenti dexteram porrexit. Ergo, maledicte diabole, recognosce sententiam tuam, et da honorem Deo vivo et vero, da honorem Iesu Christo Filio eius, et Spiritui Sancto, et recede ab hoc famulo (hac famula) Dei N., quia istum (-am) sibi Deus et Dominus noster Iesus Christus ad suam sanctam gratiam, et benedictionem, fontemque Baptismatis vocare dignatus est.**
+Sacerdos: _**Exorcizo te, immunde spiritus, in nomine Patris  et Filii  et Spiritus  Sancti, ut exeas, et recedas ab hoc famulo (hac famula) Dei N.: ipse enim tibi imperat, maledicte damnate, qui pedibus super mare ambulavit, et Petro mergenti dexteram porrexit. Ergo, maledicte diabole, recognosce sententiam tuam, et da honorem Deo vivo et vero, da honorem Iesu Christo Filio eius, et Spiritui Sancto, et recede ab hoc famulo (hac famula) Dei N., quia istum (-am) sibi Deus et Dominus noster Iesus Christus ad suam sanctam gratiam, et benedictionem, fontemque Baptismatis vocare dignatus est.**_
 
 8\. Hic pollice in fronte signat infantem, dicens: **Et hoc signum sanctae Crucis quod nos fronti ejus damus, tu maledicte diabole, numquam audeas violare. Per eumdem Christum Dominum nostrum.** 
 
@@ -83,7 +88,7 @@ R: **Amen.**
 
 **Pater noster, qui es in cælis, sanctificetur nomen tuum. Adveniat regnum tuum. Fiat voluntas tua, sicut in cælo, et in terra. Panem nostrum cotidianum da nobis hodie. Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem: sed libera nos a malo. Amen.**
 
-12\. Ac deinde, antequam accedat ad Baptisterium, dicat: **Exorcizo te, omnis spiritus immunde, in nomine Dei  Patris omnipotentis, et in nomine Iesu  Christi Filii eius, Domini et Iudicis nostri, et in virtute Spiritus  Sancti, ut discedas ab hoc plasmate Dei N, quod Dominus noster ad templum sanctum suum vocare dignatus est, ut fiat templum Dei vivi, et Spiritus Sanctus habitet in eo. Per eundum Christum Dominum nostrum, qui venturus est iudicare vivos et mortuos, et saeculum per ignem.**
+12\. Ac deinde, antequam accedat ad Baptisterium, dicat: _**Exorcizo te, omnis spiritus immunde, in nomine Dei  Patris omnipotentis, et in nomine Iesu  Christi Filii eius, Domini et Iudicis nostri, et in virtute Spiritus  Sancti, ut discedas ab hoc plasmate Dei N, quod Dominus noster ad templum sanctum suum vocare dignatus est, ut fiat templum Dei vivi, et Spiritus Sanctus habitet in eo. Per eundum Christum Dominum nostrum, qui venturus est iudicare vivos et mortuos, et saeculum per ignem.**_
 
 R: **Amen.** 
 
@@ -101,7 +106,7 @@ Sacerdos: **Et omnibus pompis ejus?**
 
 R: **Abreuntio.**
 
-15\. Deinde Sacerdos intingit pollicem in oleo Catechumenorum, et infantem ungit in pectore, et inter scapulas in modum crucis, dicens: **Ego te linio Oleo salutis in Christo Iesu Domino nostro, ut habeas vitam æternam.**
+15\. Deinde Sacerdos intingit pollicem in oleo Catechumenorum, et infantem ungit in pectore, et inter scapulas in modum crucis, dicens: _**Ego te linio Oleo salutis in Christo Iesu Domino nostro, ut habeas vitam æternam.**_
 
 R: **Amen.** 
 
@@ -125,15 +130,15 @@ R: **Credo.**
 
 Respondet Patrinus: **Volo.** 
 
-19\. Tunc Patrino, vel Matrina, vel utroque (si ambo admittantur) infantem tenente, Sacerdos vasculo, seu urceolo accipit aquam baptismalem, et de ea ter fundit super caput infantis in modum crucis, et simul verba proferens, semel tantum distincte, et attente, dicit: **N, ego te baptizo in nomine  Patris, et Filii, , et Spiritus  Sancti.**
+19\. Tunc Patrino, vel Matrina, vel utroque (si ambo admittantur) infantem tenente, Sacerdos vasculo, seu urceolo accipit aquam baptismalem, et de ea ter fundit super caput infantis in modum crucis, et simul verba proferens, semel tantum distincte, et attente, dicit: _**N, ego te baptizo in nomine  Patris, et Filii, , et Spiritus  Sancti.**_
 
-20\. Ubi autem est consuetudo baptizandi per immersionem, Sacerdos accipit infantem, et advertens ne laedatur, caute immergit, et trina mersione baptizat, et semel tantum dicit: **N. Ego te baptizo in nomine Patris, et Filii, et Spiritus sancti.**
+20\. Ubi autem est consuetudo baptizandi per immersionem, Sacerdos accipit infantem, et advertens ne laedatur, caute immergit, et trina mersione baptizat, et semel tantum dicit: _**N. Ego te baptizo in nomine Patris, et Filii, et Spiritus sancti.**_
 
 21\. Mox Patriuus, vel Matrina, vel uterque simul infantem de sacro Fonte levant, suscipientes illum de manu Sacerdotis. 
 
-22\. Si vero dubitatur, an infans fuerit baptizatus, utatur hac forma: **N. Si non es baptizatus, ego te baptizo in nomine Patris, et Filii, et Spiritus sancti.**
+22\. Si vero dubitatur, an infans fuerit baptizatus, utatur hac forma: _**N. Si non es baptizatus, ego te baptizo in nomine Patris, et Filii, et Spiritus sancti.**_
 
-23\. Deinde intingit pollicem in sacro Chrismate, et ungit infantem in summitate capitis in modum crucis, dicens: **Deus omnipotens, Pater Domini nostri Jesu Christi, qui te regeneravit ex aqua et Spiritu Sancto, quique dedit tibi remissionem omnium peccatorum, ipse te  liniat Chrismate Salutis in eodem Christo Iesu Domino nostro in vitam aeternam.**
+23\. Deinde intingit pollicem in sacro Chrismate, et ungit infantem in summitate capitis in modum crucis, dicens: _**Deus omnipotens, Pater Domini nostri Jesu Christi, qui te regeneravit ex aqua et Spiritu Sancto, quique dedit tibi remissionem omnium peccatorum, ipse te  liniat Chrismate Salutis in eodem Christo Iesu Domino nostro in vitam aeternam.**_
 
 R: **Amen.**
 
