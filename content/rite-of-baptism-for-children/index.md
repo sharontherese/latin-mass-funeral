@@ -6,6 +6,8 @@ toggle = false
 
 +++
 
+_Artwork: Coter, Colijn de. "Baptism of St Libertus." 1490s. https://www.wga.hu/art/c/coter/baptism.jpg._
+
 # About 
 
 There are a number of variables possible for a baptism; to name several: age, number of those to be baptized, gender, how many ceremonies have been performed already, if it is unclear if baptism has been performed already, if a bishop is performing the baptism. 
