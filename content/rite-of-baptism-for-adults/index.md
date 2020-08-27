@@ -6,6 +6,8 @@ toggle = false
 
 +++
 
+_Master of Saint Gilles. "The Baptism of Clovis." 1500. https://www.wga.hu/art/m/master/stgilles/clovis.jpg._
+
 # About
 
 There are a number of variables possible for a baptism; to name several: age, number of those to be baptized, gender, how many ceremonies have been performed already, if it is unclear if baptism has been performed already, if a bishop is performing the baptism. 
