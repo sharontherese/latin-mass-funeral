@@ -1,0 +1,18 @@
+# Theme metadata
+name = "white"
+
+# Is theme light or dark?
+light = true
+
+# Primary (URL color)
+primary = "#4A235A"
+
+# Menu
+menu_primary = "##A569BD" # 500
+menu_text = "#fff"
+menu_text_active = "#4A235A" # A100
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(255, 255, 175)"
