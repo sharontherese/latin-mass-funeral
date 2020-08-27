@@ -31,6 +31,9 @@ Missale Romanum
 Novus Ordo
 : The normative Mass of the Roman Rite promulgated by Pope St. Paul VI in 1969-1970. Also called the Ordinary Form, the new Mass.
 
+Private baptism
+:
+
 Rite
 : "A Rite represents an ecclesiastical, or church, tradition about how the sacraments are to be celebrated." [^5]
 
