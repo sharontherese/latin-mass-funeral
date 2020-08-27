@@ -23,762 +23,369 @@ Other versions (some English only, some Latin only, some with both side-by-side)
 
 # Ordo Baptismi Adultorum 
 
+1\. In primis Sacerdos, paratis his, quae supra de observandis in administratione Sacramenti Baptismi Parvulorum dicuntur, indutus superpelliceo et stola, vel etiam pluviali violacei coloris, cum suis Clericis accedit ad gradus Altaris, et genibus flexis, pias mente ad Deum praeces effundit, ut tantum Sacramentum digne valeat ministrare; et ad implorandum divinum auxilium, surgens, se signat, et si temporis ratio ferat, dicit: 
 
+S: **Deus in adjutorium meum intende.** 
 
+Respondet: **Domine, ad adjuvandum me festina.** 
 
-1. In primis Sacerdos, paratis his, quae supra de observandis in administratione Sacramenti Baptismi Parvulorum dicuntur, indutus superpelliceo et stola, vel etiam pluviali violacei coloris, cum suis Clericis accedit ad gradus Altaris, et genibus flexis, pias mente ad Deum praeces effundit, ut tantum Sacramentum digne valeat ministrare; et ad implorandum divinum auxilium, surgens, se signat, et si temporis ratio ferat, dicit: 
+S: **Gloria Patri.**
 
-S: Deus in adjutorium meum intende. 
+R: **Sicut erat.**
 
-Respondet: Domine, ad adjuvandum me festina. 
+2\. Postae incipiat, prosequentibus Clericis: 
 
-S: Gloria Patri.
+Ant. **Effundam super vos aquam mundam, et mundabimini ab omnibus inquinamentis vestris, dicit Dominus.** 
 
-R: Sicut erat.  
+## Psalmus 8. 
 
-2. Postae incipiat, prosequentibus ClericiS: 
+**Domine Dominus noster, * quam admirabile est nomen tuum in universa terra!** 
 
+**Quoniam elevata est magnificentia tua, * super caelos.** 
 
-Ant. Effundam super vos aquam mundam, et mundabimini ab omnibus inquinamentis vestris, dicit Dominus. 
+**Ex ore infantium et lactentium perfecisti laudem propter inimicos tuos, * ut destruas inimicum et ultorem.** 
 
+**Quoniam videbo caelos tuos, opera digitorum tuorum: * lunam et stellas, quae tu fundasti.** 
 
+**Quid est homo, quod memor es ejus? * aut filius hominis, quoniam visitas eum?** 
 
+**Minuisti eum paulo minus ab Angelis, gloria et honore coronasti eum: * et constituisti eum super opera manuum tuarum.** 
 
+**Omnia subjecisti sub pedibus ejus, * oves et boves universas: insuper et pecora campi.** 
 
+**Volucres caeli, et pisces maris, * qui perambulant semitas maris.** 
 
+**Domine Dominus noster, * quam admirabile est nomen tuum in universa terra!** 
 
-Psalmus 8. 
+**Gloria Patri, etc.** 
 
-Domine Dominus noster, * quam admirabile est nomen tuum in universa terra! 
-Quoniam elevata est magnificentia tua, * super caelos. 
+## Psalmus 28. 
 
-Ex ore infantium et lactentium perfecisti laudem propter inimicos tuos, * ut destruas inimicum et ultorem. 
+**Afferte Domino filii Dei: * afferte Domino filios arietum:** 
 
-Quoniam videbo caelos tuos, opera digitorum tuorum: * lunam et stellas, quae tu fundasti. 
+**Alferte Domino gloriam et honorem, afferte Domino gloriam nomini ejus: * adorate Dominum in atrio sancto ejus.** 
 
+**Vox Domini super aquas, Deus majestatis intonuit: * Dominus super aquas multas.**
 
-Quid est homo, quod memor es ejus? * aut filius hominis, quoniam visitas eum? 
+**Vox Domini in virtute: * vox Domini in magnificentia.** 
 
+**Vox Domini confringentis cedroS: * et confringet Dominus cedros Libani.**
 
-Minuisti eum paulo minus ab Angelis, gloria et honore coronasti eum: * et constituisti eum super opera manuum tuarum. 
+**Et comminuet eas tamquam vitulum Libani: * et dilectus quemadmodum filius unicornium.**
 
-Omnia subjecisti sub pedibus ejus, * oves et boves universaS: insuper et pecora campi. 
+**Vox Domini intercidentis flammam igniS: * vox Domini concutientis desertum: et commovebit Dominus desertum Cades.**
 
-Volucres caeli, et pisces maris, * qui perambulant semitas maris. 
+**Vox Domini praeparantis cervos, et revelabit condensa: * et in templo ejus omnes dicent gloriam.** 
 
+**Dominus diluvium inhabitare facit: * et sedebit Dominus Rex in aeternum.**
 
+**Dominus virtutem populo suo dabit: * Dominus benedicet populo suo in pace.**
 
+**Gloria Patri, etc.**
 
-Domine Dominus noster, * quam admirabile est nomen tuum in universa terra! 
+## Psalmus 41. 
 
-Gloria Patri, etc. 
+**Quemadmodum desiderat cervus ad fontes aquarum: * ita desiderat anima mea ad te Deus.** 
 
-
-
-Psalmus 28. 
-
-Afferte Domino filii Dei: * afferte Domino filios arietum: 
-
-Alferte Domino gloriam et honorem, afferte Domino gloriam nomini ejuS: * adorate Dominum in atrio sancto ejus. 
-
-Vox Domini super aquas, Deus majestatis intonuit: * Dominus super aquas multas. 
-
-
-Vox Domini in virtute: * vox Domini in magnificentia. 
-
-Vox Domini confringentis cedroS: * et confringet Dominus cedros Libani. 
-
-Et comminuet eas tamquam vitulum Libani: * et dilectus quemadmodum filius unicornium. 
-
-Vox Domini intercidentis flammam igniS: * vox Domini concutientis desertum: et commovebit Dominus desertum Cades. 
-
-Vox Domini praeparantis cervos, et revelabit condensa: * et in templo ejus omnes dicent gloriam. 
-
-Dominus diluvium inhabitare facit: * et sedebit Dominus Rex in aeternum. 
-
-Dominus virtutem populo suo dabit: * Dominus benedicet populo suo in pace. 
-
-Gloria Patri, etc. 
-
-
-
-Psalmus 41. 
-
-Quemadmodum desiderat cervus ad fontes aquarum: * ita desiderat anima mea ad te Deus. 
-
-Sitivit anima mea ad Deum fortem, vivum: * quando veniam, et apparebo ante faciem Dei?
+**Sitivit anima mea ad Deum fortem, vivum: * quando veniam, et apparebo ante faciem Dei?**
  
-Fuerunt milii lacrymae meae panes die ac nocte: * dum dicitur mihi quotidie: Ubi est Deus tuus?
+**Fuerunt milii lacrymae meae panes die ac nocte: * dum dicitur mihi quotidie: Ubi est Deus tuus?**
  
-Haec recordatus sum, et effudi in me animam meam: * quoniam transibo in locum tabernaculi admirabilis, usque ad domum Dei. 
+**Haec recordatus sum, et effudi in me animam meam: * quoniam transibo in locum tabernaculi admirabilis, usque ad domum Dei.**
 
+**In voce exsultationis, et confessioniS: * sonus epulantis.** 
 
-In voce exsultationis, et confessioniS: * sonus epulantis. 
+**Quare tristis es anima mea? * et quare conturbas me?** 
 
-Quare tristis es anima mea? * et quare conturbas me? 
+**Spera in Deo, quoniam adhuc confitebor illi: * salutare vultus mei, et Deus meus.** 
 
-Spera in Deo, quoniam adhuc confitebor illi: * salutare vultus mei, et Deus meus. 
-Ad meipsum anima mea conturbata est: * propterea memor ero tui de terra Jordanis, et Hermoniim a monte modico. 
+**Ad meipsum anima mea conturbata est: * propterea memor ero tui de terra Jordanis, et Hermoniim a monte modico.**
 
-Abyssus abyssum invocat, * in voce cataractarum tuarum. 
+**Abyssus abyssum invocat, * in voce cataractarum tuarum.** 
 
+**Omnia excelsa tua, et fluctus tui * super me transierunt.** 
 
-Omnia excelsa tua, et fluctus tui * super me transierunt. 
+**In die mandavit Dominus misericordiam suam: * et nocte canticum ejus.**
 
-In die mandavit Dominus misericordiam suam: * et nocte canticum ejus. 
+**Apud me oratio Deo vitae meae, * dicam Deo: Susceptor meus es.** 
 
-Apud me oratio Deo vitae meae, * dicam Deo: Susceptor meus es. 
-Quare oblitus es mei? * et quare contristatus incedo, dum affligit me inimicus? 
+**Quare oblitus es mei? * et quare contristatus incedo, dum affligit me inimicus?** 
 
-Dum confringuntur ossa mea, * exprobraverunt mihi, qui tribulant me, inimici mei. 
+**Dum confringuntur ossa mea, * exprobraverunt mihi, qui tribulant me, inimici mei.** 
 
+**Dum dicunt mihi per singulos dieS: Ubi est Deus tuus? * quare tristis es anima mea? et quare conturbas me?**
 
-Dum dicunt mihi per singulos dieS: Ubi est Deus tuus? * quare tristis es anima mea? et quare conturbas me?
+**Spera in Deo, quoniam adhuc confitebor illi: * salutare vultus mei, et Deus meus.**
 
-Spera in Deo, quoniam adhuc confitebor illi: * salutare vultus mei, et Deus meus. 
+**Gloria Patri, etc.**
 
-Gloria Patri, etc. 
+Et repetitur Antiphona. **Effundam super vos aquam mundam, et mundabimini ab omnibus inquinamentis vestris, dicit Dominus.** 
 
+3\. Deinde dicitur: **Kyrie eleison. Christe eleison. Kyrie eleison. Pater noster.** 
 
+S: **Et ne nos indiicas in tentationem.**
 
-Et repetitur Antiphona. Effundam super vos aquam mundam, et mundabimini ab omnibus inquinamentis vestris, dicit Dominus. 
+R: **Sed libera nos a malo.** 
 
-3. Deinde dicituR: Kyrie eleison. Christe eleison. Kyrie eleison. Pater noster. 
+S: **Domine exaudi orationem meam.** 
 
+R: **Et clamor meus ad te veniat.** 
 
-S: Et ne nos indiicas in tentati6nem. 
+S: **Dominus vobiscum.** 
 
-R: Sed libera nos a malo. 
+R: **Et cum spiritu tuo.** 
 
-S: Domine exaudi orationem meam. 
+**Oremus. Omnipotens, sempiterne Deus, qui dedisti famulis tuis in confessione verae fidei, aeternae Trinitatis gloriam agnoscere; et in potentia majestatis adorare unitatem: quaesumus; ut ejusdem fidei firmitate, ab omnibus semper muniamur adversis. Adesto supplicationibus nostris, omnipotens DeuS: et quod humilitatis nostrae gerendum est ministerio, tuse virtutis impleatur effectu. Da, quaesumus Domine, Electo nostro, ut sanctis edoctus mysteriis, et renovetur fonte Baptismatis, et inter Ecclesiae tuae membra numeretur. Per Christum Dominum nostrum.** 
 
-R: Et clamor meus ad te veniat. 
+R: **Amen.**
 
-S: Dominus vobiscum. 
+(…) 5\. Deinde Sacerdos procedit ad fores Ecclesiae, et stat in limine: catechizandus vero extra limen. Et si sunt plures, mares et feminae, illi ad dexteram Sacerdotis, hae vero ad sinistram statuantur, et Sacerdos interrogat: **Quo nomine vocaris?** 
 
-R: Et cum spiritu tuo. 
+Catechumenus respondet: **N.** 
 
-Oremus. Omnipotens, sempiterne Deus, qui dedisti famulis tuis in confessione verae fidei, aeternae Trinitatis gloriam agnoscere; et in potentia majestatis adorare unitatem: quaesumus; ut ejusdem fidei firmitate, ab omnibus semper muniamur adversis. Adesto supplicationibus nostris, omnipotens DeuS: et quod humilitatis nostrae gerendum est ministerio, tuse virtutis impleatur effectu. Da, quaesumus Domine, Electo nostro, ut sanctis edoctus mysteriis, et renovetur fonte Baptismatis, et inter Ecclesiae tuae membra numeretur. Per Christum Dominum nostrum. 
+Sacerdos: **N. Quid petis ab Ecclesia Dei?** 
 
+R: **Fidem.** 
 
+Sacerdos: **Fides, quid tibi praestat?** 
 
-R: Amen. 
-
-[…] 5. Deinde Sacerdos procedit ad fores Ecclesiae, et stat in limine: catechizandus vero extra limen. Et si sunt plures, mares et feminae, illi ad dexteram Sacerdotis, hae vero ad sinistram statuantur, et Sacerdos interrogat: Quo nomine vocaris? 
-
-Catechumenus respondet: N. 
-
-
-
-Sacerdos: N. Quid petis ab Ecclesia Dei? 
-
-
-R: Fidem. 
-
-Sacerdos: Fides, quid tibi praestat? 
-
-R: Vitam seternam. 
+R: **Vitam seternam.**
 
 Sacerdos: Si vis habere vitam seternam, serva mandata. Diliges Dominum Deum tuum ex toto corde tuo, et ex tota anima tua, et ex tota mente tua, et proximum tuum sicut te ipsum. In his duobus mandatis tota Lex pendet, et Prophetae. Fides autem est, ut unum Deum in Trinitate, et Trinitatem in unitate venereris, neque confundendo personas, neque substantiam separando. Alia est enim persona Patris, alia Filii, alia Spiritus sancti; sed horum trium una est substantia, et nonnisi una Divinitas. 
 
+6\. Et rursus interrogat: **N. Abrenuntias satanae?**
 
-6. Et rursus interrogat: N. Abrenuntias satanae?
+R: **Abrenuntio.** 
 
+Interrogat: **Et omnibus operibus ejus?** 
 
- 
-R: Abrenuntio. 
+R: **Abrenuntio.** 
 
-Interrogat: Et omnibus operibus ejus? 
+Interrogat: **Et omnibus pompis ejus?** 
 
-R: Abrenuntio. 
+R: **Abrenuntio.** 
 
-Interrogat: Et omnibus pompis ejus? 
+7\. Deinde Sacerdos interrogat de Symbolo Fidei, dicens: **Credis in Deum Patrem omnipotentem, Creatorem caeli et terrae?** 
 
-R: Abrenuntio. 
+R: **Credo.** 
 
-7. Deinde Sacerdos interrogat de Symbolo Fidei, dicenS: Credis in Deum Patrem omnipotentem, Creatorem caeli et terrae? 
+Interrogat: **Credis in Jesum Christum, Filium ejus unicum, Dominum nostrum, natum, et passum?** 
 
-R: Credo. 
+R: **Credo.** 
 
-Interrogat: Credis in Jesum Christum, Filium ejus unicum, Dominum nostrum, natum, et passum? 
+Interrogat: **Credis et in Spiritum sanctum, sanctam Ecclesiam Catholicam, Sanctorum communionem, remissionem peccatorum, carnis resurrectionem, et vitam aeternam?** 
 
-R: Credo. 
+R: **Credo.** 
 
-Interrogat: Credis et in Spiritum sanctum, sanctam Ecclesiam Catholicam, Sanctorum communionem, remissionem peccatorum, carnis resurrectionem, et vitam aeternam? 
+8\. Tunc Sacerdos exsufflat ter in faciem ejus, semel dicens: **Exi ab eo spiritus immunde, et da locum Spiritui sancto Paraclito.** 
 
-R: Credo. 
+9\. Hic in modum crucis halet in faciem ipsius, et dicat: **N. Accipe Spiritum bonum per istam insufflationem, et Dei benedictionem.** 
 
-8. Tunc Sacerdos exsufflat ter in faciem ejus, semel dicens: Exi ab eo spiritus immunde, et da locum Spiritui sancto Paraclito. 
+S: **Pax tibi.** 
 
+R: **Et cum spiritu tuo.** 
 
+10\. Deinde facit Crucem cum pollice in ejus fronte, et in pectore, dicens: **N. Accipe signum Crucis tam in fronte, quam in corde: sume fidem caelestium praeceptorum. Talis esto moribus, ut templum Dei jam esse possiS: ingressusque Ecclesiam Dei, evasisse te laqueos mortis, laetus agnosce; (horresce idola, respue simulacra), cole Deum Patrem omnipotentem, et Jesum Christum, Filium ejus unicum, Dominum nostrum, qui venturus est judicare vivos et mortuos, et saeculum per ignem.**
 
-9. Hic in modum crucis halet in faciem ipsius, et dicat: N. Accipe Spiritum bonum per istam insufflationem, et Dei benedictionem. 
+R: **Amen.** 
 
-S: Pax tibi. 
+(…) 11\. Si plures sunt Electi, omnia supradicta dicantur singillatin super singulos. **Oremus. Te deprecor, Domine sancte, Pater omnipotens, aeterne Deus: ut huic famulo tuo N., qui in hujus saeculi nocte vagatur incertus ac dubius, viam veritatis et agnitionis tuae jubeas demonstrari: quatenus, reseratis oculis cordis sui, te unum Deum Patrem in Filio, et Filium in Patre cum Spiritu sancto recognoscat, atque hujus confessionis fructum, et hic, et in futuro Saeculo percipere mereatur. Per Christum Dominum nostrum.** 
 
-R: Et cum spiritu tuo. 
+R: **Amen.** 
 
-10. Deinde facit Crucem cum pollice in ejus fronte, et in pectore, dicenS: N. Accipe signum Crucis tam in fronte, quam in corde: sume fidem caelestium praeceptorum. Talis esto moribus, ut templum Dei jam esse possiS: ingressusque Ecclesiam Dei, evasisse te laqueos mortis, laetus agnosce; (horresce idola, respue simulacra), cole Deum Patrem omnipotentem, et Jesum Christum, Filium ejus unicum, Dominum nostrum, qui venturus est judicare vivos et mortuos, et saeculum per ignem.
+(…) 13\. Deinde signet Electum signo Crucis cum pollicc in fronte dicens: **Signo tibi frontem, ut suscipias Crucem Domini.** 
 
+In auribus: **Signo tibi aures, ut audias divina praecepta.**
 
+In oculis: **Signo tibi oculos, ut videas claritatem Dei.**
 
-R: Amen. 
+In naribus: S**igno tibi nares, ut odorem suavitatis Christi sentias.** 
 
-[…] 11. Si plures sunt Electi, omnia supradicta dicantur singillatin super singulos. Oremus. Te deprecor, Domine sancte, Pater omnipotens, aeterne DeuS: ut huic famulo tuo N., qui in hujus saeculi nocte vagatur incertus ac dubius, viam veritatis et agnitionis tuae jubeas demonstrari: quatenus, reseratis oculis cordis sui, te unum Deum Patrem in Filio, et Filium in Patre cum Spiritu sancto recognoscat, atque hujus confessionis fructum, et hic, et in futuro Saeculo percipere mereatur. Per Christum Dominum nostrum. 
+In ore: **Signo tibi os, ut loquaris verba vitae.** 
 
+In pectore: **Signo tibi pectus, ut credas in Deum.** 
 
-R: Amen. 
-[…] 13. Deinde signet Electum signo Crucis cum pollicc in fronte dicens: Signo tibi frontem, ut suscipias Crucem Domini. 
+In scapulis: **Signo tibi scapulas, ut suscipias jugum servitutis ejus.** 
 
+In toto corpore, illud non tangens, manu producit **signum Crucis, et dicit: Signo te totum in nomine Patris, et Filii, et Spiritus sancti, ut habeas vitam aeternam, et vivas in saecula saeculorum.** 
 
+R: **Amen.** 
 
-In auribus: Signo tibi aures, ut audias divina praecepta, 
+**Oremus. Preces nostras, quaesumus Domine, clementer exaudi, et hunc Electum tuum N. Crucis Dominicae, cujus impressione eum signamus, virtute custodi: ut magnitudinis gloriae tuae rudimenta servans, per custodiam mandatorum tuorum ad regenerationis gloriam pervenire mereatur. Per Christum Dominum nostrum.** 
 
-In oculis: Signo tibi oculos, ut videas claritatem Dei
-. 
-In naribus: Signo tibi nares, ut odorem suavitatis Christi sentias. 
-
-In ore: Signo tibi os, ut loquaris verba vitae. 
-
-
-In pectore: Signo tibi pectus, ut credas in Deum. 
-
-In scapulis: Signo tibi scapulas, ut suscipias jugum servitutis ejus. 
-
-
-In toto corpore, illud non tangens, manu producit signum Crucis, et dicit: Signo te totum in nomine Patris, et Filii, et Spiritus sancti, ut habeas vitam aeternam, et vivas in saecula saeculorum. 
-
-R: Amen. 
-
-
-Oremus. Preces nostras, quaesumus Domine, clementer exaudi, et hunc Electum tuum N. Crucis Dominicae, cujus impressione eum signamus, virtute custodi: ut magnitudinis gloriae tuae rudimenta servans, per custodiam mandatorum tuorum ad regenerationis gloriam pervenire mereatur. Per Christum Dominum nostrum. 
-
-
-R: Amen. 
+R: **Amen. 
 
 Oremus. Deus, qui humani generis ita es conditor, ut sis etiam reformator, propitiare populis adoptivis, et novo testamento sobolem novae prolis adscribe: ut filii promissionis, quod non potuerunt assequi per naturam, gaudeant suscepisse per gratiam. Per Christum Dominum nostrum. 
 
+R: **Amen.** 
+
+14\. Tunc imponit manum super caput Electi, et dicit: **Oremus. Omnipotens, sempiterne Deus, Pater Domini nostri Jesu Christi, respicere digneris super hunc famulum tuum N., quem ad rudimenta fidei vocare dignatus eS: omnem caecitatem cordis ab eo expelle: disrumpe omnes laqueos satanae, quibus fuerat colligatus; aperi ei, Domine, januam pietatis tuae, ut signo sapientiae tuae imbutus, omnium cupiditatum foetoribus careat, et ad suavem odorem praeceptorum tuorum laetus tibi in Ecclesia tua deserviat, et proficiat de die in diem, ut idoneus efficiatur accedere ad gratiam Baptismi tui, percepta medicina. Per eumdem Christum Dominum nostrum.** 
+
+R: **Amen.** 
+
+(…) 16\. Deinde Sacerdos benedicit sal. 
+
+## Benedictio Salis dandi Catechumeno 
+
+**Exorcizo te, creatura salis, in nomine Dei Patris omnipotentis, et in caritate Domini nostri Jesu Christi, et in virtute Spiritus sancti. Exorcizo te per Deum vivum, per Deum verum, per Deum sanctum, per Deum, qui te ad tutelam humani generis procreavit, et populo venienti ad credulitatem per servos suos consecrari praecepit, ut in nomine sanctae Trinitatis efficiaris salutare sacramentum ad effugandum inimicum. Proinde rogamus te, Domine, Deus noster, ut hanc creaturam salis sanctificando sanctifices, et benedicendo benedicas, ut fiat omnibus accipientibus perfecta medicina, permanens in visceribus eorum, in nomine ejusdem Domini nostri Jesu Christi, qui venturus est judicare vivos et mortuos, et saeculum per ignem.** 
+
+R: **Amen.** 
+
+17\. Tunc pollice et indice accipit de ipso sale, et immittit in os Catechumeni, dicens: **N. Accipe sal sapientiae: propitiatio sit tibi in vitam aeternam.** 
+
+R: **Amen.** 
+
+Sacerdos: **Pax tibi.** 
+
+R: **Et cum spiritu tuo.** 
+
+Oremus. **Deus patrum nostrorum, Deus universae conditor veritatis, te supplices exoramus, ut hunc famulum tuum N. respicere digneris propitius, et hoc (primum) pabulum salis gustantem, non diutius esurire permittas, quo minus cibo expleatur caelesti, quatenus sit semper spiritu fervens, spe gaudens, tuo semper nomini serviens (Perduc eum, Domine quaesumus, ad novae regenerationis lavacrum), ut cum fidelibus tuis promissionum tuarum aeterna praemia consequi mereatur. Per Christum Dominum nostrum.** 
+
+R: **Amen.** 
+
+(…) 21\. Deinde Sacerdos dicat super masculum tantum: Ora, Electe, flecte genua, et dic: **Pater noster.** 
+
+Et Electus genu flexo orat, et dicit: **Pater noster. Et cum oraverit, et dixerit Pater noster**, usque ad Sed libera nos a malo, inclusive.
+
+Sacerdos subjungit: **Leva, comple orationem tuam, et dic, Amen.** 
+
+Et ille respondet: **Amen.** 
+
+Et Sacerdos dicit Patrino: **Signa eum.** 
+
+Deinde Electo: **Accede.** 
+
+Et Patrinus pollice signat cum in fronte, dicens: **In nomine Patris, et Filii, et Spiritus sancti.** 
+
+22\. Tum quoque Sacerdos facil crucem in fronte ejus, ita dicendo: **In nomine Patris, et Filii, et Spiritus sancti.** 
+
+Et imponit manum super eum, et dicit: **Oremus. Deus Abraham, Deus Isaac, Deus Jacob, Deus, qui Moysi famulo tuo in monte Sinai apparuisti, et filios Israel de terra Aegypti eduxisti, deputans eis Angelum pietatis tuae, qui custodiret eos die ac nocte: te, quaesumus Domine; ut mittere digneris sanctum Angelum tuum de caelis, qui similiter custodiat et hunc famulum tuum N. et perducat eum ad gratiam Baptismi tui. Per Christum Dominum nostrum.**
+
+R: **Amen.** 
+
+## Exorcismus
+
+**Ergo, maledicte diabole, recognosce sententiam tuam, et da honorem Deo vivo et vero, da honorem Jesu Christo Filio ejus, et Spiritui sancto, et recede ab hoc famulo Dei N. quia istum sibi Deus et Dominus noster Jesus Christus ad suam sanctam gratiam, fontemque Baptismatis vocare dignatus est: et hoc signum sanctae crucis, quod nos fronti ejus damus, tu, maledicte diabole, numquam audeas violare. Per eumdem Christum Dominum nostrum, qui venturus est judicare vivos et mortuos, et saeculum per ignem.** 
 
 R: Amen. 
 
-14. Tunc imponit manum super caput Electi, et dicit: Oremus. Omnipotens, sempiterne Deus, Pater Domini nostri Jesu Christi, respicere digneris super hunc famulum tuum N., quem ad rudimenta fidei vocare dignatus eS: omnem caecitatem cordis ab eo expelle: disrumpe omnes laqueos satanae, quibus fuerat colligatus; aperi ei, Domine, januam pietatis tuae, ut signo sapientiae tuae imbutus, omnium cupiditatum foetoribus careat, et ad suavem odorem praeceptorum tuorum laetus tibi in Ecclesia tua deserviat, et proficiat de die in diem, ut idoneus efficiatur accedere ad gratiam Baptismi tui, percepta medicina. Per eumdem Christum Dominum nostrum. 
-
-
-
+23\. Sed si plures sint Catechumenii, hic et in sequentibus Sacerdos dicat in numero plurali: **Orate, Electi, flectite genua, etc.**, ut supra, usque ad finem praecedentis Exorcismi, qui incipit: **Ergo, maledicte diabole**. Item super unum secundo dicat: **Ora, Electe, flecte genua, et dic: Pater noster**, et reliqua, ut supra pag. 29, usque ad **Orationem, Deus Abraham** exclusive: deinde imponit manum super eum, ac dicit: **Oremus. Deus immortale praesidium omnium postulantium, liberatio supplicum, pax rogantium, vita credentium, resurrectio mortuorum: te invoco super hunc famulum tuum N., qui Baptismi tui donum petens, aeternam consequi gratiam spirituali regeneratione desiderat: accipe eum Domine, et quia dignatus es dicere: Petite, et accipietis; quaerite, et invenietis; pulsate, et aperietur vobis: petenti praemium porrige, et januam pande pulsanti; ut aeternam caelestis lavacri benedictionem consecutus, promissa tui muneris regna percipiat. Qui cum Patre, et Spiritu sancto vivis et regnas Deus, in saecula saeculorum.** 
 
 R: Amen. 
 
+## Exorcismus 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[…] 16. Deinde Sacerdos benedicit sal. 
-
-Benedictio Salis dandi Catechumeno 
-
-Exorcizo te, creatura salis, in nomine Dei Patris omnipotentis, et in caritate Domini nostri Jesu Christi, et in virtute Spiritus sancti. Exorcizo te per Deum vivum, per Deum verum, per Deum sanctum, per Deum, qui te ad tutelam humani generis procreavit, et populo venienti ad credulitatem per servos suos consecrari praecepit, ut in nomine sanctae Trinitatis efficiaris salutare sacramentum ad effugandum inimicum. Proinde rogamus te, Domine, Deus noster, ut hanc creaturam salis sanctificando sanctifices, et benedicendo benedicas, ut fiat omnibus accipientibus perfecta medicina, permanens in visceribus eorum, in nomine ejusdem Domini nostri Jesu Christi, qui venturus est judicare vivos et mortuos, et saeculum per ignem. 
-
+**Audi, maledicte satana, adjuratus per nomen aeterni Dei, et Salvatoris nostri Jesu Christi Filii ejus, cum tua victus invidia, tremens, gemensque discede: nihil tibi sit commune cum servo Dei N., jam caelestia cogitante, renuntiaturo tibi et saeculo tuo, et beatae immortalitati victuro. Da igitur honorem advenienti Spiritui sancto, qui ex summa caeli arce descendens, proturbatis fraudibus tuis, divino fonte purgatum pectus, sanctificatum Deo templum et habitaculum (perficiat): ut ab omnibus penitus noxiis praeteritorum criminum liberatus servus Dei, gratias perennes Deo referat semper, et benedicat nomen sanctum ejus in saecula saeculorum.** 
 
 R: Amen. 
 
+24\. Item super unum masculum tertio dicat ut supra: **Ora, Electe, flecte genua, et dic: Pater noster, etc.**, usque ad **Orationem, Deus Abraham** exclusive. Deinde imponit manum snper eum, dicens: 
 
+### Exorcismus
 
+**Exorcizo te, immunde spiritus, in nomine Patris, et Filii, et Spiritus sancti, ut exeas, et recedas ab hoc famulo Dei N. Ipse enim tibi imperat, maledicte damnate, qui pedibus super mare ambulavit, et Petro mergenti dexteram porrexit.** 
 
+(…) 29\. Super utrumque, sive masculum, sive feminam imponit manum super caput ejus, et dicit: **Oremus. Aeternam ac justissimam pietatem tuam deprecor, Domine sancte, Pater omnipotens, aeterne Deus, auctor luminis et veritatis, super hunc famulum tuum N., ut digneris eum illuminare lumine intelligentiae tuae: munda eum, et sanctifica: da ei scientiam veram efficiatur accedere ad gratiam Baptismi tui, teneat firmam spem, consilium rectum, doctrinam sanctam, ut aptus sit ad percipiandam gratiam tuam.) Per Christum Dominum nostrum.** 
 
+R: **Amen.** 
 
+(…) 31\. Hic peractis, Sacerdos sinistra manu apprehendens dexteram Electi prope brachium, vel ei porrigens extremam partem stolae, introducit eum in Ecclesiam dicens: **N. Ingredere in sanctam Ecclesiam Dei, ut accipias benedictionem caelestem a Domino Jesu Christo, et habeas partem cum illo, et Sanctis ejus.** 
 
+R: **Amen.** 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-17. Tunc pollice et indice accipit de ipso sale, et immittit in os Catechumeni, dicenS: N. Accipe sal sapientiae: propitiatio sit tibi in vitam aeternam. 
-
-
-R: Amen. 
-
-Sacerdos: Pax tibi. 
-
-R: Et cum spiritu tuo. 
-
-Oremus. Deus patrum nostrorum, Deus universae conditor veritatis, te supplices exoramus, ut hunc famulum tuum N. respicere digneris propitius, et hoc (primum) pabulum salis gustantem, non diutius esurire permittas, quo minus cibo expleatur caelesti, quatenus sit semper spiritu fervens, spe gaudens, tuo semper nomini serviens (Perduc eum, Domine quaesumus, ad novae regenerationis lavacrum), ut cum fidelibus tuis promissionum tuarum aeterna praemia consequi mereatur. Per Christum Dominum nostrum. 
-
-
-
-R: Amen. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[…] 21. Deinde Sacerdos dicat super masculum tantum: Ora, Electe, flecte genua, et dic: Pater noster. 
-
-
-Et Electus genu flexo orat, et dicit: Pater noster. Et cum oraverit, et dixerit Pater noster, usque ad Sed libera nos a malo, inclusive.
-
-Sacerdos subjungit: Leva, comple orationem tuam, et dic, Amen. 
-
-Et ille respondet: Amen. 
-
-Et Sacerdos dicit Patrino: Signa eum. 
-
-Deinde Electo: Accede. 
-
-Et Patrinus pollice signat cum in fronte, dicenS: In nomine Patris, et Filii, et Spiritus sancti. 
-
-22. Tum quoque Sacerdos facil crucem in fronte ejus, ita dicendo: In nomine Patris, et Filii, et Spiritus sancti. 
-
-Et imponit manum super eum, et dicit: Oremus. Deus Abraham, Deus Isaac, Deus Jacob, Deus, qui Moysi famulo tuo in monte Sinai apparuisti, et filios Israel de terra Aegypti eduxisti, deputans eis Angelum pietatis tuae, qui custodiret eos die ac nocte: te, quaesumus Domine; ut mittere digneris sanctum Angelum tuum de caelis, qui similiter custodiat et hunc famulum tuum N. et perducat eum ad gratiam Baptismi tui. Per Christum Dominum nostrum.
-
-
-
-
- 
-R: Amen. 
-
-Exorcismus. 
-
-Ergo, maledicte diabole, recognosce sententiam tuam, et da honorem Deo vivo et vero, da honorem Jesu Christo Filio ejus, et Spiritui sancto, et recede ab hoc famulo Dei N. quia istum sibi Deus et Dominus noster Jesus Christus ad suam sanctam gratiam, fontemque Baptismatis vocare dignatus est: et hoc signum sanctae crucis, quod nos fronti ejus damus, tu, maledicte diabole, numquam audeas violare. Per eumdem Christum Dominum nostrum, qui venturus est judicare vivos et mortuos, et saeculum per ignem. 
-
-
-
-
-
-
-
-
-R: Amen. 
-
-
-
-
-
-
-23. Sed si plures sint Catechumenii, hic et in sequentibus Sacerdos dicat in numero plurali: Orate, Electi, flectite genua, etc. ut supra, usque ad finem praecedentis Exorcismi, qui incipit: Ergo, maledicte diabole. Item super unum secundo dicat: Ora, Electe, flecte genua, et dic: Pater noster, et reliqua, ut supra pag. 29, usque ad Orationem, Deus Abraham exclusive: deinde imponit manum super eum, ac dicit: Oremus. Deus immortale praesidium omnium postulantium, liberatio supplicum, pax rogantium, vita credentium, resurrectio mortuorum: te invoco super hunc famulum tuum N., qui Baptismi tui donum petens, aeternam consequi gratiam spirituali regeneratione desiderat: accipe eum Domine, et quia dignatus es dicere: Petite, et accipietis; quaerite, et invenietis; pulsate, et aperietur vobiS: petenti praemium porrige, et januam pande pulsanti; ut aeternam caelestis lavacri benedictionem consecutus, promissa tui muneris regna percipiat. Qui cum Patre, et Spiritu sancto vivis et regnas Deus, in saecula saeculorum. 
-
-R: Amen. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Exorcismus. 
-
-Audi, maledicte satana, adjuratus per nomen aeterni Dei, et Salvatoris nostri Jesu Christi Filii ejus, cum tua victus invidia, tremens, gemensque discede: nihil tibi sit commune cum servo Dei N., jam caelestia cogitante, renuntiaturo tibi et saeculo tuo, et beatae immortalitati victuro. Da igitur honorem advenienti Spiritui sancto, qui ex summa caeli arce descendens, proturbatis fraudibus tuis, divino fonte purgatum pectus, sanctificatum Deo templum et habitaculum (perficiat): ut ab omnibus penitus noxiis praeteritorum criminum liberatus servus Dei, gratias perennes Deo referat semper, et benedicat nomen sanctum ejus in saecula saeculorum. 
-
-
-
-
-
-
-
-R: Amen. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24. Item super unum masculum tertio dicat ut supra: Ora, Electe, flecte genua, et dic: Pater noster, etc, usque ad Orationem, Deus Abraham exclusive. Deinde imponit manum snper eum, dicenS: 
-
-Exorcismus. 
-
-Exorcizo te, immunde spiritus, in nomine Patris, et Filii, et Spiritus sancti, ut exeas, et recedas ab hoc famulo Dei N. Ipse enim tibi imperat, maledicte damnate, qui pedibus super mare ambulavit, et Petro mergenti dexteram porrexit. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[…] 29. Super utrumque, sive masculum, sive feminam imponit manum super caput ejus, et dicit: Oremus. Aeternam ac justissimam pietatem tuam deprecor, Domine sancte, Pater omnipotens, aeterne Deus, auctor luminis et veritatis, super hunc famulum tuum N., ut digneris eum illuminare lumine intelligentiae tuae: munda eum, et sanctifica: da ei scientiam veram efficiatur accedere ad gratiam Baptismi tui, teneat firmam spem, consilium rectum, doctrinam sanctam, ut aptus sit ad percipiandam gratiam tuam.) Per Christum Dominum nostrum. 
-
-
-
-R: Amen. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[…] 31. Hic peractis, Sacerdos sinistra manu apprehendens dexteram Electi prope brachium, vel ei porrigens extremam partem stolae, introducit eum in Ecclesiam dicenS: N. Ingredere in sanctam Ecclesiam Dei, ut accipias benedictionem caelestem a Domino Jesu Christo, et habeas partem cum illo, et Sanctis ejus. 
-
-R: Amen. 
-
-
-
-[…] 33. Et ingressus Electus procumbit, seu prosternit se in pavimento, et adorat. 
-
+(…) 33\. Et ingressus Electus procumbit, seu prosternit se in pavimento, et adorat. 
 
 34. Deinde surgit, et Sacerdos imponit manum super caput ejus, et Electus cum eo recitat Symbolum Apostolorum, et Orationem Dominicam. 
 
-35. Ita etiam si plures fuerint, omnes surgunt, et simul recitant: Credo in Deum, Patrem omnipotentem, Creatorem cæli et terræ. Et in Iesum Christum, Filium eius unicum, Dominum nostrum: qui conceptus est de Spiritu Sancto, natus ex Maria Virgine, passus sub Pontio Pilato, crucifixus, mortuus, et sepultuS: descendit ad inferos; tertia die resurrexit a mortuis; ascendit ad cælos; sedet ad dexteram Dei Patris omnipotentis; inde venturus est iudicare vivos et mortuos. Credo in Spiritum Sanctum, sanctam Ecclesiam catholicam, Sanctorum communionem, remissionem peccatorum, carnis resurrectionem, vitam æternam.
+35\. Ita etiam si plures fuerint, omnes surgunt, et simul recitant: **Credo in Deum, Patrem omnipotentem, Creatorem cæli et terræ. Et in Iesum Christum, Filium eius unicum, Dominum nostrum: qui conceptus est de Spiritu Sancto, natus ex Maria Virgine, passus sub Pontio Pilato, crucifixus, mortuus, et sepultuS: descendit ad inferos; tertia die resurrexit a mortuis; ascendit ad cælos; sedet ad dexteram Dei Patris omnipotentis; inde venturus est iudicare vivos et mortuos. Credo in Spiritum Sanctum, sanctam Ecclesiam catholicam, Sanctorum communionem, remissionem peccatorum, carnis resurrectionem, vitam æternam.**
+
+R: **Amen.** 
+
+**Pater noster, qui es in cælis, sanctificetur nomen tuum. Adveniat regnum tuum. Fiat voluntas tua, sicut in cælo, et in terra. Panem nostrum cotidianum da nobis hodie. Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem: sed libera nos a malo.**
+
+R: **Amen.** 
+
+36\. Tunc rursus Sacerdos imponat manum super caput Electi, et dicat: 
+
+## Exorcismus
+
+**Nec te latet, satana, imminere tibi poenas, imminere tibi tormenta, imminere tibi diem judicii, diem supplicii sempiterni; diem, qui venturus est velut clibanus ardens, in quo tibi, atque universis angelis tuis praeparatus sempiternus erit interitus. Proinde damnate, atque damnande, da honorem Deo vivo et vero, da honorem Jesu Christo Filio ejus, da honorem Spiritui sancto Paraclito, in cujus nomine atque virtute praecipio tibi, quicumque es, spiritus immunde, ut exeas, et recedas ab hoc famulo Dei N., quem hodie idem Deus et Dominus noster Jesus Christus ad suam sanctam gratiam et benedictionem, fontemque Baptismatis dono vocare dignatus est (ut fiat) ejus templum per aquam regenerationis in remissionem omnium peccatorum. In nomine ejusdem Domini nostri Jesu Christi, qui venturus est judicare vivos et mortuos, et saeculum per ignem.** 
 
 R: Amen. 
 
-Pater noster, qui es in cælis, sanctificetur nomen tuum. Adveniat regnum tuum. Fiat voluntas tua, sicut in cælo, et in terra. Panem nostrum cotidianum da nobis hodie. Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem: sed libera nos a malo.
+(…) 38\. Postea Sacerdos pollice accipit de saliva oris sui, et tangit aures, et nares Electi; tangendo vero aurem dexteram et sinistram, dicat: **Ephpheta, quod est, Adaperire**; deinde tangendo nares, dicat: **In odorem suavitatis. Et subdit: Tu autem effugare, diabole; appropinquabit enim judicium Dei.** 
 
-R: Amen. 
+39. Deinde interroget Electum: **Quis vocaris?** 
 
+Et ipse respondet: **N.** 
 
+Interroget: **N. Abrenuntias satanae?** 
 
-36. Tunc rursus Sacerdos imponat manum super caput Electi, et dicat: 
+R: **Abrenuntio.** 
 
-Exorcismus. 
+Interroget: **Et omnibus operibus ejus?** 
 
-Nec te latet, satana, imminere tibi poenas, imminere tibi tormenta, imminere tibi diem judicii, diem supplicii sempiterni; diem, qui venturus est velut clibanus ardens, in quo tibi, atque universis angelis tuis praeparatus sempiternus erit interitus. Proinde damnate, atque damnande, da honorem Deo vivo et vero, da honorem Jesu Christo Filio ejus, da honorem Spiritui sancto Paraclito, in cujus nomine atque virtute praecipio tibi, quicumque es, spiritus immunde, ut exeas, et recedas ab hoc famulo Dei N., quem hodie idem Deus et Dominus noster Jesus Christus ad suam sanctam gratiam et benedictionem, fontemque Baptismatis dono vocare dignatus est (ut fiat) ejus templum per aquam regenerationis in remissionem omnium peccatorum. In nomine ejusdem Domini nostri Jesu Christi, qui venturus est judicare vivos et mortuos, et saeculum per ignem. 
+R: **Abrenuntio.** 
 
+Interroget: **Et omnibus pompis ejus?** 
 
-R: Amen. 
+R: **Abrenuntio.** 
 
-[…] 38. Postea Sacerdos pollice accipit de saliva oris sui, et tangit aures, et nares Electi; tangendo vero aurem dexteram et sinistram, dicat: Ephpheta, quod est, Adaperire; 
+40\. Tunc Sacerdos intingit pollicem dexterae manus in Oleo sancto Catechumenorum, et inungit Electum primum in pectore, deinde inter scapulas, in modum crucis, dicens: **Ego te linio oleo salutis in Christo Jesu Domino nostro in vitam aeternam.** 
 
+R: **Amen.** 
 
-deinde tangendo nares, dicat: In odorem suavitatis. Et subdit: Tu autem effugare, diabole; appropinquabit enim judicium Dei. 
+Sacerdos: **Pax tibi.** 
 
+R: **Et cum spiritu tuo.** 
 
-39. Deinde interroget Electum: Quis vocaris? 
+41\. Mox bombacio, vel re simili tergit pollicem, et loca inuncta, et subjungit, dicens: **Exi immunde spiritus, et da honorem Deo vivo et vero. Fuge immunde spiritus, et da locum Jesu Christo Filio ejus. Recede immunde spiritus, et da locum Spiritui sancto Paraclito.** 
 
-Et ipse respondet: N. 
+42\. Sacerdos interrogat: **Quis Vocaris?**
 
+Respondet: **N.**
 
+43\. Interrogat: **N. Credis in Deum Patrem omnipotentem, creatorem caeli et terrae?** 
 
-Interroget: N. Abrenuntias satanae? 
+R: **Credo.** 
 
-R: Abrenuntio. 
+Interrogat: **Credis in Jesum Christum, Filium ejus unicum, Dominum nostrum, natum, et passum?** 
 
-Interroget: Et omnibus operibus ejus? 
+R: **Credo.** 
 
-R: Abrenuntio. 
+Interrogat: **Credis et in Spiritum sanctum, sanctam Ecclasiam catholicam, Sanctorum communionem, remissionem peccatorum, carnis resurrectionem, et vitam aeternam?** 
 
-Interroget: Et omnibus pompis ejus? 
+R: **Credo.** 
 
-R: Abrenuntio. 
+Iterum interrogat, dicens: **N. Quid petis?** 
 
-40. Tunc Sacerdos intingit pollicem dexterae manus in Oleo sancto Catechumenorum, et inungit Electum primum in pectore, deinde inter scapulas, in modum crucis, dicenS: Ego te linio oleo salutis in Christo Jesu Domino nostro in vitam aeternam. 
+Respondet: **Baptismum.** 
 
+Interrogat: **Vis baptizari?** 
 
+Respondet: **Volo.** 
 
-R: Amen. 
+44\. Tunc Patrino, vel Matrina, vel utroque (si ambo admittantur), admota manu, tenente seu tangente Electum, vel Electam, aperto capite, et laxatis a collo voslibus, inclinatum, Sacerdos vasculo vel urceolo hauriat Aquaro baptismalem de Fonte, et cum ea sub trina supracaput in modum crucis infusione baptizet Electum, seo Electam, in nomine Ss. Trinitatis, sic dicens: **. Ego te baptizo in n6mine Patris**, fundat primo; **et Filii**, fundat secundo; **et Spiritus sancti**, fundat tertio. 
 
-Sacerdos: Pax tibi. 
+45\. Si Aqua, quae ex capite baptizati defluit, non dilabitur in sacrarium Raptisterii, recipiatur in subjecta aliqua pelvi, et in illud postmodum projiciatur. Cum plures sunt Electi, singillatim singuli interrogantur, et baptizantur, ut supra. Si sunt mares et femina, primum mares, deinde feminae. 
 
-R: Et cum spiritu tuo. 
+Verum si probabiliter dubitetur, an Electus fuerit alias baptizatus, dicnt Sacerdos: **Si non es baptizatus, ego te baptizo in n6mine Patris, et Filii, et Spiritus sancti.** 
 
-41. Mox bombacio, vel re simili tergit pollicem, et loca inuncta, et subjungit, dicenS: Exi immunde spiritus, et da honorem Deo vivo et vero. Fuge immunde spiritus, et da locum Jesu Christo Filio ejus. Recede immunde spiritus, et da locum Spiritui sancto Paraclito. 
+46\. Deinde Sacerdos intingat pollicem dexterum in sacrum Chrisma, et perungat verticem Electi in modum crucis, dicens: **Deus omnipotens, Pater Domini nostri Jesu Christi, qui te regeneravit ex aqua et Spiritu sancto, quique dedit tibi remissionem omnium peccatorum, ipse te liniat Chrismate salutis in eodem Christo Jesu Domino nostro in vitam aeternam.** 
 
+R: **Amen.** 
 
+Sacerdos: **Pax tecum.** 
 
+R: **Et cum spiritu tuo.** 
 
+47\. Tunc bombacio vel le simili pollicem tergit, et imponit capiti Electi chrismale, seu candidum linteolum, et dat illi vestem candidam, dicens: **Accipe vestem candidam et immaculatam, quam perferas ante tribunal Domini nostri Jesu Christi, ut habeas vitam aeternam.** 
 
+R: **Amen.** 
 
+48\. Et Electus deponit priores vestos, et induitur novis albi coloris, vel saltem exteriore candida, quam a Sacerdote accepit. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-42. …Sacerdos interrogat: Quis Vocaris?
-
-Respondet: N.
-
-
-43. Interrogat: N. Credis in Deum Patrem omnipotentem, creatorem caeli et terrae? 
-
-R: Credo. 
-
-Interrogat: Credis in Jesum Christum, Filium ejus unicum, Dominum nostrum, natum, et passum? 
-
-R: Credo. 
-
-Interrogat: Credis et in Spiritum sanctum, sanctam Ecclasiam catholicam, Sanctorum communionem, remissionem peccatorum, carnis resurrectionem, et vitam aeternam? 
-
-R: Credo. 
-
-Iterum interrogat, dicenS: N. Quid petis? 
-
-Respondet: Baptismum. 
-
-Interrogat: Vis baptizari? 
-
-Respondet: Volo. 
-
-44. Tunc Patrino, vel Matrina, vel utroque (si ambo admittantur), admota manu, tenente seu tangente Electum, vel Electam, aperto capite, et laxatis a collo voslibus, inclinatum, Sacerdos vasculo vel urceolo hauriat Aquaro baptismalem de Fonte, et cum ea sub trina supracaput in modum crucis infusione baptizet Electum, seo Electam, in nomine Ss. Trinitatis, sic dicenS: N. Ego te baptizo in n6mine Patris, fundat primo; et Filii, fundat secundo; et Spiritus sancti, fundat tertio. 
-
-
-
-45. Si Aqua, quae ex capite baptizati defluit, non dilabitur in sacrarium Raptisterii, recipiatur in subjecta aliqua pelvi, et in illud postmodum projiciatur. Cum plures sunt Electi, singillatim singuli interrogantur, et baptizantur, ut supra. Si sunt mares et femina, primum mares, deinde feminae. 
-
-
-
-Verum si probabiliter dubitetur, an Electus fuerit alias baptizatus, dicnt Sacerdos: Si non es baptizatus, ego te baptizo in n6mine Patris, et Filii, et Spiritus sancti. 
-
-46. Deinde Sacerdos intingat pollicem dexterum in sacrum Chrisma, et perungat verticem Electi in modum crucis, dicenS: Deus omnipotens, Pater Domini nostri Jesu Christi, qui te regeneravit ex aqua et Spiritu sancto, quique dedit tibi remissionem omnium peccatorum, ipse te liniat Chrismate salutis in eodem Christo Jesu Domino nostro in vitam aeternam. 
-
-R: Amen. 
-
-Sacerdos: Pax tecum. 
-
-R: Et cum spiritu tuo. 
-
-47. Tunc bombacio vel le simili pollicem tergit, et imponit capiti Electi chrismale, seu candidum linteolum, et dat illi vestem candidam, dicenS: Accipe vestem candidam et immaculatam, quam perferas ante tribunal Domini nostri Jesu Christi, ut habeas vitam aeternam. 
-
-R: Amen. 
-
-48. Et Electus deponit priores vestos, et induitur novis albi coloris, vel saltem exteriore candida, quam a Sacerdote accepit. 
-
-Postea dat ei Sacerdos cereum, seu candelam accensam in manu dextera, dicenS: Accipe lampadem ardentem, et irreprehensibilis custodi Baptismum tuum: serva Dei mandata, ut cum D6minus venerit ad nuptias, possis occurrere ei in aula caelesti in vitam aeternam. 
+Postea dat ei Sacerdos cereum, seu candelam accensam in manu dextera, dicenS: Accipe lampadem ardentem, et irreprehensibilis custodi Baptismum tuum: serva Dei mandata, ut cum Dominus venerit ad nuptias, possis occurrere ei in aula caelesti in vitam aeternam. 
 R: Amen. 
 
 # Rite of Baptism for Adults
