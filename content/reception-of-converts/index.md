@@ -5,7 +5,7 @@ toggle = false
 
 +++
 
-_Artwork:Carpaccio, Vittore. "The Baptism of the Selenites." 1507._
+_Artwork: Carpaccio, Vittore. "The Baptism of the Selenites." 1507._
 
 # About
 
