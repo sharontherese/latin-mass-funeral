@@ -5,6 +5,8 @@ toggle = false
 
 +++
 
+_Artwork: Saavedra, Antonio del Castillo y. "Baptism of St. Francis of Assisi." 1660s._
+
 # About
 
 Old prayer books contain many beautiful prayers for holy water, the newly baptized, for conversions, and for parents. Below is a small sample of freely available old Catholic prayer books. 
