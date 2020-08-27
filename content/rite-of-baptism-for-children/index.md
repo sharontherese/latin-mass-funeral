@@ -6,7 +6,7 @@ toggle = false
 
 +++
 
-_Artwork: Coter, Colijn de. "Baptism of St Libertus." 1490s. https://www.wga.hu/art/c/coter/baptism.jpg._
+_Artwork: Coter, Colijn de. "Baptism of St Libertus." 1490s._ 
 
 # About 
 
