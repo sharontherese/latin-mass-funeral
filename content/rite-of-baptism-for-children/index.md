@@ -328,10 +328,12 @@ All: **Amen.**
 
 [^6]: "The Seven Sacraments and Their Liturgies, Part 2: Baptism," Holy Mass and More, August 5, 2018, https://www.holymassandmore.org/2018/08/the-seven-sacraments-and-their_5.html.
 
-[^7]: Heuser, Herman J. "Baptism." In The Parish Priest on Duty : A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission, 14-53: New York : Benziger Brothers, 1904. http://archive.org/details/theparishpriesto00heusuoft
+[^7]: "Baptismale." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/files/baptismale.pdf; also "Ordo Baptismi Parvulorum." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/baptism.php.
 
 [^8]: Catholic Church, and Plenary Council of Baltimore. "The Sacrament of Baptism." In A Manual of Prayers for the Use of the Catholic Laity: Prepared and Published by Order of the Third Plenary Council of Baltimore, 391-411. New York: Catholic Publication Society, 1888. http://archive.org/details/AManualOfPrayers1888.
 
-[^9]: "Baptismale." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/files/baptismale.pdf; also "Ordo Baptismi Parvulorum." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/baptism.php.
+[^9]: Heuser, Herman J. "Baptism." In The Parish Priest on Duty : A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission, 14-53: New York : Benziger Brothers, 1904. http://archive.org/details/theparishpriesto00heusuoft
+
+
 
 
