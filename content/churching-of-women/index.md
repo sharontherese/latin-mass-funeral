@@ -65,9 +65,9 @@ Psalmus 23
 
 Et repetitur Antiphona: **Haec accipiet benedictionem a Domino, et misericordiam a Deo salutdri suo: quia haec est generatio quaerentium Dominum.** 
 
-2. Deinde porrigens ad manum mulieris exlremam partem stolae, eam introducit in Ecclesiam, dicens: **Ingredere in templum Dei, ad6ra Filium beatae Mariae Virginis, qui tibi foecunditatem tribuit prolis.** 
+2\. Deinde porrigens ad manum mulieris exlremam partem stolae, eam introducit in Ecclesiam, dicens: **Ingredere in templum Dei, ad6ra Filium beatae Mariae Virginis, qui tibi foecunditatem tribuit prolis.** 
 
-3. El ipsa ingressa genuflectit coram Altari, et orat, gratias agens Deo de beneficiis sibi collatis; et Sacerdos dicit: 
+3\. El ipsa ingressa genuflectit coram Altari, et orat, gratias agens Deo de beneficiis sibi collatis; et Sacerdos dicit: 
 
 **Kyrie eleison. Christe eleison. Kyrie eleison. Pater noster. secreto.** 
 
@@ -99,13 +99,13 @@ R: **Et cum spiritu tuo.**
 
 R: **Amen.** 
 
-4. Deinde illam aspergit iterum aqua beenedicta in modum crucis, dicens: **Pax et benedictio Dei omnipotentis, Patris, et Filii, et Spiritus sancti, descendat super te, et maneat semper.** 
+4\. Deinde illam aspergit iterum aqua beenedicta in modum crucis, dicens: **Pax et benedictio Dei omnipotentis, Patris, et Filii, et Spiritus sancti, descendat super te, et maneat semper.** 
 
 R: **Amen.** 
 
 # Blessing of a Mother after Childbirth (Churching of Women)
 
-1. After giving birth to a child a mother may wish to give thanks to God in church for a safe delivery, and to obtain the Church's blessing. This has long been a devout and praiseworthy practice. The priest, vested in surplice and white stole (assisted by a server who carries the aspersory), goes to the threshold of the church. The woman kneels there, holding a lighted candle. 
+1\. After giving birth to a child a mother may wish to give thanks to God in church for a safe delivery, and to obtain the Church's blessing. This has long been a devout and praiseworthy practice. The priest, vested in surplice and white stole (assisted by a server who carries the aspersory), goes to the threshold of the church. The woman kneels there, holding a lighted candle. 
 
 The priest sprinkles her with holy water, saying: **Our help is in the name of the Lord.**
 
@@ -143,9 +143,9 @@ All: **As it was in the beginning.**
 
 After Psalm 23 the above antiphon is repeated: **This woman shall receive a blessing from the Lord and mercy from God, her Savior; for she is one of the people who seek the Lord.** 
 
-2. Then the priest places the end of the stole hanging from his left shoulder in the hand of the woman and leads her into the church, saying: **Come into God's house. Adore the Son of the blessed Virgin Mary, and thank God who has given you the grace of motherhood.** 
+2\. Then the priest places the end of the stole hanging from his left shoulder in the hand of the woman and leads her into the church, saying: **Come into God's house. Adore the Son of the blessed Virgin Mary, and thank God who has given you the grace of motherhood.** 
 
-3. The woman kneels before the altar, giving thanks to God for the benefits He has bestowed on her. The priest continues: 
+3\. The woman kneels before the altar, giving thanks to God for the benefits He has bestowed on her. The priest continues: 
 
 **Lord, have mercy. Christ, have mercy. Lord, have mercy. Our Father** (the rest inaudibly until:) 
 
@@ -177,11 +177,11 @@ Let us pray. **Almighty everlasting God, who by means of the blessed Virgin Mary
 
 All: **Amen.** 
 
-4. The priest again sprinkles her with holy water, saying: **May the peace and blessing of almighty God, Father, Son, and Holy Spirit, come upon you and remain with you forever.** 
+4\. The priest again sprinkles her with holy water, saying: **May the peace and blessing of almighty God, Father, Son, and Holy Spirit, come upon you and remain with you forever.** 
 
 All: **Amen.** 
 
-5. The blessing of a woman after childbirth ought to be given by the pastor, if he is requested to do so. But any priest may impart it in any church or public oratory, in which case he should notify the superior.
+5\. The blessing of a woman after childbirth ought to be given by the pastor, if he is requested to do so. But any priest may impart it in any church or public oratory, in which case he should notify the superior.
 
 # Sources
 
