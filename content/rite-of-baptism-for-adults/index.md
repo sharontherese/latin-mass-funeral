@@ -6,7 +6,7 @@ toggle = false
 
 +++
 
-_Master of Saint Gilles. "The Baptism of Clovis." 1500. https://www.wga.hu/art/m/master/stgilles/clovis.jpg._
+_Master of Saint Gilles. "The Baptism of Clovis." 1500._
 
 # About
 
