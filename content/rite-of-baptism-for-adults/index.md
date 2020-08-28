@@ -18,6 +18,7 @@ The English text below is from Philip T. Weller's translation of the _Rituale Ro
 
 Other versions (some English only, some Latin only, some with both side-by-side) are available here: 
 
+* {{% staticref "files/Ordo_Baptismi_Adultorum_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
 * Angelus Press (booklet for purchase)[^3]
 * Holy Mass and More (website)[^4]
 * Laudate Dominum (website)[^5]
@@ -71,11 +72,11 @@ Ant. **Effundam super vos aquam mundam, et mundabimini ab omnibus inquinamentis 
 
 **Vox Domini in virtute: * vox Domini in magnificentia.** 
 
-**Vox Domini confringentis cedroS: * et confringet Dominus cedros Libani.**
+**Vox Domini confringentis cedros: * et confringet Dominus cedros Libani.**
 
 **Et comminuet eas tamquam vitulum Libani: * et dilectus quemadmodum filius unicornium.**
 
-**Vox Domini intercidentis flammam igniS: * vox Domini concutientis desertum: et commovebit Dominus desertum Cades.**
+**Vox Domini intercidentis flammam ignis: * vox Domini concutientis desertum: et commovebit Dominus desertum Cades.**
 
 **Vox Domini praeparantis cervos, et revelabit condensa: * et in templo ejus omnes dicent gloriam.** 
 
