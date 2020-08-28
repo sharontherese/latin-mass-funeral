@@ -19,6 +19,7 @@ The Profession of Faith is in the vernacular in both Weller's translation, and t
 
 Other versions are available here: 
 
+* {{% staticref "files/Professionem_Fidei_Catholicae_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
 * TraditionalCatholic.net (website)[^4]
 * The Parish Priest on Duty (book)[^5]
 
