@@ -2,7 +2,7 @@
 title: Rubrics
 summary: Resources on rubrics for the Rite of Baptism
 tags:
-- for priests
+- priests
 date: ""
 
 # Optional external URL for project (replaces project detail page).
