@@ -18,6 +18,7 @@ The English text below is from Philip T. Weller's translation of the _Rituale Ro
 
 Other versions (some English only, some Latin only, some with both side-by-side) are available here: 
 
+* {{% staticref "files/Ordo_Baptismi_Parvulorum_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
 * Angelus Press (booklet for purchase)[^3]
 * Corpus Christi Watershed (program)[^4]
 * Fish Eaters (website)[^5]
