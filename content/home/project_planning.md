@@ -22,6 +22,10 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
+     name = "For all"
+     tag = "all"
+     
+   [[content.filter_button]]
      name = "For priests"
      tag = "priests"
   
