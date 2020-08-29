@@ -19,105 +19,113 @@ For more commentaries, visit St. Thomas Aquinas' Catena Aurea [^2], Sermonry [^3
 
 # Psalm 8
 
-<html>
-<div class="wrap-collabsible">
-<input id="collapsible1" class="toggle" type="checkbox">
-<label for="collapsible1" class="lbl-toggle">Text of Psalm 8</label>
-<div class="collapsible-content">
-<div class="content-inner">
-<p>
-Domine Dominus noster, quam admirabile est nomen tuum in universa terra! Quoniam elevata est magnificentia tua, super caelos. Ex ore infantium et lactentium perfecisti laudem propter inimicos tuos, ut destruas inimicum et ultorem. Quoniam videbo caelos tuos, opera digitorum tuorum: lunam et stellas, quae tu fundasti. Quid est homo, quod memor es ejus? aut filius hominis, quoniam visitas eum? Minuisti eum paulo minus ab Angelis, gloria et honore coronasti eum: et constituisti eum super opera manuum tuarum. Omnia subjecisti sub pedibus ejus, oves et boves universas: insuper et pecora campi. Volucres caeli, et pisces maris, qui perambulant semitas maris. Domine Dominus noster, quam admirabile est nomen tuum in universa terra!
-</p>
-</div>
-</div>
-</div>
+## Full text of the Psalm
 
-<style>  
-.wrap-collabsible {
-margin-bottom: 1.2rem 0;
-}
+2: Domine Dominus noster, quam admirabile est nomen tuum in universa terra! Quoniam elevata est magnificentia tua, super caelos. 
 
-input[type='checkbox'] {
-display: none;
-}
+3: Ex ore infantium et lactentium perfecisti laudem propter inimicos tuos, ut destruas inimicum et ultorem. 
 
-.lbl-toggle {
-display: block;
+4: Quoniam videbo caelos tuos, opera digitorum tuorum: lunam et stellas, quae tu fundasti. 
 
-font-weight: bold;
-font-family: montserrat;
-font-size: 0.5rem;
-text-transform: uppercase;
-text-align: left;
+5: Quid est homo, quod memor es ejus? aut filius hominis, quoniam visitas eum? 
 
-padding: 0.5rem;
+6: Minuisti eum paulo minus ab Angelis, gloria et honore coronasti eum: 
 
-color: #FFFFFF;
-background: #4A235A;
+7: et constituisti eum super opera manuum tuarum. 
 
-cursor: pointer;
+8: Omnia subjecisti sub pedibus ejus, oves et boves universas: insuper et pecora campi. 
 
-border-radius: 5px;
-transition: all 0.25s ease-out;
-}
+9: Volucres caeli, et pisces maris, qui perambulant semitas maris. 
 
-.lbl-toggle:hover {
-color: #000000;
-}
+10: Domine Dominus noster, quam admirabile est nomen tuum in universa terra!
 
-.lbl-toggle::before {
-content: ' ';
-display: inline-block;
+## Haydock Commentary
 
-border-top: 5px solid transparent;
-border-bottom: 5px solid transparent;
-border-left: 5px solid currentColor;
-vertical-align: middle;
-margin-right: .7rem;
-transform: translateY(-2px);
+Ver. 2. O Lord, (Jehova) our Lord, (Adonenu)  S. Jer.  Dominator noster, "our Ruler."  H. --- God is Lord of all by creation, and still more of those who believe.  W. --- Adonai is pronounced by the Jews, and sometimes applied to men. But they have lost the pronunciation of the first term, which some read Jehovah, (C.) or Jaho, (S. Jer.) Jave, &c.  H. --- Admirable.  It expresses all that He is.  (Ex. iii. 14.  Bert.)  Essence itself.  H. --- Earth.  This was verified after the incarnation; (S. Chrys.) for before, the Gentiles knew it not, and the Jews caused it to be blasphemed.  Bert. --- Now all confess the glory of Jesus Christ, the master-piece of God.  C. --- Heavens; which are nothing in comparison, (M.) for he hath created them.  W.  Hab. iii. 3.
 
-transition: transform .2s ease-out;
-}
+Ver. 3.  Praise.  But why does the prophet take notice of this proof of Christ's being the Messias, while he passes over his curing the sick? &c.  S. Chrysostom answers, because the other miracles had been performed in the old law, but God had never before opened the mouths of infants to proclaim "praise the Lord," as they did when they bore witness to Christ entering the temple.  Other commentators greatly weaken this proof.  Bert. --- We read that after the passage of the Red Sea, wisdom opened the mouth of the dumb, and made the tongues of infants eloquent; (Wisd. x. 21.) which may be a figurative expression.  The prophets and apostles, whom the world looked upon as fools, were chosen to declare the highest mysteries.  All nature so clearly proves the existence of Providence, that, if other things were silent, infants would open their mouths to confound the incredulous.  The condition of man from his infancy is, in effect, one of the plainest proofs of the divine wisdom.  His imitative powers, the ease with which he takes his mother's milk, &c. are something surprising.  Hippocrates even, concludes hence, that the child must have sucked, even in the womb, as the art is soon lost, and not easily recovered.  God seems to be particularly pleased with the praises of children.  Mic. ii. 9.  Joel ii. 16.  S. Aug. admires how the Scriptures have been proportioned to the capacity of infants.  Heb. "Thou hast founded strength."  Aquila.  C. --- But S. Jerom retains praise, as our Saviour himself quotes it.  Matt. xxi. 16.  H. --- Avenger.  The old Vulg. read defensorem (H.) in the same sense.  S. Chrys. explains it of the Jews; and other Fathers understand heretics and the devil.  S. Aug. &c.  C. --- Arnobius (con. Gent. i.) seems to think that all have an innate idea of Providence, ingenitum.  The poor and simple confessed Christ, whom the proud doctors of the law, and Pharisees, rejected, despising his followers as children or fools.  H.
 
-.toggle:checked + .lbl-toggle::before {
-transform: rotate(90deg) translateX(-3px);
-}
+Ver. 4.  Fingers, as if they had been formed in play, while the Incarnation is the work of God's right hand.  Euseb.  C. --- Heavens, moon, and stars, denote the Church.  No mention is made of the sun, because it is the emblem of Christ, who was the Creator.  Bert.  Apoc. xii. 1. --- This text proves that the world was not formed by angels, as some ancient heretics asserted.  David, perhaps, wrote this at night; and the sun and stars are not seen together.  M.
 
-.collapsible-content {
-max-height: 0px;
-overflow: hidden;
-transition: max-height .25s ease-in-out;
-}
+Ver. 5.  Him.  The prophet considers the nature of man at such a distance from the divinity.  Being, nevertheless, united with it in Jesus Christ, it is raised far above the angels.  Heb. ii. 6.  Bert. --- When we reflect on the meanness of our nature, on the one hand, and on what God has done for it on the other, we are lost in astonishment.  The pagans were aware of the corporal infirmities of man, (Seneca Consol. xi.) but not of his spiritual disorders.  Heb. has here, the son of Adam, or one of the lowest class; and not of ish, which means a person of nobility, vir.  Ps. iv. 4.  C. --- Yet Christ applies to himself the former appellation, to shew us a pattern of humility.  H. --- S. Aug. inquires, what difference there is between man or the son.  The Heb. v means, likewise, and; yet or would have been better.  Ex. xxi. 16. --- "Whether he have sold him, or he be in his hand."   Amama.
 
-.toggle:checked + .lbl-toggle + .collapsible-content {
-max-height: 350px;
-}
+Ver. 6.  Angels.  Elohim means also "God," as S. Jerom, &c. explain it.  Thou hast placed man like a deity upon earth.  But S. Paul adopts the sense of the Sept.  C. --- S. Jerom doubted whether the epistle to the Hebrews belonged to him or he would have done the same.  Some of the Fathers suppose, (Bert.) that the prophet speaks of man before the fall.  Theodoret. --- Yet he has Christ principally in view.  C. --- A little less may be better rendered, ""for a little while:" bracu ti.  Acts v. 34.  Is. x. 25. modico.  Heb. ii.  Notwithstanding the prerogatives of Adam, before the fall, what is said by the prophet and S. Paul can be true of none but Christ; who was subject to death only for a short space, and quickly rose from the tomb, Lord of all.  1 Cor. xv. 26.  If we do not see it yet, (Heb. ii. 8.  Ps. lxix. 2.) our faith must not waver.  He is crowned, and will one day assert his dominion.  Bert.  Matt. xxviii. 18.  Eph. i. 19.  C. --- In his assumed nature, Christ became less than the angels; but he has raised it above them, and is appointed Lord of angels, men, and creatures of every description.  The sea and the winds obey him.  Matt. viii. W.
 
-.toggle:checked + .lbl-toggle {
-border-bottom-right-radius: 0;
-border-bottom-left-radius: 0;
-}
+Ver. 8.  All sheep.  S. Paul did not judge it necessary to specify these things, as they are included in the word all.  Bert.  These tame cattle designate the believing Jews; beasts, the Gentile converts; birds, the proud; fishes, the voluptuous.  S. Athan. --- The birds may also be put for men of genius, who dive into the secrets of theology; and fishes, for anxious worldlings.  Hesyc. --- SS. Aug. and Jerom understand that people who labour not for their salvation, or who are attached to the earth, men who rise up against God, or never elevate their thoughts to heaven, are emblematically specified by these creatures.
 
-.collapsible-content .content-inner {
-background: rgba(250, 224, 66, .2);
-border-bottom: 1px solid rgba(250, 224, 66, .45);
-border-bottom-left-radius: 7px;
-border-bottom-right-radius: 7px;
-padding: .5rem 1rem;
-}
+Ver. 9.  Sea.  All things are subjected to man's dominion.  Gen. i. 26. and ix. 2.  C. --- "The Stoics are in the right, who say that the world was made for us.  For all its parts and productions are contrived for man's benefit."  Lact. ira. xiii.
 
-</style>
+Ver. 10.  Earth.  This repetition of the first verse insinuates, that as God was admirable in giving man the power to avoid sin and death; so he is wonderful in raising him again, in such a state the he can sin no more.  W.
 
-</html>
+# Psalm 28 
 
-<html>
-<div class="wrap-collabsible">
-<input id="collapsible2" class="toggle" type="checkbox">
-<label for="collapsible2" class="lbl-toggle">Haydock Commentary</label>
-<div class="collapsible-content">
-<div class="content-inner">
-<p>
-Ver. 1.  Understanding.  See Ps. xxxi.  M. --- Core, who composed, (T.) or sung (M.) most of the psalms in this second part.  T. --- Pieces of a joyful nature were generally assigned to them, according to the Jews and S. Jer.  Ps. lxxxiv.  M. --- They were descendants of the famous schismatic, the miraculous preservation of whose innocent children teaches us, that the good will not be punished with the guilty, and that we must be raised above this earth, lest hell devour us.  Num. xvi. 31. and xxvi. 10.  W. --- The sentiments of the captives, (C.) and of every sincere Christian, are here expressed.  S. Aug. --- David may have been the author, (C.) as it is generally believed.  Bert.
+## Full text of the Psalm
+ 
+2: Afferte Domino filii Dei: afferte Domino filios arietum: Alferte Domino gloriam et honorem, afferte Domino gloriam nomini ejus: adorate Dominum in atrio sancto ejus. 
+
+3: Vox Domini super aquas, Deus majestatis intonuit: Dominus super aquas multas. 
+
+4: Vox Domini in virtute: vox Domini in magnificentia. 
+
+5: Vox Domini confringentis cedros: et confringet Dominus cedros Libani. 
+
+6: Et comminuet eas tamquam vitulum Libani: et dilectus quemadmodum filius unicornium. 
+
+7: Vox Domini intercidentis flammam ignis: 
+
+8: vox Domini concutientis desertum: et commovebit Dominus desertum Cades. 
+
+9: Vox Domini praeparantis cervos, et revelabit condensa: et in templo ejus omnes dicent gloriam. 
+
+10: Dominus diluvium inhabitare facit: et sedebit Dominus Rex in aeternum. 
+
+11: Dominus virtutem populo suo dabit: Dominus benedicet populo suo in pace.
+
+## Haydock Commentary
+
+Ver. 2.  Honour.  Heb. "strength," which we must acknowledge.  H. --- The first design of sacrifice is to adore God in spirit.  W. --- Holy court.  Heb. "in the holy beauty."  1 Par. xvi. 29.  Even the priests were obliged to remain in the court, where they adored God, as sitting upon the Cherubim, in the most holy place (C.) in the Catholic Church.  W. --- External worship must be observed.  Bert.
+
+Ver. 3.  Voice.  Separating the waters from the earth at the beginning, as the six other voices may denote the other works of the creation; or all these voices may signify the various effects of thunder, or may allude to the terrors preceding the last judgment, (Apoc. x. 3.) or attending the establishment and liberation of the Jewish and Christian Churches.  The first voice was heard when Jesus was baptized, (Mat. iii. 17.) as the rest may intimate the instruction and efficacy of the other sacraments.  It is evident that something posterior to the reign of David is prefigured; (Bert.) and the Fathers have generally understood the psalm of the propagation of the gospel by the apostles, two of whom are styled sons of thunder.  Mark iii. 17.  C. --- The psalmist speaks of greater things than attended the translation of the ark.  He represents our Saviour preaching with great power and majesty, (Mat. vii. 29.) and subjecting the most powerful monarchs to his dominion.  W. --- Thunder is often styled the voice of God, and is occasioned by the collision of the clouds, (H.) which Moses calls the waters above.  S. Bas.  C.
+
+Ver. 4.  Power and magnificence.  The sacraments of confirmation and the blessed Eucharist, or the wonderful propagation of the Church, amid violent persecutions.  Bert.
+
+Ver. 5.  Libanus.  Which were the most famous.  H. --- Storms often tear up trees by the roots.  C. --- The effects of the gospel and of penance, may be described, or the terrors of the last day, when Jesus Christ will destroy the proud.  Bert.
+
+Ver. 6.  Shall reduce them to pieces, &c.  In Hebrew, shall make them to skip like a calf.  The psalmist here describes the effects of thunder, (which he calls the voice of the Lord) which sometimes breaks down the tallest and strongest trees; and makes their broken branches skip, &c.  All this is to be understood mystically, of the powerful voice of God's word in his Church; which has broke the pride of the great ones of this world, and brought many of them meekly and joyfully to submit their necks to the sweet yoke of Christ.  Ch. --- Calf, or "branch," as the Greek word also implies.  But Heb. seems more naturally to signify "a calf; Libanus and Sirion, (or  Sarion.  Deut. iii. 9.) as the son of the unicorn."  These two mountains are represented jolting together.  C. --- The violence of an earthquake has sometimes produced such effects.  Pliny ii. 83.  See Ps. cxiii. 4.  Judg. v. 5.  Hab. iii. 10.  C. --- And as.  The construction & dilectus, seems rather to make this only nominative, "the Lord shall, &c. and the beloved, (H.) the Messias, like the son of the unicorn," shall perform the like wonders.  It seems probable that the Sept. have read Jeshurun for Shirion, (Bert.) or vissron, instead of ussriun; as i would onlybe a little transposed.  H. --- Jeshurun is a title of Israel, (Deut. xxxii. 15. and xxxiii. 5. 26.) who was a figure of the Messias, the beloved of God.  Bert. --- "And he will scatter them as a calf would do; Libanus and Sarion, are in motion, like the son of the rhinoceros."  S. Jer.  H.  The most powerful submit to Christ, who works these wonders.  W.
+
+Ver. 7.  Fire.  Lightning, which deals destruction around.  C. --- The Holy Ghost appeared in the form of parted tongues of fire, to enable the apostles to convert the desert of the Gentile world, and the Jews, represented by the desert of Cades, (W.) which was near their country, (H.) on the frontiers of Idumea.  Num. xiii. 27.  C. --- Holy orders were instituted by Christ, to confer grace to the sacred ministers, according to their different stations or exigencies; (Bert.) or extreme unction, which prepares the sol for her separation from the body, may be here meant, if we follow the usual disposition of the sacraments; as the following sentence may allude to holy orders, which shakes or causes the desert to fructify, (H.) unless these words be rather applied to matrimony.  Bert. --- Shaketh and shakes.  S. Jer. has parturire faciens, making the desert bring forth."  Chal. "frightens the serpents."  All nature is alarmed at the sound of thunder.  H. --- The deserts then appear most terrible.  C.
+
+Ver. 9.  Prepareth.  Heb. "delivereth," as a midwife (S. Jer. 5 Edit. Aquila) "maketh the hinds to calve;" (Prot.  H.) or "to leap, (from éul; Bert.) or frighteneth."  Hinds are supposed to bring forth with great difficulty.  But the reverse seems to be the case.  S. Chrys. in Job xxxix. 3.  C. --- They are very swift, and trample serpents under their feet, nature having given them this power.  S. Jer.  Pliny vii. 32.  The text may be understood of the last sacrament, which prepares us for our passage; (Bert.) or of matrimony, by means of which the world is peopled with rational beings, whose duty it is to glorify God in his temple.  H. --- This is also the effect of grace, and of the preaching of the gospel, (Bert.) which inspires people with a desire of running on in the way of perfection.  Christ explains to them hidden mysteries in his Church, to which he bring multitudes, like the waters, ruling over them, and enabling them to overcome all temptations, till he crown his elect with eternal peace.  W. --- Glory.  Running thither through fear, or to thank God for rain after a drought.
+
+Ver. 10.  Dwell.  Chal. explains this of the deluge, which continued a long while upon the earth, to punish mankind.  Heb. may also signify, "the Lord sitteth upon the flood," or clouds, as the Lord of nature. --- Strength, or abundant rain, (Jos. xxxviii. 6.) with all other blessings; (C.) making his people as terrible to their enemies as the storm which has been described.  M.
+
+# Psalm 41
+
+## Full text of the Psalm
+
+2: Quemadmodum desiderat cervus ad fontes aquarum: ita desiderat anima mea ad te Deus.
+
+3: Sitivit anima mea ad Deum fortem, vivum: quando veniam, et apparebo ante faciem Dei?
+
+4: Fuerunt milii lacrymae meae panes die ac nocte: dum dicitur mihi quotidie: Ubi est Deus tuus?
+
+5: Haec recordatus sum, et effudi in me animam meam: quoniam transibo in locum tabernaculi admirabilis, usque ad domum Dei. In voce exsultationis, et confessionis: sonus epulantis.
+
+6: Quare tristis es anima mea? et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei, 
+
+7: et Deus meus. Ad meipsum anima mea conturbata est: propterea memor ero tui de terra Jordanis, et Hermoniim a monte modico. 
+
+8: Abyssus abyssum invocat, in voce cataractarum tuarum. Omnia excelsa tua, et fluctus tui super me transierunt.
+
+9: In die mandavit Dominus misericordiam suam: et nocte canticum ejus. Apud me oratio Deo vitae meae, 
+
+10: dicam Deo: Susceptor meus es. Quare oblitus es mei? et quare contristatus incedo, dum affligit me inimicus?
+
+11: Dum confringuntur ossa mea, exprobraverunt mihi, qui tribulant me, inimici mei. Dum dicunt mihi per singulos dies: Ubi est Deus tuus? quare tristis es anima mea? 
+
+12: Et quare conturbas me? Spera in Deo, quoniam adhuc confitebor illi: salutare vultus mei, et Deus meus.
+
+## Haydock Commentary
 
 Ver. 2.  Waters.  This was sung at the baptism of Catechumens, (S. Aug.) teaching them to thirst after heaven.  H. --- The hart being infected with poison, thirsts exceedingly, as sinners must do for pardon.  W.
 
@@ -137,1022 +145,7 @@ Ver. 9.  Night.  In affliction, as well as in prosperity, we must praise the Lor
 
 Ver. 11.  Whilst.  Prot. As, "with a sword in my bones, mine enemies reproach me."  H. --- Thus the martyrs were tortured and upbraided.  C.
 
-Ver. 12.  Countenance.  To whom I look up with confidence.  M. --- The just are comforted with the hope of God's sight.  W. 
-</p>
-</div>
-</div>
-</div>
-
-<style>  
-.wrap-collabsible {
-margin-bottom: 1.2rem 0;
-}
-
-input[type='checkbox'] {
-display: none;
-}
-
-.lbl-toggle {
-display: block;
-
-font-weight: bold;
-font-family: montserrat;
-font-size: 0.6rem;
-text-transform: uppercase;
-text-align: left;
-
-padding: 1rem;
-
-color: #FFFFE6;
-background: #FFFFE6;
-
-cursor: pointer;
-
-border-radius: 7px;
-transition: all 0.25s ease-out;
-}
-
-.lbl-toggle:hover {
-color: #000000;
-}
-
-.lbl-toggle::before {
-content: ' ';
-display: inline-block;
-
-border-top: 5px solid transparent;
-border-bottom: 5px solid transparent;
-border-left: 5px solid currentColor;
-vertical-align: middle;
-margin-right: .7rem;
-transform: translateY(-2px);
-
-transition: transform .2s ease-out;
-}
-
-.toggle:checked + .lbl-toggle::before {
-transform: rotate(90deg) translateX(-3px);
-}
-
-.collapsible-content {
-max-height: 0px;
-overflow: hidden;
-transition: max-height .25s ease-in-out;
-}
-
-.toggle:checked + .lbl-toggle + .collapsible-content {
-max-height: 700px;
-}
-
-.toggle:checked + .lbl-toggle {
-border-bottom-right-radius: 0;
-border-bottom-left-radius: 0;
-}
-
-.collapsible-content .content-inner {
-background: rgba(250, 224, 66, .2);
-border-bottom: 1px solid rgba(250, 224, 66, .45);
-border-bottom-left-radius: 7px;
-border-bottom-right-radius: 7px;
-padding: .5rem 1rem;
-}
-
-</style>
-
-<br>
-<br>
-
-</html>
-
-# Epistle
-
-<html>
-<div class="wrap-collabsible">
-<input id="collapsible3" class="toggle" type="checkbox">
-<label for="collapsible3" class="lbl-toggle">Text of the Epistle</label>
-<div class="collapsible-content">
-<div class="content-inner">
-<p>
-Ephesians 5:22-33
-
-Wives, be subject to your husbands, as to the Lord.  For the husband is the head of the wife as Christ is the head of the church, his body, and is himself its Savior. As the church is subject to Christ, so let wives also be subject in everything to their husbands. Husbands, love your wives, as Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word,  that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish.  Even so husbands should love their wives as their own bodies. He who loves his wife loves himself. For no man ever hates his own flesh, but nourishes and cherishes it, as Christ does the church, because we are members of his body. “For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh.” This mystery is a profound one, and I am saying that it refers to Christ and the church; however, let each one of you love his wife as himself, and let the wife see that she respects her husband.
-</p>
-</div>
-</div>
-</div>
-
-<style>  
-.wrap-collabsible {
-margin-bottom: 1.2rem 0;
-}
-
-input[type='checkbox'] {
-display: none;
-}
-
-.lbl-toggle {
-display: block;
-
-font-weight: bold;
-font-family: lato;
-font-size: 0.8rem;
-text-transform: uppercase;
-text-align: left;
-
-padding: 1rem;
-
-color: #FFFFFF;
-background: #3F51B5;
-
-cursor: pointer;
-
-border-radius: 7px;
-transition: all 0.25s ease-out;
-}
-
-.lbl-toggle:hover {
-color: #000000;
-}
-
-.lbl-toggle::before {
-content: ' ';
-display: inline-block;
-
-border-top: 5px solid transparent;
-border-bottom: 5px solid transparent;
-border-left: 5px solid currentColor;
-vertical-align: middle;
-margin-right: .7rem;
-transform: translateY(-2px);
-
-transition: transform .2s ease-out;
-}
-
-.toggle:checked + .lbl-toggle::before {
-transform: rotate(90deg) translateX(-3px);
-}
-
-.collapsible-content {
-max-height: 0px;
-overflow: hidden;
-transition: max-height .25s ease-in-out;
-}
-
-.toggle:checked + .lbl-toggle + .collapsible-content {
-max-height: 2500px;
-}
-
-.toggle:checked + .lbl-toggle {
-border-bottom-right-radius: 0;
-border-bottom-left-radius: 0;
-}
-
-.collapsible-content .content-inner {
-background: rgba(250, 224, 66, .2);
-border-bottom: 1px solid rgba(250, 224, 66, .45);
-border-bottom-left-radius: 7px;
-border-bottom-right-radius: 7px;
-padding: .5rem 1rem;
-}
-
-</style>
-
-</html>
-
-<html>
-<div class="wrap-collabsible">
-<input id="collapsible4" class="toggle" type="checkbox">
-<label for="collapsible4" class="lbl-toggle">Haydock Commentary</label>
-<div class="collapsible-content">
-<div class="content-inner">
-<p>
-Ver. 23. For the husband is the head of the wife. Though S. Paul here speaks of a man, who is a husband, we may rather translate man than husband, being the same sentence and same words as 1 Cor. xi. 3. where even the Prot. translation has, that the man is head of the woman. — He (Christ) is the saviour of his mystical body, the Church: though some expound it, that the husband is to save and take care of his wife, who is as it were his body. Wi. 
-  
-Ver. 24. As the church is subject to Christ. The Church then, according to S. Paul, is ever obedient to Christ: and can never fall from him, but remain faithful to him, unspotted and unchanged to the end of the world. Ch. 
-
-Ver. 26. Cleansing it by the laver\[3\] of water, in the word of life. By this washing is generally understood the sacrament of baptism; and by the word of life, not the word of the gospel preached, but the words or form used in the administration of baptism, according to Christ’s institution: but this is not so certain. Wi. 
-  
-Read commentaries for verses 27-32 in the links below!
-</p>
-</div>
-</div>
-</div>
-
-<style>  
-.wrap-collabsible {
-margin-bottom: 1.2rem 0;
-}
-
-input[type='checkbox'] {
-display: none;
-}
-
-.lbl-toggle {
-display: block;
-
-font-weight: bold;
-font-family: lato;
-font-size: 0.6rem;
-text-transform: uppercase;
-text-align: left;
-
-padding: 1rem;
-
-color: #FFFFFF;
-background: #3F51B5;
-
-cursor: pointer;
-
-border-radius: 7px;
-transition: all 0.25s ease-out;
-}
-
-.lbl-toggle:hover {
-color: #000000;
-}
-
-.lbl-toggle::before {
-content: ' ';
-display: inline-block;
-
-border-top: 5px solid transparent;
-border-bottom: 5px solid transparent;
-border-left: 5px solid currentColor;
-vertical-align: middle;
-margin-right: .7rem;
-transform: translateY(-2px);
-
-transition: transform .2s ease-out;
-}
-
-.toggle:checked + .lbl-toggle::before {
-transform: rotate(90deg) translateX(-3px);
-}
-
-.collapsible-content {
-max-height: 0px;
-overflow: hidden;
-transition: max-height .25s ease-in-out;
-}
-
-.toggle:checked + .lbl-toggle + .collapsible-content {
-max-height: 3500px;
-}
-
-.toggle:checked + .lbl-toggle {
-border-bottom-right-radius: 0;
-border-bottom-left-radius: 0;
-}
-
-.collapsible-content .content-inner {
-background: rgba(250, 224, 66, .2);
-border-bottom: 1px solid rgba(250, 224, 66, .45);
-border-bottom-left-radius: 7px;
-border-bottom-right-radius: 7px;
-padding: .5rem 1rem;
-}
-
-</style>
-
-</html>
-
-<br>
-<br>
-
-# Gradual
-
-<html>
-<div class="wrap-collabsible">
-<input id="collapsible5" class="toggle" type="checkbox">
-<label for="collapsible5" class="lbl-toggle">Text of the Gradual</label>
-<div class="collapsible-content">
-<div class="content-inner">
-<p>
-Psalms 127:3
-
-Uxor tua sicut vitis abundans in lateribus domus tuae. V. Filii tui sicut novellae olivarum in circuitu mensae tuae. Alleluia, alleluia.
-
-Thy wife shall be as a fruitful vine on the sides of thy house. V. Thy children as olive plants round about thy table. Alleluia, alleluia.
-</p>
-</div>
-</div>
-</div>
-
-<style>  
-.wrap-collabsible {
-margin-bottom: 1.2rem 0;
-}
-
-input[type='checkbox'] {
-display: none;
-}
-
-.lbl-toggle {
-display: block;
-
-font-weight: bold;
-font-family: lato;
-font-size: 0.8rem;
-text-transform: uppercase;
-text-align: left;
-
-padding: 1rem;
-
-color: #FFFFFF;
-background: #3F51B5;
-
-cursor: pointer;
-
-border-radius: 7px;
-transition: all 0.25s ease-out;
-}
-
-.lbl-toggle:hover {
-color: #000000;
-}
-
-.lbl-toggle::before {
-content: ' ';
-display: inline-block;
-
-border-top: 5px solid transparent;
-border-bottom: 5px solid transparent;
-border-left: 5px solid currentColor;
-vertical-align: middle;
-margin-right: .7rem;
-transform: translateY(-2px);
-
-transition: transform .2s ease-out;
-}
-
-.toggle:checked + .lbl-toggle::before {
-transform: rotate(90deg) translateX(-3px);
-}
-
-.collapsible-content {
-max-height: 0px;
-overflow: hidden;
-transition: max-height .25s ease-in-out;
-}
-
-.toggle:checked + .lbl-toggle + .collapsible-content {
-max-height: 500px;
-}
-
-.toggle:checked + .lbl-toggle {
-border-bottom-right-radius: 0;
-border-bottom-left-radius: 0;
-}
-
-.collapsible-content .content-inner {
-background: rgba(250, 224, 66, .2);
-border-bottom: 1px solid rgba(250, 224, 66, .45);
-border-bottom-left-radius: 7px;
-border-bottom-right-radius: 7px;
-padding: .5rem 1rem;
-}
-
-</style>
-
-</html>
-
-<html>
-<div class="wrap-collabsible">
-<input id="collapsible6" class="toggle" type="checkbox">
-<label for="collapsible6" class="lbl-toggle">Haydock Commentary</label>
-<div class="collapsible-content">
-<div class="content-inner">
-<p>
-Ver. 3. Sides. Against which vines were planted. C. — The married people who fear God, shall commonly have a numerous posterity; or their souls shall produce many good works in the Church, which springs from our Saviour’s side. Children denote such good works. W. — Plants. Ps. cxliii. 12. Hom. Odys. vi. 163.
-</p>
-</div>
-</div>
-</div>
-
-<style>  
-.wrap-collabsible {
-margin-bottom: 1.2rem 0;
-}
-
-input[type='checkbox'] {
-display: none;
-}
-
-.lbl-toggle {
-display: block;
-
-font-weight: bold;
-font-family: lato;
-font-size: 0.8rem;
-text-transform: uppercase;
-text-align: left;
-
-padding: 1rem;
-
-color: #FFFFFF;
-background: #3F51B5;
-
-cursor: pointer;
-
-border-radius: 7px;
-transition: all 0.25s ease-out;
-}
-
-.lbl-toggle:hover {
-color: #000000;
-}
-
-.lbl-toggle::before {
-content: ' ';
-display: inline-block;
-
-border-top: 5px solid transparent;
-border-bottom: 5px solid transparent;
-border-left: 5px solid currentColor;
-vertical-align: middle;
-margin-right: .7rem;
-transform: translateY(-2px);
-
-transition: transform .2s ease-out;
-}
-
-.toggle:checked + .lbl-toggle::before {
-transform: rotate(90deg) translateX(-3px);
-}
-
-.collapsible-content {
-max-height: 0px;
-overflow: hidden;
-transition: max-height .25s ease-in-out;
-}
-
-.toggle:checked + .lbl-toggle + .collapsible-content {
-max-height: 500px;
-}
-
-.toggle:checked + .lbl-toggle {
-border-bottom-right-radius: 0;
-border-bottom-left-radius: 0;
-}
-
-.collapsible-content .content-inner {
-background: rgba(250, 224, 66, .2);
-border-bottom: 1px solid rgba(250, 224, 66, .45);
-border-bottom-left-radius: 7px;
-border-bottom-right-radius: 7px;
-padding: .5rem 1rem;
-}
-
-</style>
-
-</html>
-
-<br>
-<br>
-
-# Alleluia
-
-<html>
-<div class="wrap-collabsible">
-<input id="collapsible7" class="toggle" type="checkbox">
-<label for="collapsible7" class="lbl-toggle">Text of the Alleluia</label>
-<div class="collapsible-content">
-<div class="content-inner">
-<p>
-Psalms 19:3; 133:3
-
-Alleluia, alleluia. V. Mittat vobis Dominus auxilium de sancto: et de Sion tueatur vos. Alleluia. V. Benedicat vobis Dominus ex Sion: qui fecit coelum et terram. Alleluia.
-
-Alleluia, alleluia. V. (Ps. 19. 3) May the Lord send you help from the sanctuary, and defend you out of Sion. Alleluia. V. (Ps. 133. 3). May the Lord out of Sion bless you: who hath made heaven and earth. Alleluia.
-</p>
-</div>
-</div>
-</div>
-
-<style>  
-.wrap-collabsible {
-margin-bottom: 1.2rem 0;
-}
-
-input[type='checkbox'] {
-display: none;
-}
-
-.lbl-toggle {
-display: block;
-
-font-weight: bold;
-font-family: lato;
-font-size: 0.8rem;
-text-transform: uppercase;
-text-align: left;
-
-padding: 1rem;
-
-color: #FFFFFF;
-background: #3F51B5;
-
-cursor: pointer;
-
-border-radius: 7px;
-transition: all 0.25s ease-out;
-}
-
-.lbl-toggle:hover {
-color: #000000;
-}
-
-.lbl-toggle::before {
-content: ' ';
-display: inline-block;
-
-border-top: 5px solid transparent;
-border-bottom: 5px solid transparent;
-border-left: 5px solid currentColor;
-vertical-align: middle;
-margin-right: .7rem;
-transform: translateY(-2px);
-
-transition: transform .2s ease-out;
-}
-
-.toggle:checked + .lbl-toggle::before {
-transform: rotate(90deg) translateX(-3px);
-}
-
-.collapsible-content {
-max-height: 0px;
-overflow: hidden;
-transition: max-height .25s ease-in-out;
-}
-
-.toggle:checked + .lbl-toggle + .collapsible-content {
-max-height: 600px;
-}
-
-.toggle:checked + .lbl-toggle {
-border-bottom-right-radius: 0;
-border-bottom-left-radius: 0;
-}
-
-.collapsible-content .content-inner {
-background: rgba(250, 224, 66, .2);
-border-bottom: 1px solid rgba(250, 224, 66, .45);
-border-bottom-left-radius: 7px;
-border-bottom-right-radius: 7px;
-padding: .5rem 1rem;
-}
-
-</style>
-
-</html>
-
-<html>
-<div class="wrap-collabsible">
-<input id="collapsible8" class="toggle" type="checkbox">
-<label for="collapsible8" class="lbl-toggle">Haydock Commentary</label>
-<div class="collapsible-content">
-<div class="content-inner">
-<p>
-Ver. 3. Sion, where God was supposed to reside, in the tabernacle; though he was also in heaven, v. 7. C.
-Ver. 3. Thee. “A Levite on guard answers the cantor,” (Houbig.) or the priests say this to the people, when they were departing home. Num. vi. 23. C. — Earth. All things were made to praise God. W.
-</p>
-</div>
-</div>
-</div>
-
-<style>  
-.wrap-collabsible {
-margin-bottom: 1.2rem 0;
-}
-
-input[type='checkbox'] {
-display: none;
-}
-
-.lbl-toggle {
-display: block;
-
-font-weight: bold;
-font-family: lato;
-font-size: 0.8rem;
-text-transform: uppercase;
-text-align: left;
-
-padding: 1rem;
-
-color: #FFFFFF;
-background: #3F51B5;
-
-cursor: pointer;
-
-border-radius: 7px;
-transition: all 0.25s ease-out;
-}
-
-.lbl-toggle:hover {
-color: #000000;
-}
-
-.lbl-toggle::before {
-content: ' ';
-display: inline-block;
-
-border-top: 5px solid transparent;
-border-bottom: 5px solid transparent;
-border-left: 5px solid currentColor;
-vertical-align: middle;
-margin-right: .7rem;
-transform: translateY(-2px);
-
-transition: transform .2s ease-out;
-}
-
-.toggle:checked + .lbl-toggle::before {
-transform: rotate(90deg) translateX(-3px);
-}
-
-.collapsible-content {
-max-height: 0px;
-overflow: hidden;
-transition: max-height .25s ease-in-out;
-}
-
-.toggle:checked + .lbl-toggle + .collapsible-content {
-max-height: 500px;
-}
-
-.toggle:checked + .lbl-toggle {
-border-bottom-right-radius: 0;
-border-bottom-left-radius: 0;
-}
-
-.collapsible-content .content-inner {
-background: rgba(250, 224, 66, .2);
-border-bottom: 1px solid rgba(250, 224, 66, .45);
-border-bottom-left-radius: 7px;
-border-bottom-right-radius: 7px;
-padding: .5rem 1rem;
-}
-
-</style>
-
-</html>
-
-<br>
-<br>
-
-# Gospel
-
-<html>
-<div class="wrap-collabsible">
-<input id="collapsible9" class="toggle" type="checkbox">
-<label for="collapsible9" class="lbl-toggle">Text of the Gospel</label>
-<div class="collapsible-content">
-<div class="content-inner">
-<p>
-Matthew 19:3-6
-
-In illo tempore: Accesérunt ad Jesum pharisæi tentántes eum, et dicéntes: Si licet hómini dimíttere uxorem suam, quacúmque ex causa? Qui respóndens, ait eis: Non legístis, quia qui fecit hóminem ab inítio, másculum et féminam fecit eos? et dixit: Propter hoc dimíttet homo patrem et matrem, et adhærébit uxóri suæ, et erunt duo in carne una. Itaque jam non sunt duo, sed una caro. Quod ergo Deus conjúnxit, homo non séparet.
-
-At that time: The Pharisees came to Jesus, tempting Him and saying; It is lawful for a man to put away his wife for every cause? Who answering said to them, Have ye not read, that He who made man from the beginning, made them male and female? and He said, For this cause shall a man leave his father and mother, and shall cleave to his wife, and they two shall be in one flesh. Therefore, now they are not two but one flesh. What, therefore, God hath joined together, let no man put asunder.
-</p>
-</div>
-</div>
-</div>
-
-<style>  
-.wrap-collabsible {
-margin-bottom: 1.2rem 0;
-}
-
-input[type='checkbox'] {
-display: none;
-}
-
-.lbl-toggle {
-display: block;
-
-font-weight: bold;
-font-family: lato;
-font-size: 0.8rem;
-text-transform: uppercase;
-text-align: left;
-
-padding: 1rem;
-
-color: #FFFFFF;
-background: #3F51B5;
-
-cursor: pointer;
-
-border-radius: 7px;
-transition: all 0.25s ease-out;
-}
-
-.lbl-toggle:hover {
-color: #000000;
-}
-
-.lbl-toggle::before {
-content: ' ';
-display: inline-block;
-
-border-top: 5px solid transparent;
-border-bottom: 5px solid transparent;
-border-left: 5px solid currentColor;
-vertical-align: middle;
-margin-right: .7rem;
-transform: translateY(-2px);
-
-transition: transform .2s ease-out;
-}
-
-.toggle:checked + .lbl-toggle::before {
-transform: rotate(90deg) translateX(-3px);
-}
-
-.collapsible-content {
-max-height: 0px;
-overflow: hidden;
-transition: max-height .25s ease-in-out;
-}
-
-.toggle:checked + .lbl-toggle + .collapsible-content {
-max-height: 1000px;
-}
-
-.toggle:checked + .lbl-toggle {
-border-bottom-right-radius: 0;
-border-bottom-left-radius: 0;
-}
-
-.collapsible-content .content-inner {
-background: rgba(250, 224, 66, .2);
-border-bottom: 1px solid rgba(250, 224, 66, .45);
-border-bottom-left-radius: 7px;
-border-bottom-right-radius: 7px;
-padding: .5rem 1rem;
-}
-
-</style>
-
-</html>
-
-<html>
-<div class="wrap-collabsible">
-<input id="collapsible10" class="toggle" type="checkbox">
-<label for="collapsible10" class="lbl-toggle">Haydock Commentary</label>
-<div class="collapsible-content">
-<div class="content-inner">
-<p>
-Ver. 3. Is it lawful? Here again the Pharisees, ever anxious to ensnare Jesus in his words, come to him and ask him, is it lawful for a man to put away his wife for every cause? Thinking now they had to a certainty succeeded, they argue thus with themselves: shall he say that it is not lawful, we will accuse him of blasphemy, contradicting the Scriptures. For, it is written, Deut. iv. 1. If a man take a wife, and she find not favour in his eyes, for some uncleanness, he shall write a bill of divorce. And Malachy, ii. 16. When thou shalt hate her, put her away. — On the other hand, if he shall say it is lawful, we will accuse him of favouring the passions. But Jesus Christ, the wisdom of the eternal Father, silences them with the authority of that Scripture they attempted to bring against him. What God has joined together, let no man put asunder; intimating, that the connexion between husband and wife is so strict, that by it they become as one flesh, and can no more be separated than one member from another. Dion. Carth. — To put away his wife for every cause,\[1\] or upon every occasion. They did not doubt it, if the cause was considerable. Wi.
-
-Read the commentaries from verses 4-5 at the links below!
-</p>
-</div>
-</div>
-</div>
-
-<style>  
-.wrap-collabsible {
-margin-bottom: 1.2rem 0;
-}
-
-input[type='checkbox'] {
-display: none;
-}
-
-.lbl-toggle {
-display: block;
-
-font-weight: bold;
-font-family: lato;
-font-size: 0.8rem;
-text-transform: uppercase;
-text-align: left;
-
-padding: 1rem;
-
-color: #FFFFFF;
-background: #3F51B5;
-
-cursor: pointer;
-
-border-radius: 7px;
-transition: all 0.25s ease-out;
-}
-
-.lbl-toggle:hover {
-color: #000000;
-}
-
-.lbl-toggle::before {
-content: ' ';
-display: inline-block;
-
-border-top: 5px solid transparent;
-border-bottom: 5px solid transparent;
-border-left: 5px solid currentColor;
-vertical-align: middle;
-margin-right: .7rem;
-transform: translateY(-2px);
-
-transition: transform .2s ease-out;
-}
-
-.toggle:checked + .lbl-toggle::before {
-transform: rotate(90deg) translateX(-3px);
-}
-
-.collapsible-content {
-max-height: 0px;
-overflow: hidden;
-transition: max-height .25s ease-in-out;
-}
-
-.toggle:checked + .lbl-toggle + .collapsible-content {
-max-height: 1500px;
-}
-
-.toggle:checked + .lbl-toggle {
-border-bottom-right-radius: 0;
-border-bottom-left-radius: 0;
-}
-
-.collapsible-content .content-inner {
-background: rgba(250, 224, 66, .2);
-border-bottom: 1px solid rgba(250, 224, 66, .45);
-border-bottom-left-radius: 7px;
-border-bottom-right-radius: 7px;
-padding: .5rem 1rem;
-}
-
-</style>
-
-</html>
-
-<html>
-<div class="wrap-collabsible">
-<input id="collapsible11" class="toggle" type="checkbox">
-<label for="collapsible11" class="lbl-toggle">Catena Aurea Commentary</label>
-<div class="collapsible-content">
-<div class="content-inner">
-<p>
-CHRYSOSTOM. (Hom. lxii.) The Lord had before left Judæa because of their jealousy, but now He keeps Himself more to it, because His passion was near at hand. Yet does He not go up to Judæa itself, but into the borders of Judæa; whence it is said, And it came to pass when Jesus had ended all these sayings, he departed from Galilee.
-
-RABANUS. Here then He begins to relate what He did, taught, or suffered in Judæa. At first beyond Jordan eastward, afterwards on this side Jordan when He came to Jericho, Bethphage, and Jerusalem; whence it follows, And He came into the coasts of Judæa beyond Jordan.
-
-PSEUDO-CHRYSOSTOM.e. As the righteous Lord of all, who loves these servants so as not to despise those.
-
-RABANUS. It should be known, that the whole territory of the Israelites was called Judæa, to distinguish it from other nations. But its southern portion, inhabited by the tribes of Judah and Benjamin, was called Judæa proper, to distinguish it from other districts in the same province as Samaria, Galilee, Decapolis, and the rest. It follows, And great multitudes followed him.
-
-PSEUDO-CHRYSOSTOM. They were conducting Him forth, as the young children of a father going on a far journey. And He setting forth as a father, left them as pledges of His love the healing of their diseases, as it is said, And he healed them.
-
-CHRYSOSTOM. It should be also observed, that the Lord is not either ever delivering doctrine, or ever working miracles, but one while does this, and again turns to that; that by His miracles faith might be given to what He said, and by His teaching might be shewed the profit of those things which He wrought.
-
-ORIGEN. The Lord healed the multitudes beyond Jordan, where baptism was given. For all are truly healed from spiritual sickness in baptism; and many follow Christ as did these multitudes, but not rising up as Matthew, who arose and followed the Lord,
-
-HILARY. Also He cures the Galileans on the borders of Judæa, that He might admit the sins of the Gentiles to that pardon which was prepared for the Jews.
-
-CHRYSOSTOM. For indeed Christ so healed men, as to do good both to themselves, and through them to many other. For these men’s healing was to others the occasion of their knowledge of God; but not to the Pharisees, who were only hardened by the miracles; whence it follows; And the Pharisees came to him, tempting him,, and saying, Is it lawful for a man to put away his wife for every cause?
-
-JEROME. That they might have Him as it were between the horns of a syllogism, so that, whatever answer He should make, it would lie open to cavil. Should He allow a wife to be put away for any cause, and the marriage of another, he would seem to contradict Himself as a preacher of chastity. Should He answer that she may not be put away for any cause whatsoever, He will be judged to have spoken impiously, and to make against the teaching of Moses and of God.
-
-CHRYSOSTOM. Observe their wickedness even in the way of putting their question. The Lord had above disputed concerning thus law, but they now ask Him as though He had spoken nothing thereof, supposing He had forgot what He had before delivered in this matter.
-
-PSEUDO-CHRYSOSTOM. But, as when you see one much pursuing the acquaintance of physicians, you know that he is sick, so, when you see either man or woman enquiring concerning divorce, know that that man is lustful and that woman unchaste. For chastity has pleasure in wedlock, but desire is tormented as though under a slavish bondage therein. And knowing that they had no sufficient cause to allege for their putting away their wives, save their own lewdness, they feigned many divers causes. They feared to ask Him for what cause, lest they should be tied down within the limits of fixed and certain causes; and therefore they asked if it were lawful for every cause; for they knew that appetite knows no limits, and cannot hold itself within the bounds of one marriage, but the more it is indulged the more it is kindled.
-
-ORIGEN. Seeing the Lord thus tempted, let none of His disciples who is set to teach think it hard if he also be by some tempted. Howbeit, He replies to His tempters with the doctrines of piety.
-
-JEROME. But He so frames His answer as to evade their snare. He brings in the testimony of Holy Writ, and the law of nature, and opposing God’s first sentence to this second, He answered and said unto them, Have ye not read, that he which made them at the beginning made them male and female? This is written in the beginning of Genesis. This teaches that second marriages are to be avoided, for He said not male and females, which was what was sought by the putting away of the first, but, male and female, implying only one tie of wedlock.
-
-RABANUS. For by the wholesome design of God it was ordained that a man should have in the woman a part of his own body, and should not look upon as separate from himself that which he knew was formed out of himself.
-
-PSEUDO-CHRYSOSTOM. If then God created the male and female out of one, to this end that they should be one, why then henceforth were not they born man and wife at one birth, as it is with certain insects? Because God created male and female for the continuance of the species, yet is He ever a lover of chastity, and promoter of continence. Therefore did He not follow this pattern in all kinds, to the end that, if any man choose to marry, he may know what is, according to the first disposition of the creation, the condition of man and wife; but if he choose not to marry, he shall not be under necessity to marry by the circumstances of his birth, lest he should by his continence be the destruction of the other who was not willing to be continent; for which same cause God forbids that after being joined in wedlock one should separate if the other be unwilling.
-
-CHRYSOSTOM. But not by the law of creation only, but also by the practice of the law, He shews that they ought to be joined one and one, and never put asunder, And he said, For this cause shall a man leave his father and his mother, and shall cleave to his wife.
-
-JEROME. In like manner He says his wife, and not wives, and adds expressly, and they twain shall be one flesh. For it is the reward of marriage that one flesh, namely in the offspring, is made of two.
-
-GLOSS. (interlin.) Or, one flesh, that is in carnal connexion.
-
-PSEUDO-CHRYSOSTOM. If then because the wife is made of the man, and both one of one flesh, a man shall leave his father and his mother, then there should be yet greater affection between brothers and sisters, for these come of the same parents, but man and wife of different. But this is saying too much, because the ordinance of God is of more force than the law of nature. For God’s precepts are not subject to the law of nature, but nature bends to the precepts of God. Also brethren are born of one, that they should seek out different roads; but the man and the wife are born of different persons, that they should coalesce in one. The order of nature also follows the appointment of God. For as is the sap in trees, so is affection in man. The sap ascends from the roots into the leaves, and passes forth into the seed. Therefore parents love their children, but are not so loved of them, for the desire of a man is not towards his parents, but towards the sons whom he has begot; and this is what is said, Therefore shall a man leave his father and his mother, and shall cleave unto his wife.
-
-CHRYSOSTOM. See the wisdom of the Teacher. Being asked, Is it lawful, He said not straight, It is not lawful, lest they should be troubled, but establishes it through a proof. For God made them from the beginning male and female, and not merely joined them together, but bade them quit father and mother; and not bade the husband merely approach his wife, but be joined to her, shewing by this manner of speaking the inseparable bond. He even added a still closer union, saying, And they twain shall be one flesh.
-
-AUGUSTINE. (Gen. ad lit. ix. 19.) Whereas Scripture witnesses that these words were said by the first man, and the Lord here declares that God spake them, hence we should understand that by reason of the ecstasy which had passed upon Adam, he was enabled to speak this as a prophecy.
-
-REMIGIUS. The Apostle says that this is a mystery in Christ and the Church (Eph. 5:32.); for the Lord Jesus Christ left His Father when He came down from heaven to earth; and He left His mother, that is, the synagogue, because of its unbelief, and clave unto His wife, that is, the Holy Church, and they two are one flesh, that is, Christ and the Church are one body.
-
-CHRYSOSTOM. When He had brought forward the words and facts of the old law, He then interprets it with authority, and lays down a law, saying, Therefore they are no more twain, but one flesh. For as those who love one another spiritually are said to be one soul, And all they that believed had one heart and one soul, (Acts 4:32.) so husband and wife who love each other after the flesh, are said to be one flesh. And as it is a wretched thing to cut the flesh, so is it an unjust thing to put away a wife.
-
-AUGUSTINE. (Civ. Dei, xiv. 22.) For they are called one, either from their union, or from the derivation of the woman, who was taken out of the side of the man.
-
-CHRYSOSTOM. He brings in God yet again, saying, What God has joined, let no man put asunder, shewing that it is against both nature and God’s law to put away a wife; against nature, because one flesh is therein divided; against law, because God has joined and forbidden to sunder them.
-
-JEROME. God has joined by making man and woman one flesh; this then man may not put asunder, but God only. Man puts asunder, when from desire of a second wife the first is put away; God puts asunder, who also had joined, when by consent for the service of God we so have our wives as though we had them not. (1 Cor. 7:29.)
-
-AUGUSTINE. (Cont. Faust. xix. 29.) Behold now out of the books of Moses it is proved to the Jews that a wife may not be put away. For they thought that they were doing according to the purport of Moses’ law when they did put them away. This also we learn hence by the testimony of Christ Himself, that it was God who made it thus, and joined them male and female; which when the Manichæans deny, they are condemned, resisting the Gospel of Christ.
-
-PSEUDO-CHRYSOSTOM. This sentence of chastity seemed hard to these adulterers; but they could not make answer to the argument. Howbeit, they will not submit to the truth, but betake themselves for shelter to Moses, as men having a bad cause fly to some powerful personage, that where justice is not, his countenance may prevail; They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away?
-
-JEROME. Here they reveal the cavil which they had prepared; albeit the Lord had not given sentence of Himself, but had recalled to their minds ancient history, and the commands of God.
-
-CHRYSOSTOM. Had the Lord been opposed to the Old Testament, He would not thus have contended in Moses’ behalf, nor have gone about to shew that what was his was in agreement with the things of old. But the unspeakable wisdom of Christ made answer and excuse for these in this manner, He saith unto them, Moses for the hardness of your hearts suffered you to put away your wives. By this He clears Moses from their charge, and retorts it all upon their own head.
-
-AUGUSTINE. (ubi sup.) For how great was that hardness! When not even the intervention of a bill of divorce, which gave room for just and prudent men to endeavour to dissuade, could move them to renew the conjugal affection. And with what wit do the Manichæans blame Moses, as severing wedlock by a bill of divorce, and commend Christ as, on the contrary, confirming its force? Whereas according to their impious science they should have praised Moses for putting asunder what the devil had joined, and found fault with Christ who riveted the bonds of the devil.
-
-CHRYSOSTOM. At last, because what He had said was severe, He goes back to the old law, saying, From the beginning it was not so.
-
-JEROME. What He says is to this purpose. Is it possible that God should so contradict Himself, as to command one thing at first, and after defeat His own ordinance by a new statute? Think not so; but, whereas Moses saw that through desire of second wives who should be richer, younger, or fairer, that the first were put to death, or treated ill, he chose rather to suffer separation, than the continuance of hatred and assassination. Observe moreover that He said not God suffered you, but, Moses; shewing that it was, as the Apostle speaks, a counsel of man, not a command of God. (1 Cor. 7:12.)
-
-PSEUDO-CHRYSOSTOM. Therefore said He well, Moses suffered, not commanded. For what we command, that we ever wish; but when we suffer, we yield against our will, because we have not the power to put full restraint upon the evil wills of men. He therefore suffered you to do evil that you might not do worse; thus in suffering this he was not enforcing the righteousness of God, but taking away its sinfulness from a sin; that while you did it according to His law, your sin should not appear sin.
-</p>
-</div>
-</div>
-</div>
-
-<style>  
-.wrap-collabsible {
-margin-bottom: 1.2rem 0;
-}
-
-input[type='checkbox'] {
-display: none;
-}
-
-.lbl-toggle {
-display: block;
-
-font-weight: bold;
-font-family: lato;
-font-size: 0.8rem;
-text-transform: uppercase;
-text-align: left;
-
-padding: 1rem;
-
-color: #FFFFFF;
-background: #3F51B5;
-
-cursor: pointer;
-
-border-radius: 7px;
-transition: all 0.25s ease-out;
-}
-
-.lbl-toggle:hover {
-color: #000000;
-}
-
-.lbl-toggle::before {
-content: ' ';
-display: inline-block;
-
-border-top: 5px solid transparent;
-border-bottom: 5px solid transparent;
-border-left: 5px solid currentColor;
-vertical-align: middle;
-margin-right: .7rem;
-transform: translateY(-2px);
-
-transition: transform .2s ease-out;
-}
-
-.toggle:checked + .lbl-toggle::before {
-transform: rotate(90deg) translateX(-3px);
-}
-
-.collapsible-content {
-max-height: 0px;
-overflow: hidden;
-transition: max-height .25s ease-in-out;
-}
-
-.toggle:checked + .lbl-toggle + .collapsible-content {
-max-height: 9000px;
-}
-
-.toggle:checked + .lbl-toggle {
-border-bottom-right-radius: 0;
-border-bottom-left-radius: 0;
-}
-
-.collapsible-content .content-inner {
-background: rgba(250, 224, 66, .2);
-border-bottom: 1px solid rgba(250, 224, 66, .45);
-border-bottom-left-radius: 7px;
-border-bottom-right-radius: 7px;
-padding: .5rem 1rem;
-}
-
-</style>
-
-</html>
-
-<br>
-<br>
+Ver. 12.  Countenance.  To whom I look up with confidence.  M. --- The just are comforted with the hope of God's sight.  W.
 
 # Sources
 
