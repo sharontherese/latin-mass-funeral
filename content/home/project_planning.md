@@ -22,16 +22,17 @@ subtitle = ""
   filter_default = 0
   
 [[content.filter_button]]
+     name = "Blessings"
+     tag = "blessings"  
+  
+[[content.filter_button]]
      name = "For Priests"
      tag = "priests"
      
 [[content.filter_button]]
      name = "For all"
      tag = "all"
-     
-[[content.filter_button]]
-     name = "About this site"
-     tag = "about"      
+        
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
