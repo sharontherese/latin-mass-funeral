@@ -2,7 +2,7 @@
 title: About
 summary: About this website
 tags:
-- priests
+- start
 date: ""
 
 # Optional external URL for project (replaces project detail page).
