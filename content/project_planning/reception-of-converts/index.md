@@ -2,7 +2,7 @@
 title: Reception of Converts
 summary: The full profession of faith for the reception of converts
 tags:
-- 
+- all
 date: ""
 
 # Optional external URL for project (replaces project detail page).
