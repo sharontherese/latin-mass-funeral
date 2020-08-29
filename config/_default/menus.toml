@@ -4,13 +4,13 @@
 #   The weight parameter defines the order that the links will appear in.
   
 [[main]]
-  name = "Rites of Baptism"
-  url = "#baptism"
+  name = "Start Here"
+  url = "#start"
   weight = 20  
 
 [[main]]
-  name = "Devotions and Blessings"
-  url = "#devotions"
+  name = "Rites of Baptism"
+  url = "#baptism"
   weight = 30  
 
 [[main]]
