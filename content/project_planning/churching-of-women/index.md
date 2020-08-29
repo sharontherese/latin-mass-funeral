@@ -2,7 +2,7 @@
 title: Churching of Women
 summary: The blessing of mothers after childbirth, as found in the Roman Ritual
 tags:
-- 
+- blessings
 date: ""
 
 # Optional external URL for project (replaces project detail page).
