@@ -1,9 +1,8 @@
 +++
-text = "Commentaries on the Propers of the wedding Mass"
+text = "Commentaries on the scriptural texts of the Rite of Baptism"
 title = "Commentaries"
 toggle = false
 aliases = [
-    "/resources/commentaries/"
 ]
 
 +++
@@ -11,7 +10,7 @@ aliases = [
 
 # About
 
-Below are classic Biblical commentaries on the _propers_ of the wedding Mass. Because of their length, only a portion of the commentaries for the Epistle and the Gospel are included. 
+Below are classic Biblical commentaries on some of the Scriptural parts of the Rite of Baptism. 
 
 The two commentaries I pull from are Haydock [^1] and St. Thomas Aquinas' Catena Aurea [^2].
 For more commentaries, visit Sermonry [^3] and Psallam Domino [^4].
