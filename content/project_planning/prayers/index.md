@@ -2,7 +2,7 @@
 title: Prayers
 summary: Devotional prayers concerning baptism
 tags:
-- 
+- blessings
 date: ""
 
 # Optional external URL for project (replaces project detail page).
