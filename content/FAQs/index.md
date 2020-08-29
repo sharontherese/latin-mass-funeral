@@ -13,6 +13,22 @@ No. In fact, much of the traditional rite of Baptism can be said in the vernacul
 
 The revisions to the rite of Baptism were extensive. Detailed, side-by-side comparisons are available on numerous Catholic websites, including Traditional Catholic Priest[^2] and CatholicScout[^3]. 
 
+# Who can be a godparent or sponsor? 
+
+Any Catholic over the age of 14, with a few exceptions, can be a godparent or a sponsor. 
+
+Heretics, schismatics, rpotestants, etc. cannot be sponsors or godparents. 
+
+Parents cannot be godparents to their own child. In the previous Code of Canon Law, spouses were not allowed to be sponsors to each other.
+
+# Are there rules for Catholic baby names? 
+
+It is strongly encouraged that you choose of the name of a saint. Some cultures have a tradition of reserving the middle name for Mary, or one of Mary's variant names. 
+
+# I'm a godparent/sponsor. What do I do?
+
+Visit the godparents & sponsors page!
+
 # Sources 
 
 [^1]: Collectio Rituum Romanum. Edited by Laudate Dominum. 1925. http://laudatedominum.net/files/coll_rit_rom.pdf.
