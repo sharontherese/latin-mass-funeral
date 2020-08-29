@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 75  # Order that this section will appear.
 
-title = "Planning"
+title = "Start Here"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project_planning"
+  page_type = "project_start"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -22,16 +22,16 @@ subtitle = ""
   filter_default = 0
   
 [[content.filter_button]]
-     name = "Blessings"
-     tag = "blessings"  
+     name = ""
+     tag = ""  
   
 [[content.filter_button]]
-     name = "For Priests"
-     tag = "priests"
+     name = ""
+     tag = ""
      
 [[content.filter_button]]
-     name = "For all"
-     tag = "all"
+     name = ""
+     tag = ""
         
 
 [design]
