@@ -12,22 +12,20 @@ aliases = [
 
 Below are classic Biblical commentaries on some of the Scriptural parts of the Rite of Baptism. 
 
-The two commentaries I pull from are Haydock [^1] and St. Thomas Aquinas' Catena Aurea [^2].
-For more commentaries, visit Sermonry [^3] and Psallam Domino [^4].
+The commentariy I pull from is Haydock [^1].
 
-# Introit
+For more commentaries, visit St. Thomas Aquinas' Catena Aurea [^2], Sermonry [^3] and Psallam Domino [^4].
+
+# Psalm 8
 
 <html>
 <div class="wrap-collabsible">
 <input id="collapsible1" class="toggle" type="checkbox">
-<label for="collapsible1" class="lbl-toggle">Text of the Introit</label>
+<label for="collapsible1" class="lbl-toggle">Text of Psalm 8</label>
 <div class="collapsible-content">
 <div class="content-inner">
 <p>
-Tobias 7:15; 8:19
-Deus Israel coniungat vos: et ipse sit vobiscum, qui misertus est duobus unicis: et nunc, Domine, fac eos plenius benedicere te.
-
-May the God of Israel join you together: and may He be with you, who was merciful to two only children: and now, O Lord, make them bless Thee more fully.  
+Domine Dominus noster, quam admirabile est nomen tuum in universa terra! Quoniam elevata est magnificentia tua, super caelos. Ex ore infantium et lactentium perfecisti laudem propter inimicos tuos, ut destruas inimicum et ultorem. Quoniam videbo caelos tuos, opera digitorum tuorum: lunam et stellas, quae tu fundasti. Quid est homo, quod memor es ejus? aut filius hominis, quoniam visitas eum? Minuisti eum paulo minus ab Angelis, gloria et honore coronasti eum: et constituisti eum super opera manuum tuarum. Omnia subjecisti sub pedibus ejus, oves et boves universas: insuper et pecora campi. Volucres caeli, et pisces maris, qui perambulant semitas maris. Domine Dominus noster, quam admirabile est nomen tuum in universa terra!
 </p>
 </div>
 </div>
@@ -118,9 +116,27 @@ padding: .5rem 1rem;
 <div class="collapsible-content">
 <div class="content-inner">
 <p>
-Ver. 15.  Hand.  This was the mode of confirming agreements, in Media.  Alex. Genial v. 3. --- The custom prevailed in marriages, (Lament. v. 6.  Isai. lxii. 8.) as it does still among Christians. --- It.  Gr. "her for a wife to Tobias, and said: Behold: take care of her according to the law of Moses, and go to thy father.  And he blessed them.  And he called Edna, his wife, and taking a book, wrote a note, (H. or contract.  C.) and sealed it, and they began to eat."  H. --- It was almost universally the custom to have such writings, particularly where polygamy prevailed.  The wives of lower condition were taken without formality.  C.
+Ver. 1.  Understanding.  See Ps. xxxi.  M. --- Core, who composed, (T.) or sung (M.) most of the psalms in this second part.  T. --- Pieces of a joyful nature were generally assigned to them, according to the Jews and S. Jer.  Ps. lxxxiv.  M. --- They were descendants of the famous schismatic, the miraculous preservation of whose innocent children teaches us, that the good will not be punished with the guilty, and that we must be raised above this earth, lest hell devour us.  Num. xvi. 31. and xxvi. 10.  W. --- The sentiments of the captives, (C.) and of every sincere Christian, are here expressed.  S. Aug. --- David may have been the author, (C.) as it is generally believed.  Bert.
 
-Ver. 19.  Make.  Gr. "Shew them mercy, Lord.  Perfect their life in health, with gladness and mercy.  But he ordered his domestics to fill up the grave, and he made them a marriage feast for fourteen days.  And," v. 23.  The ancient Vulg. seems rather more conformable to the present. "Raguel ordered his wife to make several loaves, and going himself to the flock, he brought two cows and four rams, and ordered them to prepare a feast.  He called Tobias, and swore to him, saying, Thou shalt not depart hence these 14 days, but remain here eating and drinking with me, and shalt fill with joy me and my daughter, who has been greatly afflicted.  Receive half of my goods, and thou shalt return safe and sound to thy father; and after my death, and that of my wife, thou shalt have the other half."  H. --- Gr. and Heb. mention nothing of the beasts slaughtered, or of Raguel's testament.  C.  
+Ver. 2.  Waters.  This was sung at the baptism of Catechumens, (S. Aug.) teaching them to thirst after heaven.  H. --- The hart being infected with poison, thirsts exceedingly, as sinners must do for pardon.  W.
+
+Ver. 3.  Strong.  Most Bibles before Clement VIII. read "fountain."  C. --- El signifies both God and strong.  Bert. --- The Levites desired earnestly to serve God in his temple; Christians must wish to appear before him in heaven, (C.) when they will be free from temptations.  Idols may destroy, but they cannot give life.  W.
+
+Ver. 4.  Bread.  Ovid imitates this: Cura dolorque animi lachrymæque alimenta fuére.  Met. x. --- The tears of compunction obtain the remission of sin.  S. Jer. --- God.  Thus the idolaters derided those who could not point at their God.  H. --- The Babylonians had conquered all the surrounding nations, and despised their deities.  C. --- The wicked laugh at the just, who are for a time in distress, comforting themselves with weeping.  W. --- Those who saw David wandering (H.) in the mountains, at a distance from the tabernacle, might ask him what religion or God he followed.  M.
+
+Ver. 5.  These sarcasms fill me with grief, (C.) while the solemn ceremonies of religion, which, I remember, where observed in the temple, cause my heart to overflow with joy.  Bert. --- I shall.  Prot. "I had gone with the multitude; I went with them to the house of God with the voice of joy and praise; with a multitude that kept holiday."  Yet the holidays of the Catholic Church are now ridiculed by many.  Prot.  H. --- The original may have several other meanings.  The tabernacle may here designate the musach of Levites.  4 K. xvi. 18.  C. --- Feasting.  Some such religious feasts were prescribed.  Deut. xii. 12.  H. --- David was not permitted to build the temple, nor to enter the tabernacle: but he speaks of heaven.  W.
+
+Ver. 6.  My countenance.  Heb. "his," as Aquila, &c. read.  C. --- Yet as the words are repeated, (v. 12.) there seems to be a fault in the text, (Bert.) owing to v, "his" being taken in here, instead of explaining it by and, v. 7.  H. --- The arrangement of the letters in the Vulg. is preferable.  C.
+
+Ver. 7.  Little hill of Sion.  I hope that I shall soon again behold the fertile regions along the Jordan.  C. --- But these hills of Hermon, &c. are nothing when compared with heaven: They serve only to remind us of our banishment.  Bert. --- The difficulties of our present abode, hemmed in on all sides, teach us to place our hopes in heaven.  W.
+
+Ver. 8.  Flood-gates.  The Hebrews imagined there were immense reservoirs of water above, (C.) which might serve to drown the earth, as at the deluge.  Gen. vii. 11.  Both heaven and earth seemed to be armed against the psalmist.  H. --- One affliction succeeded another, (C.) and God appeared to have abandoned his servants to temptations.  But he enables them to come off with victory, and fills them with more joy in their trials: so that they may sing in heart, and pray.  W.
+
+Ver. 9.  Night.  In affliction, as well as in prosperity, we must praise the Lord.  Rom. Sept. "in the night he will manifest it." --- Mercy.  H. --- This is very beautiful, but not agreeable with the original.  Bert.
+
+Ver. 11.  Whilst.  Prot. As, "with a sword in my bones, mine enemies reproach me."  H. --- Thus the martyrs were tortured and upbraided.  C.
+
+Ver. 12.  Countenance.  To whom I look up with confidence.  M. --- The just are comforted with the hope of God's sight.  W. 
 </p>
 </div>
 </div>
