@@ -11,6 +11,10 @@ _Artwork: Leighton, Edmund Blair. "To the Unknown Land." 1911._
 
 # About
 
+# During the loss
+
+If there is a chance that the child is still alive, emergency baptism should be performed. 
+
 # After your loss
 
 ## At home
