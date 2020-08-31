@@ -1,6 +1,6 @@
 ---
 title: Godparents and Sponsors
-summary: to do
+summary: Resources for godparents and sponsors
 tags:
 - all
 date: ""
