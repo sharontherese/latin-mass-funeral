@@ -1,12 +1,12 @@
 ---
 title: Catechesis
-summary: to do
+summary: Resources about the Sacrament of Baptism
 tags:
 - all
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.latinmassbaptism.com/churching-of-women/"
+external_link: "https://www.latinmassbaptism.com/catechesis/"
 
 image:
   caption: Photo by rawpixel on Unsplash
