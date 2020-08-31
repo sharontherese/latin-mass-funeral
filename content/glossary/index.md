@@ -40,6 +40,9 @@ Rite
 Rituale Romanum
 : The book of texts, rubrics, and instructions for Catholic rituals and sacraments.
 
+Solemn baptism
+:
+
 # Sources
 
 [^5]:“**Catholic Rites and Churches.**” _EWTN_, 2007, [https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm](https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm "https://www.ewtn.com/expert/answers/catholic_rites_and_churches.htm").
