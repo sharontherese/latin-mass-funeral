@@ -51,8 +51,3 @@ The Council of Trent
 [^3]: Thomas S.J., Fr. John L. "Godparents' Job Not Easy One." The Catholic Transcript, Volume LXI, Number 17, 28 August 1958, August 28 1958. https://thecatholicnewsarchive.org/?a=d&d=CTR19580828-01.2.100&srpos=2.
 
 [^4]: Catholic Church. "The Sacrament of Baptism." In The Catechism of the Council of Trent, 1566.
-
-[^5]: 
-
-[^6]: 
-
