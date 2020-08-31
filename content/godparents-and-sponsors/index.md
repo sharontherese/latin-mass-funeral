@@ -26,11 +26,11 @@ This is a very solemn obligation, not one to be entered into lightly. Parents sh
 
 > Sponsors for adults should express the same type of concern for the newly baptized soul, helping to ease the person into Church life and answer questions that may arise. During the Rite of Baptism, the sponsors for adults stand silent, with a hand on the candidate's shoulder (and sometimes signing the catechumen with the Cross, in some variations of the Rite); the one to be baptized answers the priest's questions himself.[^2]
 
-The Catholic Transcript 
+# e Catholic Transcript 
 
 > Third, while the children are growing up, it is important that they come to know you and your family as models of Christian kindness and charity. Your example in living the faith will have more lasting effects upon them than anything you may say. If they learn to love and admire you, they will find it natural to want to imitate your way of life, particularly when they are old enough to think for themselves.[^3]
 
-The Council of Trent 
+# The Council of Trent 
 
 > The faithful are also to be taught the duty of sponsors; for such is the negligence with which this office is treated in the Church that only the bare name of the function remains, while none seem to have the least idea of its sanctity. Let all sponsors, then, at all times recollect that they are strictly bound by this law to exercise a constant vigilance over their spiritual children, and carefully to instruct them in the maxims of a Christian life; so that these may show themselves throughout life to be what their sponsors promised in the solemn ceremony.
 
@@ -39,8 +39,6 @@ The Council of Trent
 > St. Augustine also says: I most especially admonish you, men and women, who have acquired godchildren through Baptism, to consider that you stood as sureties before God, for those whom you received at the sacred font. Indeed it preeminently becomes every man, who undertakes any office, to be indefatigable in the discharge of its duties; and he who promised to be the teacher and guardian of another should never allow to be deserted him whom he once received under his care and protection as long as he knows the latter to stand in need of either.
 
 > Speaking of this same duty of sponsors, St. Augustine sums up in a few words the lessons of instruction which they are bound to impart to their spiritual children. They ought, he says, to admonish them to observe chastity, love justice, cling to charity; and above all they should teach them the Creed, the Lord's Prayer, the Ten Commandments, and the rudiments of the Christian religion.[^4]
-
-
 
 # Sources
 
