@@ -2,7 +2,7 @@
 title: Blessing of Expectant Mothers
 summary: The full text of the Blessing of Expectant Mothers
 tags:
-- start
+- mothers
 date: ""
 
 # Optional external URL for project (replaces project detail page).
