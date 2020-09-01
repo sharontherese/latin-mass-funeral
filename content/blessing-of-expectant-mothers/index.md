@@ -1,11 +1,11 @@
 +++
 text = ""
-title = "FAQs"
+title = "Blessing of Expectant Mothers"
 toggle = false
 
 +++
 
-_Artwork: _
+_Artwork: Tintoretto, Jacopo. "Visitation." circa 1588._
 
 # About
 
@@ -116,7 +116,7 @@ All: **In the face of the enemy.**
 
 P: **Let the enemy have no power over her.**
 
-All: And the son of iniquity be powerless to harm her.**
+All: **And the son of iniquity be powerless to harm her.**
 
 P: **Lord, send her aid from your holy place.** 
 
