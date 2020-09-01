@@ -29,6 +29,12 @@ It is strongly encouraged that you choose of the name of a saint. Some cultures 
 
 Visit the godparents & sponsors page!
 
+# What if I'm getting baptized at Easter Vigil?
+
+pre55, 1962
+
+# Is the baptized always immersed?
+
 # Sources 
 
 [^1]: Collectio Rituum Romanum. Edited by Laudate Dominum. 1925. http://laudatedominum.net/files/coll_rit_rom.pdf.
