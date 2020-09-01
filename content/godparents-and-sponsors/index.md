@@ -40,6 +40,21 @@ This is a very solemn obligation, not one to be entered into lightly. Parents sh
 
 > Third, while the children are growing up, it is important that they come to know you and your family as models of Christian kindness and charity. Your example in living the faith will have more lasting effects upon them than anything you may say. If they learn to love and admire you, they will find it natural to want to imitate your way of life, particularly when they are old enough to think for themselves.[^4]
 
+# The Catholic Guide to Expectant Motherhood
+
+> Since this Sacrament is necessary for your child to enjoy the gift of the Faith, it is the foremost one he can receive. He cannot receive it unless he renounces the devil and his works, and expresses his determination to follow the teachings of Our Lord and to lead a true Christian life. Since your infant is unable to speak for himself, the godparents have the responsibility of expressing that willingness and determination for him. 
+
+> In speaking for the child, the godparents also promise in effect to make the child’s spiritual welfare their concern all their life. In a practical sense, they probably will not have to do much in this regard, for your child’s spiritual welfare will be primarily your concern. But if you or your husband should prove unable to care for your child spiritually, his godparents have the duty of doing so. In rare cases, they may even be morally required to make great sacrifices to enable your child to reach adulthood in a Christian environment. 
+
+> Because godparents undertake a great responsibility, you should choose them with care. Knowing what is expected of godparents, you can appreciate why the Church insists that they fulfill several requirements: 
+
+> 1\. They must be at least fourteen years old. This is indeed the minimum age at which they could be expected to concern themselves effectively with your child’s spiritual welfare if it became necessary to do so. 
+
+> 2\. They must be baptized Catholics who now practice the Faith. Obviously, persons who do not receive Penance and the Holy Eucharist as required by Church law, are not practicing Catholics. They can hardly safeguard your child’s religion when they jeopardize their own. 
+
+> 3\. They must be free to become your child’s spiritual guardians if necessary. For  this reason, priests or brothers or sisters in religious communities cannot be sponsors unless their superior gives them special permission. 
+
+
 # Sources
 
 [^1]: Fanning, William. "Baptism." In Catholic Encyclopedia. New York: Robert Appleton Company, 1907. https://www.newadvent.org/cathen/02258b.htm.
@@ -49,3 +64,6 @@ This is a very solemn obligation, not one to be entered into lightly. Parents sh
 [^3]: "Baptism," Fish Eaters, https://www.fisheaters.com/baptism2.html.
 
 [^4]: Thomas S.J., Fr. John L. "Godparents' Job Not Easy One." The Catholic Transcript, Volume LXI, Number 17, 28 August 1958, August 28 1958. https://thecatholicnewsarchive.org/?a=d&d=CTR19580828-01.2.100&srpos=2.
+
+[^5]: Springer, J., G.A. Kelly, E. Springer, and Robert Walsh. The Catholic Guide to Expectant Motherhood. Random House, 1961.
+
