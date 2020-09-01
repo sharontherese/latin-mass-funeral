@@ -1,6 +1,6 @@
 ---
 title: Churching of Women
-summary: The blessing of mothers after childbirth, as found in the Roman Ritual
+summary: The full text of the Blessing of Mothers After Childbirth
 tags:
 - all
 date: ""
