@@ -32,6 +32,10 @@ subtitle = ""
    [[content.filter_button]]
      name = "For priests"
      tag = "priests"
+     
+   [[content.filter_button]]
+     name = "For the loss of a child"
+     tag = "loss"     
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
