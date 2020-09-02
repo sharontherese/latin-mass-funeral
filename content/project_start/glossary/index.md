@@ -1,6 +1,6 @@
 ---
 title: Glossary
-summary: to do
+summary: Glossary of commonly used words on this website
 tags:
 - start
 date: ""
