@@ -7,7 +7,7 @@ aliases = [
 
 +++
 
-_Artwork: Le Prince, Jean-Baptiste. "The Russian Baptism." (1765)._
+_Artwork: Steen, Jan. "Baptism ("So De Oude Songen, So Pypen De Jongen")." n.d._
 
 Unless otherwise noted, all definitions are from the Catholic Encyclopedia.[^1]
 
