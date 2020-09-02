@@ -7,6 +7,22 @@ toggle = false
 
 _Saavedra, Antonio del Castillo y. "Baptism of St. Francis of Assisi." 1660s._
 
+# Do I need permission for a TLM Baptism? 
+
+Maybe. 
+
+If the pastor of the parish is performing the baptism, he does not need permission. 
+
+If any associate of the parish is performing the baptism, he needs 2 permissions. 
+
+If the bishop is performing the baptism in his own diocese, he does not need permission. 
+
+If the bishop is performing the baptism is another diocese, he need permission.
+
+Per _Summorum Pontificum_: 
+
+> Art. 9, §1  The parish priest, after careful consideration, can also grant permission to use the older ritual in the administration of the sacraments of Baptism, Marriage, Penance and Anointing of the Sick, if advantageous for the good of souls.[summorum]
+
 # Does the whole Baptism have to be in Latin? 
 
 No. In fact, much of the traditional rite of Baptism can be said in the vernacular. There are set prayers that can only be said in Latin, including the blessing of salt, the exorcisms, and the anointing must be in Latin. The _Collectio Rituum_, a condensed version of the _Rituale Romanum_, has the most clear layout to show which parts can be vernacular, and which must be Latin. A PDF of the _Collectio_ is available at Laudate Dominum[^1]. 
