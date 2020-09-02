@@ -1,6 +1,6 @@
 ---
 title: The loss of a child
-summary: to do
+summary: 
 tags:
 - loss
 date: ""
