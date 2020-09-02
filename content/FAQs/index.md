@@ -5,6 +5,8 @@ toggle = false
 
 +++
 
+_Saavedra, Antonio del Castillo y. "Baptism of St. Francis of Assisi." 1660s._
+
 # Does the whole Baptism have to be in Latin? 
 
 No. In fact, much of the traditional rite of Baptism can be said in the vernacular. There are set prayers that can only be said in Latin, including the blessing of salt, the exorcisms, and the anointing must be in Latin. The _Collectio Rituum_, a condensed version of the _Rituale Romanum_, has the most clear layout to show which parts can be vernacular, and which must be Latin. A PDF of the _Collectio_ is available at Laudate Dominum[^1]. 
@@ -17,7 +19,7 @@ The revisions to the rite of Baptism were extensive. Detailed, side-by-side comp
 
 Any Catholic over the age of 14, with a few exceptions, can be a godparent or a sponsor. 
 
-Heretics, schismatics, rpotestants, etc. cannot be sponsors or godparents. 
+Heretics, schismatics, Protestants, etc. cannot be sponsors or godparents. 
 
 Parents cannot be godparents to their own child. In the previous Code of Canon Law, spouses were not allowed to be sponsors to each other.
 
@@ -27,13 +29,7 @@ It is strongly encouraged that you choose of the name of a saint. Some cultures 
 
 # I'm a godparent/sponsor. What do I do?
 
-Visit the godparents & sponsors page!
-
-# What if I'm getting baptized at Easter Vigil?
-
-pre55, 1962
-
-# Is the baptized always immersed?
+Visit the (Godparents and Sponsors)[https://latinmassbaptism/godparents-and-sponsors/] page!
 
 # Sources 
 
