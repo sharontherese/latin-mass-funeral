@@ -1,6 +1,6 @@
 ---
 title: Glossary
-summary: 
+summary: Glossary of terms frequently used on this website
 tags:
 - start
 date: ""
