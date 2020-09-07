@@ -7,7 +7,7 @@ aliases = [
 
 +++
 
-_Artwork:_
+_Artwork: Benczúr, Gyula. "Baptism of Vajk." 1875._
 
 # The Pontifical Rite of Baptism for Children is considered one of the most infrequently celebrated rites in the _Rituale Romanum_. Some books on pontifical ceremonies - themselves scarce - do not even include a section on baptisms. The _Rituale_ does not include the full text of the pontifical rite; merely several paragraphs of rubrics for the event.
 
