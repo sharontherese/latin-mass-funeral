@@ -1,6 +1,6 @@
 ---
 title: About
-summary: 
+summary: About this website
 tags:
 - start
 date: ""
