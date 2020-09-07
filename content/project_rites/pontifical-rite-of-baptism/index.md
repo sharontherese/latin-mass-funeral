@@ -2,7 +2,6 @@
 title: Pontifical Rite of Baptism
 summary: The full text of the pontifical rite and some supporting documents
 tags:
-- priests
 date: ""
 
 # Optional external URL for project (replaces project detail page).
