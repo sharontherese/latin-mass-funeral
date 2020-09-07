@@ -1,6 +1,6 @@
 ---
 title: FAQs
-summary: 
+summary: Frequently asked questions about traditional baptisms
 tags:
 - start
 date: ""
