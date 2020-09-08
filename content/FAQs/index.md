@@ -45,7 +45,13 @@ It is strongly encouraged that you choose of the name of a saint. Some cultures 
 
 # I'm a godparent/sponsor. What do I do?
 
-Visit the (Godparents and Sponsors)[https://latinmassbaptism/godparents-and-sponsors/] page!
+Visit the (Godparents and Sponsors)[https://latinmassbaptism.com/godparents-and-sponsors/] page!
+
+# Why are you calling it "Latin Mass Baptism" if there isn't a Latin Mass? Are you a crypto-modernist? 
+
+This project is a sister-site to (Latin Mass Wedding)[https://latinmasswedding.com/]. LMW came with its own naming problems, as people use a variety of terms for what are two separate events: the Rite of Marriage, and the votive Mass for the bride and groom. In a rare moment of brevity for me, I decided to use branding for LMW using the most commonly used words: latin mass wedding. Many traditional rites and aspects of Catholicism are referred to as "Latin/Latin Mass XYZ," as a sort of shorthand. 
+
+So, while traditional baptisms happen outside the Mass, and in many cases do not happen in conjunction with a _Latin Mass_ at all, I wanted to keep the branding consistent and useful. 
 
 # Sources 
 
