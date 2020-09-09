@@ -16,7 +16,7 @@ baseurl = "https://www.latinmassbaptism.com/"
 copyright = "&copy; {year} Sharon Kabel"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-144733098-3"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
