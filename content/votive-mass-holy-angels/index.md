@@ -10,8 +10,6 @@ _Gozzoli, Benozzo. "Angels Worshipping (Left Side of the Chancel)." 1459-60._
 
 # About
 
-# About
-
 It has been a common practice to say the votive Mass of the Holy Angels for the loss of a child. The Mass is available in a variety of formatting online.
 
 * [As a webpage here](https://latinmassbaptism.com/votive-mass-holy-angels/)
