@@ -27,6 +27,10 @@ Per _Summorum Pontificum_:
 
 No. In fact, much of the traditional rite of Baptism can be said in the vernacular. There are set prayers that can only be said in Latin, including the blessing of salt, the exorcisms, and the anointing must be in Latin. The _Collectio Rituum_, a condensed version of the _Rituale Romanum_, has the most clear layout to show which parts can be vernacular, and which must be Latin. A PDF of the _Collectio_ is available at Laudate Dominum[^1]. 
 
+# When should someone be baptized? 
+
+If it is an emergency, the person should be baptized as quickly as possible. Infants and children should also receive baptism as soon as possible. The Roman Ritual encourages adult baptisms to take place on the vigil of Easter or of Pentecost. 
+
 # What are the differences between the new and the old rites of Baptism?
 
 The revisions to the rite of Baptism were extensive. Detailed, side-by-side comparisons are available on numerous Catholic websites, including Traditional Catholic Priest[^2] and CatholicScout[^3]. 
