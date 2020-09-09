@@ -5,7 +5,7 @@ name = "white"
 light = true
 
 # Primary (URL color)
-primary = "#4A235A"
+primary = "#0000EE"
 
 # Menu
 menu_primary = "#4A235A" # 500
