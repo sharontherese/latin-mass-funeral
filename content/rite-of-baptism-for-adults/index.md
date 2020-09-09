@@ -24,6 +24,19 @@ Other versions (some English only, some Latin only, some with both side-by-side)
 * Laudate Dominum (website)[^5]
 * The Parish Priest on Duty (book)[^6]
 
+# Overview 
+
+From the Roman Ritual[^2]: 
+
+> The first stage deals with the spiritual preparation to be made by the priest in charge of instructing the catechumens as well as by the faithful. These prayers, by emphasizing what a serious matter Christian life is, will prove to be a spiritual help to the catechumens (nos. 1- 3). This part is followed by the formal roll call, the basic instruction, the act of turning away from error and turning to God, and the first solemn signing with the cross (nos. 4-12), which is also the basic exorcism or the radical deliverance from the power of evil spirits. The second stage deals with the very ancient ceremony of administering blessed salt, which symbolizes the catechumens' ever growing delight in the Christian religion (nos. 13-17). 
+
+> The third, fourth, and fifth stages embody the solemn, thrice repeated exorcisms, which forcefully impress on the catechumens how much effort is entailed in total conversion to God, and how the devil, the adversary of mankind, opposes it with all his might (nos 18-24; 25-31; 32-40).
+
+> The sixth stage has the ceremonies directly preparatory to baptism, ceremonies derived from very ancient use and filled with profound significance. They consist of the solemn procession of the candidates into church (nos. 41-42), followed by the recitation of the Creed and the Lord's Prayer, the final exorcism, and the rite called "opening of ears"; lastly, another renunciation of Satan, the anointing with oil of catechumens, which makes a person a warrior against the enemies of Christ and the Church (nos. 47-49).
+
+> The seventh and last stage leads up to baptism proper. It consists of another roll call, the profession of faith, the request for baptism (nos. 51-52), the act of baptizing (nos. 53-55), the anointing with chrism, which suggests the grace of the Holy Spirit received in baptism (no. 55), the bestowal of the baptismal robe and the lighted candle (nos. 56-57), and the dismissal of the baptized (no. 58).
+
+
 # Ordo Baptismi Adultorum 
 
 1\. In primis Sacerdos, paratis his, quae supra de observandis in administratione Sacramenti Baptismi Parvulorum dicuntur, indutus superpelliceo et stola, vel etiam pluviali violacei coloris, cum suis Clericis accedit ad gradus Altaris, et genibus flexis, pias mente ad Deum praeces effundit, ut tantum Sacramentum digne valeat ministrare; et ad implorandum divinum auxilium, surgens, se signat, et si temporis ratio ferat, dicit: 
