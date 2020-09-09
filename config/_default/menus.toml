@@ -5,17 +5,17 @@
   
 [[main]]
   name = "Start Here"
-  url = "#start"
+  url = "#project_start"
   weight = 20  
 
 [[main]]
   name = "Rites of Baptism"
-  url = "#rites"
+  url = "#project_rites"
   weight = 30  
 
 [[main]]
   name = "Planning"
-  url = "#planning"
+  url = "#project_planning"
   weight = 40  
   
 # [[main]]
