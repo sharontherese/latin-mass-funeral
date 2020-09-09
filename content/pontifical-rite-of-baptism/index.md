@@ -178,6 +178,179 @@ Quaedam vero non in numero plurali pro omnibus, sed in numero singulari pro sing
 Pontifex demum, completo baptismate, sedens adhuc cum mitra lavat manus more solito; et inde eodem comitatu, eodemque modo, quo
 baptizaturus accessit, eo, unde venerat, revertitur.
 
+# Pontifical Rite of Baptism for Children
+
+## In the narthex
+
+(Weller: If a bishop or a cardinal wishes to confer baptism, whether on children or adults, the same preparation is made and the same order is followed as given above, but with the following additions. There should be chaplains in attendance, or other bishops and clerics vested in surplice who will assist him and act as ministers of the book, mitre, etc. The bishop wearing the rochet vests in amice, alb, cincture, purple stole and cope, and uses the gold mitre. Thus vested he proceeds with his assistants to the administration of the sacrament.)
+
+The bishop says the greeting: **Peace be with you.**
+
+He then asks the name of the child (if several are to be baptized he asks the name of each one):
+
+Bishop: **What is your name?**
+
+Sponsors: **N.**
+
+B (to each): **N., what do you ask of the Church of God?**
+
+S: **Faith.**
+
+B (to each): **What does faith offer you?**
+
+S: **Everlasting life.**
+
+B (to each): **If, then, you wish to inherit into  life, keep the commandments, you shall the Lord your God with your whole heart, and with your whole soul, and with your whole mind; and your neighbor as yourself.**
+
+(Weller: But at the ceremony of breathing he stands, still using the mitre.)
+
+The bishop thrice breathes softly in the face of the child (each one singly), and follows up the gesture with these words: **Depart from him (her), unclean spirit, and give place to the Holy Spirit, the consoler.**
+
+(Weller: Then he sits down again, while he signs the candidate with the sign of the cross on the brow and on the breast.)
+
+With his thumb the bishop traces the sign of the cross on the brow and on the breast of the child, saying (to each): **Receive the mark of the cross on your + forehead and within your + heart. Embrace the faith with its divine teachings. So live that you will indeed be a temple of God.**
+
+**Let us pray. We beg you, Lord God, graciously hear our prayers. Guard your chosen one, N., with the never-failing power of the cross of Christ, with which he (she) has been marked. Protect him (her) so that, remaining true to the first lessons he (she) has learned about the great glory you will confer upon him (her), he (she) may, by keeping your commandments, attain to the glory of a new birth. Through Christ our Lord.**
+
+All: **Amen.**
+
+The bishop lays his hand on the head of the child (on each one singly), after which he holds his hand outstretched and says: **Let us pray. Almighty and eternal God, Father of our Lord Jesus Christ, look with favor upon your servant, N., whom you have called to take his (her) first step in the faith. Take from him (her) all blindness of heart. Free him (her) from the snares of Satan which until now have held him (her). Open to him (her), Lord, the gate of your mercy. Then, seasoned by the salt which is symbolic of your wisdom, may he (she) be relieved of the corruption of evil desires; and, finding pleasure in the keeping of your commandments, may he (she) serve you in your Church and make progress from day to day in the way of perfection. Through the same Christ our Lord.**
+
+All: **Amen.**
+
+(Weller: He stands (without mitre) during the prayers which precede and follow the blessing of salt, and the same while he blesses the salt; however, he is seated (with mitre) at the time he puts the blessed salt into the mouth of the candidate.)
+
+## Blessing of salt
+
+Deinde benedicturus sal (quod semel benedictum alias ad eumdem usu, deservire potest) accepta mitra, stans dicat (sine mutatione pro omnibus). 
+
+**Exorcizo te, creatura salis, in nomine Dei + Patris omnipotentis +, et in caritate Domini nostri Jesu Christi +, et in virtute Spiritus sancti +. Exorcizo te per Deum vivum  +, per Deum verum +, per Deum sanctum +, per Deum +, qui te ad tutelam humani generis procreavit, et populo venienti ad credulitatem per servos suos consecrari praecepit, ut in nomine sanctae Trinitatis efficiaris salutare sacramentum ad effugandum inimicum.** 
+
+Hic deponat mitram, et adhuc stans prosequatur: **Proinde rogamus te, Domine Deus noster, ut hanc creaturam salis sanctificando sanctifices +, et benedicendo benedicas +, ut fiat omnibus accipientibus perfecta medicina, permanens in visceribus e6rum, in nomine ejusdem Domini nostri Jesu Christi, qui venturus est judicare vivos et mortuos, et saeculum per ignem.** 
+
+R: **Amen.** 
+
+The bishop puts a pinch of the blessed salt in the mouth of the child (to each one), saying as he does so: **N., receive this salt, which is a symbol of wisdom. May it bring for you God’s favor for life everlasting.**
+
+All: **Amen.**
+
+Bishop: **Peace be with you.**
+
+All: **And also with you.**
+
+**Let us pray. God of our fathers, God, the author of all truth, we humbly ask you to look with favor on this your servant, N., who has had his (her) first taste of blessed food in the form of salt. Satisfy him (her) with the bread of heaven, so that he (she) may be forever fervent in spirit, joyful in hope, and zealous in your service. We ask you, Lord, to lead him (her) to the waters in which he (she) will be born again, so that he (she), with all who believe in you, may obtain the unending rewards which you have promised.** 
+
+All: **Amen.**
+
+(Weller: Again he stands (with mitre) for the exorcisms, the touching with spittle, and for the solemn entrance into the church.)
+
+Accepta mitra, adhuc stens, dicit exorcismum: **Exorcizo te, immunde spiritus, in nomine Pa+tris et Fi+lii et Spiritus + Sancti, ut exeas, et recedas ab hoc famulo (hac famula) Dei N. Ipse enim tibi imperat, maledicte damnate, qui pedibus super mare ambulavit, et Petro mergenti dexteram porrexit. Ergo, maledicte diabole, recognosce sententiam tuam, et da honorem Deo vivo et vero, da honorem Jesu Christo Filio ejus, et Spiritui Sancto, et recede ab hoc famulo (hac famula) Dei N., quia istum (-am) sibi Deus et Dominus noster Jesus Christus ad suam sanctam gratiam, et benedictionem, fontemque Baptismatis vocare dignatus est.**
+
+Now the bishop traces the sign of the cross upon the brow of the child (on each one), saying as he does so: **Accursed devil, never dare to desecrate this sign of the holy cross which we are tracing upon his (her) forehead; through Christ our Lord.**
+
+All: **Amen.**
+
+The bishop next lays his hand on the head of the child (on each one), after which he holds his hand outstretched and says: **Let us pray. Lord, holy Father, almighty and eternal God, source of all light and truth, I humbly beg your neverending and most holy mercy upon this servant of yours, N. May it please you to grant him (her) the light of your own wisdom. Cleanse him (her) and make him (her) holy. Give him (her) true knowledge, so that he (she) may be made worthy of the grace of your baptism and may maintain firm hope, sound judgment, and a grasp of holy doctrine. Through Christ our Lord.**
+
+All: **Amen.**
+
+## In the church
+
+Then the bishop places the left end of his stole on the first child only and conducts him (her)--followed by the others--into the holy place; in doing so he says: **N., enter into the temple of God, so that you may have part with Christ in everlasting life.**
+
+All: **Amen.**
+
+(Weller: He remains standing for the Apostles' Creed and the Lord's Prayer (without mitre.) The procession then makes its way to the baptistery.)
+
+Bishop: **Will you please recite the Creed?**
+
+All: **I believe in God, the Father almighty, Creator of heaven and earth. And in Jesus Christ, His only Son, our Lord; who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died, and was buried. He descended into hell; the third day He arose again from the dead. He ascended into heaven, and sits at the right hand of God, the Father almighty; from there He shall come to judge the living and the dead. I believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.** 
+
+Bishop: **Now please say the Lord's Prayer.**
+
+All: **Our Father, who art in heaven, hallowed be thy name; thy kingdom come, thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil. Amen.**
+
+Having his back turned to the gates of the baptistery, the bishop says: **Exorcizo te, omnis spiritus immunde, in nomine Dei  Patris omnipotentis, et in nomine Iesu  Christi Filii eius, Domini et Iudicis nostri, et in virtute Spiritus  Sancti, ut discedas ab hoc plasmate Dei N, quod Dominus noster ad templum sanctum suum vocare dignatus est, ut fiat templum Dei vivi, et Spiritus Sanctus habitet in eo. Per eundum Christum Dominum nostrum, qui venturus est iudicare vivos et mortuos, et saeculum per ignem.** 
+
+R: **Amen.** 
+	
+The bishop then moistens his thumb with his spittle and touches the ears and nostrils of the child (each one). The use of saliva may be omitted for reasons of hygiene, when there is fear of contracting or communicating disease (by order of Pius XII in 1944). But the ceremony itself is not omitted. He touches first the right ear then the left, saying: **Ephpheta, quod est, Adaperire.**
+
+Deinde tangat nares, dicens: **In odorem suavitatis. Tu autem effugare, diabole; appropinquabit enim iudicium Dei.** 
+
+The bishop questions the candidate by name (each one): **N., do you renounce Satan?**
+
+Sponsors: **I do renounce him.**
+
+B: **And all his works?**
+
+S: **I do renounce them.**
+
+B: **And all his attractions?**
+
+S: **I do renounce them.**
+
+The bishop dips his thumb in the oil of catechumens and anoints the child (each one) in the form of a cross on the breast and on the back between the shoulders, pronouncing only once these words: **Ego te linio + oleo salutis in Christo Jesu Domino nostro, ut habeas vitam aeternam.**
+
+R: **Amen.** 
+
+Afterward he wipes his thumb and the spots anointed with cotton or similar material.
+
+## In the baptistery
+
+(Weller: When he asks: "Do you believe in God..." and: "Do you wish to be baptized?" and if he baptizes by infusion, he is seated (with mitre). However, if he baptizes by immersion he is standing (retaining mitre).)
+
+Remaining in the same place outside the gates of the baptistery, he exchanges the purple stole for a white one. (In a more solemn baptism he also changes the cope.) Then he enters the baptistery and so do the sponsors with the child. Standing beside the font the bishop puts the following questions to each one to be baptized, calling him (her) by name. The sponsors give the answers:
+
+Bishop: **N., do you believe in God, the Father almighty, Creator of heaven and earth?**
+
+Sponsors: **I do believe.**
+
+B: **Do you believe in Jesus Christ, His only Son, our Lord, who was born into this world and suffered for us?**
+
+S: **I do believe.**
+
+B: **And do you believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting?**
+
+S: **I do believe.**
+
+Then calling him (her) by name the bishop inquires:
+
+Bishop: **N., do you wish to be baptized?**
+
+Sponsors: **I do.**
+
+But where it is the custom to baptize by immersion, the bishop takes the child, and handling it carefully so that it will not be injured be baptizes with a threefold immersion, pronouncing the words only once: **N, ego te baptizo in nomine Pa+tris, et Fi+lii, et Spiritus + Sancti.**
+	
+Forthwith the godfather or godmother (or both of them together if there are two) lifts the child from the holy font, receiving it from the bishop.
+
+As the godfather or godmother (or both if two sponsors are used) holds the child, the bishop takes water from the font with a ladle, pours it three times in the form of a cross on the head of the child, and while pouring pronounces only once distinctly and attentively the words: **N, ego te baptizo in nomine Pa+tris,** fundat primo, **et Fi+lii,** fundat secondo, **et Spiritus + Sancti** fundat tertio.
+
+If there is doubt whether the child has already been baptized, the following form is used: **N. Si non es baptizatus (-a), ego te baptizo in nomine Pa+tris, et Fi+lii, et Spiritus + Sancti.** 
+
+At the conclusion, when he anoints with chrism and when he bestows the white garment and the lighted candle, as well as when he says "Go in peace..." he is seated (with mitre).
+
+The bishop dips his thumb in holy chrism, and in the form of a cross anoints the child (each one) on the crown of the head, saying: **Deus omnipotens, Pater Domini nostri Jesu Christi, qui te regeneravit ex aqua et Spiritu Sancto, quique dedit tibi remissionem omnium peccatorum (hic inungit), ipse te liniat Chrismate salutis + in eodem Christo Jesu Domino nostro in vitam aeternam.**
+
+R: **Amen.** 
+
+Bishop: **Peace be with you.**
+
+All: **And also with you.**
+
+The bishop wipes his thumb and the place anointed with cotton. The bishop puts a white linen cloth (in place of the white garment) on the head of the child (on each one), saying: **Receive this white garment. Never let it become stained, so that, when you stand before the judgment seat of our Lord Jesus Christ, you may have life everlasting.**
+
+All: **Amen.**
+
+Next the bishop presents a lighted candle to the newly baptized (to each one) or to the sponsors, saying: **Receive this burning light, and keep the grace of your baptism throughout a blameless life. Observe the commandments of God. Then, when the Lord comes to the heavenly wedding feast, you will be able to meet him with all the saints in the halls of heaven, and live forever and ever.** 
+
+All: **Amen.**
+
+In conclusion the bishop says: **N., go in peace, and the Lord be with you.**
+
+All: **Amen.**
+
+(Weller: In the case where the bishop wishes only to perform the act of baptizing--a bishop having previously carried out all the other ceremonies--he comes to the baptistery (vested in white), and commences with: "What is your name?..." Then continues "Do you believe in God..." to the conclusion of the ceremony as given above.)
 
 # Sources
 
