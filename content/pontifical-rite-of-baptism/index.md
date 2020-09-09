@@ -9,7 +9,9 @@ aliases = [
 
 _Artwork: Benczúr, Gyula. "Baptism of Vajk." 1875._
 
-# The Pontifical Rite of Baptism for Children is considered one of the most infrequently celebrated rites in the _Rituale Romanum_. Some books on pontifical ceremonies - themselves scarce - do not even include a section on baptisms. The _Rituale_ does not include the full text of the pontifical rite; merely several paragraphs of rubrics for the event.
+# About
+
+The Pontifical Rite of Baptism for Children is considered one of the most infrequently celebrated rites in the _Rituale Romanum_. Some books on pontifical ceremonies - themselves scarce - do not even include a section on baptisms. The _Rituale_ does not include the full text of the pontifical rite; merely several paragraphs of rubrics for the event.
 
 The pontifical rite has many similarities to its original counterpart, but full text versions of the pontifical rite, to say nothing of summaries and commentaries, remain difficult to find. 
 
@@ -23,13 +25,9 @@ For the full text of the pontifical rite, I drew from two sources: Reverend Kenn
 * {{% staticref "files/PontificalRite_Checklist.pdf" %}}A one-page PDF checklist for planning purposes{{% /staticref %}}
 * {{% staticref "files/PontificalRite_Overview.pdf" %}}A one-page PDF overview of the pontifical rite{{% /staticref %}}
 
+# Sources
 
 [^1]: Kennedy, Reverend Maurice. The New Sanctuary Manual. Roman Catholic Books, 1961.
 
 [^2]: Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf.
-
-
-[^3]: 
-
-[^4]: 
 
