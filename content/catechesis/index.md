@@ -13,7 +13,7 @@ _Artwork: Poussin, Nicolas. "The Seven Sacraments I: Baptism." 1641-42._
 
 There is an abundance of information on the Sacrament of Baptism. This page will highlight a few key resources, most of which are quoted throughout this website. The Catechism of the Council of Trent and the Roman Ritual in particular have extensive commentary on the history and the nature of Baptism. 
 
-# Reources
+# Resources
 
 "Baptism," Fish Eaters, https://www.fisheaters.com/baptism2.html.
 
