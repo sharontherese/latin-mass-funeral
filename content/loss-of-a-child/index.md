@@ -53,8 +53,9 @@ I have formatted a Latin-English version of the rite below:
 
 # 3. Votive Mass of the Holy Angels 
 
-It has been a common practice to say the votive Mass of the Holy Angels for the loss of a child. The Mass is available in a variety of formatting online
+It has been a common practice to say the votive Mass of the Holy Angels for the loss of a child. The Mass is available in a variety of formatting online.
 
+* [As a webpage here](https://latinmassbaptism.com/votive-mass-holy-angels/)
 * {{% staticref "files/Mass_of_the_Holy_Angels_LatinEnglish.pdf" %}}My own version as a PDF here{{% /staticref %}}
 * Usus Antiquior[^10]
 * Vultus Christi[^11]
