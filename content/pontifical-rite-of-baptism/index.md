@@ -19,6 +19,8 @@ To ameliorate this gap, I created this page to provide both the full Latin-Engli
 
 For the full text of the pontifical rite, I drew from two sources: Reverend Kennedy's _The New Sanctuary Manual_[^1], and Fr. Weller's _Roman Ritual_[^2]. Rubrics highlighted in grey in the first PDF below are from Weller's commentary. 
 
+New Liturgical Movement has covered several pontifical baptisms, with photographs and commentary.[^3] [^4] [^5]
+
 # Documents
 
 * {{% staticref "files/Pontificalis_Ritus_Pro_Baptismo_Parvulorum_LatinEnglish.pdf" %}}A PDF of the full Latin-English Pontifical Rite of Baptism{{% /staticref %}}
@@ -30,4 +32,12 @@ For the full text of the pontifical rite, I drew from two sources: Reverend Kenn
 [^1]: Kennedy, Reverend Maurice. The New Sanctuary Manual. Roman Catholic Books, 1961.
 
 [^2]: Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf.
+
+[^3]: DiPippo, Gregory. "Baptism by Bishop Schneider in the Traditional Rite." New Liturgical Movement  (December 1 2017).
+
+[^4]: Unknown. "Pontifical Baptism in the Traditional Rite in Madison." New Liturgical Movement  (May 21 2017). http://www.newliturgicalmovement.org/2017/05/pontifical-tlm-baptism-in-madison.html#.X1j8nnlKjcc.
+
+[^5]: DiPippo, Gregory. "A Pontifical Baptism in the Extraordinary Form." New Liturgical Movement  (2013). http://www.newliturgicalmovement.org/2013/08/a-pontifical-baptism-in-extraordinary.html#.X1j8oHlKjcc.
+
+
 
