@@ -41,4 +41,12 @@ Johnson, M.E. The Rites of Christian Initiation: Their Evolution and Interpretat
 
 Lynch, Donald. Baptism. Edited by Donald Lynch. University of St. Thomas, 1952. http://content.clic.edu/cdm/ref/collection/p16120coll9/id/1310.
 
+Kwasniewski, Peter. "The Excision of Exorcisms as a Prelude to Devil-Denial." OnePeterFive  (June 19 2017). https://onepeterfive.com/excision-exorcisms-prelude-devil-denial/.
+
+———. "Can Those Who Missed out on Traditional Baptism Get the Exorcisms “Supplied”?". OnePeterFive  (April 24 2019). https://onepeterfive.com/traditional-baptism-exorcisms-supplied/.
+
+Whispers of Restoration. "An Aid in Experiencing the Striking Beauty of a Traditional Baptism." OnePeterFive  (July 12 2017). https://onepeterfive.com/striking-beauty-traditional-baptism/.
+
+Zuhlsdorf, Fr. John, "Podcazt 174 and Prayercazt: The Latin of the Traditional Rite of Baptism of a Child," Fr. Z's Blog, August 19, 2019, https://wdtprs.com/2019/08/podcazt-174-and-prayercazt-the-latin-of-the-traditional-rite-of-baptism-of-a-child/.
+
 
