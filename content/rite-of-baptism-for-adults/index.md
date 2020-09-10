@@ -38,7 +38,7 @@ From the Roman Ritual[^2]:
 
 # Easter Vigil 
 
-The Roman Ritual advises that adult baptisms should take place during the Vigil of Easter, or the Vigil of Pentecost. 
+The Roman Ritual advises that adult baptisms should take place during the Vigil of Easter, or the Vigil of Pentecost. Of the seven stages mentioned above, typically 1-6 are done before the Vigil, and stage 7 is done at the Vigil. 
 
 There has been growing awareness that Holy Week was dramatically revised in 1955. Some traditional parishes and locations may celebrate the pre-1955 Holy Week, and some may celebrate the 1962 Holy Week. 
 
