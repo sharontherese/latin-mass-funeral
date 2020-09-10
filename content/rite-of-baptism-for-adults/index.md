@@ -36,6 +36,13 @@ From the Roman Ritual[^2]:
 
 > The seventh and last stage leads up to baptism proper. It consists of another roll call, the profession of faith, the request for baptism (nos. 51-52), the act of baptizing (nos. 53-55), the anointing with chrism, which suggests the grace of the Holy Spirit received in baptism (no. 55), the bestowal of the baptismal robe and the lighted candle (nos. 56-57), and the dismissal of the baptized (no. 58).
 
+# Easter Vigil 
+
+The Roman Ritual advises that adult baptisms should take place during the Vigil of Easter, or the Vigil of Pentecost. 
+
+There has been growing awareness that Holy Week was dramatically revised in 1955. Some traditional parishes and locations may celebrate the pre-1955 Holy Week, and some may celebrate the 1962 Holy Week. 
+
+For the texts, propers, and commentaries on the pre-55 Holy Week, visit Pre-1955 Holy Week Resources[^7]. Their website has many full-text resources on the pre-55 Easter Vigil, as well as differences between the pre-55 and 1962 rites. 
 
 # Ordo Baptismi Adultorum 
 
@@ -1015,8 +1022,9 @@ All: **Amen.**
 
 [^4]: "The Seven Sacraments and Their Liturgies, Part 9: The Reception of Converts," Holy Mass and More, August 31, 2018, https://www.holymassandmore.org/2018/08/the-seven-sacraments-and-their_31.html.
 
-[^5]: "Baptismale." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/files/baptismale.pdf.
+[^5]: "Baptismale." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/files/baptismale.pdf; also "Ordo Baptismi Parvulorum." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/baptism.php.
 
 [^6]: Heuser, Herman J. "Baptism." In The Parish Priest on Duty : A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission, 14-53: New York : Benziger Brothers, 1904. http://archive.org/details/theparishpriesto00heusuoft
 
-[^7]: "Baptismale." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/files/baptismale.pdf; also "Ordo Baptismi Parvulorum." In Rituale Romanum, edited by Laudate Dominum: Laudate Dominum, http://laudatedominum.net/baptism.php.
+[^7]: "Resources for the Faithful." Pre-1955 Holy Week Resources, https://www.pre1955holyweek.com/for-the-faithful.
+
