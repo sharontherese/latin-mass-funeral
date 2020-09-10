@@ -19,7 +19,7 @@ To ameliorate this gap, I created this page to provide both the full Latin-Engli
 
 For the full text of the pontifical rite, I drew from two sources: Reverend Kennedy's _The New Sanctuary Manual_[^1], and Fr. Weller's _Roman Ritual_[^2]. Rubrics highlighted in grey in the first PDF below are from Weller's commentary. The English translation in _The New Sanctuary Manual_ differs slightly from that of the _Roman Ritual_. 
 
-New Liturgical Movement has covered several pontifical baptisms, with photographs and commentary.[^3] [^4] [^5]
+New Liturgical Movement[^3] [^4] [^5] and ChurchPOP[^6] have covered several pontifical baptisms, with photographs and commentary.
 
 # Documents
 
@@ -363,6 +363,8 @@ All: **Amen.**
 [^4]: Unknown. "Pontifical Baptism in the Traditional Rite in Madison." New Liturgical Movement  (May 21 2017). http://www.newliturgicalmovement.org/2017/05/pontifical-tlm-baptism-in-madison.html#.X1j8nnlKjcc.
 
 [^5]: DiPippo, Gregory. "A Pontifical Baptism in the Extraordinary Form." New Liturgical Movement  (2013). http://www.newliturgicalmovement.org/2013/08/a-pontifical-baptism-in-extraordinary.html#.X1j8oHlKjcc.
+
+[^6]: ChurchPOP Editor. "Oregon Archbishop Uses 1962 Latin Rite to Baptize Youngest Baby of 12: “I Was Reminded of Why I Became a Priest”."  (May 24 2019). https://churchpop.com/2019/05/24/oregon-archbishop-baptizes-baby-of-12-children-using-1962-latin-rite-i-was-reminded-of-why-i-became-a-priest/.
 
 
 
