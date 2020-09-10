@@ -49,7 +49,7 @@ It is strongly encouraged that you choose of the name of a saint. Some cultures 
 
 # I'm a godparent/sponsor. What do I do?
 
-Visit the [Godparents and Sponsors](https://latinmassbaptism.com/godparents-and-sponsors/) page!
+Visit the [Godparents and Sponsors](/godparents-and-sponsors/) page!
 
 # Why are you calling it "Latin Mass Baptism" if there isn't a Latin Mass? Are you a crypto-modernist? 
 
