@@ -14,7 +14,7 @@ email: ''
 <meta property="og:title" content="Latin Mass Baptism" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://www.latinmassbaptism.com/" />
-<meta property="og:image" content="https://www.latinmassbaptism.com/img/sharing.png" />
+<meta property="og:image" content="https://www.latinmassbaptism.com/static/img/sharing.png" />
 </head>
 </html>
 
