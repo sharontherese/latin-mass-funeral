@@ -26,6 +26,7 @@ Other versions (some English only, some Latin only, some with both side-by-side)
 * Laudate Dominum (website)[^7]
 * A Manual of Prayers For the Use of the Catholic Laity (book)[^8]
 * The Parish Priest on Duty (book)[^9]
+* Father Jerabek (booklet)[^10]
 
 **Any italicized Latin text are the parts of the rite that must be said in Latin.**
 
@@ -335,6 +336,7 @@ All: **Amen.**
 
 [^9]: Heuser, Herman J. "Baptism." In The Parish Priest on Duty : A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission, 14-53: New York : Benziger Brothers, 1904. http://archive.org/details/theparishpriesto00heusuoft
 
+[^10]: Jerabek, Father, "Baptism Booklet for the Extraordinary Form," Dilexi decorem domus Domini, October 6, 2018, https://fatherjerabek.com/2018/10/06/baptism-booklet-for-the-extraordinary-form/.
 
 
 
