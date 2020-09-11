@@ -7,9 +7,13 @@ toggle = false
 
 _Saavedra, Antonio del Castillo y. "Baptism of St. Francis of Assisi." 1660s._
 
+# Does the whole Baptism have to be in Latin? 
+
+No. In fact, much of the traditional rite of Baptism can be said in the vernacular. There are set prayers that can only be said in Latin, including the blessing of salt, the exorcisms, and the anointing must be in Latin. The _Collectio Rituum_, a condensed version of the _Rituale Romanum_, has the most clear layout to show which parts can be vernacular, and which must be Latin. A PDF of the _Collectio_ is available at Laudate Dominum[^1]. 
+
 # Do I need permission for a TLM Baptism? 
 
-Maybe. 
+Maybe!
 
 If the pastor of the parish is performing the baptism, he does not need permission. 
 
@@ -21,11 +25,7 @@ If the bishop is performing the baptism is another diocese, he need permission.
 
 Per _Summorum Pontificum_: 
 
-> Art. 9, §1  The parish priest, after careful consideration, can also grant permission to use the older ritual in the administration of the sacraments of Baptism, Marriage, Penance and Anointing of the Sick, if advantageous for the good of souls.
-
-# Does the whole Baptism have to be in Latin? 
-
-No. In fact, much of the traditional rite of Baptism can be said in the vernacular. There are set prayers that can only be said in Latin, including the blessing of salt, the exorcisms, and the anointing must be in Latin. The _Collectio Rituum_, a condensed version of the _Rituale Romanum_, has the most clear layout to show which parts can be vernacular, and which must be Latin. A PDF of the _Collectio_ is available at Laudate Dominum[^1]. 
+> Art. 9, §1  The parish priest, after careful consideration, can also grant permission to use the older ritual in the administration of the sacraments of Baptism, Marriage, Penance and Anointing of the Sick, if advantageous for the good of souls.[^2]
 
 # When should someone be baptized? 
 
@@ -33,7 +33,7 @@ If it is an emergency, the person should be baptized as quickly as possible. Inf
 
 # What are the differences between the new and the old rites of Baptism?
 
-The revisions to the rite of Baptism were extensive. Detailed, side-by-side comparisons are available on numerous Catholic websites, including Traditional Catholic Priest[^2] and CatholicScout[^3]. 
+The revisions to the rite of Baptism were extensive. Detailed, side-by-side comparisons are available on numerous Catholic websites, including Traditional Catholic Priest[^3] and CatholicScout[^4]. 
 
 # Who can be a godparent or sponsor? 
 
@@ -61,8 +61,10 @@ So, while traditional baptisms happen outside the Mass, and in many cases do not
 
 [^1]: Collectio Rituum Romanum. Edited by Laudate Dominum. 1925. http://laudatedominum.net/files/coll_rit_rom.pdf.
 
-[^2]: Carota, Father, "Latin Baptism Vs. New Rite of Baptism," Traditional Catholic Priest, July 18, 2013, http://www.traditionalcatholicpriest.com/2013/07/18/latin-baptism-vs-new-rite-of-baptism/.
+[^2]: Pope Benedict XVI. "Summorum Pontificum." Vatican Publishing House (Libreria editrice vaticana)  (July 7 2007). http://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html.
 
-[^3]: "Catholicscout Clarifies: Traditional Baptism Side-by-Side with Novus Ordo Baptism," Catholic Scout, January 20, 2014, https://catholicscout.wordpress.com/2014/01/20/baptism-side-by-side-traditional-new-rite/.
+[^3]: Carota, Father, "Latin Baptism Vs. New Rite of Baptism," Traditional Catholic Priest, July 18, 2013, http://www.traditionalcatholicpriest.com/2013/07/18/latin-baptism-vs-new-rite-of-baptism/.
+
+[^4]: "Catholicscout Clarifies: Traditional Baptism Side-by-Side with Novus Ordo Baptism," Catholic Scout, January 20, 2014, https://catholicscout.wordpress.com/2014/01/20/baptism-side-by-side-traditional-new-rite/.
 
 
