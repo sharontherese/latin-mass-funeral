@@ -1,6 +1,6 @@
 +++
 text = ""
-title = "Rubrics for the Rite of Baptism"
+title = "Rubrics for Funerals"
 toggle = false
 aliases = [
 ]
@@ -25,7 +25,7 @@ Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sens
 
 Fortescue, A. The Ceremonies of the Roman Rite Described. Oates, 1948. https://books.google.com/books?id=VI-pDwAAQBAJ.
 
-Heuser, Herman J. "Baptism." In The Parish Priest on Duty : A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission, 14-53: New York : Benziger Brothers, 1904. http://archive.org/details/theparishpriesto00heusuoft.
+The Parish Priest on Duty : A Practical Manual for Pastors, Curates, and Theological Students Preparing for the Mission: New York : Benziger Brothers, 1904. http://archive.org/details/theparishpriesto00heusuoft.
 
 # Further reading on rubrics
 
