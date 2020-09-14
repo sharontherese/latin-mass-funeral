@@ -1,5 +1,5 @@
 # Theme metadata
-name = "white"
+name = "black"
 
 # Is theme light or dark?
 light = true
@@ -8,9 +8,9 @@ light = true
 primary = "#0000EE"
 
 # Menu
-menu_primary = "#4A235A" # 500
+menu_primary = "#000000" # 500
 menu_text = "#fff"
-menu_text_active = "#A569BD" # A100
+menu_text_active = "#696969" # A100
 menu_title = "#fff"
 
 # Home sections
