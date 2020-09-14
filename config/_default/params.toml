@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-theme = "white"
+theme = "black"
 # Enable users to switch between day and night mode?
 day_night = false
 
@@ -15,7 +15,7 @@ font = "minimal"
 font_color = "#000000"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Learn about Latin Mass baptisms!"
+description = "Learn about Latin Mass funerals!"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "sharing.png"
