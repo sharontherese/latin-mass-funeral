@@ -18,6 +18,9 @@ Cemetery
 Cematery
 : a red herring
 
+Necrology
+: a
+
 # Sources
 
 [^1]: 
