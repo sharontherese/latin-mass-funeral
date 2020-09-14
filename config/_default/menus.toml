@@ -9,14 +9,19 @@
   weight = 20  
 
 [[main]]
-  name = "Rites of Baptism"
-  url = "#project_rites"
+  name = "Rites for Adults"
+  url = "#project_adults"
   weight = 30  
+  
+[[main]]
+  name = "Rites for Children"
+  url = "#project_children"
+  weight = 40    
 
 [[main]]
   name = "Planning"
   url = "#project_planning"
-  weight = 40  
+  weight = 50  
   
 # [[main]]
 #  name = "Posts"
