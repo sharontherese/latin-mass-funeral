@@ -316,3 +316,314 @@ R: Et lux perpetua luceat eis.
 V: Requiescant in pace.
 
 R: Amen
+
+# The Mass for the Dead 
+
+INTROIT
+Esdr. 2: 34, 35
+
+Eternal rest give unto them, O Lord. And let perpetual light shine upon them. A hymn, O God, becometh Thee in Zion and a vow shall be paid to thee in Jerusalem. Hear my prayer.
+All flesh shall come before you.
+
+COLLECT
+
+O God, Whose property is ever to have mercy and to spare, we humbly entreat Thee on behalf of the soul of Thy servant (handmaid) N., whom Thou hast bidden this day to pass out of this world: that Thou wouldst not deliver him  into the hands of the enemy, nor forget him for ever, but command him to be taken up by the holy angels, and to be borne to our home in Paradise, that as he had put his faith and hope in Thee, he may not undergo the pains of Hell but may possess everlasting joys. Through our Lord Jesus Christ, Thy Son, Who liveth and reigneth with Thee, in the unity of the Holy Ghost, God, world without end.
+
+EPISTLE
+1. Thess. 4: 13-18
+
+Brethren: We will not have you ignorant concerning them that are asleep, that you be not sorrowful, even as others who have no hope; for, if we believe that Jesus died and rose again, even so, them who have slept through Jesus will God bring with Him. For this we say unto you in the word of the Lord, that we who are alive, who remain unto the coming of the Lord, shall not prevent them who have slept. For the Lord Himself shall come down from Heaven, with commandment, and with the voice of an Archangel, and with the trumpet of God; and the dead who are in Christ shall rise first. Then we who are alive, who are left, shall be taken up together with them in the clouds to meet Christ, into the air, and so shall we be always with the Lord. Wherefore comfort ye one another with these words.
+
+GRADUAL
+Esdr. 2: 34, 35
+
+Eternal rest grant unto them, O Lord: and let perpetual light shine upon them. He shall be justified in everlasting memory, and shall not fear evil reports.
+
+TRACT
+
+Forgive, O Lord, the souls of all the faithful departed from all the chains of their sins and by the aid to them of your grace may they deserve to avoid the judgment of revenge, and enjoy the blessedness of everlasting light.
+
+SEQUENCE 
+
+This day, this day of wrath
+shall consume the world in ashes,
+as foretold by David and the Sibyl.
+
+What trembling there will be
+When the judge shall come
+to weigh everything strictly!
+
+The trumpet, scattering its awful sound
+Across the graves of all lands
+Summons all before the throne.
+
+Death and nature shall be stunned
+When mankind arises
+To render account before the judge.
+
+The written book shall be brought
+In which all is contained
+Whereby the world shall be judged
+
+When the judge takes his seat
+all that is hidden shall appear
+Nothing will remain unavenged.
+
+What shall I, a wretch, say then?
+To which protector shall I appeal
+When even the just man is barely safe?
+
+King of awful majesty
+You freely save those worthy of salvation
+Save me, found of pity.
+
+Remember, gentle Jesus
+that I am the reason for your time on earth,
+do not cast me out on that day
+
+Seeking me, you sank down wearily,
+you saved me by enduring the cross,
+such travail must not be in vain.
+
+Righteous judge of vengeance,
+award the gift of forgiveness
+before the day of reckoning.
+
+I groan as one guilty,
+my face blushes with guilt;
+spare the suppliant, O God.
+
+Thou who didsn't absolve Mary [Magdalen]
+and hear the prayer of the thied
+hast given me hope, too.
+
+My prayers are not worthy,
+but Thou, O good one, show mercy,
+lest I burn in everlasting fire,
+
+Give me a place among the sheep,
+and separate me from the goats,
+placing me on Thy right hand.
+
+When the damned are confounded
+and consigned to keen flames,
+call me with the blessed.
+
+I pray, suppliant and kneeling,
+a heart as contrite as ashes;
+take Thou my ending into Thy care.
+
+That day is one of weeping,
+on which shall rise again from the ashes
+the guilty man, to be judged.
+
+Therefore spare this one, O God,
+merciful Lord Jesus:
+Give them rest. Amen.
+
+GOSPEL
+John. 11: 21-27
+
+At that time: Martha said to Jesus, Lord, if Thou hadst been here, my brother had not died: but now also I know that whatsoever Thou wilt ask of God, God will give it Thee. Jesus saith to her, Thy brother shall rise again. Martha saith to Him, I know that he shall rise again in the resurrection at the last day. Jesus saith to her, I am the resurrection and the life: he that believeth in Me, although he be dead, shall live; and every one that liveth and believeth in Me, shall not die for ever. Believest thou this? She saith to Him, Yea, Lord, I have believed that Thou art Christ, the Son of the living God, Who art come into this world.
+
+OFFERTORY
+
+Lord Jesus Christ, king of glory, deliver the souls of all the faithful departed from the pains of Hell and the bottomless pit. Deliver them from the jaws of the lion, lest hell engulf them, lest they be plunged into darkness; but let the holy standard-bearer Michael lead them into the holy light, as once you promised to Abraham and to his seed. Lord, in praise we offer you Sacrifices and prayers, accept them on behalf of those who we remember this day: Lord, make them pass from death to life, as once you promised to Abraham and to his seed.
+
+AGNUS DEI 
+
+O Lamb of God, that takest away the sins of the world, grant them rest. O Lamb of God, that takest away the sins of the world, grant them rest. O Lamb of God, that takest away the sins of the world, grant them eternal rest.
+
+SECRET
+
+Be merciful, we beseech Thee, O Lord, to the soul of Thy servant N., for whom we offer to Thee the sacrifice of praise, humbly entreating Thy Majesty: that, by this service of pious atonement, he may deserve to attain to eternal rest. Through our Lord Jesus Christ, Thy Son, Who is God, and liveth and reigneth with Thee in the unity of the Holy Ghost, world without end. Amen.
+
+PREFACE
+
+It is truly meet and just, right and for our salvation, that we should at all times and in all places give thanks to Thee, holy Lord, Father almighty, eternal God, through Christ our Lord: in Whom the hope of a blessed resurrection hath beamed upon us: so that those who are saddened by the certainty of dying may be consoled by the promise of a future deathless life. For to Thy faithful people, Lord, life is changed, not taken away; and when the home of this earthly sojourn is dissolved, an eternal dwelling is made ready in Heaven. And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the Heavenly army, we sing a hymn to Thy praise, evermore saying:
+
+COMMUNION 
+Esdr. 2: 34, 35
+
+Let everlasting light shine upon them, Lord, with Thy saints for ever, for Thou art merciful. Grant them eternal rest, Lord, and let perpetual light shine upon them, for Thou art merciful.
+
+POSTCOMMUNION
+
+Grant, we beseech Thee, Almighty God, that the soul of Thy servant N., who, this day, has departed out of this world, being purified by this sacrifice and delivered from his sins, may receive both pardon and everlasting rest. Through our Lord Jesus Christ, Thy Son, Who is God, and liveth and reigneth with Thee in the unity of the Holy Ghost, world without end.
+
+DISMISSAL
+
+V. May they rest in peace.
+
+R. Amen.
+
+## ABSOLUTION WHEN THE BODY IS PRESENT 
+
+Enter not into judgement with Thy servant, O Lord; for, save Thou grant him forgiveness of all his sins, no man shall be justified in Thy sight. Wherefore, suffer not, we beseech Thee, the sentence Thou pronouncest in judgement upon one whom the faithful prayer of Christian people commends to Thee, to be a doom which shall crush him utterly. Rather, succour him by Thy gracious favour, that he may escape Thine avenging justice who, in his lifetime, was signed with the seal of the Holy Trinity: Who livest and reignest, world without end. 
+
+R:  Amen.
+
+R: Deliver me, O Lord, from death eternal in that awful day. When the heavens and the earth shall be moved: When Thou shalt come to judge the world by fire.
+
+V: Dread and trembling have laid hold on me, and I fear exceedingly because of the judgement and of the wrath to come.
+
+R: When the heavens and the earth shall be moved: When Thou shalt come to judge the world by fire.
+
+V: O that day, that day of wrath, of sore distress and of all wretchedness, that great day and exceeding bitter.
+
+R: When Thou shalt come to judge the world by fire.
+
+V: Eternal rest grant unto him/her, O Lord, and let light perpetual shine upon him/her ..
+
+R:  Deliver me, O Lord, from death eternal in that awful day. When the heavens and the earth shall be moved: When Thou shalt come to judge the world by fire.
+
+Incense is spooned, and the Priest blesses it, saying:
+
+Be blessed by Him in Whose honour Thou art burnt. Amen.
+
+Lord, have mercy. Christ, have mercy. Lord, have mercy.
+
+Priest: Our Father, (all continuing together) Who art in Heaven, Hallowed by Thy Name. Thy Kingdom come. Thy will be done on earth as it is in Heaven. Give us this day our daily bread, and forgive us our trespasses as we forgive those who trespass against us, . . .
+
+V: And lead us not into temptation.
+
+R:  But deliver us from evil.
+
+V: From the gate of Hell.
+
+R:  Deliver his soul, O Lord.
+
+V: May he rest in peace.
+
+R:  Amen.
+
+V: O Lord, hear my prayer.
+
+R:  And let my cry come unto Thee.
+
+V: The Lord be with you.
+
+R:  And with thy spirit.
+
+O God, Whose property is ever to have mercy and to spare, we humbly entreat Thee on behalf of the soul of Thy servant N., whom Thou hast bidden this day to pass out of this world: that Thou wouldst not deliver him into the hands of the enemy, nor forget him for ever, but command him to be taken up by the holy angels, and to be borne to our home in Paradise, that as he had put his faith and hope in Thee, he may not undergo the pains of Hell but may possess everlasting joys. Through our Lord Jesus Christ.
+
+R: Amen.
+
+May the angels lead thee into Paradise: may the martyrs receive thee at Thy coming, and lead thee into the holy City of Jerusalem. May the Choir of angels receive thee, and mayest thou have eternal rest with Lazarus, who once was poor.
+
+## ABSOLUTION WHEN THE BODY IS NOT PRESENT 
+
+R: Deliver me, O Lord, from death eternal in that awful day. When the heavens and the earth shall be moved: When Thou shalt come to judge the world by fire.
+
+V: Dread and trembling have laid hold on me, and I fear exceedingly because of the judgement and of the wrath to come.
+
+R: When the heavens and the earth shall be moved: When Thou shalt come to judge the world by fire.
+
+V: O that day, that day of wrath, of sore distress and of all wretchedness, that great day and exceeding bitter.
+
+R: When Thou shalt come to judge the world by fire.
+
+V: Eternal rest grant unto him/her, O Lord, and let light perpetual shine upon him/her ..
+
+R:  Deliver me, O Lord, from death eternal in that awful day. When the heavens and the earth shall be moved: When Thou shalt come to judge the world by fire.
+
+Incense is spooned, and the Priest blesses it, saying:
+
+Be blessed by Him in Whose honour Thou art burnt. Amen.
+
+Lord, have mercy. Christ, have mercy. Lord, have mercy.
+
+V: And lead us not into temptation.
+
+R:  But deliver us from evil.
+
+V: From the gate of Hell.
+
+R:  Deliver his soul, O Lord.
+
+V: May he rest in peace.
+
+R:  Amen.
+
+V: O Lord, hear my prayer.
+
+R:  And let my cry come unto Thee.
+
+V: The Lord be with you.
+
+R:  And with thy spirit.
+
+Absolve, O Lord, we beseech Thee, the soul of Thy servant (handmaid) N., from every bond of sin: that, in the glory of the Resurrection, he may be raised up amid Thy saints and elect unto newness of life. Through Christ our Lord. 
+
+R: Amen.
+
+V: Eternal rest grant unto him, O Lord.
+
+R: And let perpetual light shine upon him.
+
+V: May he rest in peace.
+
+R: Amen.
+
+V: May his soul and the souls of all the faithful departed, through the mercy of God, rest in peace.
+
+R: Amen
+
+If Thou, O Lord, shalt mark iniquities, Lord, who shall endure it?
+
+Out of the depths I have cried to Thee, O Lord! Lord, hear my voice.
+
+Let Thine ears be attentive to the voice of my supplication.
+
+If Thou, O Lord, shalt mark iniquities, Lord, who shall endure it?
+
+For with Thee, there is merciful forgiveness, and by reason of Thy law, I have waited upon Thee, O Lord.
+
+My soul hath relied on His word: my soul hath hoped in the Lord.
+
+From the morning watch even until night, let Israel hope in the Lord:
+
+For, with the Lord, there is mercy, and with Him, plentiful redemption.
+
+And He shall redeem Israel, from all his iniquities.
+
+V: Eternal rest give unto them, O Lord.
+
+R: And let perpetual light shine upon them.
+
+If Thou, O Lord, shalt mark iniquities, Lord, who shall endure it?
+
+Lord, have mercy. Christ, have mercy. Lord, have mercy
+Our Father (all continuing in silence) who art in Heaven, hallowed by Thy Name. Thy Kingdom come. Thy will be done on earth as it is in Heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us. 
+
+V: And lead us not into temptation.
+
+R: But deliver us from evil.
+
+V: From the gate of Hell.
+
+R: Deliver their souls, O Lord.
+
+V: May they rest in peace.
+
+R: Amen.
+
+V: O Lord, hear my prayer.
+
+R: And let my cry come unto Thee.
+
+V: The Lord be with you.
+
+R: And with Thy spirit.
+
+Let us pray. O God, the Creator and Redeemer of all the faithful: grant unto the souls of Thy servants and handmaids the remission of all their sins; that, through devout supplications, they may obtain the pardon which they have always desired: who livest and reignest, world without end.
+
+R: Amen.
+
+V: Eternal rest give unto them, O Lord.
+
+R: And let perpetual light shine upon them.
+
+V: May they rest in peace.
+
+R: Amen.
