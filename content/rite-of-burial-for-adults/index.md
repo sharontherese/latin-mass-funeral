@@ -6,6 +6,8 @@ toggle = false
 
 +++
 
+_Artwork: fra angelico_
+
 # Latin text
 
 1. Constituto tempore, quo corpus ad Ecclesiam deferendum est, convocetur Clerus, et alii, qui funeri interesse debent, et in parochialem, vel in aliam Ecclesiam, juxta loci consuetudinem, ordine conveniant; ac datis certis campanae signis, eo modo et ritu, quo in eo loco fieri solet, Parochus indutus superpelliceo et stola nigra, vel etiam pluviali ejusdem coloris, clerico praeferente crucem, et alio aquam benedictam, ad domum defuncti una cum aliis procedit. Distribuuntur cerei, et accenduntur intorticia. 
