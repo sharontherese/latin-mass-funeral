@@ -5,6 +5,9 @@ title = "Requiem Mass (Missa Defunctoris)"
 toggle = false
 
 +++
+
+_Artwork: Master of the Harvard Hannibal (French, active Paris, France, 1415 - about 1430). Mass for the Dead, about 1420 - 1430, Tempera, gold paint, gold leaf, and silver paint on parchment. Leaf: 17.9 × 13 cm (7 1/16 × 5 1/8 in.), Ms. 19 (86.ML.481), fol. 113. The J. Paul Getty Museum, Los Angeles, Ms. 19, fol. 113_
+
  # Latin text
  
 INTROITUS
