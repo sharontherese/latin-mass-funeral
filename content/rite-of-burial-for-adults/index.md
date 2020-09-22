@@ -6,7 +6,7 @@ toggle = false
 
 +++
 
-_Artwork: fra angelico_
+_Artwork: Master of Guillaume Lambert (French, active about 1475 - 1485). Burial, 1478, Tempera colors, gold paint, and iron gall ink on parchment bound between pasteboard covered with brown jansenist morocco. Leaf: 14.6 × 9.8 cm (5 3/4 × 3 7/8 in.), Ms. 10 (85.ML.80), fol. 116. The J. Paul Getty Museum, Los Angeles, Ms. 10, fol. 116_
 
 # Latin text
 
