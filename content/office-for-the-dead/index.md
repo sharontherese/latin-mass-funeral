@@ -6,7 +6,7 @@ toggle = false
 
 +++
 
-_Artwork: http://www.getty.edu/art/collection/objects/3926/master-of-james-iv-of-scotland-office-of-the-dead-flemish-about-1510-1520/_
+_Artwork: Master of the Llangattock Hours (Flemish, active about 1450 - 1460). Office of the Dead, 1450s, Tempera colors, gold leaf, gold paint, and ink on parchment. Leaf: 26.4 × 18.4 cm (10 3/8 × 7 1/4 in.), Ms. Ludwig IX 7 (83.ML.103), fol. 131v. The J. Paul Getty Museum, Los Angeles, Ms. Ludwig IX 7, fol. 131v_
 
 # Officium Pro Defunctis
 
