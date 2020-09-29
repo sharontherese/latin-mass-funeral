@@ -16,6 +16,8 @@ The Requiem Mass is also said for All Souls' Day, on November 2 of each year.
 
 There are [different Mass prayers](/more-mass-prayers/) for anniversaries of requiems, priests, bishops, and popes, and parents of the celebrating priest. 
 
+There are many beautiful [music settings](/music/) for the Requiem Mass. 
+
 The Latin text below is directly from the _Rituale Romanum_[^1], and English text below is from Philip T. Weller's translation of it, the _Roman Ritual_[^2]. 
 
 The Requiem Mass has a number of distinct elements, so many Catholic presses offer all-in-one Requiem Mass missals, kits, and handouts. These and other versions (some English only, some Latin only, some with both side-by-side) are available here: 
@@ -23,7 +25,6 @@ The Requiem Mass has a number of distinct elements, so many Catholic presses off
 * {{% staticref "files/3._Missa_Defunctorum_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
 * Fish Eaters[^3]
 * Biretta Books[^4]
-
 
  # Missa Defunctorum
  
