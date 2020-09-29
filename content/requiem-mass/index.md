@@ -8,7 +8,24 @@ toggle = false
 
 _Artwork: Master of the Harvard Hannibal (French, active Paris, France, 1415 - about 1430). Mass for the Dead, about 1420 - 1430, Tempera, gold paint, gold leaf, and silver paint on parchment. Leaf: 17.9 × 13 cm (7 1/16 × 5 1/8 in.), Ms. 19 (86.ML.481), fol. 113. The J. Paul Getty Museum, Los Angeles, Ms. 19, fol. 113_
 
- # Latin text
+# About
+
+The Requiem Mass (_Missa Defunctorum_ or _Missa de Profunctis_) may be preceded by the first part of the [Rite of Burial for Adults](/rite-of-burial-for-adults/) and the [Office for the Dead](/office-for-the-dead/). 
+
+The Requiem Mass is also said for All Souls' Day, on November 2 of each year. 
+
+There are [different Mass prayers](/more-mass-prayers/) for anniversaries of requiems, priests, bishops, and popes, and parents of the celebrating priest. 
+
+The Latin text below is directly from the _Rituale Romanum_[^1], and English text below is from Philip T. Weller's translation of it, the _Roman Ritual_[^2]. 
+
+The Requiem Mass has a number of distinct elements, so many Catholic presses offer all-in-one Requiem Mass missals, kits, and handouts. These and other versions (some English only, some Latin only, some with both side-by-side) are available here: 
+
+* {{% staticref "files/3._Missa_Defunctorum_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
+* Fish Eaters[^3]
+* Biretta Books[^4]
+
+
+ # Missa Defunctorum
  
 INTROITUS
 Esdr. 2: 34, 35
@@ -630,3 +647,16 @@ R: And let perpetual light shine upon them.
 V: May they rest in peace.
 
 R: Amen.
+
+# Sources 
+
+[^1]: Catholic Church. "Missale Romanum."  (1920). https://archive.org/details/MissaleRomanum1920/.
+
+[^2]: Catholic Church. The Roman Missal for the Use of the Laity: Containing the Masses Appointed to Be Said Throughout the Year. London : P. Keating, Brown, 1806, 1806. http://archive.org/details/a550137400unknuoft.
+
+[^3]: "Burying the Dead: Catholic Funerals." Fish Eaters. https://www.fisheaters.com/funerals.html.
+
+[^4]: "Missale Defunctorum 1962 with Altar Cards (Boxed Set)." Biretta Books, https://www.birettabooks.com/missale-defunctorum-1962-with-altar-cards-boxed-se.html.
+
+
+
