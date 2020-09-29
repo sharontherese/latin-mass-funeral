@@ -8,8 +8,22 @@ toggle = false
 
 _Artwork: Master of the Llangattock Hours (Flemish, active about 1450 - 1460). Office of the Dead, 1450s, Tempera colors, gold leaf, gold paint, and ink on parchment. Leaf: 26.4 × 18.4 cm (10 3/8 × 7 1/4 in.), Ms. Ludwig IX 7 (83.ML.103), fol. 131v. The J. Paul Getty Museum, Los Angeles, Ms. Ludwig IX 7, fol. 131v_
 
-# Officium Pro Defunctis
+# About
 
+# About
+
+The Office for the Dead may be preceded by the first part of the [Rite of Burial for Adults](/rite-of-burial-for-adults/), and followed by the [Requiem Mass](/requiem-mass/).
+
+The full Office for the Dead is Vespers, Matins, and Lauds. 
+
+The Latin and English texts below are from a Book of Hours[^1]. 
+
+Other versions (some English only, some Latin only, some with both side-by-side) are available here: 
+
+* {{% staticref "files/2._Officium_Pro_Defunctis_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
+* The Roman Ritual (Vespers only)[^2]
+
+# Officium Pro Defunctis
 
 Dicitur integrum cum Invitatorio et tribus Nocturnis, et Antiphonae duplicantur, tam ad Vesperas, quam ad Matutinum, in die omnium Fidelium defunctorum, in die Depositionis, et in Anniversario alicuius defuncti, cum una tantum Oratione, ut infra, et ad Vesperas omittitur Psalmus, Lauda anima mea, et ad Laudes, De profundis, reliquo anni tempore dicitur officium, ut est notatum.
 
@@ -1187,3 +1201,9 @@ R: And let perpetual light shine unto them.
 V: Let them rest in peace.
 
 R: Amen. 
+
+# Sources
+
+[^1]: "A Hypertext Book of Hours." http://medievalist.net/hourstxt/home.htm.
+
+[^2]: Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf.
