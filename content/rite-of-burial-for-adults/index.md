@@ -702,8 +702,8 @@ All: **Amen.**
 
 # Sources
 
-Catholic Church. Rituale Romanum Pauli V Pontificis Maximi Jussu Editum Et a Benedicto Xiv Auctum Et Castigatum. Cui Novissima Accedit Benedictiorum Et Instructionum Appendix. 1903. https://archive.org/details/ritualeromanum00cath/mode/2up.
+[^1]: Catholic Church. Rituale Romanum Pauli V Pontificis Maximi Jussu Editum Et a Benedicto Xiv Auctum Et Castigatum. Cui Novissima Accedit Benedictiorum Et Instructionum Appendix. 1903. https://archive.org/details/ritualeromanum00cath/mode/2up.
 
-Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf.
+[^2]: Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf.
 
 
