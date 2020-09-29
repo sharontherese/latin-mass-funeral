@@ -8,7 +8,18 @@ toggle = false
 
 _Artwork: Master of Guillaume Lambert (French, active about 1475 - 1485). Burial, 1478, Tempera colors, gold paint, and iron gall ink on parchment bound between pasteboard covered with brown jansenist morocco. Leaf: 14.6 × 9.8 cm (5 3/4 × 3 7/8 in.), Ms. 10 (85.ML.80), fol. 116. The J. Paul Getty Museum, Los Angeles, Ms. 10, fol. 116_
 
-# Latin text
+# About
+
+The Rite of Burial for Adults starts with the procession to the church (#1-6), where the [Office for the Dead](/office-for-the-dead/) and the [Requiem Mass](/requiem-mass/) may take place. The remainder of the Rite of Burial (#7-19) takes place at the cemetery. 
+
+The Latin text below is directly from the _Rituale Romanum_[^1], and English text below is from Philip T. Weller's translation of it, the _Roman Ritual_[^2]. 
+
+Other versions (some English only, some Latin only, some with both side-by-side) are available here: 
+
+* {{% staticref "files/1. Exsequarium_Ordo_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
+* {{% staticref "files/Roman Rite for burials.pdf" %}}the excerpt from Weller's _Roman Ritual_{{% /staticref %}}
+
+# Exsequarium Ordo
 
 1. Constituto tempore, quo corpus ad Ecclesiam deferendum est, convocetur Clerus, et alii, qui funeri interesse debent, et in parochialem, vel in aliam Ecclesiam, juxta loci consuetudinem, ordine conveniant; ac datis certis campanae signis, eo modo et ritu, quo in eo loco fieri solet, Parochus indutus superpelliceo et stola nigra, vel etiam pluviali ejusdem coloris, clerico praeferente crucem, et alio aquam benedictam, ad domum defuncti una cum aliis procedit. Distribuuntur cerei, et accenduntur intorticia. 
 
@@ -300,7 +311,7 @@ R: **Amen.**
 
 19. Missa vero, si hora fuerit congruens, ritu pro defunctis, ut in die obitus, praesente corpore, non omittatur, nisi obstet magna diei solemnitas, aut aliqua necessitas aliter suadeat: et post Missam fiat, ut supra.
 
-# English text 
+# Rite of Burial for Adults 
 
 1. At the time designated for taking the remains to church, the clergy are called together, as well as others who should take part in the obsequies. All assemble in the parish church or in another church, as local custom determines. As soon as the bells sound the signal in the usual manner of the locality, the pastor, vested in surplice and black stole or, as the case may be, wearing also a cope of the same color, and preceded by a cleric carrying the cross and another the holy water, goes in company of the others to the home of the deceased. Here candles are distributed and the torches are lighted.
 
@@ -688,3 +699,11 @@ All: **Amen.**
 18. The proper Mass for this occasion, provided the hour allows it, is the one listed in the Missal for the day of death or burial to be celebrated with the body present. It must never be omitted, unless a high feast forbids it or some other necessity dictates otherwise. After Mass everything takes place as above.
 
 19. The rite as given above is prescribed for every funeral of an adult, for the clergy or the laity, and is to be observed also when a deacon presides at the obsequies. A deacon may act in this capacity with the permission of the Ordinary or the pastor, which permission can be granted for a serious reason. In a case of necessity this may lawfully be presumed.
+
+# Sources
+
+Catholic Church. Rituale Romanum Pauli V Pontificis Maximi Jussu Editum Et a Benedicto Xiv Auctum Et Castigatum. Cui Novissima Accedit Benedictiorum Et Instructionum Appendix. 1903. https://archive.org/details/ritualeromanum00cath/mode/2up.
+
+Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf.
+
+
