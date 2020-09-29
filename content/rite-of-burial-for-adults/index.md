@@ -16,7 +16,7 @@ The Latin text below is directly from the _Rituale Romanum_[^1], and English tex
 
 Other versions (some English only, some Latin only, some with both side-by-side) are available here: 
 
-* {{% staticref "files/1. Exsequarium_Ordo_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
+* {{% staticref "files/1._Exsequarium_Ordo_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
 * {{% staticref "files/Roman Rite for burials.pdf" %}}the excerpt from Weller's _Roman Ritual_{{% /staticref %}}
 
 # Exsequarium Ordo
