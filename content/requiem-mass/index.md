@@ -653,7 +653,7 @@ R: Amen.
 
 [^1]: Catholic Church. "Missale Romanum."  (1920). https://archive.org/details/MissaleRomanum1920/.
 
-[^2]: Catholic Church. The Roman Missal for the Use of the Laity: Containing the Masses Appointed to Be Said Throughout the Year. London : P. Keating, Brown, 1806, 1806. http://archive.org/details/a550137400unknuoft.
+[^2]: Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf.
 
 [^3]: "Burying the Dead: Catholic Funerals." Fish Eaters. https://www.fisheaters.com/funerals.html.
 
