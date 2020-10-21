@@ -25,9 +25,9 @@ I have formatted a Latin-English version of the rite below:
 
 De Exsequiis Parvulorum
 
-1.	In primis admonendi sunt Parochi, ut juxta vetustam et laudabilem Ecclesiarum consue- tudinem, parvulorum corpuscula non sepeliantur in communibus et promiscuis Coemeteriorum et Ecclesiarum sepulturis; sed ut pro illis in parochialibus Ecclesiis, aut illarum Coemeteriis, quatenus commode fieri potest, speciales et separatos ab aliis loculos et sepulturas habeant, seu fieri curent, in quibus non sepeliantur, nisi qui baptizati fuerint infantes, vel pueri, qui ante annos discretionis obierunt.
+1\.	In primis admonendi sunt Parochi, ut juxta vetustam et laudabilem Ecclesiarum consue- tudinem, parvulorum corpuscula non sepeliantur in communibus et promiscuis Coemeteriorum et Ecclesiarum sepulturis; sed ut pro illis in parochialibus Ecclesiis, aut illarum Coemeteriis, quatenus commode fieri potest, speciales et separatos ab aliis loculos et sepulturas habeant, seu fieri curent, in quibus non sepeliantur, nisi qui baptizati fuerint infantes, vel pueri, qui ante annos discretionis obierunt.
 
-2.	In funere parvulorum ut plurimum non pulsantur campanae; quod si pulsentur, non sono lugubri, sed potius festivo pulsari debent.
+2\.	In funere parvulorum ut plurimum non pulsantur campanae; quod si pulsentur, non sono lugubri, sed potius festivo pulsari debent.
 
 Cum igitur infans vel puer baptizatus defunctus fuerit ante usum rationis, induitur juxta aeta- tem, et imponitur ei corona de floribus, seu de herbis aromaticis et odoriferis, in signum integritatis carnis et virginitatis; et Parochus superpelliceo et stola alba indutus, et alii de Clero, si adsint, praecedente cruce, quae sine hasta defertur, accedunt ad domum defuncti, cum Clerico aspersorium deferente.
 
@@ -59,7 +59,7 @@ Psalmus 112.
 
 Antiphona. 
 
-2. Dum portatur ad Ecclesiam, dicatur Psalm. Beati immaculati etc. (pag. 118); et si tempus super est, dici potest Psalm. **Laudate Dominum de caelis**, etc. pag. 195 cum aliis duobus sequentibus, et in fine **Gloria Patri**, etc. 
+2\. Dum portatur ad Ecclesiam, dicatur Psalm. Beati immaculati etc. (pag. 118); et si tempus super est, dici potest Psalm. **Laudate Dominum de caelis**, etc. pag. 195 cum aliis duobus sequentibus, et in fine **Gloria Patri**, etc. 
 
 Cum autem pervenerit ad Ecclesiam, dicatur: 
 
@@ -173,9 +173,9 @@ R: **Et cum spiritu tuo.**
 
 Amen. 
 
-3. Deinde Sacerdos corpus aspergat aqua henedicta, et thurificet, similiter et tumulum: postea sepeliatur. 
+3\. Deinde Sacerdos corpus aspergat aqua henedicta, et thurificet, similiter et tumulum: postea sepeliatur. 
 
-4. Cum autem a sepultura revertuntur in Ecclesiam, dicatur: 
+4\. Cum autem a sepultura revertuntur in Ecclesiam, dicatur: 
 
 **Benedicite omnia opera Domini Domino: * laudate et superexaltate eum in saecula.**
 
@@ -235,14 +235,14 @@ Canticum trium puerorum. Dan. 3.
 
 # English
 
-1. First of all let it be the concern of pastors that, in compliance with ancient and praiseworthy ecclesiastical custom, the bodies of little children are not interred in that part of the cemetery which is used for the general public. Rather, as far as possible, they should have their own special and separate plot, where none but baptized infants and children who die before attaining the use of reason should be buried.
+1\. First of all let it be the concern of pastors that, in compliance with ancient and praiseworthy ecclesiastical custom, the bodies of little children are not interred in that part of the cemetery which is used for the general public. Rather, as far as possible, they should have their own special and separate plot, where none but baptized infants and children who die before attaining the use of reason should be buried.
 
-2. At funerals of children the church bells, if rung, ought not to be tolled but rather rung out in festive tones.
+2\. At funerals of children the church bells, if rung, ought not to be tolled but rather rung out in festive tones.
 (The rite given here for the burial of a child is not to be regarded as a prayer of petition of the Church for the soul of the child. Rather, it is to be seen as a prayer of praise and thanksgiving to God for having taken the child to the glory and happiness of everlasting life. Viewed in this light Catholic parents will desire that a child of theirs be laid to rest with these beautiful prayers and ceremonies, in full accord with the mind of the Church. In this very act of giving glory to God they will find resignation to His will, and with it peace and consolation for themselves.)
 
-Rites at the Home
+## Rites at the Home
 
-1. When a baptized infant or child dies before attaining the age of reason, the body is clothed as befits its age, and around it are placed flowers or fragrant herbs or greens, in token of the child's integrity and virginal purity. The pastor, vested in surplice and white stole, goes to the home of the deceased. He should be accompanied by other clergy if they are available, one of whom carries the aspersory. The procession is led by the cross-bearer who carries a cross that has no shaft. 
+1\. When a baptized infant or child dies before attaining the age of reason, the body is clothed as befits its age, and around it are placed flowers or fragrant herbs or greens, in token of the child's integrity and virginal purity. The pastor, vested in surplice and white stole, goes to the home of the deceased. He should be accompanied by other clergy if they are available, one of whom carries the aspersory. The procession is led by the cross-bearer who carries a cross that has no shaft. 
 The priest sprinkles the body as he intones the following antiphon, which is then continued by the choir:
 
 Antiphon 
@@ -269,13 +269,13 @@ All: **He establishes in her home the barren wife * as the joyful mother of chil
 
 P: **Glory be to the Father.**
 
-All: ** As it was in the beginning.**
+All: **As it was in the beginning.**
 
 All: Ant. **Blessed be the name of the Lord, * both now and forevermore.**
 
-2. While the body is being taken to the church the first two sections of psalm 118 are said.
+2\. While the body is being taken to the church the first two sections of psalm 118 are said.
 
-Procession into the Church
+## Procession into the Church
 
 As the procession enters the church the following antiphon and psalm are sung:
 
@@ -313,7 +313,7 @@ All: Ant. **This child shall receive a blessing from the Lord, * a reward from G
 
 (The Roman Ritual does not say where the coffin is to be placed; nor that Mass is to be celebrated; nor that incense is to be used. In the U. S., however, custom dictates that the coffin is arranged as at adult burial and four lighted candles are placed around it; also that incense is used. And in many places Mass is offered, the Votive Mass of the Angels--why this one precisely is not clear. If Mass is celebrated it should follow at this time. The service in church is then concluded with the blessing of the body, before it is taken to the cemetery.)
 
-The Blessing of the Body
+## The Blessing of the Body
 
 Before sprinkling the body with holy water and incensing it, the priest chants:
 
@@ -341,7 +341,7 @@ All: **May He also be with you.**
 
 All: **Amen.**
 
-Procession to the Cemetery
+## Procession to the Cemetery
 
 The following antiphon and psalm are sung while the body is being carried out to the cemetery; or if this is deferred they are sung in church:
 
@@ -385,7 +385,7 @@ P: **As it was in the beginning.**
 
 All: **Ant. Let young men and maidens, old men and boys, * praise the name of the Lord.**
 
-At the Grave
+## At the Grave
 
 The Roman Ritual makes no provision for the blessing of the grave; but the Collectio Rituum U.S.A. gives the following blessing:
 
@@ -421,11 +421,11 @@ P: **The Lord be with you. **
 
 All: **May He also be with you. **
 
-**Let us pray. God, who in a marvellous way have disposed the ministries of angels and of men, mercifully grant that our life on earth may be under the protection of those who minister to you in heaven; through Christ our Lord. **
+**Let us pray. God, who in a marvellous way have disposed the ministries of angels and of men, mercifully grant that our life on earth may be under the protection of those who minister to you in heaven; through Christ our Lord.**
 
-All: **Amen. **
+All: **Amen.**
 
-5. The rite given above is to be observed also when a deacon presides at this function. A deacon may act in this capacity with the permission of the Ordinary or the pastor, which permission can be granted for a serious reason. In a case of necessity this may lawfully be presumed.
+5\. The rite given above is to be observed also when a deacon presides at this function. A deacon may act in this capacity with the permission of the Ordinary or the pastor, which permission can be granted for a serious reason. In a case of necessity this may lawfully be presumed.
 
 # Sources 
 
