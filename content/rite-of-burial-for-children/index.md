@@ -235,6 +235,197 @@ Canticum trium puerorum. Dan. 3.
 
 # English
 
+1. First of all let it be the concern of pastors that, in compliance with ancient and praiseworthy ecclesiastical custom, the bodies of little children are not interred in that part of the cemetery which is used for the general public. Rather, as far as possible, they should have their own special and separate plot, where none but baptized infants and children who die before attaining the use of reason should be buried.
+
+2. At funerals of children the church bells, if rung, ought not to be tolled but rather rung out in festive tones.
+(The rite given here for the burial of a child is not to be regarded as a prayer of petition of the Church for the soul of the child. Rather, it is to be seen as a prayer of praise and thanksgiving to God for having taken the child to the glory and happiness of everlasting life. Viewed in this light Catholic parents will desire that a child of theirs be laid to rest with these beautiful prayers and ceremonies, in full accord with the mind of the Church. In this very act of giving glory to God they will find resignation to His will, and with it peace and consolation for themselves.)
+
+Rites at the Home
+
+1. When a baptized infant or child dies before attaining the age of reason, the body is clothed as befits its age, and around it are placed flowers or fragrant herbs or greens, in token of the child's integrity and virginal purity. The pastor, vested in surplice and white stole, goes to the home of the deceased. He should be accompanied by other clergy if they are available, one of whom carries the aspersory. The procession is led by the cross-bearer who carries a cross that has no shaft. 
+The priest sprinkles the body as he intones the following antiphon, which is then continued by the choir:
+
+Antiphon 
+
+Psalm 112
+
+P: **Blessed be the name of the Lord, * both now and forevermore.**
+
+P: **Praise, you servants of the Lord, * praise the name of the Lord.**
+
+All: **Blessed be the name of the Lord, * both now and forevermore.**
+
+P: **From the rising to the setting of the sun * is the name of the Lord to be praised.**
+
+All: **High above all nations is the Lord; * above the heavens in His glory.**
+
+P: **Who is like the Lord, our God, who is enthroned on high * and looks upon the heavens and the earth below?**
+
+All: **He raises up the lowly from the dust * He lifts up the poor from the dunghill.**
+
+P: **To seat them with princes, * with the princes of His own people.**
+
+All: **He establishes in her home the barren wife * as the joyful mother of children.**
+
+P: **Glory be to the Father.**
+
+All: ** As it was in the beginning.**
+
+All: Ant. **Blessed be the name of the Lord, * both now and forevermore.**
+
+2. While the body is being taken to the church the first two sections of psalm 118 are said.
+
+Procession into the Church
+
+As the procession enters the church the following antiphon and psalm are sung:
+
+Antiphon
+
+Psalm 23
+
+All: **This child shall receive a blessing from the Lord, * a reward from God, his (her) Savior; such is the race that seeks the Lord.**
+
+P: **The Lord's are the earth and its fullness; * the world and those who dwell in it.**
+
+All: **For He founded it upon the seas * and established it upon the rivers.**
+
+P: **Who can ascend the mountain of the Lord? * or who may stand in His holy place?**
+
+All: **He whose hands are sinless, whose heart is clean, who desires not what is vain, * nor swears deceitfully to his neighbor.**
+
+P: **He shall receive a blessing from the Lord, * a reward from God, his Savior.**
+
+All: **Such is the race that seeks for Him, * that seeks the face of the God of Jacob.**
+
+P: **Lift up, O gates, your lintels; reach up, you ancient portals, * that the king of glory may come in!**
+
+All: **"Who is this king of glory?" * "The Lord, strong and mighty, the Lord, mighty in battle."**
+
+P: **Lift up, O gates, your lintels; reach up, you ancient portals, * that the king of glory may come in!**
+
+All: **"Who is this king of glory?" * "The Lord of hosts; He is the king of glory."**
+
+P: **Glory be to the Father.**
+
+All: **As it was in the beginning.**
+
+All: Ant. **This child shall receive a blessing from the Lord, * a reward from God, his (her) Savior; such is the race that seeks the Lord.**
+
+(The Roman Ritual does not say where the coffin is to be placed; nor that Mass is to be celebrated; nor that incense is to be used. In the U. S., however, custom dictates that the coffin is arranged as at adult burial and four lighted candles are placed around it; also that incense is used. And in many places Mass is offered, the Votive Mass of the Angels--why this one precisely is not clear. If Mass is celebrated it should follow at this time. The service in church is then concluded with the blessing of the body, before it is taken to the cemetery.)
+
+The Blessing of the Body
+
+Before sprinkling the body with holy water and incensing it, the priest chants:
+
+P: **Lord, have mercy.**
+
+All: **Christ, have mercy. Lord, have mercy.**
+
+P: **Our Father** (the rest inaudibly until:)
+
+He then sprinkles the body with holy water and incenses it; after which he says:
+
+P: **And lead us not into temptation.**
+
+All: **But deliver us from evil.**
+
+P: **You have taken me because of my innocence.**
+
+All: **And have placed me in your sight forever.**
+
+P: **The Lord be with you.**
+
+All: **May He also be with you.**
+
+**Let us pray. Almighty and all loving God, we know that whenever a little child, reborn in the font of baptism, departs this life, you forthwith bestow on him the gift of everlasting life, for no merits of his own; and so we believe that you have given it today to the soul of this child. Thus we beg you, O Lord, through the intercession of the blessed Mary, ever a Virgin, to help us serve you with pure hearts here on earth, and to unite us forever with the blessed little ones in Paradise; through Christ our Lord.**
+
+All: **Amen.**
+
+Procession to the Cemetery
+
+The following antiphon and psalm are sung while the body is being carried out to the cemetery; or if this is deferred they are sung in church:
+
+All: **Ant. Let young men and maidens, old men and boys, * praise the name of the Lord.**
+
+Psalm 148
+
+P: **Praise the Lord from the heavens, * praise Him in the heights;**
+
+All: **Praise Him, all you His Angels, * praise Him, all you His hosts.**
+
+P: **Praise Him, sun and moon; * praise Him, all you shining stars.**
+
+All: **Praise Him, you highest heavens, * and you waters above the heavens.**
+
+P: **Let them praise the name of the Lord, * for He commanded and they were created;**
+
+All: **He established them forever and ever; * He gave them a duty which shall not pass away.**
+
+P: **Praise the Lord from the earth, * you sea monsters and all depths;**
+
+All: **Fire and hail, snow and mist, * storm winds that fulfill His word;**
+
+P: **You mountains and all you hills, * you fruit trees and all you cedars;**
+
+All: **You wild beasts and all tame animals, * you creeping things and you winged fowl.**
+
+P: **Let the kings of the earth and all peoples, * the princes and all the judges of the earth,**
+
+All: **Young men too, and maidens, * old men and boys,**
+
+P: **Praise the name of the Lord, * for His name alone is exalted;**
+
+All: **His majesty is above earth and heaven, * and He has lifted up the horn of His people.**
+
+P: **Be this His praise from all His faithful ones, * from the children of Israel, the people close to Him.**
+
+All: **Glory be to the Father.**
+
+P: **As it was in the beginning.**
+
+All: **Ant. Let young men and maidens, old men and boys, * praise the name of the Lord.**
+
+At the Grave
+
+The Roman Ritual makes no provision for the blessing of the grave; but the Collectio Rituum U.S.A. gives the following blessing:
+
+**Let us pray. Lord, be pleased to bless this grave, and set your holy angel to watch over it; through Christ our Lord.**
+
+All: Amen.
+
+The priest sprinkles the grave with holy water; after which he says:
+
+**Lord, have mercy. Christ, have mercy. Lord, have mercy. Our Father** (the rest inaudibly until:)
+
+P: **And lead us not into temptation.**
+
+All: **But deliver us from evil.**
+
+P: **Let little children come to me.**
+
+All: **For theirs is the kingdom of heaven.**
+
+P: **The Lord be with you.**
+
+All: **May He also be with you.**
+
+**Let us pray. Almighty everlasting God, and lover of holy purity, who in your merciful providence have today called the soul of this child to the kingdom of heaven, be pleased, Lord, to extend your mercy also to us; so that, by the merits of your sacred passion and the intercession of blessed Mary, ever a Virgin, and of all your saints, we too may have lasting joy in that kingdom, in the company of all your saints and your elect. We ask this of you who live and reign forever and ever. **
+
+All: **Amen. **
+
+3. The body is then sprinkled with holy water and incensed, and along with it the grave. After this the body is interred.
+
+4. This rubric in the 1952 edition of the Roman Ritual directs that the celebrant and his ministers recite the Canticle of the Three Youths as they return to the church. But according to "Ephemerides Liturgicae" 77.3 (1963) 188-89, it may now be omitted. On returning to the church the priest says the following prayer before the altar:
+
+P: **The Lord be with you. **
+
+All: **May He also be with you. **
+
+**Let us pray. God, who in a marvellous way have disposed the ministries of angels and of men, mercifully grant that our life on earth may be under the protection of those who minister to you in heaven; through Christ our Lord. **
+
+All: **Amen. **
+
+5. The rite given above is to be observed also when a deacon presides at this function. A deacon may act in this capacity with the permission of the Ordinary or the pastor, which permission can be granted for a serious reason. In a case of necessity this may lawfully be presumed.
 
 # Sources 
 
