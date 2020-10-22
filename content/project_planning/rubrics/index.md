@@ -1,12 +1,12 @@
 ---
 title: Rubrics
-summary: Resources on rubrics for the Rite of Baptism
+summary: Resources on rubrics for funerals and related rites
 tags:
 - priests
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.latinmassbaptism.com/rubrics/"
+external_link: "https://www.latinmassfuneral.com/rubrics/"
 
 # image:
  # caption: Photo by rawpixel on Unsplash
