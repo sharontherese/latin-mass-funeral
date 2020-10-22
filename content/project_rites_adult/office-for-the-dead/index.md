@@ -1,6 +1,6 @@
 ---
-title: Office for the dead
-summary: Vespers, Lauds, and Matins from the Office for the DEad
+title: Office for the Dead
+summary: Vespers, Lauds, and Matins from the Office for the Dead
 tags:
 - adult
 date: ""
