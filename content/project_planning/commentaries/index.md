@@ -1,12 +1,12 @@
 ---
 title: Commentaries
-summary: Traditional commentaries on Scriptural parts of the Rite of Baptism
+summary: Traditional commentaries on Scripture in the funeral and requiem rites
 tags:
 - priests
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.latinmassbaptism.com/commentaries/"
+external_link: "https://www.latinmassfuneral.com/commentaries/"
 
 # image:
  # caption: Photo by rawpixel on Unsplash
