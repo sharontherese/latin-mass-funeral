@@ -2,7 +2,7 @@
 title: Mass settings
 summary: Music for the Requiem Mass
 tags:
-- loss
+- music
 date: ""
 
 # Optional external URL for project (replaces project detail page).
