@@ -1,12 +1,12 @@
 ---
-title: Reception of Converts
-summary: The full profession of faith for the reception of converts
+title: Dies Irae
+summary: The sequence for the Requiem Mass
 tags:
-- all
+- music
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.latinmassbaptism.com/reception-of-converts/"
+external_link: "https://www.latinmassfuneral.com/dies-irae/"
 
 image:
   caption: Photo by rawpixel on Unsplash
