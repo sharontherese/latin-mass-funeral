@@ -1,12 +1,12 @@
 ---
 title: FAQs
-summary: Frequently asked questions about traditional baptisms
+summary: Frequently asked questions about traditional funerals
 tags:
 - start
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.latinmassbaptism.com/FAQs/"
+external_link: "https://www.latinmassfuneral.com/FAQs/"
 
 image:
   caption: Photo by rawpixel on Unsplash
