@@ -1,12 +1,12 @@
 ---
-title: The votive Mass of the Holy Angels
-summary: The readings for the Mass of the Holy Angels
+title: Mass settings
+summary: Music for the Requiem Mass
 tags:
 - loss
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.latinmassbaptism.com/votive-mass-holy-angels/"
+external_link: "https://www.latinmassfuneral.com/mass-settings/"
 
 image:
   caption: Photo by rawpixel on Unsplash
