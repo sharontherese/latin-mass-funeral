@@ -10,12 +10,12 @@
 
 [[main]]
   name = "Rites for Adults"
-  url = "#project_adults"
+  url = "#project_rites_adult"
   weight = 30  
   
 [[main]]
   name = "Rites for Children"
-  url = "#project_children"
+  url = "#project_rites_children"
   weight = 40    
 
 [[main]]
