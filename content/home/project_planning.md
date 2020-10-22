@@ -22,20 +22,20 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
-     name = "For mothers"
-     tag = "mothers"
+     name = "Music"
+     tag = "music"
   
    [[content.filter_button]]
-     name = "For all"
-     tag = "all"
+     name = "Prayers"
+     tag = "prayers"
      
    [[content.filter_button]]
      name = "For priests"
      tag = "priests"
      
    [[content.filter_button]]
-     name = "For the loss of a child"
-     tag = "loss"     
+     name = "Other"
+     tag = "other"     
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
