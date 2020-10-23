@@ -7,6 +7,8 @@ aliases = [
 
 +++
 
+_Artwork: Lazzaro Bastiani, "Funeral of St Jerome."_
+
 # About
 
 Rubrics are the "how" of rites and Masses. 
