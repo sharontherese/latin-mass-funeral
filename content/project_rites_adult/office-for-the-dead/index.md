@@ -2,7 +2,7 @@
 title: Office for the Dead
 summary: Vespers, Lauds, and Matins from the Office for the Dead
 tags:
-- adult
+- 
 date: ""
 
 # Optional external URL for project (replaces project detail page).
