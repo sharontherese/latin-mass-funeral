@@ -7,6 +7,8 @@ aliases = [
 
 +++
 
+_Artwork: Jan Abrahamsz Beerstraten, "Village of Nieukoop in Winter with Child Funeral."_
+
 # About
 
 Like many things in the Catholic faith, the Rite of Burial for Children seems, at first glance, counterintuitive. No Requiem Mass is said, the vestments are white, not black, and no prayers are said for the souls of the child. Because it is assumed that the child did not commit any actual sin, in the eyes of Heaven this occasion is one of "praise and thanksgiving": 
