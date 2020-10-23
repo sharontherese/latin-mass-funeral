@@ -1,11 +1,11 @@
 ---
-title: Rite of Baptism for Children
-summary: The full text of the 1962 Rite of Baptism for Children
+title: Rite of Burial for Children
+summary: The full text of the 1962 Rite of Burial for Children
 tags:
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.latinmassbaptism.com/rite-of-baptism-for-children/"
+external_link: "https://www.latinmassfuneral.com/rite-of-burial-for-children/"
 
 # image:
  # caption: Photo by rawpixel on Unsplash
