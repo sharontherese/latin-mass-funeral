@@ -1,11 +1,13 @@
 +++
-text = "Commentaries on the scriptural texts in funeral rites"
+text = "Commentaries on the Scriptural texts in funeral rites"
 title = "Commentaries"
 toggle = false
 aliases = [
 ]
 
 +++
+
+_Giovanni del Biondo, "The Funeral of St Benedict."_
 
 # About
 
