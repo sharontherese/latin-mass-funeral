@@ -11,7 +11,9 @@ aliases = [
 
 Rubrics are the "how" of rites and Masses. 
 
-It would be difficult to list all of the possible rubrics for the rite of baptism, given the number of factors involved. The best place to find rubrics in this case is, of course, the _Rituale Romanum_. Philip Weller's translation of the _Rituale_ provides additional commentary on the rubrics. Below are links to the two missals mentioned, two classic companion guides, and a link to a more extensive list of published resources on rubrics.
+There are extensive rubrics for funerals, given the number of rites involved. It would be impossible to detail all rubrics in a useful way. 
+
+The best place to find rubrics in this case is, of course, the _Rituale Romanum_. Philip Weller's translation of the _Rituale_ provides additional commentary on the rubrics. Below are links to the two missals mentioned, two classic companion guides, and a link to a more extensive list of published resources on rubrics.
 
 Many finer points of rubrics are discussed on Catholic websites such as Fr. Z's blog, Musica Sacra's forums, and New Liturgical Movement.
 
