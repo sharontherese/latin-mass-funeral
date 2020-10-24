@@ -6,7 +6,7 @@ tags:
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.latinmassbaptism.com/catechesis/"
+external_link: "https://www.latinmassfuneral.com/catechesis/"
 
 image:
   caption: Photo by rawpixel on Unsplash
