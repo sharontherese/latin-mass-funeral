@@ -25,6 +25,8 @@ Many more resources can be found at Fish Eaters, EWTN, the Catholic Portal, the 
 
 Alighieri, Dante. The Divine Comedy. https://digitaldante.columbia.edu/.
 
+St. Augustine of Hippo. On the Care of the Dead. https://www.newadvent.org/fathers/1316.htm.
+
 Bernanos, G. Diary of a Country Priest. Plon, 1936.
 
 Catholic Church. "Article V: "He Descended into Hell, the Third Day He Arose Again from the Dead." ". In Catechism of the Council of Trent, 50-57. https://archive.org/details/thecatechismofth00donouoft 
