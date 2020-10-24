@@ -7,6 +7,7 @@ aliases = [
 
 +++
 
+_Artwork: Rogier van der Weyden. "The Last Judgment (detail)"._
 
 # About
 
