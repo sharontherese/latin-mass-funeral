@@ -7,9 +7,7 @@ aliases = [
 
 +++
 
-_Artwork: Le Prince, Jean-Baptiste. "The Russian Baptism."  (1765)._
-
-This is one of a series of websites on traditional Catholic sacraments, [Latin Mass Wedding](https://www.latinmasswedding.com/) and [Latin Mass Baptism](https://www.latinmassbaptism.com/)
+This is the third in a series of websites on traditional Catholic sacraments, [Latin Mass Wedding](https://www.latinmasswedding.com/) and [Latin Mass Baptism](https://www.latinmassbaptism.com/) being the first two. 
 
 It's intended to provide those interested with the rites and liturgies for Catholic burials, as well as common blessings, customs, and rubrics. Whenever possible, I include both the Latin and the English text. 
 
