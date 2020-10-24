@@ -34,8 +34,16 @@ subtitle = ""
      tag = "priests"
      
    [[content.filter_button]]
-     name = "Other"
+     name = "Customs"
      tag = "other"     
+     
+[[content.filter_button]]
+     name = "About this site"
+     tag = "about"  
+
+[[content.filter_button]]
+     name = "All pages"
+     tag = "all" 
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
