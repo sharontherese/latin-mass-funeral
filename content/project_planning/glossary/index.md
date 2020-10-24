@@ -2,7 +2,7 @@
 title: Glossary
 summary: Glossary of terms frequently used on this website
 tags:
-- start
+- about
 date: ""
 
 # Optional external URL for project (replaces project detail page).
