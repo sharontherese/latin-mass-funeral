@@ -35,7 +35,7 @@ subtitle = ""
      
    [[content.filter_button]]
      name = "Customs"
-     tag = "other"     
+     tag = "customs"     
      
 [[content.filter_button]]
      name = "About this site"
