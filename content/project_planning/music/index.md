@@ -1,12 +1,12 @@
 ---
-title: Mass settings
-summary: Music for the Requiem Mass
+title: Music
+summary: Music for the funeral and requiem rites
 tags:
 - music
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.latinmassfuneral.com/mass-settings/"
+external_link: "https://www.latinmassfuneral.com/music/"
 
 image:
   caption: Photo by rawpixel on Unsplash
