@@ -6,7 +6,7 @@ tags:
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.latinmassfuneralcom/prayers-for-the-sick-and-dying/"
+external_link: "https://www.latinmassfuneral.com/prayers-for-the-sick-and-dying/"
 
 image:
   caption: Photo by rawpixel on Unsplash
