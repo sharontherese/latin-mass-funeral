@@ -13,7 +13,5 @@ It's intended to provide those interested with the rites and liturgies for Catho
 
 Most pages have an “About” section at the top, to provide context.
 
-Words in _italics_ can be found in the [Glossary](/glossary/).
-
 I also have a [personal site](https://sharonkabel.com) of my research and writing.
 
