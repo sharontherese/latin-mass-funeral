@@ -2,26 +2,21 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-  
-[[main]]
-  name = "Start Here"
-  url = "#project_start"
-  weight = 20  
 
 [[main]]
   name = "Rites for Adults"
   url = "#project_rites_adult"
-  weight = 30  
+  weight = 20  
   
 [[main]]
   name = "Rites for Children"
   url = "#project_rites_children"
-  weight = 40    
+  weight = 30    
 
 [[main]]
   name = "Planning"
   url = "#project_planning"
-  weight = 50  
+  weight = 40  
   
 # [[main]]
 #  name = "Posts"
