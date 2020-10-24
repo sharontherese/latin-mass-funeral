@@ -1,8 +1,8 @@
 ---
 title: Catechesis
-summary: Resources about the Sacrament of Baptism
+summary: Resources about funerals, burials, and death
 tags:
-- all
+- customs
 date: ""
 
 # Optional external URL for project (replaces project detail page).
