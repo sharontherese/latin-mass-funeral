@@ -7,7 +7,7 @@ aliases = [
 
 +++
 
-_Artwork: _
+_Artwork: Jakub Schikaneder, "All Souls' Day."_
 
 # About
 
@@ -19,7 +19,7 @@ November 1 is All Saints Day and a Holy Day of Obligation, with liturgical color
 
 November 2 is All Souls Day, in mournful black. 
 
-While the Catholic character of these days has been ensnarled and confused with secular celebrations, the days nonetheless have an old and vivid Catholic character.
+While the Catholic character of these days has been ensnarled and confused with secular celebrations, the days nonetheless have an old and vivid Catholic character. It has long been a pious custom during this season (and all of November) to visit cemeteries and pray for the dead. 
 
 Below is a collection of resources on the celebration (both liturgical and domestic) of Hallowtide. 
 
