@@ -10,8 +10,6 @@ _Artwork: Master of the Llangattock Hours (Flemish, active about 1450 - 1460). O
 
 # About
 
-# About
-
 The Office for the Dead may be preceded by the first part of the [Rite of Burial for Adults](/rite-of-burial-for-adults/), and followed by the [Requiem Mass](/requiem-mass/).
 
 The full Office for the Dead is Vespers, Matins, and Lauds. 
