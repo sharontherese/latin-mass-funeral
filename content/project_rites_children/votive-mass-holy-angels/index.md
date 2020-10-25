@@ -2,6 +2,7 @@
 title: Votive Mass of the Holy Angels
 summary: The full text of the Votive Mass of the Holy Angels
 tags:
+- all
 date: ""
 
 # Optional external URL for project (replaces project detail page).
