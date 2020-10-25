@@ -7,7 +7,7 @@ aliases = [
 
 +++
 
-_Artwork: Object: Mozart chantant son Requiem (Mozart sings his Requiem). British Museum. https://www.britishmuseum.org/collection/image/1052494001_
+_Artwork: Object: Mozart chantant son Requiem (Mozart sings his Requiem). British Museum. https://www.britishmuseum.org/collection/image/1052494001._
 
 # About 
 
