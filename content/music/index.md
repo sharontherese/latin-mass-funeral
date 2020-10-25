@@ -7,7 +7,7 @@ aliases = [
 
 +++
 
-_Artwork: Object: Mozart chantant son Requiem (Mozart sings his Requiem). British Museum. https://www.britishmuseum.org/collection/image/1052494001._
+_Artwork: Object: Mozart chantant son Requiem (Mozart sings his Requiem). British Museum._
 
 # About 
 
@@ -23,7 +23,7 @@ The Requiem Mass, or the Mass for All Souls' Day on November 2, has its own greg
 
 "Chant Sheets for the Orations and Readings." Windsor Tridentine Mass Community. http://www.windsorlatinmass.org/latin/chant.htm.
 
-"Masses for the Dead ". In Liber Usualis, 1806-18, 1961.https://musicasacra.com/music/latin-settings/.
+"Masses for the Dead ". In Liber Usualis, 1806-18, 1961. https://musicasacra.com/music/latin-settings/.
 
 # Polyphonic settings 
 
