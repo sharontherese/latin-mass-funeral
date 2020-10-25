@@ -14,7 +14,7 @@ The Requiem Mass (_Missa Defunctorum_ or _Missa de Profunctis_) may be preceded 
 
 The Requiem Mass is also said for All Souls' Day, on November 2 of each year. 
 
-There are [different Mass prayers](/more-mass-prayers/) for anniversaries of requiems, priests, bishops, and popes, and parents of the celebrating priest. 
+There are additional Mass prayers for anniversaries of requiems, priests, bishops, and popes, and parents of the celebrating priest. 
 
 There are many beautiful [music settings](/music/) for the Requiem Mass. 
 
