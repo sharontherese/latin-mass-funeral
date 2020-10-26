@@ -12,6 +12,12 @@ _Artwork: Giambattista Pittoni, "The Death of Joseph."_
 
 Prayers for the sick, dying, dead, and the grace of a happy death are almost too numerous to count. Below is a small collection of old prayers on prayers specifically for the grace of a happy death. More PDFs of prayers are provided at the bottom of the page. 
 
+# Catholic Tradition
+
+"Prayers for the Dying and the Holy Souls." Catholic Tradition, http://www.catholictradition.org/Joseph/joseph7.htm.
+
+> O Glorious St. Joseph, behold I choose thee today for my special patron in life and at the hour of my death. Preserve and increase in me the spirit of prayer and fervor in the service of God. Remove far from me every kind of sin; obtain for me that my death may not come upon me unawares, but that I may have time to confess my sins sacramentally and to bewail them with a most perfect understanding and a most sincere and perfect contrition, in order that I may breathe forth my soul into the hands of Jesus and Mary. Amen.
+
 # A Manual of Prayers 
 
 Catholic Church, and Plenary Council of Baltimore. A Manual of Prayers for the Use of the Catholic Laity: Prepared and Published by Order of the Third Plenary Council of Baltimore. New York: Catholic Publication Society, 1888. http://archive.org/details/AManualOfPrayers1888.
