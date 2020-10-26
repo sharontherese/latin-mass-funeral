@@ -1200,4 +1200,5 @@ R: Amen.
 
 [^2]: Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf.
 
-[^3]: The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English
+[^3]: Catholic Church. The Office and the Masses for the Dead : With the Order of Burial; from the Roman Breviary, Missal and Ritual : In Latin and English. London Keating and Brown, 1825. https://archive.org/details/TheOfficeAndTheMassesForTheDead.
+
