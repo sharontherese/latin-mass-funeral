@@ -13,5 +13,5 @@ It's intended to provide those interested with the rites and liturgies for Catho
 
 Most pages have an “About” section at the top, to provide context.
 
-I also have a [personal site](https://sharonkabel.com) of my research and writing.
+I also have a [personal site](https://sharonkabel.com) of my research and writing. Feel free to contact me there, if you spot a mistake, have a question, or want to recommend a resource. 
 
