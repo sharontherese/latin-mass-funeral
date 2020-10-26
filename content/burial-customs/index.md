@@ -9,6 +9,12 @@ aliases = [
 
 _Artwork: François-Marius Granet, "Crypt of San Martino ai Monti, Rome."_
 
+# Caskets 
+
+The Trappist Monastery of New Melleray Abbey make hand-crafted caskets and urns for adults. They provide caskets for children at no cost. 
+
+Trappist Caskets: From the Monks of New Melleray Abbey. https://trappistcaskets.com/.
+
 # Habsburg burials
 
 Some of the most detailed descriptions we have of burial customs come from Catholic royal families. A notable example is the 'knocking ceremony' from the Habsburg family, as the deceased is brought to the Capuchin Church that houses the Imperial Crypt in Vienna. It has been seen most recently in the funeral of Otto von Habsburg in 2011. 
