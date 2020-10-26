@@ -743,4 +743,5 @@ R: Amen.
 
 [^4]: "Missale Defunctorum 1962 with Altar Cards (Boxed Set)." Biretta Books, https://www.birettabooks.com/missale-defunctorum-1962-with-altar-cards-boxed-se.html.
 
-[^5]: The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English
+[^5]: Catholic Church. The Office and the Masses for the Dead : With the Order of Burial; from the Roman Breviary, Missal and Ritual : In Latin and English. London Keating and Brown, 1825. https://archive.org/details/TheOfficeAndTheMassesForTheDead.
+
