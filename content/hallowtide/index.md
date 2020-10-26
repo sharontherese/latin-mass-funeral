@@ -29,7 +29,11 @@ For more articles, posts, photos, and videos of Hallowtide Masses, customs, vest
 
 All Hallows Eve: Prayers and Devotions. Ancilla Press, 2019.
 
-"All Souls Day," Fish Eaters, https://www.fisheaters.com/customstimeafterpentecost12ac.html 
+"All Souls Day," Fish Eaters, https://www.fisheaters.com/customstimeafterpentecost12ac.html.
+
+"Hallowtide," A Clerk of Oxford. November 2, 2019. https://aclerkofoxford.blogspot.com/2019/11/hallowtide.html. 
+
+"A Selection of Saints' Legends," A Clerk of Oxford. November 2, 2014. https://aclerkofoxford.blogspot.com/2014/11/a-selection-of-saints.html.
 
 DiPippo, Gregory. "The Origin of All Saints’ Day." New Liturgical Movement  (November 2 2017). http://www.newliturgicalmovement.org/2017/11/the-origin-of-all-saints-day.html#.X5R1VdBKjIU 
 
