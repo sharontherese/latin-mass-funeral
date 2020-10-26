@@ -27,11 +27,15 @@ solvet saeclum in favilla:
 
 teste David cum Sibylla.
 
+
+
 Quantus tremor est futurus,
 
 quando judex est venturus,
 
 cuncta stricte discussurus!
+
+
 
 Tuba mirum spargens sonum
 
@@ -39,11 +43,15 @@ per sepulcra regionum,
 
 coget omnes ante thronum.
 
+
+
 Mors stupebit et natura,
 
 cum resurget creatura,
 
 judicanti responsura.
+
+
 
 Liber scriptus proferetur,
 
@@ -51,11 +59,15 @@ in quo totum continetur,
 
 unde mundus judicetur.
 
+
+
 Judex ergo cum sedebit,
 
 quidquid latet apparebit:
 
 nil inultum remanebit.
+
+
 
 Quid sum miser tunc dicturus?
 
@@ -63,11 +75,15 @@ Quem patronum rogaturus,
 
 cum vix justus sit securus?
 
+
+
 Rex tremendae majestatis,
 
 qui salvandos salvas gratis,
 
 salva me fons pietatis.
+
+
 
 Recordare, Jesu pie,
 
@@ -75,11 +91,15 @@ quod sum causa tuae viae:
 
 ne me perdas illa die.
 
+
+
 Quaerens me, sedisti lassus:
 
 redemisti Crucem passus:
 
 tantus labor non sit cassus.
+
+
 
 Juste judex ultionis,
 
@@ -87,11 +107,15 @@ donum fac remissionis
 
 ante diem rationis.
 
+
+
 Ingemisco, tamquam reus:
 
 culpa rubet vultus meus:
 
 supplicanti parce, Deus.
+
+
 
 Qui Mariam absolvisti,
 
@@ -99,11 +123,15 @@ et latronem exaudisti,
 
 mihi quoque spem dedisti.
 
+
+
 Preces meae non sunt dignae:
 
 sed tu bonus fac benigne,
 
 ne perenni cremer igne.
+
+
 
 Inter oves locum praesta,
 
@@ -111,11 +139,15 @@ et ab haedis me sequestra,
 
 statuens in parte dextra.
 
+
+
 Confutatis maledictis,
 
 flammis acribus addictis:
 
 voca me cum benedictis.
+
+
 
 Oro supplex et acclinis,
 
@@ -123,13 +155,19 @@ cor contritum quasi cinis:
 
 gere curam mei finis.
 
+
+
 Lacrimosa dies illa,
 
 qua resurget ex favilla
 
+
+
 judicandus homo reus.
 
 Huic ergo parce, Deus:
+
+
 
 pie Jesu Domine,
 
