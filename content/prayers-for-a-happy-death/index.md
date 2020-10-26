@@ -36,7 +36,7 @@ Catholic Church, and Plenary Council of Baltimore. A Manual of Prayers for the U
 
 > Merciful Jesus, have mercy on me.
 
-When my face, pale and livid, shall inspire the beholders with pity and dismay, when my hair, bathed in the sweat of death, and stiffening on my head, shall forbode mine approaching end,
+> When my face, pale and livid, shall inspire the beholders with pity and dismay, when my hair, bathed in the sweat of death, and stiffening on my head, shall forbode mine approaching end,
 
 > Merciful Jesus, have mercy on me.
 
