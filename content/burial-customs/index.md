@@ -29,12 +29,14 @@ Some of the most detailed descriptions we have of burial customs come from Catho
 
 "The Traditional Burial Ceremony of a Hapsburg Prince." Nobility.org, Updated July 11, 2011, https://nobility.org/2011/07/11/burial-protocol-austria/.
 
-# Ossuaries
+# Ossuaries and catacombs
 
 Ossuaries are resting places for remains, but are more famously known as "bone churches." They are visually striking "memento mori"s, with walls, chandeliers, and even entire buildings made from bones. 
 
 "Ossuaries across Europe." ArcGIS StoryMaps, Updated December 11, 2019, https://storymaps.arcgis.com/stories/41d40bc99d18465396675ac7d45a8121.
 
 "Bone Houses: A Definitive Guide to the World's Ossuaries." Atlas Obscura. https://www.atlasobscura.com/lists/definitive-guide-to-ossuaries-crypts-and-catacombs.
+
+Northcote, J. Spencer. The Roman Catacombs; or, Some Account of the Burial Places of the Early Christians in Rome. London: Catholic Publishing and Bookselling Co., Ltd., 1859. https://archive.org/details/romancatacombsor00nort.
 
 
