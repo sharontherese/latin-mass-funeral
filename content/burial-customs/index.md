@@ -13,7 +13,11 @@ _Artwork: François-Marius Granet, "Crypt of San Martino ai Monti, Rome."_
 
 Purgatorial societies or confraternities exist to offer Masses and pray for the souls in Purgatory. For more information, consider contacting your local churches, diocese, or traditional orders to see if they have preexisting purgatorial soceties. 
 
-Kreider, Alan. English chantries : the road to dissolution. Cambridge, Mass.: Harvard University Press, 1979. https://archive.org/details/englishchantries0000krei
+Kreider, Alan. English chantries : the road to dissolution. Cambridge, Mass.: Harvard University Press, 1979. https://archive.org/details/englishchantries0000krei.
+
+The manual of the Bona Mors confraternity: ASsociation for a Happy Death. New York: Apostleship of Prayer, 1896. https://archive.org/details/manualofbonamors00unse/page/n3/mode/2up.
+
+Purgatorian Archconfraternity. http://www.archconfraternity.com/. 
 
 # Caskets 
 
