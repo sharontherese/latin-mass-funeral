@@ -6,9 +6,9 @@ toggle = false
 
 +++
 
-_Artwork: Lodovico Carracci,"An Angel Frees the Souls of Purgatory."_
+_Artwork: Lodovico Carracci, "An Angel Frees the Souls of Purgatory."_
 
-_Eternal rest give unto him, 0 Lord, And let perpetual light shine upon him. May he rest in peace. Amen. May his soul and all the souls of the faithful departed rest in peace. Amen._
+_Eternal rest give unto him, O Lord, And let perpetual light shine upon him. May he rest in peace. Amen. May his soul and all the souls of the faithful departed rest in peace. Amen._
 
 # About
 
