@@ -27,7 +27,7 @@ solvet saeclum in favilla:
 
 teste David cum Sibylla.
 
-
+<br>
 
 Quantus tremor est futurus,
 
@@ -35,7 +35,7 @@ quando judex est venturus,
 
 cuncta stricte discussurus!
 
-
+<br>
 
 Tuba mirum spargens sonum
 
@@ -43,7 +43,7 @@ per sepulcra regionum,
 
 coget omnes ante thronum.
 
-
+<br>
 
 Mors stupebit et natura,
 
@@ -51,7 +51,7 @@ cum resurget creatura,
 
 judicanti responsura.
 
-
+<br>
 
 Liber scriptus proferetur,
 
@@ -59,7 +59,7 @@ in quo totum continetur,
 
 unde mundus judicetur.
 
-
+<br>
 
 Judex ergo cum sedebit,
 
@@ -67,7 +67,7 @@ quidquid latet apparebit:
 
 nil inultum remanebit.
 
-
+<br>
 
 Quid sum miser tunc dicturus?
 
@@ -75,7 +75,7 @@ Quem patronum rogaturus,
 
 cum vix justus sit securus?
 
-
+<br>
 
 Rex tremendae majestatis,
 
@@ -83,7 +83,7 @@ qui salvandos salvas gratis,
 
 salva me fons pietatis.
 
-
+<br>
 
 Recordare, Jesu pie,
 
@@ -91,7 +91,7 @@ quod sum causa tuae viae:
 
 ne me perdas illa die.
 
-
+<br>
 
 Quaerens me, sedisti lassus:
 
@@ -99,7 +99,7 @@ redemisti Crucem passus:
 
 tantus labor non sit cassus.
 
-
+<br>
 
 Juste judex ultionis,
 
@@ -107,7 +107,7 @@ donum fac remissionis
 
 ante diem rationis.
 
-
+<br>
 
 Ingemisco, tamquam reus:
 
@@ -115,7 +115,7 @@ culpa rubet vultus meus:
 
 supplicanti parce, Deus.
 
-
+<br>
 
 Qui Mariam absolvisti,
 
@@ -123,7 +123,7 @@ et latronem exaudisti,
 
 mihi quoque spem dedisti.
 
-
+<br>
 
 Preces meae non sunt dignae:
 
@@ -131,7 +131,7 @@ sed tu bonus fac benigne,
 
 ne perenni cremer igne.
 
-
+<br>
 
 Inter oves locum praesta,
 
@@ -139,7 +139,7 @@ et ab haedis me sequestra,
 
 statuens in parte dextra.
 
-
+<br>
 
 Confutatis maledictis,
 
@@ -147,7 +147,7 @@ flammis acribus addictis:
 
 voca me cum benedictis.
 
-
+<br>
 
 Oro supplex et acclinis,
 
@@ -155,19 +155,19 @@ cor contritum quasi cinis:
 
 gere curam mei finis.
 
-
+<br>
 
 Lacrimosa dies illa,
 
 qua resurget ex favilla
 
-
+<br>
 
 judicandus homo reus.
 
 Huic ergo parce, Deus:
 
-
+<br>
 
 pie Jesu Domine,
 
