@@ -1,6 +1,6 @@
 +++
 text = ""
-title = "Music for the funeral and requiem rites"
+title = "Music"
 toggle = false
 aliases = [
 ]
