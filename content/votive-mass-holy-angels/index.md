@@ -1,7 +1,7 @@
 +++
 gallery1 = [""]
 text = ""
-title = "Rite of Baptism for Adults (Ordo Baptismi Adultorum)"
+title = "The Votive Mass of the Holy Angels"
 toggle = false
 
 +++
@@ -10,9 +10,8 @@ _Gozzoli, Benozzo. "Angels Worshipping (Left Side of the Chancel)." 1459-60._
 
 # About
 
-It has been a common practice to say the votive Mass of the Holy Angels for the loss of a child. The Mass is available in a variety of formatting online.
+It has been a common practice to say the votive Mass of the Holy Angels for the loss of a child. The Mass is available in a variety of formats online:
 
-* [As a webpage here](/votive-mass-holy-angels/)
 * {{% staticref "files/Mass_of_the_Holy_Angels_LatinEnglish.pdf" %}}My own version as a PDF here{{% /staticref %}}
 * Usus Antiquior[^2]
 * Vultus Christi[^3]
@@ -142,7 +141,7 @@ We offer unto Thee, O Lord, the Sacrifice of praise and humbly beseech Thee, tha
 
 It is truly meet and just, right and for our salvation, that we should at all times and in all places give thanks to Thee, holy Lord, Father almighty, eternal God, through Christ our Lord: through Whom Angels praise Thy Majesty, Dominations worship, Powers stand in awe. The Heavens and the hosts of heaven with blessed Seraphim unite, exult, and celebrate; a we entreat that Thou wouldst bid our voices too be heard with theirs, singing with lowly praise: — Sanctus.
 
-## COMMUNION
+## Communion
 
 Angels, Archangels, Thrones and Dominions, Principalities, and Powers, the Virtues of the heavens, Cherubim and Seraphim, bless ye the Lord for ever. (P.T. Alleluia.)
 
