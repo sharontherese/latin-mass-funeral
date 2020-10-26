@@ -172,7 +172,7 @@ main_menu = {align = "l", show_logo = true}
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "250413886"
+  google_analytics = "G-NKWJ1KW4FL"
   # google_tag_manager = ""
 
 # Link authors to their profile page? (true/false)
