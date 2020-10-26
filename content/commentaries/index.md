@@ -79,9 +79,9 @@ Ver. 21.  Justice; works of piety, (Ps. iv. 6.) or victims vowed or prescribed b
  
  _(Also said during Lauds for the Office of the Dead)_
  
-67. And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,
+67\. And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,
 
-68. Blessed be the Lord God of Israel; for he hath visited and redeemed his people.
+68\. Blessed be the Lord God of Israel; for he hath visited and redeemed his people.
 
 AMBROSE. God in His mercy and readiness to pardon our sins, not only restores to us what He has taken away, but grants us favours even beyond our expectations. Let no one then distrust Him, let no one from consciousness of past sins despair of the Divine blessing. God knoweth how to change His sentence, if thou hast known how to correct thy sin, seeing he that was long silent prophesies; as it is said, And Zacharias was filled with the Holy Spirit.
 
@@ -95,7 +95,7 @@ BEDE. But the Lord visited His people who were pining away as it were from long 
 
 1:69
 
-69. And hath raised up an horn of salvation for us in the house of his servant David.
+69\. And hath raised up an horn of salvation for us in the house of his servant David.
 
 THEOPHYLACT. God seemed to be asleep, disregarding the sins of the multitude, but in these last times coming in the flesh, He hath risen up and trodden down the evil spirits who hated us. Hence it is said, And he hath raised up an horn of salvation to us in the house of his servant David.
 
@@ -107,7 +107,7 @@ BEDE. The kingdom of our Saviour Christ is called also the horn of salvation, be
 
 1:70
 
-70. As he spake by the mouth of his holy prophets which have been since the world began.
+70\. As he spake by the mouth of his holy prophets which have been since the world began.
 
 THEOPHYLACT. That Christ was born of the house of David, Micah relates, saying, And thou, Bethlehem, art not the least in the city of Juda, for out of thee shall come a governor who shall rule my people Israel. (Micah 5:2.) But all the prophets spoke of the Incarnation, and therefore it is said, As he spake by the mouth of his holy prophets.
 
@@ -117,12 +117,11 @@ BEDE. But he says, Which have been since the world began. Because all the Script
 
 1:71
 
-71. That we should be saved from our enemies, and from the hand of all that hate us.
+71\. That we should be saved from our enemies, and from the hand of all that hate us.
 
 BEDE. Having first briefly said, He hath raised up a horn of salvation to us, he goes on to explain his words, adding, of salvation from our enemies. As if he said, He hath raised up to us a horn, i. e. He hath raised up to us salvation from our enemies, and from the hand of all who hate us.
 
 ORIGEN. Let us not suppose that this refers to our bodily enemies, but our ghostly. For the Lord Jesus came mighty in battle (Ps. 24:8) to destroy all our enemies, that He might deliver us from their snares and temptation.
-
 
 # Sources
 
@@ -133,4 +132,3 @@ ORIGEN. Let us not suppose that this refers to our bodily enemies, but our ghost
 [^3]: **Sermonry**, https://sermonry.com/. Accessed 3 June 2019.
 
 [^4]: **“Psallam Domino: Masterpost: Links to Notes by Psalm Number.”** Psallam Domino (blog), January 16, 2018. https://psallamdomino.blogspot.com/2018/01/masterpost-links-to-notes-by-psalm.html.
-
