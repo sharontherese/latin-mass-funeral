@@ -18,6 +18,7 @@ Other versions are available here:
 
 * {{% staticref "files/1._Exsequarium_Ordo_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
 * {{% staticref "files/Roman Rite for burials.pdf" %}}the excerpt from Weller's _Roman Ritual_{{% /staticref %}}
+* _The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English_[^3]
 
 # Exsequarium Ordo
 
@@ -703,3 +704,5 @@ All: Amen.
 [^1]: Catholic Church. Rituale Romanum Pauli V Pontificis Maximi Jussu Editum Et a Benedicto Xiv Auctum Et Castigatum. Cui Novissima Accedit Benedictiorum Et Instructionum Appendix. 1903. https://archive.org/details/ritualeromanum00cath/mode/2up.
 
 [^2]: Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf.
+
+[^3]: The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English
