@@ -25,6 +25,7 @@ The Requiem Mass has a number of distinct elements, so many Catholic presses off
 * {{% staticref "files/3._Missa_Defunctorum_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
 * Fish Eaters[^3]
 * Biretta Books[^4]
+* _The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English_[^5]
 
  # Missa Defunctorum
  
@@ -742,5 +743,4 @@ R: Amen.
 
 [^4]: "Missale Defunctorum 1962 with Altar Cards (Boxed Set)." Biretta Books, https://www.birettabooks.com/missale-defunctorum-1962-with-altar-cards-boxed-se.html.
 
-
-
+[^5]: The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English
