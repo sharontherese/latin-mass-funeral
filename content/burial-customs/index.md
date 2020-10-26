@@ -9,6 +9,12 @@ aliases = [
 
 _Artwork: François-Marius Granet, "Crypt of San Martino ai Monti, Rome."_
 
+# Purgatorial Societies 
+
+Purgatorial societies or confraternities exist to offer Masses and pray for the souls in Purgatory. For more information, consider contacting your local churches, diocese, or traditional orders to see if they have preexisting purgatorial soceties. 
+
+Kreider, Alan. English chantries : the road to dissolution. Cambridge, Mass.: Harvard University Press, 1979. https://archive.org/details/englishchantries0000krei
+
 # Caskets 
 
 The Trappist Monastery of New Melleray Abbey make hand-crafted caskets and urns for adults. They provide caskets for children at no cost. 
