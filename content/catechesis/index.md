@@ -27,7 +27,11 @@ Alighieri, Dante. The Divine Comedy. https://digitaldante.columbia.edu/.
 
 St. Augustine of Hippo. On the Care of the Dead. https://www.newadvent.org/fathers/1316.htm.
 
+Baxter, Roger. Meditations for Every Day in the Year : Collected from Different Spiritual Writers. Georgetown, D.C. : J. Milligan, 1823. https://archive.org/details/MeditationsForEveryDayInTheYear/page/n9/mode/2up.
+
 Bernanos, G. Diary of a Country Priest. Plon, 1936.
+
+Brett, Robert J. A Companion for the Sick Room; Being a Compendium of Christian Faith and Practice, Chiefly Compiled from the Writings of Divines of the Holy Catholic Church. 1843. https://archive.org/details/ACompanionForTheSickRoom/mode/2up.
 
 Catholic Church. "Article V: "He Descended into Hell, the Third Day He Arose Again from the Dead." ". In Catechism of the Council of Trent, 50-57. https://archive.org/details/thecatechismofth00donouoft 
 
