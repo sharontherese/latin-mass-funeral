@@ -16,7 +16,7 @@ The full Office for the Dead is Vespers, Matins, and Lauds.
 
 The Latin and English texts below are from a Book of Hours[^1]. 
 
-Other versions (some English only, some Latin only, some with both side-by-side) are available here: 
+Other versions are available here: 
 
 * {{% staticref "files/2._Officium_Pro_Defunctis_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
 * The Roman Ritual (Vespers only)[^2]
@@ -31,7 +31,7 @@ Absolute incipitur:
 
 Ant: Placebo Domino.
 
-Psalmus 114
+### Psalmus 114
 
 Dilexi, quoniam exaudiet Dominus: vocem orationis meae.
 
@@ -57,7 +57,7 @@ Ant: Placebo Domino in regione vivorum.
 
 Ant: Heu mihi.
 
-Psalmus 119
+### Psalmus 119
 
 Ad Dominum cum tribularer, clamavi: et exaudivit me.
 
@@ -77,7 +77,7 @@ Ant: Heu mihi Domine, quia incolatus meus prolongatus est.
 
 Ant: Dominus.
 
-Psalmus 120
+### Psalmus 120
 
 Levavi oculos meos in montes: unde veniet auxilium mihi.
 
@@ -101,7 +101,7 @@ Ant: Dominus custodiat te ab omni malo, custodiat animam tuam Dominus.
 
 Ant: Si iniquitates.
 
-Psalmus 129
+### Psalmus 129
 
 De profundis clamavi ad te Domine: Domine exaudi vocem meam.
 
@@ -125,7 +125,7 @@ Ant: Si iniquitates observaveris Domine, Domine quis sustinebit?
 
 Ant: Opera.
 
-Psalmus 137
+### Psalmus 137
 
 Confitebor tibi Domine in toto corde meo: quoniam audisti verba oris mei.
 
@@ -155,8 +155,7 @@ R: Beati mortui qui in Domino moriuntur.
 
 Ant: Omne.
 
-Canticum Beatae Mariae Virginis 
-Luc. 1
+### Canticum Beatae Mariae Virginis (Luc. 1)
 
 Magnificat: anima mea Dominum.
 
@@ -190,7 +189,7 @@ V: Et ne nos inducas in tentationem.
 
 R: Sed libera nos a malo.
 
-Psalmus 145
+### Psalmus 145
 
 Lauda anima mea Dominum: laudabo Dominum in vita mea: psallam Deo meo quamdiu fuero.
 
@@ -224,7 +223,7 @@ V: Domine exaudi orationem meam.
 
 R: Et clamor meus ad te veniat.
 
-Oratio
+### Oratio
 
 Deus, qui inter Apostolicos sacerdotes famulos tuos pontificali seu sacerdotali fecisti dignitate vigere: praesta quaesumus: ut eorum quoque perpetuo aggregentur consortio.
 
@@ -252,7 +251,7 @@ Et repetitur:
 
 Regem, cui omnia vivunt, Venite adoremus.
 
-Psalmus 94
+### Psalmus 94
 
 Venite exultemus Domino, iubilemus Deo salutari nostro: praeoccupemus faciem eius in confessione: et in psalmis iubilemus ei.
 
@@ -284,7 +283,7 @@ Regem, cui omnia vivunt, Venite adoremus.
 
 Ant: Exultabunt Domino.
 
-Psalmus 50
+### Psalmus 50
 
 Miserere mei Deus: secundum magnam misericordiam tuam.
 
@@ -332,7 +331,7 @@ Ant: Exultabunt Domino ossa humiliata.
 
 Ant: Exaudi Domine.
 
-Psalmus 64
+### Psalmus 64
 
 Te decet hymnus Deus in Sion: et tibi reddetur votum in Hierusalem.
 
@@ -368,7 +367,7 @@ Ant: Exaudi Domine orationem meam, ad te omnis caro veniet.
 
 Ant: Me suscepit.
 
-Psalmus 62
+### Psalmus 62
 
 Deus Deus meus: ad te de luce vigilo.
 
@@ -390,7 +389,7 @@ Ipsi vero in vanum quaesierunt animam meam, introibunt in inferiora terrae: trad
 
 Rex vero laetabitur in Deo, laudabunturomnes, qui iurant in eo: quia obstructum est os loquentium iniqua.
 
-Psalmus 66
+### Psalmus 66
 
 Deus misereatur nostri, et benedicat nobis: illuminet vultum suum super nos, et misereatur nostri.
 
@@ -412,7 +411,7 @@ Ant: A porta inferi.
 
 Canticum Ezechiae 
 
-Isaia 38
+### Isaia 38
 
 Ego dixi in dimidio dierum meorum: vadam ad portas inferi.
 
@@ -449,7 +448,7 @@ Ant: A porta inferi erue Domine animam meam.
 
 Ant: Omnis spiritus.
 
-Psalmus 148
+### Psalmus 148
 
 Laudate Dominum de caelis: laudate eum in excelsis.
 
@@ -479,7 +478,7 @@ Confessio eius super caelum et terram: et exaltavit cornu populi sui.
 
 Hymnus omnibus Sanctis eius, filiis Israel: populo appropinquanti sibi.
 
-Psalmus 149
+### Psalmus 149
 
 Cantate Domino canticum novum: laus eius in ecclesia Sanctorum.
 
@@ -499,7 +498,7 @@ Ad alligandos reges eorum in compedibus: et nobiles eorum in manicis ferreis.
 
 Ut faciant in eis iudicium conscriptum: gloria haec est omnibus Sanctis eius.
 
-Psalmus 150
+### Psalmus 150
 
 Laudate Dominum in Sanctis eius: laudate eum in firmamento virtutis eius.
 
@@ -521,9 +520,7 @@ R: Beati mortui qui in Domino moriuntur.
 
 Ant: Ego sum.
 
-Canticum 
-
-Zachariae Luc. 1
+### Canticum Zachariae (Luc. 1)
 
 Benedictus Dominus Deus Israel: quia visitavit, et fecit redemptionem plebis suae.
 
@@ -561,7 +558,7 @@ V: Et ne nos inducas in tentationem.
 
 R: Sed liber nos a malo.
 
-Psalmus 129
+### Psalmus 129
 
 De profundis clamavi ad te Domine, Domine exaudi vocem meam.
 
@@ -593,7 +590,7 @@ V: Domine exaudi orationem meam.
 
 R: Et clamor meus ad te veniat.
 
-Oratio:
+### Oratio 
 
 Deus, qui inter apostolicos sacerdotes famulos tuos pontificali seu sacerdotali fecisti dignitate vigere: praesta quaesumus, ut eorum quoque perpetuo aggregentur consortio.
 
@@ -621,7 +618,7 @@ Is absolutely begun:
 
 Ant: I will please.
 
-Psalm 114
+### Psalm 114
 
 I have loved, because our Lord: will hear the voice of my prayer.
 
@@ -647,7 +644,7 @@ Ant: I will please our Lord in the country of the living.
 
 Ant: Woe is me.
 
-Psalm 119
+### Psalm 119
 
 When I was in tribulation I cried to our Lord: and he heard me.
 
@@ -667,7 +664,7 @@ Ant: Woe is me O Lord, that my abode is prolonged.
 
 Ant: Our Lord.
 
-Psalm 120
+### Psalm 120
 
 I have lifted up mine eyes unto the mountains: from whence help shall come to me.
 
@@ -691,7 +688,7 @@ Ant: Our Lord doth keep thee from all evil, our Lord can keep thy soul.
 
 Ant: If thou O Lord.
 
-Psalm 129
+### Psalm 129
 
 From the depths I have cried to thee O Lord: Lord hear my voice.
 
@@ -715,7 +712,7 @@ Ant: If thou O Lord observe iniquities, O Lord who shall be able to endure it?
 
 Ant: The works.
 
-Psalm 137
+### Psalm 137
 
 I will confess to thee O Lord in my whole heart: because thou hast heard the words of my mouth.
 
@@ -745,8 +742,7 @@ R: Blessed are the dead which die in our Lord.
 
 Ant: All.
 
-The Song of the Blessed Virgin Mary 
-Luke 1
+### The Song of the Blessed Virgin Mary (Luke 1)
 
 My soul: doth magnify our Lord.
 
@@ -780,7 +776,7 @@ V: And lead us not into temptation.
 
 R: But deliver us from evil.
 
-Psalm 145
+### Psalm 145
 
 My soul praise thou our Lord, I will praise our Lord in my life: I will sing to my God as long as I shall be.
 
@@ -814,7 +810,7 @@ V: O Lord hear my prayer.
 
 R: And let my cry come unto thee.
 
-Prayer
+### Prayer
 
 O God, which among the Apostolic priests hast made thy servants to have power by pontifical or priestly dignity: Grant we beseech thee: that they may also be joined unto their perpetual society.
 
@@ -844,7 +840,7 @@ And it is repeated:
 
 The King, unto whom all things do live, come let us adore.
 
-Psalm 94
+### Psalm 94
 
 Come let us rejoice unto our Lord, let us make joy to God our saviour: let us approach to his presence in confession, and in Psalms let us make joy unto him.
 The king, unto whom all things do live, come let us adore.
@@ -875,7 +871,7 @@ The King, unto whom all things do live, Come let us adore.
 
 Ant: To our Lord.
 
-Psalm 50
+### Psalm 50
 
 Have mercy on me O God: according to thy great mercy.
 
@@ -921,7 +917,7 @@ Eternal rest give unto them, O Lord: and let perpetual light shine unto them.
 
 Ant: To our Lord shall rejoice the humbled bones.
 
-Psalm 64
+### Psalm 64
 
 An hymn O God becometh thee in Sion: and a vow shall be rendered to thee in Jerusalem.
 
@@ -957,7 +953,7 @@ Ant: Hear O Lord my prayer all flesh shall come unto thee.
 
 Ant: The right hand.
 
-Psalm 62
+### Psalm 62
 
 O God my God: to thee I watch from the morning light.
 
@@ -979,7 +975,7 @@ But they in vain have sought my soul, they shall be delivered into the hands of 
 
 But the King shall rejoice in God, all shall be praised, that swear in him: because the mouth is stopped of them that speak wicked things.
 
-Psalm 66
+### Psalm 66
 
 God have mercy upon us, and bless us: illuminate his countenance upon us, and have mercy upon us.
 
@@ -999,8 +995,7 @@ Ant: Thy right hand O Lord hath received me.
 
 Ant: From the gate of hell.
 
-The Song of Ezechias 
-Isaiah 38
+### The Song of Ezechias (Isaiah 38)
 
 I have said in the midst of my days, shall I go to the gates of hell.
 
@@ -1038,7 +1033,7 @@ Ant: From the gate of hell deliver my soul O Lord.
 
 Ant: Let every spirit.
 
-Psalm 148
+### Psalm 148
 
 Praise ye our Lord from the heavens: praise ye him in the high places.
 
@@ -1068,7 +1063,7 @@ The confession of him above heaven and earth: and he hath exalted the horn of hi
 
 An hymn to all his saints, to the sons of Israel: a people approaching unto him.
 
-Psalm 149
+### Psalm 149
 
 Sing ye to our Lord a new song: his praise in the church of saints.
 
@@ -1088,7 +1083,7 @@ To bind their kings in fetters: and their nobles in iron manacles.
 
 That they may do in them the judgment that is written: this glory is to all his saints.
 
-Psalm 150
+### Psalm 150
 
 Praise ye our Lord in his saints: praise him in the firmament of his strength.
 
@@ -1110,9 +1105,7 @@ R: Blessed are the dead that die in Our Lord.
 
 Ant: I am.
 
-Song of Zacharia 
-
-Luke 1
+### Song of Zacharia (Luke 1)
 
 Blessed be our Lord God of Israel: because he hath visited and wrought the redemption of his people.
 
@@ -1150,7 +1143,7 @@ V: And lead us not into temptation.
 
 R: But deliver us from Evil.
 
-Psalm 129
+### Psalm 129
 
 From the depths I have cried to thee O Lord: Lord hear my voice.
 
@@ -1182,7 +1175,7 @@ V: O Lord hear my prayer.
 
 R: And let my cry come unto thee.
 
-Prayer:
+### Prayer
 
 O God, which among the apostolic priests hast made thy servants to have power by pontifical or priestly dignity, Grant, we beseach thee, that they may also be joined unto their perpetual society.
 
