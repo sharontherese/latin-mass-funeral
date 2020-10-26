@@ -26,6 +26,7 @@ The Requiem Mass has a number of distinct elements, so many Catholic presses off
 * Fish Eaters[^3]
 * Biretta Books[^4]
 * _The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English_[^5]
+* a Requiem Mass set (and booklet for the laity!) at the Latin Mass Society of Engald & Wales's shop[^6]
 
  # Missa Defunctorum
  
@@ -744,4 +745,6 @@ R: Amen.
 [^4]: "Missale Defunctorum 1962 with Altar Cards (Boxed Set)." Biretta Books, https://www.birettabooks.com/missale-defunctorum-1962-with-altar-cards-boxed-se.html.
 
 [^5]: Catholic Church. The Office and the Masses for the Dead : With the Order of Burial; from the Roman Breviary, Missal and Ritual : In Latin and English. London Keating and Brown, 1825. https://archive.org/details/TheOfficeAndTheMassesForTheDead.
+
+[^6]: https://lms.org.uk/product/missae-defunctorum-requiem-set
 
