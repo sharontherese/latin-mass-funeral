@@ -20,6 +20,7 @@ Other versions are available here:
 
 * {{% staticref "files/2._Officium_Pro_Defunctis_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
 * The Roman Ritual (Vespers only)[^2]
+* _The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English_[^3]
 
 # Officium Pro Defunctis
 
@@ -1198,3 +1199,5 @@ R: Amen.
 [^1]: "A Hypertext Book of Hours." http://medievalist.net/hourstxt/home.htm.
 
 [^2]: Weller, Philip T. Roman Ritual. The Bruce Publishing Company, 1964. https://sensusfidelium.us/wp-content/uploads/2018/06/Roman-Rite.pdf.
+
+[^3]: The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English
