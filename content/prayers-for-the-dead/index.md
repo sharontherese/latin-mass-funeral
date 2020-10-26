@@ -16,7 +16,7 @@ Prayers for the sick, dying, dead, and the grace of a happy death are almost too
 
 Many of these prayers carry indulgences, under the usual conditions.
 
-There are also purgatorial societies or confraternities whose sole purpose is to pray for the souls in Purgatory. For more information, consider contacting your local churches, diocese, or traditional orders to see if they have preexisting purgatorial soceties. 
+There are also purgatorial societies or confraternities whose sole purpose is to pray for the souls in Purgatory. For more information, consider contacting your local churches, diocese, or traditional orders to see if they have preexisting purgatorial soceties. For more information, see the [burial customs](/burial-customs) page. 
 
 # Blessed Be God
 
