@@ -39,4 +39,6 @@ The resources are organized by age group. Everything connected to funerals for a
 
 Everything else - rubrics, prayers, Last Rites, catechesis, widowhood, and more - is under Planning. 
 
-A sister site to [Latin Mass Wedding](https://www.latinmasswedding.com/) and [Latin Mass Baptism](https://www.latinmassbaptism.com/).
+Learn more about traditional Catholic sacraments:
+
+[Latin Mass Baptism](https://www.latinmassbaptism.com/) | [Latin Mass Wedding](https://www.latinmasswedding.com/) | [Latin Mass Funeral](https://www.latinmassfuneral.com/)
