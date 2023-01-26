@@ -5,6 +5,7 @@
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
 # theme = "black"
 # Enable users to switch between day and night mode?
+[appearance]
 theme_day = "ocean"
 theme_night = "ocean"
 day_night = true
