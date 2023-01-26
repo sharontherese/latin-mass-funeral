@@ -6,8 +6,8 @@
 # theme = "black"
 # Enable users to switch between day and night mode?
 [appearance]
-theme_day = "ocean"
-theme_night = "ocean"
+theme_day = "black"
+theme_night = "black"
 day_night = true
 
 # Font style.
