@@ -3,11 +3,11 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-# theme = "black"
+# theme = "earth"
 # Enable users to switch between day and night mode?
 [appearance]
-theme_day = "ocean"
-theme_night = "ocean"
+theme_day = "earth"
+theme_night = "earth"
 day_night = true
 
 # Font style.
