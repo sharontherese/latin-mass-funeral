@@ -2,7 +2,7 @@
 name = "black"
 
 # Is theme light or dark?
-light = true
+[light]
 
 # Primary (URL color)
 primary = "#0000EE"
