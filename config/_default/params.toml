@@ -3,9 +3,9 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-theme = "earth"
-# Enable users to switch between day and night mode?
-day_night = true
+[appearance]
+theme_day = "earth"
+theme_night = "earth"
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
