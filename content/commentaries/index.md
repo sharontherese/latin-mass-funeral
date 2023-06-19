@@ -11,13 +11,13 @@ _Giovanni del Biondo, "The Funeral of St Benedict."_
 
 # About
 
-Some of the most beautiful, moving Scriptural texts are used for funerals, such as De Profundis and the Miserere. When else do we say these texts maybe. The Asperges Me, said when bringing the body to the church, is also said at the beginning of each mass by the priest. 
+Some of the most beautiful, moving Scriptural texts are used for funerals, such as De Profundis and the Miserere. The Asperges Me, said when bringing the body to the church, is also said at the beginning of each Mass by the priest. 
 
 Below are classic Biblical commentaries on some of the Scriptural parts of rite of funerals.
 
-The commentaries I pull from are Haydock [^1] for the psalms and St. Thomas Aquinas' Catena Aurea [^2] for the Gospel reading.
+The commentaries I pull from are Haydock[^1] for the psalms and St. Thomas Aquinas' Catena Aurea[^2] for the Gospel reading.
 
-For more commentaries, please see Sermonry [^3] and Psallam Domino [^4].
+For more commentaries, please see Sermonry[^3] and Psallam Domino[^4].
 
 # Psalm 129 (De Profundis) 
 
@@ -125,10 +125,10 @@ ORIGEN. Let us not suppose that this refers to our bodily enemies, but our ghost
 
 # Sources
 
-[^1]: Haydock, George L. **Haydock Catholic Bible Commentary**. Edward Dunigan and Brother: New York, 1859, https://www.ecatholic2000.com/haydock/title.shtml.
+[^1]: Haydock, George L. Haydock Catholic Bible Commentary. Edward Dunigan and Brother: New York, 1859, https://www.ecatholic2000.com/haydock/title.shtml.
 
-[^2]: Aquinas, Thomas. **Catena Aurea: Commentary on the Four Gospels**. J.H. Parker, 1841, https://www.ecatholic2000.com/catena/untitled-111.shtml.
+[^2]: Aquinas, Thomas. Catena Aurea: Commentary on the Four Gospels. J.H. Parker, 1841, https://www.ecatholic2000.com/catena/untitled-111.shtml.
 
-[^3]: **Sermonry**, https://sermonry.com/. Accessed 3 June 2019.
+[^3]: Sermonry, https://sermonry.com/. 
 
-[^4]: **“Psallam Domino: Masterpost: Links to Notes by Psalm Number.”** Psallam Domino (blog), January 16, 2018. https://psallamdomino.blogspot.com/2018/01/masterpost-links-to-notes-by-psalm.html.
+[^4]: “Psallam Domino: Masterpost: Links to Notes by Psalm Number.” Psallam Domino (blog), January 16, 2018. https://psallamdomino.blogspot.com/2018/01/masterpost-links-to-notes-by-psalm.html
