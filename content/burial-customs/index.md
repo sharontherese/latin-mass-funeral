@@ -1,6 +1,6 @@
 +++
 text = ""
-title = "Catechesis"
+title = "Burial Customs"
 toggle = false
 aliases = [
 ]
@@ -17,7 +17,7 @@ For more information, consider contacting your local churches, diocese, or tradi
 
 Kreider, Alan. English chantries : the road to dissolution. Cambridge, Mass.: Harvard University Press, 1979. https://archive.org/details/englishchantries0000krei.
 
-The manual of the Bona Mors confraternity: ASsociation for a Happy Death. New York: Apostleship of Prayer, 1896. https://archive.org/details/manualofbonamors00unse/page/n3/mode/2up.
+The manual of the Bona Mors confraternity: Association for a Happy Death. New York: Apostleship of Prayer, 1896. https://archive.org/details/manualofbonamors00unse/page/n3/mode/2up.
 
 Purgatorian Archconfraternity. http://www.archconfraternity.com/. 
 
