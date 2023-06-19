@@ -31,7 +31,7 @@ For infants and children, those rites can include:
 1. The Rite of Burial for Children
 2. The Votive Mass of the Holy Angels
 
-There are many resources on traditional Catholic funerals, partly because - as the list above shows - there are so many events involved. 
+There are many resources on traditional Catholic funerals, partly because - as the list above shows - there are so many ceremonies involved. 
 
 Deep concern for the care of departed souls has resulted in an enormous amount of supplementary material on funerals, such as multiple masses for the anniversaries of the deceased, prayers on the day of death, special propers for the death of clergy, and prayers for the deceased's family. 
 
