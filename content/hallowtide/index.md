@@ -23,25 +23,25 @@ While the Catholic character of these days has been ensnarled and confused with 
 
 Below is a collection of resources on the celebration (both liturgical and domestic) of Hallowtide. 
 
-For more articles, posts, photos, and videos of Hallowtide Masses, customs, vestments, and histories, see the New liturgical Movement and the Liturgical Arts Journal.
+For more articles, posts, photos, and videos of Hallowtide Masses, customs, vestments, and histories, see New Liturgical Movement and the Liturgical Arts Journal.
 
 # Resources
 
 All Hallows Eve: Prayers and Devotions. Ancilla Press, 2019.
 
-"All Souls Day," Fish Eaters, https://www.fisheaters.com/customstimeafterpentecost12ac.html.
+"All Souls Day," Fish Eaters, https://www.fisheaters.com/customstimeafterpentecost12ac.html
 
-"Hallowtide," A Clerk of Oxford. November 2, 2019. https://aclerkofoxford.blogspot.com/2019/11/hallowtide.html. 
+"Hallowtide," A Clerk of Oxford. November 2, 2019. https://aclerkofoxford.blogspot.com/2019/11/hallowtide.html
 
 "A Selection of Saints' Legends," A Clerk of Oxford. November 2, 2014. https://aclerkofoxford.blogspot.com/2014/11/a-selection-of-saints.html.
 
 DiPippo, Gregory. "The Origin of All Saints’ Day." New Liturgical Movement  (November 2 2017). http://www.newliturgicalmovement.org/2017/11/the-origin-of-all-saints-day.html#.X5R1VdBKjIU 
 
-Gueranger, Prosper. "November 1-Sunday after the Octave of All Saints." In The Liturgical Year: The Time after Pentecost, 55-255, 1903. https://archive.org/details/V15TheLiturgicalYear/page/n11/mode/2up.
+Gueranger, Prosper. "November 1-Sunday after the Octave of All Saints." In The Liturgical Year: The Time after Pentecost, 55-255, 1903. https://archive.org/details/V15TheLiturgicalYear/page/n11/mode/2up
 
-———. "October 31: Vigil of All Saints." In The Liturgical Year: The Time after Pentecost, 451-54, 1910. https://archive.org/details/V14TheLiturgicalYear/page/n11/mode/2up.
+———. "October 31: Vigil of All Saints." In The Liturgical Year: The Time after Pentecost, 451-54, 1910. https://archive.org/details/V14TheLiturgicalYear/page/n11/mode/2up
 
-Salvucci, Claudio. "Restoring Halloween to the Domestic Church." Liturgical Arts Journal  (October 29 2018). https://www.liturgicalartsjournal.com/2018/10/restoring-halloween-to-domestic-church.html.
+Salvucci, Claudio. "Restoring Halloween to the Domestic Church." Liturgical Arts Journal  (October 29 2018). https://www.liturgicalartsjournal.com/2018/10/restoring-halloween-to-domestic-church.html
 
 ———. "The Octave of All Saints in the Pre-1955 Roman Liturgical Books." Liturgical Arts Journal  (November 4 2019). https://www.liturgicalartsjournal.com/2019/11/the-octave-of-all-saints-in-pre-1955.html 
 
@@ -49,9 +49,8 @@ Salvucci, Claudio. "Restoring Halloween to the Domestic Church." Liturgical Arts
 
 Tribe, Shawn. "Liturgical Notes for All Souls Day." New Liturgical Movement  (November 2 2010). http://www.newliturgicalmovement.org/2010/11/liturgical-notes-for-all-souls-day.html#.X5R1vNBKjIU 
 
-Weiser, F.X. Handbook of Christian Feasts and Customs: The Year of the Lord in Liturgy and Folklore. Paulist Press, 1963. https://books.google.com/books?id=R0osB9C5DQkC.
-
-* See PDF of Fr. Weiser's chapter on All Souls and All Saints {{% staticref "files/Weiser_Hallowtide.pdf" %}}here{{% /staticref %}}
+Weiser, F.X. Handbook of Christian Feasts and Customs: The Year of the Lord in Liturgy and Folklore. Paulist Press, 1963. 
+> See PDF of Fr. Weiser's chapter on All Souls and All Saints {{% staticref "files/Weiser_Hallowtide.pdf" %}}here{{% /staticref %}}
 
 
 
