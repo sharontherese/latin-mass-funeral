@@ -11,13 +11,11 @@ _Artwork: Fra Angelico, "Last Judgment."_
 
 The Dies Irae is the sequence in the Requiem Mass[^1]. It is considered the greatest of all sequences, and has been the subject of intense and widespread study and meditation, as well as hundreds of translations. 
 
-Perhaps the most famous commentary on the sequence is Fr. Nicholas Gihr's book _Dies Irae_[^2], which is regrettably difficult to find in print or online. I have a photo project based on his book [here](https://sharonkabel.com/dies-irae/).
+Perhaps the most famous commentary on the sequence is Fr. Nicholas Gihr's book _Dies Irae_[^2], which is regrettably difficult to find in print or online. I have a photo project based on his book here.[^3]
 
-Philip Schaff, a 19th century Protestant theological, wrote an extensive essay on the authorship, history, and translations of the sequence.[^3]
+Philip Schaff, a 19th century Protestant theological, wrote an extensive essay on the authorship, history, and translations of the sequence.[^4]
 
-For shorter meditations on the Dies Irae, older editions of Catholic newspapers have much to offer.[^4]
-
-The gregorian setting for the Dies Irae can be found on the [music](/music/) page.
+For shorter meditations on the Dies Irae, older editions of Catholic newspapers have much to offer.[^5]
 
 # Full text of the Dies Irae 
 
@@ -177,23 +175,25 @@ dona eis requiem. Amen.
 
 Translations for the Dies irae represent something of a problem from the perspective of a collator such as myself. As Schaff says, 
 
-> No poem has so often challenged and defied the skill of translators and imitators as the Dies Irae. A collection of the English and Grerman translations alone would fill a respectable volume. The dictionary of rhyme has been nearly exhausted upon it, and every new attempt must of necessity present points of resemblance to former versions. But the very fact that it is untranslatable will ever call forth new attempts. The large number of translations proves that none comes fully up to the original. Its music, majesty and grandeur can be only imperfectly rendered.[^3]
+> No poem has so often challenged and defied the skill of translators and imitators as the Dies Irae. A collection of the English and Grerman translations alone would fill a respectable volume. The dictionary of rhyme has been nearly exhausted upon it, and every new attempt must of necessity present points of resemblance to former versions. But the very fact that it is untranslatable will ever call forth new attempts. The large number of translations proves that none comes fully up to the original. Its music, majesty and grandeur can be only imperfectly rendered.[^4]
 
-In addition to the translations Schaff provides, there are many privately printed translations on Archive.org that suggest vernacular translations of the Dies Irae was something of an educated pastime during the 19th century.[^5] [^6] [^7]
+In addition to the translations Schaff provides, there are many privately printed translations on Archive.org that suggest vernacular translations of the Dies Irae was something of an educated pastime during the 19th century.[^6] [^7] [^8]
 
 # Sources
 
-[^1]: Henry, Hugh. "Dies Irae." In The Catholic Encyclopedia. New York: Robert Appleton Company, 1908. http://www.newadvent.org/cathen/04787a.htm.
+[^1]: Henry, Hugh. "Dies Irae." In The Catholic Encyclopedia. New York: Robert Appleton Company, 1908. http://www.newadvent.org/cathen/04787a.htm
 
 [^2]: Gihr, Nikolaus, and Joseph J. Schmit. Dies Irae : The Sequence of the Mass for the Dead. St. Louis, Mo.; London: B. Herder, 1927.
 
-[^3]: Schaff, Philip. "The Dies Irae." In Literature and Poetry: Studies on the English Language, 134-86: C. Scribner's sons, 1890. https://archive.org/details/literatureandpo00schagoog/page/n19/mode/2up
+[^3]: https://sharonkabel.com/dies-irae/
 
-[^4]: "Catholic New Archive." https://thecatholicnewsarchive.org/.
+[^4]: Schaff, Philip. "The Dies Irae." In Literature and Poetry: Studies on the English Language, 134-86: C. Scribner's sons, 1890. https://archive.org/details/literatureandpo00schagoog/page/n19/mode/2up
 
-[^5]: Coles, Abraham. "Dies Irae in Thirteen Original Versions." [In English].  (2018). https://archive.org/details/thirte00cole/mode/2up.
+[^5]: "Catholic New Archive." https://thecatholicnewsarchive.org/.
 
-[^6]: Johnson, Franklin. The Dies Iræ. An English Version in Double Rhymes, with an Essay and Notes. Privately printed: Cambridge, Mass., 1883. https://archive.org/details/englishv00john.
+[^6]: Coles, Abraham. "Dies Irae in Thirteen Original Versions." [In English].  (2018). https://archive.org/details/thirte00cole/mode/2up.
 
-[^7]: Thomas, and W. W. Nevin. "Dies Irae : Nine Original English Versions." [In English].  (1895). https://archive.org/details/diesiraenineori00thomgoog.
+[^7]: Johnson, Franklin. The Dies Iræ. An English Version in Double Rhymes, with an Essay and Notes. Privately printed: Cambridge, Mass., 1883. https://archive.org/details/englishv00john.
+
+[^8]: Thomas, and W. W. Nevin. "Dies Irae : Nine Original English Versions." [In English].  (1895). https://archive.org/details/diesiraenineori00thomgoog.
 
