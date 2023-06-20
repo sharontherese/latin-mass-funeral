@@ -116,7 +116,10 @@ Lasance, Francis Xavier. With God: A Book of Prayers and Reflections. New York: 
 
 # PDFs 
 
-* See the PDF of prayers from {{% staticref "files/prayers/BlessedBeGod.pdf" %}}Blessed Be God{{% /staticref %}}
-* See the PDF of prayers from {{% staticref "files/prayers/ManualofPrayers.pdf" %}}A Manual of Prayers{{% /staticref %}}
-* See the PDF of prayers from {{% staticref "files/prayers/KeyOfHeaven.pdf" %}}The Key of Heaven{{% /staticref %}}
-* See the PDF of prayers from {{% staticref "files/prayers/WithGod.pdf" %}}With God{{% /staticref %}}
+See the PDF of prayers from {{% staticref "files/prayers/BlessedBeGod.pdf" %}}Blessed Be God{{% /staticref %}}
+
+See the PDF of prayers from {{% staticref "files/prayers/ManualofPrayers.pdf" %}}A Manual of Prayers{{% /staticref %}}
+
+See the PDF of prayers from {{% staticref "files/prayers/KeyOfHeaven.pdf" %}}The Key of Heaven{{% /staticref %}}
+
+See the PDF of prayers from {{% staticref "files/prayers/WithGod.pdf" %}}With God{{% /staticref %}}
