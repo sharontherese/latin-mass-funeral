@@ -11,7 +11,7 @@ _Artwork: Object: Mozart chantant son Requiem (Mozart sings his Requiem). Britis
 
 # About 
 
-The rites and ceremonies surrounding funerals, requiems, and end of life events are some of the most moving texts and settings in all sacred music. This page focuses primarily on the Requiem Mass, although many of the resources below will also cover music for the Rite of Burial and the Office of the Dead. 
+The rites and ceremonies surrounding funerals, requiems, and end of life events have some of the most moving settings in all sacred music. This page focuses primarily on the Requiem Mass, although many of the resources below will also cover music for the Rite of Burial and the Office of the Dead. 
 
 For more information on the requiem sequence, see the page for the [Dies Irae](/dies-irae/).
 
@@ -34,7 +34,3 @@ The Requiem Mass has been set to music so many times that it is a genre unto its
 Klugewicz, Stephen M. . "The Top Ten Greatest Requiem Masses." The Imaginative Conservative  (January 26 2016). https://theimaginativeconservative.org/2016/01/top-ten-greatest-requiem-masses-stephen-klugewicz.html.
 
 "Music for the Requiem Mass." In Wikipedia. https://en.wikipedia.org/wiki/Music_for_the_Requiem_Mass.
-
-# Read/Listen More
-
-"Libera me," A Clerk of Oxford. November 2, 2011. https://aclerkofoxford.blogspot.com/2011/11/libera-me.html
