@@ -16,8 +16,9 @@ The Latin text below is directly from the _Rituale Romanum_[^1], and English tex
 
 Other versions are available here: 
 
-* {{% staticref "files/ExtremeUnction_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
-* Fish Eaters[^3]
+{{% staticref "files/ExtremeUnction_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
+
+Fish Eaters[^3]
 
 # Ordo Ministrandi Sacramentum Extremae Unctionis
 
