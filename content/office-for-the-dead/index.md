@@ -18,9 +18,11 @@ The Latin and English texts below are from a Book of Hours[^1].
 
 Other versions are available here: 
 
-* {{% staticref "files/2._Officium_Pro_Defunctis_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
-* The Roman Ritual (Vespers only)[^2]
-* _The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English_[^3]
+{{% staticref "files/2._Officium_Pro_Defunctis_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
+
+The Roman Ritual (Vespers only)[^2]
+
+_The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English_[^3]
 
 # Officium Pro Defunctis
 
