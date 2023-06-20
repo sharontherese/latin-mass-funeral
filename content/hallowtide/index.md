@@ -49,7 +49,9 @@ Salvucci, Claudio. "Restoring Halloween to the Domestic Church." Liturgical Arts
 
 Tribe, Shawn. "Liturgical Notes for All Souls Day." New Liturgical Movement  (November 2 2010). http://www.newliturgicalmovement.org/2010/11/liturgical-notes-for-all-souls-day.html#.X5R1vNBKjIU 
 
-Weiser, F.X. Handbook of Christian Feasts and Customs: The Year of the Lord in Liturgy and Folklore. Paulist Press, 1963. See PDF of Fr. Weiser's chapter on All Souls and All Saints {{% staticref "files/Weiser_Hallowtide.pdf" %}}here.{{% /staticref %}}
+Weiser, F.X. Handbook of Christian Feasts and Customs: The Year of the Lord in Liturgy and Folklore. Paulist Press, 1963. 
+
+> See PDF of Fr. Weiser's chapter on All Souls and All Saints {{% staticref "files/Weiser_Hallowtide.pdf" %}}here.{{% /staticref %}}
 
 
 
