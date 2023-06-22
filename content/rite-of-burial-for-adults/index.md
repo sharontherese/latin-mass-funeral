@@ -16,9 +16,11 @@ The Latin text below is directly from the _Rituale Romanum_[^1], and English tex
 
 Other versions are available here: 
 
-* {{% staticref "files/1._Exsequarium_Ordo_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
-* {{% staticref "files/Roman Rite for burials.pdf" %}}the excerpt from Weller's _Roman Ritual_{{% /staticref %}}
-* _The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English_[^3]
+{{% staticref "files/1._Exsequarium_Ordo_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
+
+{{% staticref "files/Roman Rite for burials.pdf" %}}The excerpt from Weller's _Roman Ritual_{{% /staticref %}}
+
+_The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English_[^3]
 
 # Exsequarium Ordo
 
