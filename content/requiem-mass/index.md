@@ -12,21 +12,21 @@ _Artwork: Master of the Harvard Hannibal (French, active Paris, France, 1415 - a
 
 The Requiem Mass (_Missa Defunctorum_ or _Missa de Profunctis_) may be preceded by the first part of the [Rite of Burial for Adults](/rite-of-burial-for-adults/) and the [Office for the Dead](/office-for-the-dead/). 
 
-The Requiem Mass is taken from the Mass for [All Souls' Day](/hallowtide). 
+The Requiem Mass is taken from the Mass for All Souls' Day. 
 
 The Roman Missal offers additional Mass prayers for anniversaries of the day of death, and special prayers for clergy and kings. 
-
-There are many beautiful [music settings](/music/) for the Requiem Mass. 
 
 The Latin text below is directly from the _Rituale Romanum_[^1], and English text below is from Philip T. Weller's translation of it, the _Roman Ritual_[^2]. 
 
 The Requiem Mass has a number of distinct elements, so many Catholic presses offer all-in-one Requiem Mass missals, kits, and handouts. A few are available here: 
 
-* {{% staticref "files/3._Missa_Defunctorum_LatinEnglish.pdf" %}}My own version as a PDF{{% /staticref %}}
+{{% staticref "files/3._Missa_Defunctorum_LatinEnglish.pdf" %}}My own version as a PDF is here.{{% /staticref %}}
+
+Also see: 
+
 * Fish Eaters[^3]
-* Biretta Books[^4]
-* _The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English_[^5]
-* a Requiem Mass set (and booklet for the laity!) at the Latin Mass Society of Engald & Wales's shop[^6]
+* _The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English_[^4]
+* a Requiem Mass set (and booklet for the laity!) at the Latin Mass Society of England & Wales's shop[^5]
 
  # Missa Defunctorum
  
@@ -742,9 +742,6 @@ R: Amen.
 
 [^3]: "Burying the Dead: Catholic Funerals." Fish Eaters. https://www.fisheaters.com/funerals.html.
 
-[^4]: "Missale Defunctorum 1962 with Altar Cards (Boxed Set)." Biretta Books, https://www.birettabooks.com/missale-defunctorum-1962-with-altar-cards-boxed-se.html.
+[^4]: Catholic Church. The Office and the Masses for the Dead : With the Order of Burial; from the Roman Breviary, Missal and Ritual : In Latin and English. London Keating and Brown, 1825. https://archive.org/details/TheOfficeAndTheMassesForTheDead.
 
-[^5]: Catholic Church. The Office and the Masses for the Dead : With the Order of Burial; from the Roman Breviary, Missal and Ritual : In Latin and English. London Keating and Brown, 1825. https://archive.org/details/TheOfficeAndTheMassesForTheDead.
-
-[^6]: https://lms.org.uk/product/missae-defunctorum-requiem-set
-
+[^5]: https://lms.org.uk/product/missae-defunctorum-requiem-set
