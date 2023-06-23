@@ -22,6 +22,8 @@ Other versions are available here:
 
 _The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English_[^3]
 
+Our Lady Queen of Peace Parish's Missalette for Requiem Masses[^4]
+
 # Exsequarium Ordo
 
 1\. Constituto tempore, quo corpus ad Ecclesiam deferendum est, convocetur Clerus, et alii, qui funeri interesse debent, et in parochialem, vel in aliam Ecclesiam, juxta loci consuetudinem, ordine conveniant; ac datis certis campanae signis, eo modo et ritu, quo in eo loco fieri solet, Parochus indutus superpelliceo et stola nigra, vel etiam pluviali ejusdem coloris, clerico praeferente crucem, et alio aquam benedictam, ad domum defuncti una cum aliis procedit. Distribuuntur cerei, et accenduntur intorticia. 
@@ -709,3 +711,4 @@ All: Amen.
 
 [^3]: Catholic Church. The Office and the Masses for the Dead : With the Order of Burial; from the Roman Breviary, Missal and Ritual : In Latin and English. London Keating and Brown, 1825. https://archive.org/details/TheOfficeAndTheMassesForTheDead.
 
+[^4]: Our Lady Queen of Peace Parish. Missalette for Requiem Masses and Other Rites Offered between the Time of Death and Burial. https://latinmassvictoria.com/wp-content/uploads/2018/11/Missalette-for-Requiem-Masses-between-Death-and-Burial-R3b.pdf.
