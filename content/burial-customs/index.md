@@ -9,6 +9,12 @@ aliases = [
 
 _Artwork: François-Marius Granet, "Crypt of San Martino ai Monti, Rome."_
 
+# General resources
+
+"Burying the Dead: Catholic Funerals." Fish Eaters. https://www.fisheaters.com/funerals.html.
+
+Menestrier, Claude-François, -. Des Decorations Funebres : Ou Il Est Amplement Traité Des Tentures, Des Lumieres, Des Mausolées, Catafalques, Inscriptions & Autres Ornemens Funebres; Avec Tout Ce Qui S'est Fait De Plus Considerable Depuis Plus D'un Siecle, Pour Les Papes, Empereurs, Rois, Reines, Cardinaux, Princes, Prelats, Sçavans & Personnes Illustres En Naissance, Vertu & Dignité. Edited by Robert-Jean-Baptiste de La Caille and Robert Pepie. À Paris: Chez R.J.B. de la Caille, R. Pepie. 1683.
+
 # Purgatorial Societies 
 
 Purgatorial societies or confraternities exist to offer Masses and pray for the souls in Purgatory. A similar practice is that of a chantry, a fund and/or chapel which a donor reserves for Mass to be said for their soul. 
@@ -21,11 +27,31 @@ The manual of the Bona Mors confraternity: Association for a Happy Death. New Yo
 
 Purgatorian Archconfraternity. http://www.archconfraternity.com/. 
 
+Catholic Church. "The Golden Book of the Confraternities."  (1854). https://archive.org/details/GoldenBookOfTheConfraternities/page/n243/mode/2up.
+
+Queloz, Brixious, and Michael Müller. Purgatorian Consoler : A Manual of Prayers Containing a Selection of Devotional Exercises, Originally Prepared for the Use of the Members of the Purgatorian Arch-Confraternity, Enlarged and Adapted to General Use. Baltimore, MD: J. Murphy, 1868. https://archive.org/details/purgatorianconso00queluoft.
+
+Müller, Michael. Purgatory and the Purgatorian Society. New York, 1891.
+
+Gregory, William L. S. "Remarks on Purgatorian Penny Societies." T. Johnstone  (1815?). https://digital.lib.uiowa.edu/islandora/object/ui%3Atestbollinger5_250.
+
+Muret, Pierre, approximately -approximately . Rites of Funeral, Ancient and Modern, in Use through the Known World. Edited by P. Lorrain and Marcus Minucius Felix. London: Printed for R. Royston, 1683.
+
+Lambing, Andrew Arnold. The Sacramentals of the Holy Catholic Church. New York: Benzinger Bros., 1892. https://archive.org/details/SacramentalsOfTheHolyCatholicChurch/page/n3/mode/2up.
+
+Devine, Arthur. The Sacraments Explained ... : With an Introductory Treatise on Grace. 1899. https://archive.org/details/sacramentsexplai00deviuoft.
+
 # Caskets 
 
 The Trappist Monastery of New Melleray Abbey make hand-crafted caskets and urns for adults. They provide caskets for children at no cost. 
 
 Trappist Caskets: From the Monks of New Melleray Abbey. https://trappistcaskets.com/.
+
+# Chantries 
+
+Ferguson, John. "Chantry and Chantry Priests." Chap. XI In Ecclesia Antiqua, or, the History of an Ancient Church (St. Michael's, Linlithgow), xxiii, 357 p., [14] leaves of plates. Edinburgh: Oliver & Boyd, 1905.
+
+"Photos of Chantries Held at the Getty Museum." http://www.getty.edu/art/collection/search/?view=grid&query=YToyOntzOjU6InF1ZXJ5IjtzOjc6ImNoYW50cnkiO3M6NDoic29ydCI7czo2OiItc2NvcmUiO30%3D.
 
 # Habsburg burials
 
