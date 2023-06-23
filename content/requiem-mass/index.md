@@ -27,7 +27,8 @@ Also see:
 * Fish Eaters[^3]
 * _The office and the masses for the dead : with the order of burial; from the Roman Breviary, Missal and Ritual : in Latin and English_[^4]
 * a Requiem Mass set (and booklet for the laity!) at the Latin Mass Society of England & Wales's shop[^5]
-
+* Our Lady Queen of Peace Parish's Missalette for Requiem Masses[^6]
+  
  # Missa Defunctorum
  
 ## Introit 
@@ -745,3 +746,5 @@ R: Amen.
 [^4]: Catholic Church. The Office and the Masses for the Dead : With the Order of Burial; from the Roman Breviary, Missal and Ritual : In Latin and English. London Keating and Brown, 1825. https://archive.org/details/TheOfficeAndTheMassesForTheDead.
 
 [^5]: https://lms.org.uk/product/missae-defunctorum-requiem-set
+
+[^6]: Our Lady Queen of Peace Parish. Missalette for Requiem Masses and Other Rites Offered between the Time of Death and Burial. https://latinmassvictoria.com/wp-content/uploads/2018/11/Missalette-for-Requiem-Masses-between-Death-and-Burial-R3b.pdf.
