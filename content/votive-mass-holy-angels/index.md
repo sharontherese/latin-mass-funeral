@@ -10,13 +10,15 @@ _Gozzoli, Benozzo. "Angels Worshipping (Left Side of the Chancel)." 1459-60._
 
 # About
 
-It has been a common practice to say the votive Mass of the Holy Angels for the loss of a child. The Mass is available in a variety of formats online:
+It has been a common practice to say the votive Mass of the Holy Angels for the loss of a child. The Latin text below is from the _Missale Romanum_.[^1]
 
-* {{% staticref "files/Mass_of_the_Holy_Angels_LatinEnglish.pdf" %}}My own version as a PDF here{{% /staticref %}}
-* Usus Antiquior[^2]
-* Vultus Christi[^3]
+The Mass is available in a variety of formats elsewhere online:
 
-The Latin text below is from the _Missale Romanum_.[^1]
+{{% staticref "files/Mass_of_the_Holy_Angels_LatinEnglish.pdf" %}}My own version as a PDF here{{% /staticref %}}
+
+Usus Antiquior[^2]
+
+Vultus Christi[^3]
 
 # Missa de Angelis 
 
